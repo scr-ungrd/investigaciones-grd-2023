@@ -1,9 +1,8 @@
 project:
-  type: website
-  output-dir: docs  
+  type: book
 
 book:
-  title: "Investigaciones en Gestión del Riesgo"
+  title: "Investigaciones en Gestión del Riesgo del 2023"
   sidebar:
     logo: media/Logo-UNGRD-Horizontal-removebg-preview.png
   chapters:
