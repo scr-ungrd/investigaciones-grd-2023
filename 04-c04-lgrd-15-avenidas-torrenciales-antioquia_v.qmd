@@ -11,7 +11,7 @@ title-block-banner: "images/banner_2023.png"
 
 *Autor de contacto: Federico Gómez. Departamento de Geociencias y Medio Ambiente. Universidad Nacional de Colombia. Medellín, Antioquia. Correo-e: fejgomezca@unal.edu.co
 
-**Resumen**
+## Resumen {.unnumbered}
 
 Las avenidas torrenciales son eventos altamente destructivos y frecuentes en ambientes tropicales y terrenos montañosos como Colombia, donde es común la presencia de asentamientos humanos ubicados sobre abanicos torrenciales.  Esta combinación de factores crea un escenario crítico, donde las avenidas torrenciales son amenazas naturales que deben entenderse adecuadamente e incorporarse en los planes de ordenamiento territorial. El presente estudio propone una metodología para la priorización de cuencas con susceptibilidad y amenaza ante avenidas torrenciales, con un enfoque regional que permite comprender y caracterizar dichos eventos. La susceptibilidad de más de 3,000 cuencas del departamento de Antioquia es caracterizada a través de factores como morfometría, análisis de estabilidad de laderas y probabilidades de ocurrencia de la precipitación como factor detonante. Los resultados muestran que cerca de la mitad de las cuencas son de carácter torrencial, y que el 11% de ellas se encuentra en la categoría más alta de amenaza. Estas cuencas críticas deben priorizarse para realizar estudios a mayor detalle, que permitan definir con precisión las potenciales áreas de afectación y el nivel de riesgo asociado para los elementos expuestos.
 
@@ -19,11 +19,11 @@ Las avenidas torrenciales son eventos altamente destructivos y frecuentes en amb
 
 **Hazard Assessment from debris flow in the department of Antioquia at the basin scale**
 
-**Abstract**
+## Abstract {.unnumbered}
 
 Debris-flow processes are deadly and highly destructive events, frequent in tropical environments and mountainous terrains like Colombia, where is common the location of human settlements along torrential fan areas. These conditions set up a critical scenario where debris flow represents hazards that must be understood and considered for land use planning. The present study proposes a methodology for prioritizing watersheds with a critical debris flow susceptibility and hazard, with a regional approach that allows for better understanding and characterizing such events. The susceptibility level of more than 3,000 watersheds in the Antioquia region is characterized using factors like morphometry, slope stability analysis, and precipitation probability as triggering factors. The results show that about half of the watersheds are torrential in nature, of which 11% are in the highest hazard category. These critical watersheds must be prioritized to carry out studies in greater detail to define potential areas of affectation and the level of risk associated with the exposed elements. 
 
-**Keywords:** Natural hazards, debris flows, susceptibility, hazard, land use.
+**Keywords**: Natural hazards, debris flows, susceptibility, hazard, land use.
 
 ## INTRODUCCIÓN
 

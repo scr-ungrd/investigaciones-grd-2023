@@ -10,19 +10,19 @@ title-block-banner: "images/banner_2023.png"
 
 *Autor de contacto: Sandra Eliana Alzate Vargas, Facultad de Derecho y Ciencias Políticas, Grupo Estudios de Derecho y Política. Universidad de Antioquia, calle 70 No. 52 – 21, Medellín, Colombia. Correo-e: ,  
 
-**Resumen**
+## Resumen {.unnumbered}
 
 La gestión del riesgo de desastres es un proceso social que además de los aspectos técnicos, debe incorporar factores sociales, económicos y culturales como la pobreza y la marginalidad social. Estos factores inciden en la configuración de la vulnerabilidad y por ende del riesgo, agravando las consecuencias devastadoras de los desastres. Para dar respuesta a las reales necesidades de las poblaciones expuestas y afectadas, la gestión del riesgo debe entender sus características culturales, sociales y económicas, de modo que las intervenciones propuestas mitiguen o prevengan el riesgo. Considerando que los campesinos son una de las poblaciones con mayor grado de vulnerabilidad debido a sus precarias condiciones de vida y marginalidad, en este capítulo se aborda primero, la gestión del riesgo de desastres como un proceso técnico, científico, social y se establece un punto de intersección con el derecho a la vida digna de los campesinos. Segundo, se describen los conceptos de enfoque diferencial y del concepto *campesino*. La metodología implementada es cualitativa con enfoque hermenéutico, en el capítulo se presentan los resultados del primer momento de la metodología referido al análisis textual donde la pregunta de investigación, como proyecto de sentido, permite conversar con los textos-literatura especializada. El método permitió identificar el alto grado de vulnerabilidad de los campesinos. Finalmente, se concluye que es necesario incorporar en la gestión del riesgo de desastres, una mirada diferenciadora de los campesinos, lo que posibilitará unas mejores condiciones de existencia y bienestar y, por consiguiente, la concreción en la práctica de su derecho a la vida digna. Finalmente, se recomienda iniciar con la recolección de información específica para esta población.
 
 **Palabras clave:** gestión del riesgo de desastres, desastres socio-naturales, campesinos, enfoque diferencial, vida digna.
 
-**Abstract**
+## Abstract {.unnumbered}
 
 **Disaster risk management in Colombia: a necessary differential view for the dignified life of farmers**
 
 Disaster risk management is a social process that, in addition to the technical aspects of the threat, incorporates socio-economic and cultural factors such as poverty and social marginality. These factors influence the configuration of vulnerability and risk, aggravating the devastating consequences of disasters. To respond to the real needs of the populations exposed and affected, risk management must understand their own cultural, social, and economic characteristics, so that the proposed interventions mitigate or prevent the risk. Considering that one of the populations that presents a greater degree of exposure and vulnerability are the farmers, due to their precarious living conditions and the marginality in which they find themselves; this chapter first deals with an analysis of the management of the disaster risk and it is described as besides being a technical-scientific process, it is also a social process and, to that extent, a point of intersection is established with the right to a dignified life of farmers. In a second moment, it described the farmers' concept and its necessary recognition as a differentiated subject in disaster risk management. The methodology implemented is qualitative with a hermeneutical approach. The chapter shows the results of the first moment of the methodology, which is indicated to textual analysis, where the research question, as a project of meaning, allows conversation with the texts -specialized literature. The method allowed them to identify the farmers' high degree of exposure and vulnerability. It is concluded that it is necessary to incorporate in disaster risk management a differentiating view of farmers as a group of special protection by law, which will enable better conditions of existence and well-being and realize their right to a dignified life. Finally, it is recommended to start by recollecting specific information about this population.
 
-**Keywords:** Disaster risk management, socio-natural disasters, farmers, differential approach, dignified life
+**Keywords**: Disaster risk management, socio-natural disasters, farmers, differential approach, dignified life
 
 ## INTRODUCCIÓN
 

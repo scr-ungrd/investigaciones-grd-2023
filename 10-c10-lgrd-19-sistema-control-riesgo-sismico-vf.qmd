@@ -14,7 +14,7 @@ title-block-banner: "images/banner_2023.png"
 
 *Autor de contacto: Carlos Mario Piscal Arevalo, Universidad de La Salle, Programa de Ingeniería Civil, Bogotá, Colombia. Correo-e:cpiscal@unisalle.edu.co
 
-**Resumen**
+## Resumen {.unnumbered}
 
 Colombia es un país con una amenaza sísmica importante, por lo cual su infraestructura está expuesta a eventos que, dependiendo tanto de la fragilidad estructural como de la intensidad de estos, pueden generar daños, colapsos y la interrupción del normal funcionamiento de las comunidades, lo cual implica graves impactos sociales y económicos. Con la finalidad de mitigar el riesgo por sismo, alcanzar infraestructura resiliente y aportar en el desarrollo económico y humano, en el país se están incorporando nuevas tecnologías en la infraestructura como lo son los sistemas de control de respuesta estructural. Sin embargo, su implementación actual sigue requisitos dispuestos en estándares internacionales que pueden generar inconsistencias técnicas o sobrecostos. Es por lo anterior que en este trabajo se muestra la necesidad urgente de una normativa local que rija el análisis, diseño y construcción de estos sistemas de control, además se presenta un breve avance de la misma.
 
@@ -24,7 +24,7 @@ Aislamiento sísmico, disipación de energía, mitigación del riesgo sísmico, 
 
 **Structural response control systems for seismic risk mitigation in Colombian infrastructure. Immediate need for regulations for the country**
 
-**Abstract**
+## Abstract {.unnumbered}
 
 Colombia has an important seismic hazard; therefore, its infrastructure is exposed to events that, depending on both the structural fragility and the intensity of the events, might generate damages and collapses and a disruption of the normal functioning of the community, which entails severe social and economic impacts. New technologies have been incorporated into the country, such as the structural response control systems to mitigate risk for earthquakes, achieve resilient infrastructure, and contribute to economic and human development. However, its current implementation follows requirements contained in international standards that could generate technical inconsistencies or cost overruns. Due to the limitations mentioned above, this work shows the urgent need for a local regulation that governs those systems' analysis, design, and construction. Also, a quick advance of the first Colombian code in the subject is presented herein.
 

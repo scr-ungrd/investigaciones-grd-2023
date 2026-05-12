@@ -7,7 +7,7 @@ title-block-banner: "images/banner_2023.png"
 
 1Instituto de investigación de recursos biológicos Alexander von Humboldt. Programa de Gestión Territorial de la Biodiversidad- Línea de Ordenamiento Ambiental y Planificación Territorial. Calle 28a #15-09, Bogotá, Colombia.  Correo-e: dcardona@humboldt.org.co
 
-**Resumen**
+## Resumen {.unnumbered}
 
 Los riesgos de desastre y en especial aquellos exacerbados por el cambio climático aumentan cada día y con ello la insostenibilidad del territorio. Estos impactos negativos han deteriorado la biodiversidad y sus servicios ecosistémicos (BDSE); por otro lado, los ecosistemas saludables se vislumbran como una oportunidad para evitar, reducir y corregir escenarios de riesgo promoviendo el bienestar de la población y el desarrollo sostenible del territorio.  No obstante, son aún incipientes, y escasos los análisis de la relación entre biodiversidad-servicios ecosistémicos, gestión del riesgo de desastres, y cambio climático, por lo que resulta pertinente identificar puntos de articulación que propendan por potencializar los esfuerzos que se hacen para gestionar la biodiversidad, el riesgo de desastres, y el cambio climático. Este capítulo resalta la pertinencia de la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres, destacando los escenarios exacerbados por el cambio climático. Para ello se proponen dos rutas desde la gestión integral de la BDSE: i) ver la BDSE como conjunto vulnerable objeto de afectarse por el desastre, y ii) la BDSE como conjunto atenuador de riesgos de desastres e impactos que desde el enfoque de soluciones basadas en la naturaleza (SbN) se consoliden como acciones estratégicas para  fortalecer  los procesos sociales de planeación, ejecución, y monitoreo de acciones para conocer y reducir el riesgo y manejar situaciones de desastre, teniendo en cuenta además el contexto de cambio climático. 
 
@@ -15,11 +15,11 @@ Los riesgos de desastre y en especial aquellos exacerbados por el cambio climát
 
 **Integrative management of biodiversity and its ecosystem services for risk management and climate change**
 
-**Abstract**
+## Abstract {.unnumbered}
 
 Disaster risks, especially those exacerbated by climate change, increase daily, worsening the territory's unsustainability. These negative impacts have deteriorated biodiversity and its ecosystem services (BDES); on the other hand, healthy ecosystems are seen as an opportunity to avoid, reduce and correct risk scenarios promoting the human population's well-being and the territory's sustainable development. However, analysis of the relationship between biodiversity-ecosystem services, disaster risk management, and climate change is still incipient. Therefore, it is pertinent to identify the articulation points between these and how they can best assist the efforts made to manage biodiversity, disaster risk, and climate change. In this sense, this chapter highlights integrated BDES's relevance for risk management and the exacerbating effects of climate change. Further, two pathways are proposed from the BDES integral management point of view: i) Bring to the forefront the vulnerability of BDES to get affected by disaster, and ii) approach BDES as a mitigating strategy to disaster risks and related impacts. This is to consolidate it as a nature-based solution strategy that simultaneously seeks to strengthen the social processes of planning, execution, and monitoring of actions designed to understand and reduce the risk and manage disaster situations, while considering the context of climate change.
 
-**Keywords:** Biodiversity, ecosystem services, disaster risk, climate changed, nature-based solutions
+**Keywords**: Biodiversity, ecosystem services, disaster risk, climate changed, nature-based solutions
 
 ## EL PAPEL TRIPLE PROPÓSITO DE LAS SOLUCIONES BASADAS EN LA NATURALEZA
 

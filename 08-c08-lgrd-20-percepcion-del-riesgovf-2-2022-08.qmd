@@ -12,7 +12,7 @@ title-block-banner: "images/banner_2023.png"
 
 *Autor de contacto: Luz Adriana Muñoz-Duque. Correo-e: luza.munoz@udea.edu.co
 
-**Resumen**
+## Resumen {.unnumbered}
 
 La evaluación que las personas hacen de un riesgo obedece a la confluencia de diversos elementos conducentes a la construcción de juicios sobre la peligrosidad de una actividad, situación u objeto. Las percepciones del riesgo pueden impactar las decisiones de las personas, así como su preparación para hacer frente a las amenazas. El fenómeno de la percepción del riesgo comporta múltiples dimensiones y elementos constitutivos que han sido explorados por diversos autores, los cuales continuarán como objeto de estudio y discusión. En este capítulo nos proponemos recoger algunas reflexiones derivadas de experiencias investigativas acerca de la percepción del riesgo de desastres en Colombia. Realizamos una reflexión que incorpora consideraciones de algunos estudios sobre el tema, en los que hemos participado en los últimos años, a propósito de los riesgos colectivos de inundación, deslizamiento, sequía e inundación costera. Sostenemos que existe la necesidad de considerar los aspectos que pueden tener influjo en la percepción del riesgo, condicionando sus dinámicas: unos asociados a las características de las situaciones riesgosas en sí mismas, y otros, psicosociales, propios de las personas y de su interacción entre ellas y con el ambiente. Concluimos que la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos. Recomendamos, para ampliar la comprensión de la respuesta social a los riesgos de desastre, considerar la necesaria integración de los niveles cultural, espacial y psicosocial que intervienen en su construcción.
 
@@ -20,11 +20,11 @@ La evaluación que las personas hacen de un riesgo obedece a la confluencia de d
 
 **Cultural, spatial and psychosocial imbrication in disaster risk perception. Reflections on case studies in Colombia**
 
-**Abstract**
+## Abstract {.unnumbered}
 
 In people's risk evaluation various elements converge, which leads to establishing judgments about the dangerousness of activities, situations, or objects. Risk perceptions can impact people's decisions and their preparedness to deal with threats. The risk perception phenomenon involves multiple dimensions and constitutive elements by various authors, which must continue being a subject of study and discussion. In this chapter, we intend to collect some reflections derived from research experiences about disaster risk perception in Colombia. We did a reflection that incorporates considerations of some studies on the subject, in which we have participated in recent years, regarding the collective risks of flooding, landslides, drought, and coastal flooding. We maintain that there is a need to consider the aspects that influence the risk perception, conditioning its dynamics: some associated with characteristics of the risky situations themselves, and others, psychosocial, specific to people and their interaction with each other and the environment. We conclude that the risk perception differs according to the type of risk involved; this issue is imbricated with sociocultural elements, with the people's affective bond with their places, and with the trust in the competent institutions regarding the management of these risks. We suggest improving the understanding of the disaster risks social response, considering the required integration of the cultural, spatial, and psychosocial levels, which comprise its construction.
 
-**Keywords:** Risk perception, risk features, psychosocial aspects, place attachment, trust management
+**Keywords**: Risk perception, risk features, psychosocial aspects, place attachment, trust management
 
 ## INTRODUCCIÓN
 

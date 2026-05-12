@@ -15,7 +15,7 @@ Doctora en Geotecnia, Profesora Asociada, Universidad Nacional de Colombia Sede 
 
 *Autor para correspondencia: Yamile Valencia- González, yvalenc0@unal.edu.co, Cra. 80 #65-223, Bloque M1. + (57) 60425 51 87.
 
-**Resumen**
+## Resumen {.unnumbered}
 
 Los suelos de la región del trópico, al experimentar una variabilidad climática marcada, se exponen a periodos fuertes de sequía que los tornan altamente susceptibles a la ocurrencia de incendios forestales. Sumado a ello, las intervenciones antrópicas, ya sea por renovación de cultivos, quemas controladas, o incendios accidentales, los afecta fuertemente. Colombia no es ajena a dicha problemática, y una amplia porción del territorio presenta un grado importante de susceptibilidad a incendios forestales. Las variaciones extremas de temperatura ocasionan cambios en algunas de las propiedades geotécnicas, pero la gran mayoría de las investigaciones no centran sus esfuerzos en el estudio del efecto de dichos cambios en el comportamiento hidromecánico, y mucho menos en la aplicación de tratamientos regenerativos para la recuperación de estos suelos de una forma ambientalmente amigable. Es por ello que, en el actual capítulo, se propone una metodología que permita analizar y determinar en laboratorio, mediante la adición de un medio B4 a las bacterias nativas, el efecto de dicho tratamiento sobre las propiedades geotécnicas de un suelo compactado, sometido a la máxima temperatura que puede registrar un suelo en un incendio. La mejoría en propiedades tales como la agregación, deformabilidad y estabilidad del suelo quemado se originaron como producto del efecto químico de la adición del medio y de la aparición de pequeños filamentos precipitados; contribuyendo así, a dar los primeros pasos hacia una posible técnica de remediación de zonas afectadas por quemas.
 
@@ -23,11 +23,11 @@ Los suelos de la región del trópico, al experimentar una variabilidad climáti
 
 **Biomineralization as an instrument for the recovery of properties of a compacted residual soil subjected to burning**
 
-**Abstract**
+## Abstract {.unnumbered}
 
 By experiencing significant climatic variability, tropical soils are exposed to severe drought periods, making them highly susceptible to the occurrence of forest fires. Besides, anthropic interventions, whether for crop renovation, controlled burnings, or accidental fires strongly affect them. Colombia is not exempt from this problem; most of the territory is vulnerable to forest fires. Extreme temperature variations produce changes in some of the geotechnical properties. However, most researchers do not focus on studying the effect of these hydromechanics behavior changes, and much less on applying regenerative treatments to recover these soils in an environmentally friendly way.  It is for this reason that this work proposes a methodology that allows to analyze and determine in the laboratory, by adding a B4 medium to the native bacteria, the effect of the treatment over the geotechnical properties of a compacted soil subjected to temperatures that simulate the conditions of a fire. The improvement in properties like aggregation, deformability, and stability of the burned soils was due to the chemical effect of the medium addition and the formation of small precipitate filaments, thus contributing to propose a first remediation technique for areas affected by burns.
 
-**Keywords:** Biotechnology, degraded soils, soil recovery
+**Keywords**: Biotechnology, degraded soils, soil recovery
 
 ## INTRODUCCIÓN
 

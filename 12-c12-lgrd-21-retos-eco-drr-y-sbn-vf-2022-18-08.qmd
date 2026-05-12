@@ -21,7 +21,7 @@ title-block-banner: "images/banner_2023.png"
 
 *Autor de correspondencia: Carolina García Londoño, Sociedad Colombiana de Geología, Correo-e:  
 
-**Resumen**
+## Resumen {.unnumbered}
 
 Dentro de las soluciones basadas en la naturaleza (SbN) se incluyen las acciones con enfoque de reducción del riesgo basado en ecosistemas Eco-DRR. Dichas acciones con enfoque Eco-DRR buscan reducir los riesgos de desastres mediante la gestión de los ecosistemas y el aprovechamiento de sus servicios ecosistémicos, con el objetivo de lograr un desarrollo sostenible y resiliente que aborde los retos sociales existentes. Sin embargo, la implementación en la planificación del territorio de las SbN a nivel general, y en particular de las acciones con enfoque Eco-DRR, conlleva múltiples retos normativos, de gestión, organizacionales y culturales que deben superarse. Aquí analizamos algunos de estos retos, planteamos recomendaciones para abordarlos y ejemplos para superarlos. Estos retos incluyen desde la mejora del conocimiento, la necesidad de indicadores, la toma de decisiones, la articulación de la normativa, hasta generar procesos de gobernanza inclusivos. Se espera que estos retos se resuelvan por equipos multidisciplinares para fomentar la implementación de acciones Eco-DRR y SbN en el ordenamiento territorial de Colombia.
 
