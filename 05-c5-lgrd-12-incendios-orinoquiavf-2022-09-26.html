@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Daniela Torinjano Jiménez">
+<meta name="author" content="Adriana Osorio Mosquera1&amp; Alejandro Marulanda Tobón">
+
+<title>Capítulo 05: Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-9207511d10d191e52ca9d0753e5a29ed.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background-image: url(images/banner_2023.png);
+background-size: cover;
+      }
+</style>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Capítulo 05: Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Authors</div>
+      <div class="quarto-title-meta-contents">
+               <p>Daniela Torinjano Jiménez </p>
+               <p>Adriana Osorio Mosquera1&amp; Alejandro Marulanda Tobón </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="99">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción"><strong>INTRODUCCIÓN</strong></a></li>
+  <li><a href="#detección-de-áreas-quemadas-en-la-orinoquia-colombiana" id="toc-detección-de-áreas-quemadas-en-la-orinoquia-colombiana" class="nav-link" data-scroll-target="#detección-de-áreas-quemadas-en-la-orinoquia-colombiana"><strong>DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA</strong></a>
+  <ul>
+  <li><a href="#focos-de-calor-y-área-quemada-detectados-a-través-de-modis" id="toc-focos-de-calor-y-área-quemada-detectados-a-través-de-modis" class="nav-link" data-scroll-target="#focos-de-calor-y-área-quemada-detectados-a-través-de-modis">Focos de calor y área quemada detectados a través de MODIS</a></li>
+  <li><a href="#índice-normalizado-de-área-quemada-nbr-a-través-de-imágenes-sentinel-2" id="toc-índice-normalizado-de-área-quemada-nbr-a-través-de-imágenes-sentinel-2" class="nav-link" data-scroll-target="#índice-normalizado-de-área-quemada-nbr-a-través-de-imágenes-sentinel-2">Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel 2</a></li>
+  </ul></li>
+  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones"><strong>3. CONCLUSIONES</strong></a></li>
+  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos"><strong>4. MATERIALES Y MÉTODOS</strong></a>
+  <ul>
+  <li><a href="#a-continuación-se-describe-la-metodología-para-la-identificación-de-áreas-quemadas-iniciando-por-la-obtención-de-datos-a-través-de-modis-y-sentinel-2." id="toc-a-continuación-se-describe-la-metodología-para-la-identificación-de-áreas-quemadas-iniciando-por-la-obtención-de-datos-a-través-de-modis-y-sentinel-2." class="nav-link" data-scroll-target="#a-continuación-se-describe-la-metodología-para-la-identificación-de-áreas-quemadas-iniciando-por-la-obtención-de-datos-a-través-de-modis-y-sentinel-2.">A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel 2.</a></li>
+  <li><a href="#descarga-focos-de-calor-o-anomalías-térmicas-del-sensor-modis-hotspots" id="toc-descarga-focos-de-calor-o-anomalías-térmicas-del-sensor-modis-hotspots" class="nav-link" data-scroll-target="#descarga-focos-de-calor-o-anomalías-térmicas-del-sensor-modis-hotspots">Descarga focos de calor o anomalías térmicas del sensor MODIS (hotspots)</a></li>
+  <li><a href="#descarga-del-área-quemada-por-el-sensor-modis" id="toc-descarga-del-área-quemada-por-el-sensor-modis" class="nav-link" data-scroll-target="#descarga-del-área-quemada-por-el-sensor-modis">Descarga del área quemada por el sensor MODIS</a></li>
+  <li><a href="#análisis-de-incendios-a-partir-de-imágenes-de-sentinel-2" id="toc-análisis-de-incendios-a-partir-de-imágenes-de-sentinel-2" class="nav-link" data-scroll-target="#análisis-de-incendios-a-partir-de-imágenes-de-sentinel-2">Análisis de incendios a partir de imágenes de Sentinel 2</a></li>
+  <li><a href="#cálculo-del-índice-normalizado-de-área-quemada-nbr-a-partir-de-sentinel-2" id="toc-cálculo-del-índice-normalizado-de-área-quemada-nbr-a-partir-de-sentinel-2" class="nav-link" data-scroll-target="#cálculo-del-índice-normalizado-de-área-quemada-nbr-a-partir-de-sentinel-2">Cálculo del índice normalizado de área quemada (NBR) a partir de Sentinel 2</a></li>
+  </ul></li>
+  <li><a href="#conflicto-de-intereses" id="toc-conflicto-de-intereses" class="nav-link" data-scroll-target="#conflicto-de-intereses">CONFLICTO DE INTERESES</a></li>
+  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">AGRADECIMIENTOS</a></li>
+  <li><a href="#identificación-de-autores" id="toc-identificación-de-autores" class="nav-link" data-scroll-target="#identificación-de-autores">IDENTIFICACIÓN DE AUTORES</a></li>
+  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía"><strong>BIBLIOGRAFÍA</strong></a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p>1Facultad de Ingeniería, Tecnológico de Antioquia – Institución Universitaria TdeA. Calle 78b, No.&nbsp;72A-220, Medellín, Colombia</p>
+<p>2Escuela de Ciencias, Departamento de Ciencias Físicas, Universidad EAFIT. Carrera 49 N° 7 Sur-50, Medellín, Colombia</p>
+<p>*Autor de contacto: Adriana Osorio Mosquera. Facultad de Ingeniería, Tecnológico de Antioquia – Institución Universitaria TdeA. Calle 78b, No.&nbsp;72A-220, Medellín, Colombia. Correo-e: aiosorio@tdea.edu.co</p>
+<p><strong>Resumen</strong></p>
+<p>La información sobre la cobertura del suelo que se logra a partir del uso de instrumentos acoplados a plataformas satelitales, ha permitido detectar y analizar con agilidad los recursos ambientales disponibles en una región, especialmente cuando han sufrido transformaciones por actividades antrópicas o naturales. En la misma línea, la alteración de la cobertura vegetal es más notoria cuando han ocurrido incendios, que en Colombia tradicionalmente se presentan en la región de la Orinoquia. Acudiendo a la necesidad de desarrollar metodologías y herramientas para detectar y monitorear incendios, en el presente capítulo se propone el uso de productos derivados de teledetección óptica (MODIS y Sentinel-2), para estimar la superficie quemada en la Orinoquia en dos periodos de tiempo: el primero entre diciembre de 2019 y junio de 2020, y el segundo entre diciembre de 2020 y junio de 2021. Los lapsos temporales seleccionados para el análisis, coinciden con las épocas secas de la región y en las cuales se suelen generar los mayores eventos de incendios forestales. Con el desarrollo, se constató que las estimaciones de área quemada variaron entre las diferentes metodologías, obteniendo para el año 2020 valores que oscilan entre 2,054,174 ha y 2,461,980 ha; para el año 2021, el área quemada fluctuó entre 815,485 ha y 847,756 ha, por lo que los datos muestran un valor superior en el área quemada en el año 2020 respecto al 2021. Las zonas con mayor afectación se presentaron en los departamentos de Vichada y Meta, así como las zonas fronterizas entre Venezuela y Colombia. Los análisis expuestos proporcionan entonces un comparativo entre dos plataformas satelitales, lo cual constituye una aproximación metodológica para la detección de incendios, acciones que pueden usarse no solo en la zona de la Orinoquia, sino también en otras regiones del territorio colombiano. El alcance del trabajo permite además recomendar sobre la necesidad de profundizar en las técnicas de análisis de incendios, especialmente en la validación de la precisión de los datos a fin de generar una aproximación a los valores reales.</p>
+<p><strong>Palabras clave:</strong> Teledetección, sistemas de información geográfica, incendios forestales, áreas quemadas</p>
+<p><strong>Comparison of wildfires in Colombia through remote sensing: a case study in the Orinoquía region</strong></p>
+<p><strong>Abstract</strong></p>
+<p>Information about land cover obtained with instruments coupled to satellite platforms has allowed quickly detect and analyze the environmental resources available in a region, especially when they have suffered transformations due to anthropic or natural activities. In the same way, the transformation of vegetation cover is more noticeable when fires have occurred, which in Colombia traditionally occur in the Orinoquía region. Addressing the need to develop methodologies and tools to fire events detection and monitoring, this chapter proposes the use of products derived from optical remote sensing (MODIS and Sentinel-2) to estimate burnt area in the Orinoquía in two periods: the first between December 2019 to June 2020, and the second between December 2020 to June 2021. The periods selected for the analysis coincide with the region’s dry season and in which the largest wildfire events usually occur. It was found that the estimates of burned area varied between the different methodologies, obtaining for the year 2020 values ​​that ranged between 2,054,174 ha and 2,461,908 ha; for the year 2021, the area burned fluctuated between 815,485 ha and 998,726 ha, so the data shows a higher value of area burned in 2020 compared to 2021. The areas with the greatest impact are Vichada and Meta, as well as the border areas between Venezuela and Colombia. The analysis concludes with a comparison between two satellite platforms techniques, which constitute a methodological approach for fire detection, actions that can be used not only in the Orinoquía area but also in other regions of the Colombian territory. The work also makes it possible to recommend the need to deepen fire analysis techniques, especially in validating the accuracy of the data to generate an approximation to the real values.</p>
+<p><strong>Keywords:</strong> Remote sensing, geographic information system, wildfires, burnt area</p>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción"><strong>INTRODUCCIÓN</strong></h2>
+<p>Más del 90% de los incendios forestales que ocurren en el mundo son causados de forma directa o indirecta por intervención humana . Estos eventos generan una alteración de la biodiversidad al ciclo de nutrientes, un impacto directo al suelo, e incluso puede ocasionar procesos erosivos hasta la desertificación dada la reducción del número de ejemplares arbóreos disponibles . Adicionalmente, las emisiones de partículas por quema de biomasa vegetal, se convierten en una fuente importante de aerosoles atmosféricos y gases de efecto invernadero, contribuyendo a las alteraciones climáticas actuales, afectando las tasas fotosintéticas de los ecosistemas y modificando las propiedades de coberturas nubosas .</p>
+<p>En Colombia, los incendios forestales se asocian estrechamente a factores socioeconómicos como la expansión de la frontera agrícola y pecuaria , aunque existen otras causas antrópicas indirectas (la cacería de animales, encendido de fogatas y la quema de pólvora) y causas accidentales (la interacción abrupta o creciente de árboles con líneas para la conducción de energía, o atentados terroristas) .</p>
+<p>Como resultado, se han modificado ecosistemas completos, pues grandes extensiones forestales del país se han transformado en zonas con múltiples usos productivos, acciones que se dan a lugar desde siglos atrás con la introducción de la ganadería y la expansión de las tierras de pastoreo, la urbanización y la colonización de las tierras bajas. Por ejemplo, se registra una pérdida de cobertura vegetal , a causa de incendios de más de un millón de hectáreas entre 1999 y 2019, más de cuatro veces el área registrada en el período comprendido entre 1973 y 1998. Entre las causas recientes y que explican el aumento, se encuentra la creación de carreteras, los nuevos asentamientos humanos, las actividades ilícitas y su impacto, principalmente asociadas con cultivos ilícitos, minería y la extracción de madera de forma no regulada .</p>
+<p>La transformación de los bosques de Colombia a causa de incendios ha afectado gran parte de los bosques húmedos tropicales de la costa Pacífica, la Amazonía y el Magdalena Medio. También se observan eventos en las zonas de mayor productividad agrícola, como lo son los valles de los ríos Cauca y Magdalena, mesetas Cundiboyacense, Nariño, y la zona cafetera .</p>
+<p>La probabilidad de eventos de fuego aumenta conforme las temporadas secas de las diferentes regiones del país. Para la zona del caribe dicha época seca se presenta entre los meses de diciembre y abril, mientras para la región andina es usual que suceda entre enero y febrero. En lo que respecta a la región de la Orinoquía, es tradicional que dichos eventos acontezcan en dos periodos al año, el primero entre diciembre y marzo y el segundo entre julio y agosto.</p>
+<p>Estos eventos, adicionalmente pueden intensificarse o atenuarse tanto en número como en área total afectada, según sea la incidencia regional de los fenómenos de cambio climático global denominados El Niño y La Niña respectivamente, con intensidades que varían y son proporcionales a la magnitud de los fenómenos climáticos mencionados .</p>
+<p>Ahora bien, la caracterización de los incendios se realiza comúnmente mediante instrumentos y técnicas que hacen uso del espectro del campo electromagnético visible u óptico, y el térmico o infrarrojo . No obstante, su uso operacional puede ser limitado debido a que los sensores ópticos por ejemplo, son fuertemente dependientes de las condiciones atmosféricas .</p>
+<p>Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso de técnicas remotas que emplean una combinación de datos obtenidos mediante sensores ópticos . El objetivo de este capítulo es explorar las ventajas que ofrece emplear los sensores ópticos para la teledetección de incendios forestales y realizar un comparativo temporal en la región de la Orinoquía Colombiana. Así mismo, indagar sobre posibles variaciones en la frecuencia de incendios entre el periodo de aislamiento vivido a nivel mundial por la pandemia de coronavirus y un periodo normal, bajo la hipótesis que es la intervención humana la principal causa de generación de los incendios forestales.</p>
+<div class="caja-box">
+<p><strong>Caja 1.</strong> Conceptos clave. Teledetección: La Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material . , Teledetección óptica: También conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores. Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura .</p>
+</div>
+</section>
+<section id="detección-de-áreas-quemadas-en-la-orinoquia-colombiana" class="level2">
+<h2 class="anchored" data-anchor-id="detección-de-áreas-quemadas-en-la-orinoquia-colombiana"><strong>DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA</strong></h2>
+<p>La Orinoquía (<strong>Fig. 1</strong>), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino . La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo . Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm .</p>
+<p>La Orinoquia Colombiana ha tenido una clara afectación por los incendios . En el periodo entre diciembre del año 2000 y febrero del 2009 las regiones que presentaron una mayor afectación fueron la Orinoquia, seguida por la Amazonía y el Caribe. Así mismo, en la Orinoquía se observó un claro patrón intra-anual de incendios, donde se evidencia un comportamiento bimodal asociado a la época de verano; el primer pico donde se concentran la gran parte de anomalías térmicas se da entre diciembre y marzo y otro más corto entre julio y agosto.</p>
+<p><strong>Figura 1.</strong> Localización del área de estudio. Se ubica al este de Colombia limitando al norte y este con Venezuela, al sur con Amazonia y al oeste con la región Andina. Se halla entre los ríos Arauca, Guaviare, Orinoco y el Piedemonte llanero. Dicha región la conforma los departamentos de Arauca, Casanare, Meta y Vichada albergando 64 municipios y alcanzando un área aproximada de 254,000 km2.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Figura1_Ubicacion.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Figura1_Ubicacion.png</figcaption>
+</figure>
+</div>
+<p>En lo que respecta al impacto en el paisaje y los ecosistemas, se encuentra que es sobre todo la deforestación para la instauración de nuevos sistemas de producción agropecuaria y extracción de hidrocarburos el fenómeno de mayor peso. Seguidamente, se encuentran los incendios forestales, de los cuales se reporta que las sabanas son influenciadas por incendios recurrentes y de amplia extensión, principalmente en el periodo seco de enero a marzo. Estas conflagraciones son esencialmente ocasionadas por actividades de caza, pesca y renovación de pastizales , así como en actividades de inicio de siembra .</p>
+<p>Por lo anterior, se explorarán diferentes métodos de detección de áreas quemadas a partir del uso de datos captados por instrumentos ópticos en la zona de la Orinoquia Colombiana, un área cuya afectación por el fuego ha sido de gran importancia para el país . El análisis de los incendios se realizará en dos períodos: el primero entre diciembre de 2019 a junio de 2020, y el segundo entre diciembre de 2020 hasta junio de 2021. Estos períodos se nombrarán en el documento como primer período o año 2020 y segundo período o año 2021.</p>
+<p>Los análisis y comparativos se realizarán bajo dos procedimientos:</p>
+<p>Análisis de focos de calor y áreas quemadas reportadas por el sensor MODIS.</p>
+<p>Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel-2.</p>
+<div class="caja-box">
+<p><strong>Caja 2.</strong> Terminología importante Focos de calor: Anomalías térmicas localizadas a partir de imágenes satelitales las cuales son asociadas a incendios. En la espacialización de los datos de temperatura de la zona de estudio, se plasman como un valor de temperatura elevado en comparación con los pixeles o valores colindantes, activando los umbrales establecidos en el algoritmo. El evento que ocasiona que se active el segmento, puede ser un incendio, una quema agrícola, fuegos industriales, volcanes activos u otros. . FIRMS: (Sistema de Información sobre Incendios para Gestión de Recursos): Sistema de la NASA que proporciona datos de incendios activos (incluida una ubicación aproximada de un punto de acceso detectado) de los instrumentos MODIS y VIIRS las 24 horas del día, los 7 días de la semana a cualquier persona, en cualquier parte del mundo. Las detecciones de incendios activos globales se pueden ver de forma interactiva haciendo uso de la aplicación FIRMS Fire Map . MODIS (Espectro radiómetro de imágenes de resolución moderada): Es un sensor a bordo de los satélites AQUA y TERRA diseñado para observaciones de la tierra, atmósfera, océano y criósfera. Contiene 36 bandas espectrales y adquiere datos en tres resoluciones espaciales: 250 m, 500 m y 1 km. Este sensor detecta las radiaciones infrarrojas emitidas por los incendios, permitiendo su ubicación, así como la dirección de propagación del incendio a una resolución espacial de 1 km . Sentinel-2: Es una misión de la Agencia Aeroespacial Europea (ESA), y que pertenecen al programa Copérnico, la cual se compone de dos satélites que obtienen imágenes multiespectrales (13 bandas espectrales: cuatro bandas a 10 m, seis bandas a 20 m y tres bandas a 60 m de alta resolución) . Google Earth Engine (GEE): Es una plataforma en la nube para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño. Actualmente posibilita el acceso a petabytes de datos de imágenes satelitales en la nube para su análisis a escala planetaria. El panel central facilita a los usuarios escribir su código en JavaScript. GEE procesa los códigos escritos e ilustra los resultados como imágenes en el panel Mapa o como mensajes en la pestaña Consola .</p>
+</div>
+<section id="focos-de-calor-y-área-quemada-detectados-a-través-de-modis" class="level3">
+<h3 class="anchored" data-anchor-id="focos-de-calor-y-área-quemada-detectados-a-través-de-modis">Focos de calor y área quemada detectados a través de MODIS</h3>
+<p>Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (<strong>Fig. 2</strong>), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>A</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>B</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Figura 2.</strong> Número de anomalías térmicas (día-noche) obtenidas por el sensor MODIS en la Orinoquía Colombiana para los períodos de análisis de (A) diciembre de 2019 a junio de 2020 y (B) diciembre de 2020 a junio de 2021.</p>
+<p>Durante el período de estudio se observa que la mayor detección de anomalías térmicas, se presenta entre los meses de enero a marzo para ambos períodos analizados, situación muy probablemente generada por la baja precipitación, las altas temperaturas y la acción del viento de esta época. El mes donde los registros de anomalías se concentran es marzo, momento en el que se denotan 1,006 focos de calor para el primer periodo de análisis, y 312 para el segundo. A partir de abril, se evidencia una clara reducción en el número de fuegos detectados, donde la causa más probable de dicha reducción se debe al inicio de la temporada de lluvia que se extiende hasta finales de noviembre. Estos resultados concuerdan con trabajos similares realizados en condiciones o escenarios próximos .</p>
+<p>Al realizar un análisis detallado del 2020, se evidenció que el 13 de febrero, y el 5 y 21 de marzo se presentaron las mayores anomalías térmicas alcanzando 108, 93 y 92 puntos de calor respectivamente. Además, se observó que el día en que inicia el incremento de este parámetro es el 28 de enero. Es importante resaltar que para el mes de marzo de 2020 se decreta el inicio de los períodos de aislamiento obligatorio preventivo por la emergencia sanitaria por COVID-19. Específicamente el 12 de marzo de 2020 se declara emergencia sanitaria en todo el territorio nacional, el 17 de marzo se declara estado de Emergencia por parte del presidente de la República y a partir del 25 de marzo se genera el aislamiento preventivo obligatorio, hecho que podría relacionarse con el gran incremento que se presentó respecto al año 2021.</p>
+<p>La distribución espacial de los focos de calor en los dos períodos de análisis (<strong>Fig. 3</strong>), muestra que la mayoría de los focos de calor se presentan en los departamentos de Vichada y Meta, no obstante, para el año 2020 existe una alta concentración de anomalías térmicas en la frontera de Colombia y Venezuela que se hace más evidente en el mes de marzo.</p>
+<p>Si bien los focos de calor detectados son una aproximación a la ocurrencia real de incendios forestales, constituyen una fuente importante para el análisis de la distribución espacial y temporal de los eventos, el estudio y definición del foco de contaminación del aire, la ubicación de puntos persistentes, y un insumo preliminar para un comparativo con las detecciones alcanzadas de áreas quemadas que se pueden deducir del uso de otros instrumentos, tales como la información de MODIS y Sentinel 2.</p>
+<p>Por otro lado, al analizar el área quemada en la Orinoquia se observa que este valor es significativamente mayor en el primer período de análisis (<strong>Tabla 1</strong>), alrededor de 2.5 veces más de área quemada que en el segundo período. El total de área quemada para el año 2020 es de 2,054,174.4 ha, de las cuales el 90.3% se concentran en los meses de enero a marzo. De acuerdo con , los datos de áreas quemadas reportadas en 2020 por MODIS, superan inclusive los valores de 2018 y 2019 que registraron 1,964,100.9 ha, y 1,493,421.3 ha respectivamente. Se resalta que de acuerdo con , para el 2018 hubo un incremento significativo en los focos de calor. Entre las posibles causas se encuentra las altas temperaturas que se dieron, y generando incendios que arrasaron millones de hectáreas entre la Amazonia y Orinoquia.</p>
+<p><strong>Figura 3.</strong> Distribución de las anomalías térmicas en la Orinoquia Colombiana para los períodos de análisis de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Figura3_FocosdeCalor.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Figura3_FocosdeCalor.png</figcaption>
+</figure>
+</div>
+<p><strong>Tabla 1.</strong> Área quemada en hectáreas en la Orinoquia Colombiana reportada por el sensor MODIS MCD64A1 versión 6.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Departamento</th>
+<th>Área (ha)</th>
+<th>Área (ha)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Departamento</td>
+<td>2019 a 2020</td>
+<td>2020 a 2021</td>
+</tr>
+<tr class="even">
+<td>Arauca</td>
+<td>259,592.94</td>
+<td>81,891.23</td>
+</tr>
+<tr class="odd">
+<td>Casanare</td>
+<td>226,693.84</td>
+<td>106,312.86</td>
+</tr>
+<tr class="even">
+<td>Meta</td>
+<td>448,525.67</td>
+<td>273,148.90</td>
+</tr>
+<tr class="odd">
+<td>Vichada</td>
+<td>1,119,361.87</td>
+<td>354,132.80</td>
+</tr>
+<tr class="even">
+<td>TOTAL</td>
+<td>2,054,174.32</td>
+<td>815,485.79</td>
+</tr>
+</tbody>
+</table>
+<p>La distribución de la superficie afectada por el fuego en la Orinoquia se da en toda la región, no obstante, para el año 2020 se observa una mayor afectación en Meta y Vichada; sin embargo, al este de Arauca y norte de vichada se concentra la mayor afectación entre los meses de febrero y marzo limitando con Venezuela. Los puntos donde se localizan los focos de calor coinciden con las áreas quemadas que presenta el sensor MODIS para la Orinoquia (<strong>Fig. 4</strong>).</p>
+<p><strong>Figura 4.</strong> Distribución de las áreas quemadas en la Orinoquia Colombiana para los períodos de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Figura4_area_quemadaMODIS.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Figura4_area_quemadaMODIS.png</figcaption>
+</figure>
+</div>
+</section>
+<section id="índice-normalizado-de-área-quemada-nbr-a-través-de-imágenes-sentinel-2" class="level3">
+<h3 class="anchored" data-anchor-id="índice-normalizado-de-área-quemada-nbr-a-través-de-imágenes-sentinel-2">Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel 2</h3>
+<p>La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego . Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (<strong>Tabla 2</strong> y <strong>3</strong>, y <strong>Fig. 5</strong>), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.</p>
+<p>Al calcular la superficie quemada como la sumatoria de las clases 1 (alta severidad), 2 (moderada/alta severidad), 3 (moderada/baja severidad) y 4 (baja severidad) (<strong>Tabla 2</strong> y <strong>3</strong>) en el área de estudio, fue para el primer período de 2,461,908.6 ha, mientras que para el segundo período fue de 847,756.5 ha. Por otro lado, se observa que un área equivalente a 2,333,588.4 ha se registra como sucesión vegetal (clases 6 y 7) en el año 2021 (mayor a 2,294,845.9 ha que se reportan en el año 2020), probablemente debido a los incendios registrados un año atrás.</p>
+<p>Es importante mencionar que, durante el procesamiento de los datos, muchas de las imágenes se encontraban con una alta nubosidad, razón por la cual, se aplica una máscara para eliminar las nubes y las sombras de nubes, ya que las primeras no permiten observar la superficie mientras que las sombras tienen bajos niveles de reflectividad, por tanto, pueden ser confundidas con zonas de áreas quemadas. Por lo anterior, en los resultados se observa espacios en blanco (correspondiente a la categoría NA), donde no se pudo determinar el índice Normalizado de Área Quemada (<strong>Fig. 5</strong>).</p>
+<p>El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detección de cambios, en el que los&nbsp;datos&nbsp;anteriores y posteriores a un evento se deducen entre sí, por lo que se pueden detectar como incendios los cambios generados por&nbsp;deforestación&nbsp;y otros&nbsp;cambios en la&nbsp;cobertura del suelo. De igual forma, en ocasiones los algoritmos de máscara de nubes y sombra de nubes aplicados no eliminan totalmente las sombras de las nubes, lo que puede ocasionar que existan detecciones falsas o errores de omisión . Igualmente, pueden ser fuente de error los cambios leves en la vegetación, como lo es la regeneración natural detectada en el mes de abril, en zonas donde ocurrieron incendios, ya que generan una baja diferencia en el rango de dNBR el cual no es clasificado como área quemada sino posiblemente como rebrote (vegetación en crecimiento). De lo anterior, puede afirmarse que el desarrollo de técnicas de validación para la detección de cambios en la cobertura vegetal, es fundamental para evaluar las incertidumbres asociadas con los productos basados ​​en datos satelitales, para identificar las mejoras necesarias en los productos y para permitir que los productos se utilicen adecuadamente .</p>
+<p><strong>Tabla 2.</strong> Área reportada para las clases del índice Normalizado de Área Quemada en el período 2019 a 2020.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Clase</th>
+<th>Nombre</th>
+<th>Departamento</th>
+<th>Departamento</th>
+<th>Departamento</th>
+<th>Departamento</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Clase</td>
+<td>Nombre</td>
+<td>Arauca</td>
+<td>Casanare</td>
+<td>Meta</td>
+<td>Vichada</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>NA</td>
+<td>371,448,82</td>
+<td>1,827,742.46</td>
+<td>2,418,501.00</td>
+<td>3,767,782.00</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>Alta Severidad</td>
+<td>19,369.46</td>
+<td>8,726.94</td>
+<td>1,368.13</td>
+<td>2,849.45</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Moderada/alta Severidad</td>
+<td>181,177.45</td>
+<td>143,535.79</td>
+<td>26,393.55</td>
+<td>69,296.47</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Moderada/baja Severidad</td>
+<td>356,261.66</td>
+<td>362,436.54</td>
+<td>84,702.28</td>
+<td>247,858.58</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Baja Severidad</td>
+<td>35,444.01</td>
+<td>51,659.64</td>
+<td>33,027.17</td>
+<td>837,873.43</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>No quemado</td>
+<td>1,380,147.71</td>
+<td>1,443,606,68</td>
+<td>4,613,209.93</td>
+<td>4,712,880.40</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Nuevo rebrote, Bajo</td>
+<td>32,524.66</td>
+<td>390,458.75</td>
+<td>755,385.60</td>
+<td>223,560.52</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Nuevo rebrote, Alto</td>
+<td>1,383.98</td>
+<td>202,217.40</td>
+<td>614,039.20</td>
+<td>75,275.80</td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td>Total</td>
+<td>2,377,757.74</td>
+<td>4,430,384.21</td>
+<td>8,546,626.86</td>
+<td>9,937,376.66</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tabla 3.</strong> Área reportada para las clases del índice Normalizado de Área Quemada en el período 2020 a 2021.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Clase</th>
+<th>Nombre</th>
+<th>Departamento</th>
+<th>Departamento</th>
+<th>Departamento</th>
+<th>Departamento</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Clase</td>
+<td>Nombre</td>
+<td>Arauca</td>
+<td>Casanare</td>
+<td>Meta</td>
+<td>Vichada</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>NA</td>
+<td>234,226,41</td>
+<td>644,552.31</td>
+<td>2,146,921.00</td>
+<td>2,468,963.45</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>Alta Severidad</td>
+<td>3,236.97</td>
+<td>2,746,00</td>
+<td>1,287.99</td>
+<td>429.13</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Moderada/alta Severidad</td>
+<td>54,486.42</td>
+<td>45,991.42</td>
+<td>44,682.49</td>
+<td>21,994.46</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Moderada/baja Severidad</td>
+<td>143,693.45</td>
+<td>153,842.09</td>
+<td>151,500.52</td>
+<td>131,583.00</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Baja Severidad</td>
+<td>3,769.54</td>
+<td>45,180.19</td>
+<td>34,000.03</td>
+<td>9,332.77</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>No quemado</td>
+<td>1,877,660.68</td>
+<td>3,475,569.68</td>
+<td>4,799,770.00</td>
+<td>6,463,138.60</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Nuevo rebrote, Bajo</td>
+<td>54,453.11</td>
+<td>57,113.15</td>
+<td>709,367.55</td>
+<td>649,993.00</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Nuevo rebrote, Alto</td>
+<td>6,231.04</td>
+<td>5,389.88</td>
+<td>659,097.60</td>
+<td>191,943.04</td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td>Total</td>
+<td>2,377,757.62</td>
+<td>4,430,384.72</td>
+<td>8,546,627.18</td>
+<td>9,937,377.46</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>En el área de estudio, se observa que el departamento de Arauca y Meta, fueron los departamentos que presenta mayores cambios de la vegetación para el 2020, de igual forma, se observa que entre Arauca y Casanare se sigue una trayectoria de área afectada que va desde los límites con Venezuela (<strong>Fig. 5</strong>).</p>
+<p>Por otro lado, las variaciones en los datos pueden deberse al umbral implementado, algunos estudios como el realizado por , muestran los diferentes resultados de detección de áreas quemadas al modificar el valor del umbral como respuesta a los múltiples factores que afectan el cálculo de la diferencia temporal de NBR y la importancia de definir valores por ecosistemas que permitan la estimación de área quemada utilizando modelos regionales.</p>
+<p>Los resultados de ambas metodologías, muestran que en medio de la pandemia, muchas regiones de Colombia se vieron afectados por los incendios y otras ciudades por la mala calidad del aire que se respiraba en ese momento, en una publicación hecha por la revista Mongabay Latam, afirma que durante la primera semana de cuarentena, se registraron niveles de contaminación elevados, los cuales estuvieron relacionados fuertemente con los incendios que, entre diciembre y los primeros días de abril, se suelen presentar en la parte norte de Sudamérica.</p>
+<p>Además, sostienen que estos eventos de quema de biomasa, se deben principalmente a que personas inescrupulosas, aprovecharon la emergencia sanitaria para realizar daños ambientales sobre áreas de especial importancia ecológica y áreas naturales protegidas, debido a la falta de vigilancia y control por parte de las autoridades competentes .</p>
+<p><strong>Figura 5.</strong> Mapa de clasificación del Índice Normalizado de Área Quemada (NBR) para el año 2020 y 2021</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Figura5_dNBR.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Figura5_dNBR.png</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="conclusiones" class="level2">
+<h2 class="anchored" data-anchor-id="conclusiones"><strong>3. CONCLUSIONES</strong></h2>
+<p>Los resultados obtenidos en el presente trabajo permiten generar por medio de una comparación de técnicas de teledetección pasiva, una aproximación metodológica para la detección de incendios con información libre, la cual puede usarse no solo en la zona de la Orinoquia sino también en otras regiones del territorio colombiano. Esto es importante ya que contribuye en el proceso de identificación de tendencias en los eventos de incendios y por ende fortalece la toma de decisiones en la gestión del riesgo. No obstante, se debe tener presente que esta aproximación puede derivar en la detección de falsos incendios, por lo que se hace necesario formular a futuro, un protocolo que permita identificar los errores de comisión, errores de omisión, acuerdos de áreas quemadas y no quemadas, para obtener datos más fieles a la realidad.</p>
+<p>Por otro lado, se observan variaciones en los resultados de detección de incendios obtenidos por MODIS y Sentinel-2. Si se define como referencia la detección de áreas quemadas por MODIS, se encuentra que para el año 2020, las áreas quemadas obtenidas con Sentienel-2 son superiores en un 16.6%, mientras que para el año 2021, estos valores cambian en un 3,8%. Por lo anterior, es importante profundizar en las técnicas de cuantificación y validación de áreas quemadas de la mano de plataformas de uso libre como Google Earth Engine que permite el análisis de grandes volúmenes de datos a escala planetaria y definir un protocolo que permita realizar estimaciones cada vez más ajustadas a la realidad.</p>
+<p>La distribución espacial y temporal para todos los métodos mantiene un mismo patrón, en los resultados se evidencia que entre los meses de febrero y marzo se presentan los mayores eventos de incendios y los departamentos de Vichada y Meta son los más afectados, aunque para el año 2020 se observa una alta afectación en la zona fronteriza entre Colombia y Venezuela.</p>
+<p>Los estudios científicos sobre incendios en Colombia muestran que desde siglos atrás, los incendios están fuertemente asociados a causas socioeconómicas como la expansión de la frontera agrícola y pecuaria. La Orinoquia Colombiana no ha sido ajena a esta situación, no obstante, el incremento observado en 2020 de los incendios, hacen considerar que elementos de salud pública como es la pandemia de Covid-19 pueden influenciar la ocurrencia de incendios. Por lo anterior, se recomienda realizar un estudio detallado de la dinámica de incendios en Colombia durante las últimas décadas, para determinar si eventos pandémicos pueden modificar el comportamiento de los incendios.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>PUNTOS CLAVE Al comprender la influencia de las variables ambientales y su distribución espacio-temporal sobre el origen de los incendios se puede entender que están fuertemente asociados con la intervención del hombre en áreas naturales. La identificación de incendios a partir de sensores remotos permite generar una aproximación metodológica para la detección de incendios con información libre, que contribuye en el proceso de identificación de tendencias en los eventos de incendios y por ende fortalece la toma de decisiones en la gestión del riesgo. Existen productos de uso libre que se utilizan para desarrollar metodologías que contribuyan al entendimiento de las dinámicas de los incendios en nuestro país.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table class="caption-top">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>PREGUNTAS A RESOLVER Los incendios históricamente se asocian con dinámicas socio-económicas principalmente con las actividades agrícolas. El 2020 presentó un nuevo escenario de salud pública y un incremento significativo en la ocurrencia de incendios. ¿Los escenarios de crisis en la salud pública pueden influenciar los eventos de incendios en el país?</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</section>
+<section id="materiales-y-métodos" class="level2">
+<h2 class="anchored" data-anchor-id="materiales-y-métodos"><strong>4. MATERIALES Y MÉTODOS</strong></h2>
+<section id="a-continuación-se-describe-la-metodología-para-la-identificación-de-áreas-quemadas-iniciando-por-la-obtención-de-datos-a-través-de-modis-y-sentinel-2." class="level3">
+<h3 class="anchored" data-anchor-id="a-continuación-se-describe-la-metodología-para-la-identificación-de-áreas-quemadas-iniciando-por-la-obtención-de-datos-a-través-de-modis-y-sentinel-2.">A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel 2.</h3>
+</section>
+<section id="descarga-focos-de-calor-o-anomalías-térmicas-del-sensor-modis-hotspots" class="level3">
+<h3 class="anchored" data-anchor-id="descarga-focos-de-calor-o-anomalías-térmicas-del-sensor-modis-hotspots">Descarga focos de calor o anomalías térmicas del sensor MODIS (hotspots)</h3>
+<p>Los focos de calor o anomalías térmicas (hotspots) del sensor MODIS se descargaron a través de la plataforma FIRMS (Fire Information for Resource Management System).</p>
+<p>Esta información, se descargó en formato shapefile para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. Los datos se filtraron con un nivel de confiabilidad igual o superior al 90%, de acuerdo con la metodología empleada por . El procesamiento de la información se hizo a través del software ArcGis 10.5 y QGis 3.12.</p>
+</section>
+<section id="descarga-del-área-quemada-por-el-sensor-modis" class="level3">
+<h3 class="anchored" data-anchor-id="descarga-del-área-quemada-por-el-sensor-modis">Descarga del área quemada por el sensor MODIS</h3>
+<p>Se descargó los datos del Land Processes Distributed Active Archive Center (LP-DAAC) de la Universidad de Maryland, disponible para su descarga en formato HDF, GeoTIFF o Shapefile de la colección 6 de MODIS de áreas quemada a través del enlace: .</p>
+<p>El producto MCD64A1 versión 6 se genera de forma mensual, presenta una resolución espacial de 500 m y nivel 3 (nivel de procesamiento de los datos satelitales, que se han mapeado en una cuadrícula, espacio-tiempo uniforme y de calidad controlada). Su procesamiento identifica áreas quemadas recientes (&gt; 25 ha) y descarta las que ocurrieron en temporadas anteriores (no contempla áreas quemadas procesadas en cálculos anteriores, con el fin de evitar el reporte de valores que ya han sido previamente considerados). Los archivos se reproyectan en proyección Plate-Carree y cubren un conjunto de ventanas subcontinentales (<strong>Fig. 6</strong>).</p>
+<p>Se descargó la información de la ventana 5 en formato shapefile (<strong>Fig. 6</strong>), para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. A través del software ArcGis 10.5 y QGis 3.12 se realizó la delimitación de la información, el cálculo de las áreas afectadas y la composición del mapa.</p>
+<p><strong>Figura 6.</strong> Cobertura de los subconjuntos de formato Shapefile</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Figura6_Ventanas_AQModis.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Figura6_Ventanas_AQModis.png</figcaption>
+</figure>
+</div>
+</section>
+<section id="análisis-de-incendios-a-partir-de-imágenes-de-sentinel-2" class="level3">
+<h3 class="anchored" data-anchor-id="análisis-de-incendios-a-partir-de-imágenes-de-sentinel-2">Análisis de incendios a partir de imágenes de Sentinel 2</h3>
+<p>El procesamiento, el desarrollo de algoritmos y el cálculo de las áreas en donde hubo cambios en la vegetación se realizó a través de la plataforma Google Earth Engine (GEE) basada en la nube que permite para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño a escala planetaria.</p>
+<p>Con el análisis de los focos de calor, se definió el mes de diciembre como un período donde la ocurrencia de incendios fue muy baja (pre-incendio) y a partir de abril como la época donde ya habían ocurrido la mayor parte de los incendios (post-incendios). De acuerdo con la disponibilidad de imágenes Sentinel-2 en GEE, se ajustó el período de análisis tal como se presenta en la <strong>Tabla 5</strong>.</p>
+<p><strong>Tabla 4.</strong> Características de las imágenes utilizadas para los análisis de áreas quemadas con Sentinel-2</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Sensor</th>
+<th>Período pre-incendio</th>
+<th>No de imágenes</th>
+<th>Período post-incendio</th>
+<th>No de imágenes</th>
+<th>Resolución espacial</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sentinel -2</td>
+<td>28/12/2019-5/01/2020</td>
+<td>89</td>
+<td>20/04/2020- 30/04/2020</td>
+<td>127</td>
+<td>NIR 10 m, borde rojo y SWIR 20 m y bandas atmosféricas a 60 m</td>
+</tr>
+<tr class="even">
+<td>Sentinel -2</td>
+<td>1/12/2020-31/12/2020</td>
+<td>6</td>
+<td>01/04/2020- 30/04/2020</td>
+<td>12</td>
+<td>NIR 10 m, borde rojo y SWIR 20 m y bandas atmosféricas a 60 m</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="cálculo-del-índice-normalizado-de-área-quemada-nbr-a-partir-de-sentinel-2" class="level3">
+<h3 class="anchored" data-anchor-id="cálculo-del-índice-normalizado-de-área-quemada-nbr-a-partir-de-sentinel-2">Cálculo del índice normalizado de área quemada (NBR) a partir de Sentinel 2</h3>
+<p>Se calculó el NBR para las imágenes Sentinel 2, con una resolución de 30 m, el cual estima el área quemada por clase de gravedad. Para este proceso, se siguió la metodología descrita a continuación.</p>
+<p><strong>Máscara de nubes.</strong> Se aplicó un algoritmo de enmascaramiento de nubes y sombras de nubes, ya que las nubes impiden observar la superficie y las sombras tienen bajos niveles de reflectividad, por tanto, pueden confundirse con zonas de áreas quemadas.</p>
+<p><strong>Cálculo del&nbsp;Índice Diferencial de Área Quemada.</strong> Se calculó el NBR para las imágenes antes del incendio (NBRprefuego) y para las imágenes posteriores al incendio (NBRpostfuego), el cual se define como:</p>
+<p>donde,</p>
+<p>NBR: Índice normalizado de área quemada</p>
+<p>NIR: Infrarrojo cercano</p>
+<p>SWIR2: Infrarrojo de onda corta</p>
+<p>Posteriormente, se calculó el dNBR el cual se define como:</p>
+<p>donde,</p>
+<p>dNBR: Diferencia normalizada de área quemada</p>
+<p>NBRprefuego: Índice normalizado de área quemada previo al incendio</p>
+<p>NBRpostfuego: Índice normalizado de área quemada posterior al incendio</p>
+<p>El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas con valores de dNBR más altos indican daños más severos, mientras que las áreas con valores de dNBR negativos pueden mostrar una mayor productividad de la vegetación . El dNBR se clasificó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos () (<strong>Tabla 5</strong>).</p>
+<p><strong>Tabla 5.</strong> Niveles de severidad y rangos en incendios propuestos.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel de severidad</th>
+<th>Nivel de severidad</th>
+<th>Rango dNBR (escala de 103)</th>
+<th>Rango dNBR (no escalado)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Nuevo rebrote, Alto</td>
+<td>-500 a -251</td>
+<td>-0.500 a -0.251</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Nuevo rebrote, Bajo</td>
+<td>-250 a -101</td>
+<td>-0.250 a -0.101</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>No quemado</td>
+<td>-100 a +99</td>
+<td>-0.100 a +0.99</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Baja Severidad</td>
+<td>+100 a+269</td>
+<td>+0.100 a+0.269</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Moderada/baja Severidad</td>
+<td>+270 a +439</td>
+<td>+0.270 a +0.439</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Moderada/alta Severidad</td>
+<td>+440 a 659</td>
+<td>+0.440 a 0.659</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Alta Severidad</td>
+<td>+660 a +1300</td>
+<td>+0.660 a +1300</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CONTRIBUCIÓN DE AUTORÍA CRediT</strong></p>
+<p>Conceptualización: Daniela Torinjano, Adriana Osorio. Metodología: Daniela Torinjano, Adriana Osorio. Redacción de primera versión: Daniela Torinjano, Adriana Osorio, Alejandro Marulanda. Figuras y tablas: Daniela Torinjano, Adriana Osorio. Administración de proyecto: Adriana Osorio, Alejandro Marulanda. Búsqueda de evidencia: Daniela Torinjano, Adriana Osorio.</p>
+</section>
+</section>
+<section id="conflicto-de-intereses" class="level2">
+<h2 class="anchored" data-anchor-id="conflicto-de-intereses">CONFLICTO DE INTERESES</h2>
+<p>Los autores no declaran algún tipo de conflicto de intereses.</p>
+</section>
+<section id="agradecimientos" class="level2">
+<h2 class="anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<p>Al Tecnológico de Antioquia I.U. principal financiador del proyecto bajo la modalidad de proyectos de investigación interna y a la Universidad EAFIT quien fue el cofinanciador.</p>
+</section>
+<section id="identificación-de-autores" class="level2">
+<h2 class="anchored" data-anchor-id="identificación-de-autores">IDENTIFICACIÓN DE AUTORES</h2>
+<p>Daniela Torinjano Jiménez</p>
+<p>Adriana Osorio Mosquera</p>
+<p>Alejandro Marulanda Tobón</p>
+</section>
+<section id="bibliografía" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografía"><strong>BIBLIOGRAFÍA</strong></h2>
+<p>Robinne, F-N., Burns, J., Kant, P., Groot, B., Flannigan M.D., Kleine M., Wotton D. M (2018). <em>Global Fire Challenges in a Warming World.</em> International Union of Forest Research Organizations, Occasional Paper No.&nbsp;32.</p>
+<p>Díaz, R., Lloret, F. &amp; Pons X. (2003). Influence of fire severity on plant regeneration by means of remote sensing imagery. <em>International Journal of Remote Sensing</em>, 24(8), 1751–1763.</p>
+<p>Armenteras D. (2020). <em>Smoke signals: policy solutions to sustain Colombian forests</em> (Report Climate and Environment Protection). United States Department of Agriculture.</p>
+<p>di Bella, C.M., Jobbágy, E.G., Paruelo, J.M, &amp; Pinnock. S. (2006). Continental fire density patterns in South America. <em>Global Ecology and Biogeography,</em> 15, 92–199.</p>
+<p>Armenteras, D., Romero, M. &amp; Galindo G. (2005). Vegetation fire in the savannas of the Llanos Orientales of Colombia. <em>World Resource Review</em>, <em>17</em>(4), 531–543.</p>
+<p>Armenteras, D., Rodríguez, N. &amp; Retana J. (2013). Landscape Dynamics in Northwestern Amazonia: An Assessment of Pastures, Fire and Illicit Crops as Drivers of Tropical Deforestation. <em>Plos One</em> 8 (1), 1-9,</p>
+<p>IDIGER (Instituto Distrital de Gestión de Riesgos y Cambio Climático). (2019, 12 de diciembre). <em>Caracterización General del Escenario de Riesgo por Incendio Forestal</em>. Alcaldía Mayor de Bogotá.</p>
+<p>UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2019). <em>Lo que usted debe saber sobre incendios de cobertura vegetal</em>. Sistema Nacional de Gestión del Riego de Desastres.</p>
+<p>Armenteras, D., Clerici, N., Kareiva, P., Botero, R., Ramírez-Delgado, J.P., Forero-Medina, G., et al.&nbsp;(2020). Deforestation in Colombian protected areas increased during post-conflict periods. <em>Scientific Reports</em>, 10 (4971), 1–10.</p>
+<p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). <em>Incendios de la cobertura vegetal</em>. Recuperado el 20 de diciembre de 2020, de</p>
+<p>Gimeno, M. &amp; Ayanz, J. (2004). Evaluation of RADARSAT-1 data for identification of burnt areas in Southern Europe. <em>Remote Sensing of Environment, 92</em>(3), 370–375.</p>
+<p>Polychronaki, A., Gitas, I.Z., Veraverbeke, S., Debien, A. (2013). Evaluation of ALOS PALSAR imagery for burned area mapping in greece using object-based classification. <em>Remote Sensing</em>, <em>5</em>(11), 680–701.</p>
+<p>Wainschenker, R.S., Ciccimarra, G., Tristan, P. &amp; Doorn, J. (2003). <em>Generación de Mapas Temáticos a partir del Procesamiento de Imágenes</em> [Presentación de paper]. V Workshop de Investigadores en Ciencias de la Computación.</p>
+<p>Villegas, H. V. (2008). <em>Introducción a la percepción remota y sus aplicaciones geológicas</em> (Guía asistentes). Ministerio de Minas y Energía. Servicio Geológico Colombiano.</p>
+<p>Chuvieco, E. (1995). <em>Fundamentos de la teledetección espacial.</em> (2da ed.). Ediciones Rialp S.A. Madrid.</p>
+<p>Soler, D &amp; Hernández, P. (2018). Desarrollos y perspectivas de investigación en la Orinoquía. <em>Revista de Medicina Veterinaria</em>, <em>36</em>, 7–13. https://doi.org/10.19052/mv.5167</p>
+<p>Guzmán, D., Ruíz, J.F. &amp; Cadena, M. (2014). <em>Regionalización de Colombia según la estacionalidad de la precipitación media mensual, a través de Análisis de Componentes Principales (ACP)</em>(Documento de difusión)<em>.</em> Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM).</p>
+<p>Lasso, C. A., Rial, A., Matallana, C., Ramírez, W., Señaris, J., Díaz-Pulido, A., Corzo, G., &amp; Machado-Allison, A. (Eds.). (2011). <em>Biodiversidad de la cuenca del Orinoco. II Áreas prioritarias para la conservación y uso sostenible</em>. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</p>
+<p>Armenteras, D., González-Alonso, F. &amp; Aguilera, C.F. (2009). Distribución geográfica y temporal de anomalías térmica<em>. Caldasia, 31</em>, 303–318.</p>
+<p>Romero, M. H., Flantua, S. G. A., Tansey, K., &amp; Berrio, J. C. (2012). Landscape transformations in savannas of northern South America: Land use/cover changes since 1987 in the Llanos Orientales of Colombia. <em>Applied Geography, 32</em>(2), 766–776.</p>
+<p>Lozano., Vasquez, C., Rivera, C., &amp; Zapata, A. (2019). Efecto de la vegetación riparia sobre el fitoperifiton de humedales en la Orinoquía colombiana. <em>Acta Biológica Colombiana, 24(1),</em> 67–85.</p>
+<p>Vásquez A., Toro, L., &amp; González-Caro, S. (2018). Dinámica de incendios en Antioquia con énfasis. En E. Quintero-Vallejo, A. Benavides, N. Moreno &amp; S. González-Caro (Eds.), <em>Bosques Andinos</em> (1ed., pp 87–102). Fundación Jardín Botánico de Medellín Joaquín Antonio.</p>
+<p>Zamora, A. (2016). <em>Estudio metodológico para el monitoreo de alertas tempranas de deforestación basado en focos de calor en la Amazonía Peruana</em> [Tesis pregrado, Universidad Nacional Agraria la Molina Facultad de Ciencias Forestales]. Repositorio Institucional Universidad Nacional Agraria la Molina.</p>
+<p>Blumenfeld, J. (2019, 26 de Julio). <em>Wildfires Can’t Hide from Earth Observing Satellites</em>. NASA.</p>
+<p>NASA (National Aeronautics and Space Administration). (2001, 21 de agosto). <em>Detector Espacial de Incendios</em>. NASA.</p>
+<p>ESA (European Space Agency). (2021, 24 de junio). <em>Sentinel Overview, Sentinel Missions</em>. ESA.</p>
+<p>Anaya, J.A., Sione, W.F., Rodriguez-Montellano, A.M. (2018). Identificación de áreas quemadas mediante el análisis de series de tiempo en el ámbito de computación en la nube. <em>Revista de Teledetección</em>, <em>51,</em> 61-73.</p>
+<p>Armenteras, D., González, T. M., &amp; Retana, J. (2013).&nbsp;Forest fragmentation and edge influence on fire occurrence and intensity under different management types in Amazon forests<em>. Biological Conservation, 159</em>, 73–79.</p>
+<p>Torinjano, D. &amp; Osorio, A. (2020) <em>Análisis de la ocurrencia de incendios en la Orinoquia Colombiana durante la cuarentena obligatoria por Covid-19 a través de teledetección óptica y de radar</em>. [Tesis pregrado, Institución Universitaria Tecnológico de Antioquia]. Repositorio Institucional Institución Universitaria Tecnológico de Antioquia.</p>
+<p>UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres) (2022, 12 de febrero). <em>Riesgo Por Incendio Forestal, Caracterización general.</em> Sistema Nacional de Gestión del Riego de Desastres<em>.</em></p>
+<p>Keeley, J. E. (2009).&nbsp;Fire intensity, fire severity and burn severity: a brief review and suggested usage<em>. International Journal of Wildland Fire, 18</em>(1), 116-126.&nbsp;https://doi:10.1071/wf07049</p>
+<p>UN-SPIDER (2018, 2 de Febrero). <em>Step by Step: Burn Severity mapping in Google Earth Engine.</em> (2018,). United Nations. https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/burn-severity-earth-engine</p>
+<p>Roy, D. P., Jin, Y., Lewis, P. E., &amp; Justice, C. O. (2005).&nbsp;Prototyping a global algorithm for systematic fire-affected area mapping using MODIS time series data. <em>Remote Sensing of Environment, 97</em>(2), 137–162.</p>
+<p>Paz, A (2020, 2 de abril). <em>Incendios, contaminación del aire y Covid-19: tres problemas que acechan a Colombia</em>. Mongabay.</p>
+<p>Giglio, L., Schroeder, W., Hall, J. &amp; Justice, C. (2018). <em>MODIS Collection 6 Active Fire Product (</em>User’s Guide Revision B). NASA.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/scr-ungrd\.github\.io\/investigaciones-grd-2023\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

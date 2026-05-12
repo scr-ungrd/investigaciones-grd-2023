@@ -1,0 +1,3696 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Rafael Fernández">
+<meta name="author" content="Manuel Rodríguez Susa">
+<meta name="author" content="Mildred Lemus">
+<meta name="author" content="Iván Alejandro Giraldo">
+<meta name="author" content="Lina Porras">
+<meta name="author" content="Juliana Martínez">
+<meta name="author" content="Juan Sebastián Echeverry">
+<meta name="author" content="Carlos Oliveros">
+<meta name="author" content="Juan Carlos Reyes">
+<meta name="author" content="Nubia León">
+<meta name="author" content="Diego Gutiérrez">
+
+<title>Capítulo 01: Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-9207511d10d191e52ca9d0753e5a29ed.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background-image: url(images/banner_2023.png);
+background-size: cover;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Capítulo 01: Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Authors</div>
+      <div class="quarto-title-meta-contents">
+               <p>Rafael Fernández </p>
+               <p>Manuel Rodríguez Susa </p>
+               <p>Mildred Lemus </p>
+               <p>Iván Alejandro Giraldo </p>
+               <p>Lina Porras </p>
+               <p>Juliana Martínez </p>
+               <p>Juan Sebastián Echeverry </p>
+               <p>Carlos Oliveros </p>
+               <p>Juan Carlos Reyes </p>
+               <p>Nubia León </p>
+               <p>Diego Gutiérrez </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="99">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">INTRODUCCIÓN</a></li>
+  <li><a href="#metodología" id="toc-metodología" class="nav-link" data-scroll-target="#metodología">METODOLOGÍA</a>
+  <ul>
+  <li><a href="#amenaza" id="toc-amenaza" class="nav-link" data-scroll-target="#amenaza">Amenaza</a></li>
+  <li><a href="#vulnerabilidad" id="toc-vulnerabilidad" class="nav-link" data-scroll-target="#vulnerabilidad">Vulnerabilidad</a></li>
+  <li><a href="#estimación-del-riesgo" id="toc-estimación-del-riesgo" class="nav-link" data-scroll-target="#estimación-del-riesgo">Estimación del riesgo</a></li>
+  </ul></li>
+  <li><a href="#caso-de-estudio-bogotá" id="toc-caso-de-estudio-bogotá" class="nav-link" data-scroll-target="#caso-de-estudio-bogotá">CASO DE ESTUDIO: BOGOTÁ</a>
+  <ul>
+  <li><a href="#generalidades" id="toc-generalidades" class="nav-link" data-scroll-target="#generalidades">Generalidades</a></li>
+  <li><a href="#exposición" id="toc-exposición" class="nav-link" data-scroll-target="#exposición">Exposición</a></li>
+  <li><a href="#amenaza-1" id="toc-amenaza-1" class="nav-link" data-scroll-target="#amenaza-1">Amenaza</a></li>
+  <li><a href="#vulnerabilidad-1" id="toc-vulnerabilidad-1" class="nav-link" data-scroll-target="#vulnerabilidad-1">Vulnerabilidad</a></li>
+  <li><a href="#riesgo" id="toc-riesgo" class="nav-link" data-scroll-target="#riesgo">Riesgo</a></li>
+  </ul></li>
+  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">CONCLUSIONES</a></li>
+  <li><a href="#conflicto-de-intereses" id="toc-conflicto-de-intereses" class="nav-link" data-scroll-target="#conflicto-de-intereses">CONFLICTO DE INTERESES</a></li>
+  <li><a href="#contribución-de-autoría-credit" id="toc-contribución-de-autoría-credit" class="nav-link" data-scroll-target="#contribución-de-autoría-credit">CONTRIBUCIÓN DE AUTORÍA CRediT</a></li>
+  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">AGRADECIMIENTOS</a></li>
+  <li><a href="#identificación-de-autores" id="toc-identificación-de-autores" class="nav-link" data-scroll-target="#identificación-de-autores">IDENTIFICACIÓN DE AUTORES</a></li>
+  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p>1Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia</p>
+<p>2Centro de Investigación en Ingeniería Ambiental, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia</p>
+<p>3Empresa de Acueducto y Alcantarillado de Bogotá EAAB-ESP, Dirección Ingeniería Especializada. Bogotá, Colombia</p>
+<p>*Autor de contacto: Rafael Fernández. Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia. Correo-e: ri.fernandez1110@uniandes.edu.co</p>
+<p><strong>Resumen</strong></p>
+<p>Los sistemas de acueducto cumplen el papel fundamental de asegurar las condiciones de vida digna al suministrar y garantizar la disponibilidad y calidad del agua potable como recurso primario para la vida y la salud. Sin embargo por la complejidad y extensión de los sistemas de producción de agua, especialmente en grandes ciudades, sus componentes (i.e.&nbsp;captación, reservorios, tratamiento y distribución) se exponen a diversas condiciones amenazantes de origen natural (i.e.&nbsp;sismos, inundaciones o incendios forestales), o antrópico (i.e.&nbsp;terrorismo, actividades tecnológicas industriales- residenciales, gestión interna del sistema), que pueden afectar el proceso de producción y ocasionar cambios sobre los parámetros de calidad del agua de consumo. El objetivo principal de este capítulo es presentar un modelo para evaluar el riesgo en la calidad de agua potable. El método se aplica como caso de estudio en el sistema de acueducto de agua potable de la ciudad de Bogotá, Colombia, servicio prestado por la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB-ESP). Con el modelo se realiza una comparación cualitativa e indicativa de los efectos e impactos de estos eventos amenazantes externos sobre la calidad del agua en el sistema. A partir de los resultados se identificó la distribución geográfica de los riesgos, afectación sobre diferentes componentes del sistema, y alteración de parámetros de calidad del agua. Esta información sirve como base para entender y dimensionar las acciones y prioridades para mitigar este riesgo.</p>
+<p><strong>Palabras clave:</strong> sistemas de acueducto, riesgo en la calidad del agua potable, amenazas naturales, amenazas antrópicas.</p>
+<p><strong>Indicative water quality risk assessment due to natural and man-made disasters: the case of Bogotá</strong></p>
+<p><strong>Abstract</strong></p>
+<p>Aqueduct systems play a fundamental role in ensuring decent living conditions and access to water as a primary resource for life, as well as guaranteeing its availability and safe conditions for public health. However, due to their complexity and extension in large cities, the drinking water components (i.e.&nbsp;collection, treatment, distribution) are exposed to various threatening natural hazards (i.e.&nbsp;earthquakes, floods, or wild fires) or anthropic events (i.e.&nbsp;terrorist acts, industrial technology impacts, or management decisions from utility operators), which can affect the process and can generate changes in the drinking water quality parameters. The main objective of this chapter is to present a model that allows risk assessment concerning drinking water quality. The proposed method is applied as a case study in the drinking-water aqueduct system of the city of Bogotá, Colombia, supplied by the Aqueduct and Sewerage Company of Bogotá (EAAB-ESP). The model allows a qualitative and indicative comparison of the effects and impacts of these external threatening events on the water quality in the system. The results allow the user to understand the geographical distribution of risks, impact on different system components, and alteration of water quality parameters. This information serves as a basis for understanding and measuring the actions and priorities to mitigate quality risk in aqueduct systems.</p>
+<p><strong>Keywords:</strong> Aqueduct systems, water quality risk, natural hazards, anthropic hazards</p>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">INTRODUCCIÓN</h2>
+<p>El acceso al agua potable es un derecho fundamental que se ha catalogado como uno de los Objetivos de Desarrollo Sostenible por las Naciones Unidas . Según esta misma institución, en la actualidad 3 de cada 10 personas no tiene acceso a agua potable, convirtiendo el objetivo del acceso al agua potable como fundamental para el desarrollo de las comunidades y el bienestar de la población por su relevancia en el fomento, la protección y la restauración de la salud. Garantizar la calidad del agua suministrada es otro desafío igual de importante considerando factores como la continua presión de las fuentes de abastecimiento, el cambio global ambiental, la complejidad de los sistemas de producción y distribución , y en muchos casos, las precarias condiciones de tratamiento y distribución.</p>
+<p>Los sistemas integrales de potabilización deben buscar la remoción de contaminantes y como consecuencia, la reducción del riesgo químico y microbiológico presente en la fuente y en todo el proceso de producción . Así mismo, se debe controlar el ingreso de sustancias tóxicas o microorganismos patógenos después de la potabilización. Para alcanzar estos objetivos, además de una gestión integral desde un manejo adecuado de la fuente, sistemas óptimos de potabilización, una correcta distribución y utilización por el usuario, deben estructurarse, desarrollarse y actualizarse planes para la gestión del riesgo de desastres (en adelante riesgo) que tengan en cuenta todas las amenazas y vulnerabilidades sobre el sistema desde la fuente hasta el usuario, que puedan afectar la calidad del agua.</p>
+<p>El objetivo principal de este capítulo es presentar un modelo para evaluar el riesgo en la calidad de agua potable que suministra la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB-ESP) para la ciudad de Bogotá D.C. y otros municipios. El modelo se basa en la evaluación cualitativa e indicativa del riesgo del sistema de agua potable de la ciudad de Bogotá a cargo de la EAAB-ESP ante eventos naturales y antrópicos con el fin de identificar los escenarios más probables y de mayor impacto al sistema, en relación con la posible afectación de la calidad del agua potable.</p>
+<p>El modelo para evaluación de riesgos para la calidad del agua potable incluye tres componentes principales: el de exposición, el de amenazas, y el de vulnerabilidad. El componente de exposición considera todos los elementos susceptibles a daño a causa de los fenómenos naturales y antrópicos externos, y que pueden generar directa o indirectamente afectaciones en la calidad del agua. El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. Por último, la vulnerabilidad relaciona las características propias de cada componente del sistema con el tipo o nivel de afectación que puede sufrir o generar, ante la eventual ocurrencia de los eventos de amenaza. A partir de diferentes escenarios de análisis, se identifican los eventuales impactos críticos sobre el sistema, las amenazas que los pueden generar y los componentes críticos, con lo cual se establece el potencial de afectación en la calidad del agua en cada uno de estos casos de análisis. Los resultados de este tipo de análisis deben validarse de manera complementaria con la información histórica de eventos que hayan generado afectación en el sistema con repercusiones en la calidad del agua. Una vez identificados los escenarios críticos y el potencial de afectación en la calidad del agua, es posible establecer una serie de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua.</p>
+<p>En la literatura existen diferentes metodologías para la evaluación del riesgo a la calidad del agua en sistemas de acueducto. Una de las principales herramientas para este tipo de valoraciones es la <em>Guía para la calidad del agua de consumo humano</em> , desarrollada por la Organización Mundial de la Salud (OMS) en 2011. El objetivo principal de esta guía es “proteger la salud pública asociada a la calidad de agua potable” y se dirigen a los reguladores de agua y salud, y a los responsables de la formulación de políticas en torno a la calidad del agua. Esta guía desarrollada por la OMS presenta un marco conceptual para la aplicación de las guías, se definen las metas de protección de la salud, se desarrollan los planes de seguridad del agua, se establecen los abordajes de vigilancia y la aplicación de las guías en circunstancias específicas. Así mismo, se detallan los aspectos microbiológicos, químicos y radiológicos asociados con la afectación en la calidad del agua. Para esta evaluación, la OMS indica que se debe integrar un equipo multidisciplinario de expertos para su desarrollo. Con este equipo se deben identificar los diferentes componentes del sistema, desde la captación hasta el consumo. Estos componentes deben analizarse de forma simultánea e integral para identificar el punto de ingreso de contaminantes y la posible afectación de estos en la salud del usuario final.</p>
+<p>Las guías indican que se deben priorizar los factores de peligro según su afectación a la calidad de agua, generalmente a través de matrices semicuantitativas o indicativas (es decir, que utilizan indicadores de riesgo para cuantificar en una escala relativa el impacto o consecuencia sobre el sistema). Estas matrices se desarrollan en conjunto con los expertos del equipo de evaluación y usualmente están basados en sus criterios y experiencia, teniendo en cuenta la dificultad de contar con modelos más precisos o físicamente basados, debido a la complejidad y multidisciplinariedad del problema.</p>
+<p>Este tipo de metodologías se aplicó satisfactoriamente en el sistema de distribución de agua potable de la ciudad de Cali, Colombia . En este estudio los autores identificaron los eventos peligrosos para su posterior valoración de riesgo basado en una matriz semicuantitativa adaptada. El resultado principal del estudio fue la priorización de riesgo para la posterior identificación de medidas de mitigación. Similarmente, en Costa Rica se desarrolló el Índice de Riesgo a la Calidad del Agua para Consumo Humano (IRCACH), con el fin de evaluar el cumplimiento o incumplimiento de parámetros fisicoquímicos y microbiológicos del agua . A diferencia del estudio anterior, este se enfocaba en la identificación del estado actual y no de las posibles amenazas de forma prospectiva. Existen ejemplos adicionales en la literatura internacional sobre la aplicación de este tipo de metodologías en casos puntuales al norte de China , Bangladesh , y en el desarrollo de metodologías más generales como la desarrollada para islas pequeñas en vía de desarrollo . Todos estos casos anteriores presentan ejemplos claros de la aplicación de metodologías de evaluación de riesgo a la calidad del agua; sin embargo, no se cuenta con una metodología estándar, en donde se evalúen de forma consistente todos los componentes expuestos y las amenazas que generan un riesgo a la calidad del agua.</p>
+<p>Para el caso del sistema de acueducto de Bogotá, la EAAB-ESP ha desarrollado permanentemente el Plan de Gestión del Riesgo de Desastre de la EAAB-ESP (PGRD) en la ciudad de Bogotá, los municipios de Soacha y Gachancipá y en los municipios cercanos, con el fin de prevenir daños en el sistema de acueducto y alcantarillado frente a eventos no deseados . En el marco del PGRD, la EAAB-ESP desarrolló el Plan Institucional de Respuesta a Emergencias (PIRE) y los Planes de Emergencia y Contingencia por eventos no deseados específicos (PEC). El PIRE es el documento que define las políticas, los criterios, los lineamientos, la organización y las funciones generales para poder tener una respuesta oportuna, eficaz y eficiente en situaciones de emergencia y/o desastre. El objetivo principal del PGRD fue definir la cadena de valor de gestión organizacional, para garantizar calidad, cantidad, continuidad y oportunidad de procesos, productos y servicios, así como una rápida recuperación ante una emergencia, además de asegurar la correcta aplicación de las responsabilidades de la EAAB-ESP en las funciones de respuesta de la Estrategia Distrital de Respuesta de Emergencias (EDRE) de Bogotá y municipios circunvecinos.</p>
+<p>Así mismo, los PEC son los documentos que precisan los criterios, los lineamientos, la organización, los recursos y las actividades específicas para gestionar de forma oportuna y eficaz los eventos que puedan afectar los sistemas de acueducto y alcantarillado. Estos se desarrollaron con el objetivo principal de definir la cadena de valor de la gestión en la prevención, preparación, detección, resistencia, respuesta y recuperación de los sistemas de alcantarillado y acueducto frente a eventos no deseados. Dentro de los PEC se consideraron los siguientes posibles eventos que podrían afectar la funcionalidad del servicio de acueducto y alcantarillado como el deterioro de la calidad de agua (PEC 1), insuficiente cantidad de agua (PEC 2), exceso de cantidad de agua (PEC 3), fallo o daño de componente (PEC 4), sismo (PEC 5), incendio y explosión (PEC 6), incidente de personal (PEC 7), acumulación, derrame o escape de sustancias (PEC 9) y COVID-19 (PEC 10).</p>
+<p>En 2014, la EAAB-ESP desarrolló una consultoría incluyendo los tres componentes principales de la Resolución 549 de 2017: amenazas, vulnerabilidades y caracterización del riesgo, además de los lineamientos para el Plan de Respuesta de Emergencias. Sin embargo, la aproximación de este estudio se enfocó a la afectación de la infraestructura, y muy poco con la alteración de la calidad del agua por algún contaminante o sustancia que afecte la salud humana . En particular, en la consultoría el riesgo se mide como la suma ponderada de las calificaciones de la amenaza y de la vulnerabilidad. En esta metodología se estima el riesgo para cada componente, y el índice total de riesgo es el promedio de cada riesgo calculado para cada componente.</p>
+<p>Adicional a los estudios mencionados anteriormente, entre 2013 y 2015 se realizaron estudios de riesgo por parte de la secretaría de Salud y ESE Hospital Pablo VI de Bosa de las estructuras pertenecientes a “SISTEMA DE TIBITOC”, “SISTEMA CHINGAZA - PTAP FRANCISCO WIESNER”, “PTAP EL DORADO” y “PLANTA DE TRATAMIENTO DE AGUA POTABLE – YOMASA” . Los estudios realizados se basaron en identificar la clasificación de la amenaza (baja, media o alta) de diferentes fenómenos naturales y antrópicos. Para esto se generaron mapas de amenaza de las zonas, cruzando dicha información con la ubicación de las estructuras, identificando que tan propensos eran a tener afectaciones debido a un tipo de amenaza, y de esta forma indicar, al menos de manera preliminar, una posible importancia o prioridad relativa de las amenazas más significativas en términos de la afectación al sistema.</p>
+<p>Por último, en 2018 la Secretaría de Salud de la ciudad de Bogotá generó unos lineamientos metodológicos para la evaluación de riesgo en sistemas de distribución de agua potable . En esta guía se presenta el marco legal, la metodología para la evaluación de riesgos, detallando en el modelo de elementos expuestos de captación, tratamiento y distribución y especificando las diferentes amenazas naturales y antrópicas a considerar. Esta metodología está basada en las recomendaciones de la OMS en las diferentes guías publicadas y se basa en la identificación de las amenazas naturales y antrópicas, la definición de eventos peligrosos y finalmente la identificación de los riesgos en cada uno de los sistemas. La integración se realiza mediante matrices semicuantitativas de identificación de peligro como se ha mencionado anteriormente.</p>
+<p>Con relación a los estudios descritos anteriormente, es posible identificar que el enfoque utilizado es consistente con las metodologías indicadas en la literatura y, en particular, con las metodologías desarrolladas por la Organización Mundial de la Salud. Los resultados observados son de gran utilidad para verificar de forma preliminar las amenazas más críticas en cada uno de los componentes del sistema. Sin embargo, debido a su enfoque, en estos estudios no se identifican puntos críticos especialmente con relación a afectación en la calidad del agua por cada una de las amenazas consideradas, diferenciando la vulnerabilidad física y la vulnerabilidad a la calidad del agua. Esto representa una desventaja para la definición de las opciones de mitigación.</p>
+<p>Teniendo esto en cuenta, en el presente estudio se abordan estas problemáticas de manera espacial con el objetivo de identificar estos puntos críticos y de evaluar el riesgo con respecto al usuario final, incorporando las capacidades de tratamiento de contaminantes de cada uno de los componentes del sistema. Así mismo, se analizan las posibles afectaciones aguas abajo de las plantas de tratamiento y los riesgos asociados a posibles contaminantes no tratados y su incidencia en la calidad del agua hacia el usuario final. De esta forma, los resultados finales se pueden interpretar con una perspectiva integral multi-amenaza consistente para todos los sistemas de acueducto, que sirva para priorizar riesgos y posteriormente realizar estudios de detalle enfocados en la mitigación. Por último, es importante resaltar que dada la relativa facilidad y sencillez de la metodología, la posibilidad de actualizar y recalcular los indicadores de riesgo periódicamente, o cuando se tenga acceso a nueva información de la red, facilita a las empresas de servicios públicos la renovación y mejoramiento continuo de las estrategias de gestión del riesgo planteadas a partir de este modelo.</p>
+</section>
+<section id="metodología" class="level2">
+<h2 class="anchored" data-anchor-id="metodología">METODOLOGÍA</h2>
+<p>Teniendo en cuenta lo anterior, la metodología propuesta se basa en un enfoque de gestión del riesgo, entendiendo el riesgo como la integración de los componentes de exposición, amenaza y vulnerabilidad. Está metodología se articula con los desarrollos y procedimientos indicados por la OMS y aplicados anteriormente por la EAAB-ESP. A continuación, se presenta cada uno de estos componentes y finalmente la metodología para la cuantificación del riesgo ante eventos naturales y antrópicos.</p>
+<p><strong>Exposición</strong></p>
+<p>Para fines de la identificación del riesgo se agrupan los elementos de la infraestructura de los sistemas de acueducto en cuatro grandes componentes: captación, almacenamiento, tratamiento y distribución. El sistema de captación está compuesto por las cuencas, túneles y tuberías que dirigen el agua cruda a los sistemas de almacenamiento. El sistema de almacenamiento se compone por los embalses y por tanques urbanos y rurales. El sistema de tratamiento se compone por las Plantas de Tratamiento para Agua Potable (PTAP) y todos los subsistemas asociados a este. Por último, el sistema de distribución se compone por las estructuras de bombeo, estructuras de control, la red matriz y red menor de acueducto incluyendo las pilas y los tanques de almacenamiento de agua tratada del sistema. Estos sistemas y subsistemas se identifican en la <strong>Figura 1</strong>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig1.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig1.png</figcaption>
+</figure>
+</div>
+<p>Figura . Modelo exposición EAAB-ESP. Fuente: construcción propia.</p>
+<p>Los componentes principales del sistema se deben agrupar en un formato de Sistema de Información Geográfica (SIG), en el que se incluyen diferentes aspectos como la identificación de cada componente, la ubicación, el costo asociado, año de construcción y características propias de cada componente como área, volumen, diámetro o longitud, entre otras.</p>
+<section id="amenaza" class="level3">
+<h3 class="anchored" data-anchor-id="amenaza">Amenaza</h3>
+<p>El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud . Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la <strong>Figura 2.</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig2.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig2.png</figcaption>
+</figure>
+</div>
+<p>Figura 2. Amenazas totales consideradas. Fuente: construcción propia</p>
+<p>Cada una de las posibles amenazas se debe evaluar de manera simplificada, con el fin de calificar la probabilidad de ocurrencia en un escenario seleccionado de tiempo determinado, en términos de:</p>
+<p>Intensidad máxima probable que pueda llegar a generar un impacto significativo al sistema.</p>
+<p>Frecuencia media esperada de ocurrencia de dicho evento.</p>
+<p>Las amenazas se representan mediante escenarios seleccionados con alta probabilidad de ocurrencia. Cuando la ocurrencia de un evento natural sobre la zona de influencia de algún componente dependa de uno o más factores detonantes, la frecuencia de ocurrencia de este estaría asociada a la frecuencia de ocurrencia de los detonantes más probables (por ejemplo, la frecuencia de eventos de deslizamientos podría estar asociada a la frecuencia de los eventos detonantes de precipitaciones). En caso de ausencia de información se asignan valores esperados medios razonables a partir de experiencia previa e información de proyectos similares. Algunas amenazas solo tienen un indicador de la intensidad, frecuencia esperada y punto de ubicación donde puede llegar a ocurrir. Por lo tanto, la amenaza debe calificarse para cada componente mediante dos parámetros:</p>
+<p>Un indicador de intensidad relativa (1 a 5): es la intensidad con que se podría presentar el evento en cada una de las ubicaciones o componentes expuestos y que pueden llegar a generar posibles impactos a la infraestructura expuesta o directamente en la calidad del agua. Se debe tener en cuenta que el indicador debe permitir comparar el nivel de amenaza para todos los componentes simultáneamente. Por otro lado, debe asegurarse consistencia al comparar un nivel de amenaza entre dos eventos con relación al eventual impacto que pueden llegar a producir (por ejemplo, Nivel 5 para un terremoto o un incendio generarían las peores posibles consecuencias a los componentes que puede afectar según su vulnerabilidad). Cada evento se debe calificar de acuerdo con la siguiente tabla de severidad o intensidades relativas y la calificación debe hacerse para cada uno de los componentes principales expuestos del sistema.</p>
+<p>Tabla 1. Intensidad relativa de eventos de amenaza (A).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Calificación</th>
+<th>Observación</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Inexistente</td>
+<td>1</td>
+<td>No susceptible - La amenaza no afecta al componente</td>
+</tr>
+<tr class="even">
+<td>Bajo</td>
+<td>2</td>
+<td>Susceptibilidad baja - Evento que no generaría impactos importantes</td>
+</tr>
+<tr class="odd">
+<td>Medio</td>
+<td>3</td>
+<td>Susceptibilidad media - Evento que generaría impactos medios</td>
+</tr>
+<tr class="even">
+<td>Alto</td>
+<td>4</td>
+<td>Susceptibilidad alta - Evento que generaría impactos importantes</td>
+</tr>
+<tr class="odd">
+<td>Extremo</td>
+<td>5</td>
+<td>Susceptibilidad muy alta - Eventos con alta potencialidad de generar daños</td>
+</tr>
+</tbody>
+</table>
+<p>Un indicador de frecuencia relativa de ocurrencia: la intensidad indicada anteriormente deberá tener un indicador asociado de frecuencia de ocurrencia según la <strong>Tabla 2</strong>. Esta tabla debe usarse para caracterizar las amenazas naturales y antrópicas, de acuerdo con la frecuencia histórica observada de ocurrencia de dichos eventos.</p>
+<p>Tabla 2. Frecuencia relativa de ocurrencia de eventos de amenaza (T).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Caracterización</th>
+<th>Calificación</th>
+<th>Frecuencia de Ocurrencia Valor de Referencia</th>
+<th>Frecuencia de Ocurrencia Valor de Referencia</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Caracterización</td>
+<td>Calificación</td>
+<td>Naturales Frecuencia de ocurrencia</td>
+<td>Antrópicas Frecuencia histórica de eventos (OMS, 2014)</td>
+</tr>
+<tr class="even">
+<td>Muy poco probable</td>
+<td>1</td>
+<td>1000 años</td>
+<td>Indeterminado</td>
+</tr>
+<tr class="odd">
+<td>Poco probable</td>
+<td>2</td>
+<td>100 a 500 años</td>
+<td>5 años</td>
+</tr>
+<tr class="even">
+<td>Probable</td>
+<td>3</td>
+<td>10 a 50 años</td>
+<td>1 año</td>
+</tr>
+<tr class="odd">
+<td>Ocasional</td>
+<td>4</td>
+<td>1 a 5 años</td>
+<td>1 mes</td>
+</tr>
+<tr class="even">
+<td>Frecuente</td>
+<td>5</td>
+<td>meses</td>
+<td>1 día</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="vulnerabilidad" class="level3">
+<h3 class="anchored" data-anchor-id="vulnerabilidad">Vulnerabilidad</h3>
+<p>La vulnerabilidad corresponde a la predisposición de cada componente a sufrir daño y/o a generar impacto en la calidad del agua ante cada uno de los eventos de amenaza y dependerá de los siguientes aspectos:</p>
+<p>Que cada uno de los eventos de amenaza puedan llegar a tener algún tipo de impacto en cada componente y por lo tanto en la calidad del agua.</p>
+<p>Del tipo de componente, sus características físicas, accesibilidad y estado actual.</p>
+<p>Para cada componente y para cada amenaza debe asignarse una vulnerabilidad de acuerdo con la posible afectación a la infraestructura y/o a su impacto en la calidad del agua. La asignación debe obtenerse a partir de la siguiente ecuación dependiendo del caso –ecuaciones basadas en OMS :</p>
+<p><strong>Caso 1:</strong> Sin afectación a la infraestructura*:</p>
+<p><span class="math display">\[V=Vc\]</span></p>
+<p><strong>Caso 2:</strong> con afectación a la infraestructura*:</p>
+<p><span class="math display">\[V=1680VcVf\]</span></p>
+<p>En las anteriores ecuaciones, <span class="math inline">\(Vc\)</span> se refiere al impacto de la amenaza sobre la calidad del agua para el usuario final y debe asignarse de acuerdo con lo indicado en la <strong>Tabla 3</strong> (esta calificación está basada en el Manual para el Desarrollo de Planes de Seguridad del Agua de la Organización Mundial de la Salud OMS de 2009). Vale la pena aclarar que si se está considerando un contaminante en los subsistemas de almacenamiento y/o captación (cuencas, embalses, túneles, etc.), previo al proceso de tratamiento en las PTAP y estos contaminantes se tratan efectivamente en la planta bajo condiciones de operación normal de la misma, la vulnerabilidad asignada debe ser 1. Por otro lado, <span class="math inline">\(Vf\)</span> corresponde a un indicador de vulnerabilidad física de cada componente ante cada tipo de amenaza con respecto a la posible afectación sobre la calidad del agua. El indicador <span class="math inline">\(Vf\)</span> debe asignarse de acuerdo con lo indicado en la <strong>Tabla 4</strong>.</p>
+<p>El indicador de vulnerabilidad final <span class="math inline">\(V\)</span> , identifica el impacto en la calidad del agua para amenazas que no generen afectación en la infraestructura como en el caso de derrames accidentales, amenaza agropecuaria, minera o tecnológica industrial o doméstica. También identifica el impacto para el caso en que la amenaza genere afectación directa en la infraestructura y por lo tanto a la calidad del agua como en el caso de sismos, deslizamientos y descargas torrenciales.</p>
+<p>La calificación final del indicador de vulnerabilidad, <span class="math inline">\(V\)</span> , estará entonces en un rango de 1 a 16, siendo 16 la mayor vulnerabilidad. La escala relativa hasta 16 se prefiere con el fin de mantener la compatibilidad con lo propuesto por la OMS .</p>
+<p>Tabla 3. Calificación de vulnerabilidad a la calidad del agua (Vc).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Calificación</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Insignificante</td>
+<td>1</td>
+<td>Agua segura</td>
+</tr>
+<tr class="even">
+<td>De poca importancia</td>
+<td>2</td>
+<td>Consecuencias a corto plazo o locales, sin relación con la salud, ni con parámetros de cumplimiento, ni organolépticas</td>
+</tr>
+<tr class="odd">
+<td>Moderadas</td>
+<td>4</td>
+<td>Consecuencias organolépticas extendidas o incumplimiento prolongado sin relación con la salud</td>
+</tr>
+<tr class="even">
+<td>Graves</td>
+<td>8</td>
+<td>Posibles efectos sobre la salud a largo plazo</td>
+</tr>
+<tr class="odd">
+<td>Catastróficas</td>
+<td>16</td>
+<td>Posible enfermedad</td>
+</tr>
+</tbody>
+</table>
+<p>Adaptado de: OMS, 2009</p>
+<p>Tabla . Calificación de vulnerabilidad a la infraestructura física (Vf).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Calificación</th>
+<th>Observación</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Inexistente</td>
+<td>1</td>
+<td>El componente no es vulnerable ante la ocurrencia de este evento sin afectación potencial al sistema o la calidad</td>
+</tr>
+<tr class="even">
+<td>Bajo</td>
+<td>2</td>
+<td>La ocurrencia del evento generaría impactos menores en el componente con baja afectación</td>
+</tr>
+<tr class="odd">
+<td>Medio</td>
+<td>3</td>
+<td>La ocurrencia del evento generaría impacto medio en el componente con afectación media</td>
+</tr>
+<tr class="even">
+<td>Alto</td>
+<td>4</td>
+<td>La ocurrencia del evento generaría impacto alto con cierre, falla o colapso y alta afectación</td>
+</tr>
+<tr class="odd">
+<td>Extremo</td>
+<td>5</td>
+<td>La ocurrencia del evento podría generar la falla o colapso del componente y generar muy alta afectación</td>
+</tr>
+</tbody>
+</table>
+<p>Fuente: Construcción propia</p>
+</section>
+<section id="estimación-del-riesgo" class="level3">
+<h3 class="anchored" data-anchor-id="estimación-del-riesgo">Estimación del riesgo</h3>
+<p>La evaluación del riesgo identifica los posibles escenarios potenciales de mayor afectación física e impacto en el sistema y en la calidad del agua. Por consiguiente, el indicador de riesgo es una herramienta básica para la toma de decisiones con respecto a las consideraciones principales que deben tenerse en cuenta en los planes de mitigación y reducción del riesgo a la calidad del agua. Teniendo en cuenta eso, la evaluación del riesgo se hará mediante la estimación de un indicador cualitativo relativo (<em>R</em>) para cada uno de los componentes y eventos que puedan afectarlo. Teniendo esto en cuenta, se propone el siguiente indicador de riesgo modificado con la frecuencia –ecuaciones basadas en OMS :</p>
+<p><span class="math display">\[RT = A V T\]</span></p>
+<p>En esta ecuación, <em>A</em> es un indicador de la amenaza (de 1 a 5) y <em>V</em> es un indicador de la vulnerabilidad (de 1 a 16), siguiendo las calificaciones indicadas anteriormente. Cada calificación del riesgo tendría además un indicador de temporalidad de ocurrencia, <em>T</em>, asociado a la frecuencia media de ocurrencia asignada a cada evento de acuerdo con la <strong>Tabla 2</strong> (de 1 a 5). Considerando que eventos con alta frecuencia de ocurrencia deben generar una estrategia diferente de acción con respecto a eventos de ocurrencia remota.</p>
+<p>De esta manera una amenaza muy alta (Extrema = 5) con una vulnerabilidad muy alta con o sin afectación a la infraestructura (Catastrófica o Extrema = 16) y una alta frecuencia alta de ocurrencia para eventos naturales o antrópicos (Frecuente = 5), tendrá un indicador de riesgo con un valor de <span class="math inline">\(R=400\)</span> . En un proceso posterior, es posible normalizar el indicador al rango 0 a 100%, en el cual el 100% corresponde al evento con peor posible riesgo; es decir, aquel con máxima intensidad de amenaza natural o antrópica, máxima frecuencia de ocurrencia y máxima vulnerabilidad con eventual impacto en la calidad del agua del sistema.</p>
+<p>Este indicador de riesgo puede utilizarse para priorizar los eventos y los componentes que generan el mayor impacto en el sistema teniendo en cuenta simultáneamente su frecuencia esperada de ocurrencia. Esto sirve para definir las prioridades para desarrollar estudios más detallado de evaluación de impacto y a partir de estos implementar opciones de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua. Es importante aclarar que el objetivo de este estudio no es realizar la caracterización detallada de cada posible modo de falla, sino poder entender la matriz de riesgos que afecta el sistema y a partir de esto lograr priorizar los más riesgos más críticos y lograr mitigarlos.</p>
+<div class="caja-box">
+<p><strong>Caja 1.</strong> Resumen de los casos que pueden ocurrir: Evento natural con impacto en la infraestructura y luego en la calidad Evento natural con impacto en la calidad directamente sin afectar la infraestructura Evento antrópico con afectación a infraestructura y en la calidad Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura</p>
+</div>
+</section>
+</section>
+<section id="caso-de-estudio-bogotá" class="level2">
+<h2 class="anchored" data-anchor-id="caso-de-estudio-bogotá">CASO DE ESTUDIO: BOGOTÁ</h2>
+<section id="generalidades" class="level3">
+<h3 class="anchored" data-anchor-id="generalidades">Generalidades</h3>
+<p>El análisis integral del riesgo de la calidad del agua, según como lo especifica la guía técnica de la Organización Mundial de la Salud , y como se indicó anteriormente, requiere la identificación detallada y exhaustiva de los posibles fenómenos y factores que representan una posible afectación en la calidad del agua de un sistema de agua potable. Para esto es importante identificar los diferentes tipos de amenazas que afectan al sistema, los componentes críticos del sistema, la vulnerabilidad de estos y la manera como estos se relacionan. Teniendo en cuenta todas las posibles relaciones, se realizó una mesa de trabajo multidisciplinario entre expertos en calidad del agua, sistemas hidrológicos e hidráulicos y expertos en la evaluación del riesgo físico en infraestructura. El objetivo de las reuniones entre expertos fue la definición de las posibles amenazas y parámetros a considerar en cada componente del sistema. Teniendo en cuenta lo anterior, en las siguientes secciones se presenta una descripción de cada uno de estos componentes y de su aplicación en el caso de estudio del sistema de acueducto de la ciudad de Bogotá, Colombia.</p>
+</section>
+<section id="exposición" class="level3">
+<h3 class="anchored" data-anchor-id="exposición">Exposición</h3>
+<p>La información utilizada para el modelo de exposición se obtuvo principalmente de la EAAB-ESP, sin embargo esta información fue complementada según cada caso con datos oficiales disponibles en línea de entidades como la Infraestructura de Datos Espaciales Regional (IDER) de la Gobernación de Cundinamarca, el Instituto Geográfico Agustín Codazzi (IGAC), el Instituto Nacional de Vías (INVIAS) y el centro de Mapas y Estadísticas de Cundinamarca. En particular, para el caso del sistema de acueducto de Bogotá se cuenta con tres sistemas principales de recolección y suministro de agua:</p>
+<p>Sistema Norte – Chingaza: Cuenca Río Bogotá (Tominé, Sisga y Neusa)</p>
+<p>Sistema Sumapaz: Cuenca Río Sumapaz</p>
+<p>Sistema Agregado Norte – Tibitoc: Cuenca Río Bogotá (Chuza y San Rafael)</p>
+<p>Cada sistema puede subdividirse en diferentes componentes. Estos componentes principales del sistema deben caracterizarse y ubicarse geográficamente para el propósito del análisis del riesgo. En la <strong>Figura 3</strong>, se presenta el sistema del acueducto de la ciudad de Bogotá. Esta información es la base para la cuantificación del riesgo para cada una de las amenazas y en cada componente del sistema siguiendo la metodología indicada anteriormente.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig3.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig3.png</figcaption>
+</figure>
+</div>
+<p><strong>Figura 3.</strong> Modelo de exposición completo. Fuente: Construcción propia</p>
+</section>
+<section id="amenaza-1" class="level3">
+<h3 class="anchored" data-anchor-id="amenaza-1">Amenaza</h3>
+<p>El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. En las siguientes secciones se presenta el análisis de las amenazas incluidas en la evaluación del riesgo, tanto naturales como antrópicas.</p>
+<div class="caja-box">
+<p><strong>Caja 2.</strong> Tipos de amenazas incluidas | Caja 2. Tipos de amenazas incluidas</p>
+</div>
+<div class="line-block">— | — |<br>
+Amenazas de origen natural: sísmica precipitaciones sequía inundaciones deslizamiento descargas torrenciales incendios forestales volcanes vendaval | Amenazas de origen antrópico: terrorismo y atentados terrorismo virtual tecnológicos domésticos tecnológicos industriales accidentes viales y derrames agropecuario minería gestión institucional |</div>
+<p><strong>Amenazas naturales</strong></p>
+<p>En primer lugar, la amenaza sísmica se obtuvo a partir del modelo probabilista desarrollado por el Centro de Investigación en Materiales y Obras Civiles (CIMOC) de la Universidad de los Andes. La amenaza por eventos de precipitación se obtuvo a partir de la información de curvas IDF desarrolladas por el IDEAM para 110 estaciones a nivel nacional, con información disponible hasta el 2010. Estas curvas están disponibles en la página web del IDEAM . La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 50 años (equivalente al periodo de retorno del mapa base). La amenaza por sequía se derivó a partir de los mapas de susceptibilidad desarrollados por el IDEAM en 2014 (escala 1:9,000,000 a nivel nacional). La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por inundaciones se desarrolló a partir de una metodología simplificada de susceptibilidad de inundación, basada en el Blue Spot Model .</p>
+<p>La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 50 años. La amenaza por deslizamiento fue incluida a partir de los mapas de susceptibilidad desarrollados por el SGC . La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 25 años. La amenaza por descargas torrenciales se generó a partir de una metodología simplificada de clasificación de susceptibilidad de cuencas . La frecuencia asociada con este mapa corresponde a un valor de 3 equivalente a un periodo de retorno de 50 años. La amenaza por incendios forestales se consideró a partir de los mapas oficiales realizados por el IDEAM (escala a nivel nacional 1:500,000 o menores).</p>
+<p>La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por volcanes se implementó a partir de los mapas oficiales realizados y actualizados por el Servicio Geológico Colombiano (SGC) en 2015 (escala 1:120,000) . La frecuencia asociada con este mapa corresponde a un valor de 1 correspondiente a un periodo de retorno de 500 años (equivalente al periodo de retorno del mapa base). La amenaza por vendavales a partir de los mapas oficiales de velocidades anuales máximas promedios de vientos del IDEAM a partir de los registros entre los años 2000 y 2010 (escala 1:12,000,000). La frecuencia asociada con este mapa corresponde a un valor de 4 equivalente a un periodo de retorno de 1 año. En la <strong>Figura 4</strong> se presentan los mapas de intensidad para cada una de las amenazas naturales mencionada anteriormente.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig4.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig4.png</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>a) Sismo 225 años</th>
+<th>b) Sismo 475 años</th>
+<th>c) Precipitaciones</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>d) Sequía</td>
+<td>e) Inundaciones</td>
+<td>f) Deslizamiento</td>
+</tr>
+<tr class="even">
+<td>g) Descargas torrenciales</td>
+<td>h) Incendios forestales</td>
+<td>i) Volcanes</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>j) Vendaval</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Figura 4. Mapas de amenaza de origen natural.</p>
+<p><strong>Amenazas antrópicas</strong></p>
+<p>La amenaza por terrorismo y atentados se determinó de acuerdo con consulta interdisciplinaria de especialistas teniendo en cuenta que todos los elementos pueden ser sujetos a algún tipo de sabotaje y atentado. La frecuencia asociada a este fenómeno corresponde a un valor de 1 asociado a periodos de retorno de 10 años. Este periodo de retorno está basado en los atentados y su frecuencia registrados en la base de datos de la Fiscalía . La amenaza por terrorismo virtual, contrario al terrorismo/atentados, se conceptualiza como la potencialidad de intentos de sabotaje electrónico y/o virtual de los componentes. El terrorismo virtual únicamente es relevante para aquellos componentes cuya funcionalidad de control, ejecución y supervisión depende de sistemas electrónicos. La frecuencia asociada a este fenómeno corresponde a un valor de 1 asociado a periodos de retorno de 10 años.</p>
+<p>La amenaza por eventos tecnológicos domésticos se obtuvo a partir de las viviendas urbanas y rurales identificadas en los mapas del Instituto Geográfico Agustín Codazzi (IGAC), en los cuales se puede identificar las zonas de uso. La frecuencia asociada con este mapa corresponde a un valor de 3 asociado a un periodo de retorno de 1 año. La amenaza por eventos tecnológicos industriales se generó a partir de la identificación de las construcciones con ocupación y uso industrial en los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca, así como su posterior validación con los respectivos POT municipales de la región. La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 1 año. La amenaza por accidentes viales y derrames fue identificada a partir de los mapas de vías principales y secundarias del INVIAS y la ANI, junto con los mapas de la ubicación aproximada de los sistemas de oleoductos y gasoductos en el territorio nacional del CENIT y GEB respectivamente. La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 1 año. La amenaza agropecuaria está derivada a partir de la identificación de los terrenos con ocupación agrícola y pecuaria de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual.</p>
+<p>La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la <strong>Figura 5</strong> se presentan los mapas de intensidades para cada una de estas amenazas.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig5.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig5.png</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>a) Terrorismo y atentados</th>
+<th>b) Terrorismo virtual</th>
+<th>c) Tecnológicos domésticos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>d) Tecnológicos industriales</td>
+<td>e) Accidentes viales y derrames</td>
+<td>f) Agropecuario</td>
+</tr>
+<tr class="even">
+<td>g) Minería</td>
+<td>h) Gestión institucional – Talento humano</td>
+<td>i) Gestión institucional – Recursos físicos</td>
+</tr>
+<tr class="odd">
+<td>j) Gestión institucional - Procedimientos</td>
+<td>k) Gestión institucional - Financiero</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Figura . Mapas de amenaza de origen antrópico.</p>
+</section>
+<section id="vulnerabilidad-1" class="level3">
+<h3 class="anchored" data-anchor-id="vulnerabilidad-1">Vulnerabilidad</h3>
+<p>La vulnerabilidad corresponde a la predisposición de cada componente a sufrir daño y/o a generar impacto en la calidad del agua ante cada uno de los eventos de amenaza y dependerá de los siguientes aspectos:</p>
+<p>Que cada uno de los eventos de amenaza puedan llegar a tener algún tipo de impacto en cada componente y por lo tanto en la calidad del agua.</p>
+<p>Del tipo de componente, sus características físicas, accesibilidad y estado actual.</p>
+<p>Para cada componente y para cada amenaza se asigna una vulnerabilidad de acuerdo con la posible afectación a la infraestructura y/o a su impacto en la calidad del agua. Estas calificaciones se desarrollaron en conjunto, a partir de reuniones virtuales colaborativas, entre expertos de la Universidad de Los Andes y de la Empresa de Acueducto y Alcantarillado de Bogotá, teniendo en cuenta que cada fila representa una amenaza particular y cada columna un componente de exposición. Por cada combinación de componente con amenaza se indicó en la justificación los diferentes parámetros químicos, microbiológicos o radioactivos que se están considerando en la calificación. A modo de ejemplo, en la <strong>Tabla 5</strong> se presentan las calificaciones de vulnerabilidad a la calidad y sus justificaciones para el sistema de captación Norte Chingaza y las amenaza de incendios forestales.</p>
+<p>Tabla 5. Justificación calificaciones vulnerabilidad a partir de reuniones colaborativas.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Amenaza &nbsp;Componentes</th>
+<th>Captación</th>
+<th>Captación</th>
+<th>Captación</th>
+<th>Captación</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cuencas hidrográficas</td>
+<td>Cuencas hidrográficas</td>
+<td>Cuencas hidrográficas</td>
+<td>Cuencas hidrográficas</td>
+</tr>
+<tr class="even">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Justificación</td>
+<td>Observación UA</td>
+<td>Observación EAAB</td>
+<td>Cal.</td>
+</tr>
+<tr class="odd">
+<td>Incendios</td>
+<td>Material particulado Arrastre materia orgánica Aumento inundaciones Sustancias químicas (retardantes de llama) Aumento en temperatura del agua: Cambios en concentraciones de sustancias y liberación genes resistentes antibióticos) Poblaciones microbiológicas de los suelos (aumento anaerobias fijadoras de nitrógeno) incremento de CO2, Óxidos de Nitrógeno y azufre, alquitrán, se puede producir ozono a nivel del suelo.</td>
+<td>Las plantas no están preparadas para remover contaminantes emergentes (PFOS, PFOA, muy estables). No se miden, Asociado con los incendios se genera aumento de Turbidez, presencia de materia orgánica húmica. Fúlvica, cambios de pH en las fuentes superficiales del área aferente. Afectación de la fauna y la flora, pérdida de biodiversidad, riesgo de inundaciones y erosión por la pérdida de la capa vegetal</td>
+<td>16 debido a que los incendios pueden modificar la producción de agua) y se reflejaría en un desabastecimiento</td>
+<td>16</td>
+</tr>
+</tbody>
+</table>
+<p>En total se tienen cinco matrices de vulnerabilidad para todas las amenazas y todos los componentes. La <strong>Tabla 6</strong> presenta la vulnerabilidad física para todos los componentes de los sistemas de captación, almacenamiento y potabilización, en cada una de las amenazas consideradas.</p>
+<p>Tabla 6. Vulnerabilidad física.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Amenaza &nbsp;Componentes</th>
+<th>Amenaza &nbsp;Componentes</th>
+<th>Captación</th>
+<th>Captación</th>
+<th>Almacenamiento</th>
+<th>Almacenamiento</th>
+<th>Potabilización</th>
+<th>Potabilización</th>
+<th>Potabilización</th>
+<th>Potabilización</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cuencas hidrográficas</td>
+<td>Túneles y tuberías</td>
+<td>Embalses</td>
+<td>PTAP</td>
+<td>Estructuras de bombeo</td>
+<td>Estructuras de control</td>
+<td>Tanques</td>
+<td>Carrotanques</td>
+</tr>
+<tr class="even">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sismos</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Precipitaciones</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sequía</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Inundaciones</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Deslizamientos</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Descargas torrenciales</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Incendios forestales</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Volcanes</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Vendaval</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Terrorismo/ Atentados</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Terrorismo virtual</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Tecnológicos domésticos (aguas residuales)</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Tecnológicos industriales</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Accidentes viales y derrames</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Agropecuario</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Minería</td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Talento humano</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Recursos físicos</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Procedimientos</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Financiera</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>En la <strong>Tabla 7</strong> se presentan los resultados para los componentes de captación, componentes de almacenamiento y potabilización, para los componentes del sistema de distribución del sistema Norte Chingaza. Para el sistema Sur–Sumapaz se presenta en la <strong>Tabla 8</strong> los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución. Para el sistema Agregado Norte-Tibitoc se presenta en la <strong>Tabla 9</strong> los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución.</p>
+<p>Tabla 7. Vulnerabilidad calidad sistema Norte Chingaza.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Amenaza &nbsp;Componentes</th>
+<th>Amenaza &nbsp;Componentes</th>
+<th>Captación</th>
+<th>Captación</th>
+<th>Almacenamiento</th>
+<th>Potabilización</th>
+<th>Distribución</th>
+<th>Distribución</th>
+<th>Distribución</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cuencas hidrográficas</td>
+<td>Túneles y tuberías</td>
+<td>Embalses</td>
+<td>PTAP</td>
+<td>Estructuras de bombeo</td>
+<td>Estructuras de control</td>
+<td>Tanques</td>
+</tr>
+<tr class="even">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sismos</td>
+<td>4</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Precipitaciones</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sequías</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Inundaciones</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Deslizamientos</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Descargas torrenciales</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Incendios</td>
+<td>16</td>
+<td>1</td>
+<td>16</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Volcanes</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Vendaval</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Terrorismo/Atentados</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Terrorismo virtual</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Tecnológicos domésticos (aguas residuales)</td>
+<td>16</td>
+<td>1</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Tecnológicos industriales</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Accidentes viales y derrames</td>
+<td>16</td>
+<td>8</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Agropecuario</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Minería</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Talento humano</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Recursos físicos</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Procedimientos</td>
+<td>8</td>
+<td>2</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Financiera</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+<p>Tabla 8. Vulnerabilidad calidad Sur – Sumapaz.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Amenaza &nbsp;Componentes</th>
+<th>Amenaza &nbsp;Componentes</th>
+<th>Captación</th>
+<th>Captación</th>
+<th>Almacenamiento</th>
+<th>Potabilización</th>
+<th>Distribución</th>
+<th>Distribución</th>
+<th>Distribución</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cuencas hidrográficas</td>
+<td>Túneles y tuberías</td>
+<td>Embalses</td>
+<td>PTAP</td>
+<td>Estructuras de bombeo</td>
+<td>Estructuras de control</td>
+<td>Tanques</td>
+</tr>
+<tr class="even">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sismos</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Precipitaciones</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sequías</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Inundaciones</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Deslizamientos</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Descargas torrenciales</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Incendios</td>
+<td>16</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Volcanes</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Vendaval</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Terrorismo/Atentados</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Terrorismo virtual</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Tecnológicos domésticos (aguas residuales)</td>
+<td>16</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Tecnológicos industriales</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Accidentes viales y derrames</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Agropecuario</td>
+<td>16</td>
+<td>1</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Minería</td>
+<td>4</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Talento humano</td>
+<td>4</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Recursos físicos</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Procedimientos</td>
+<td>8</td>
+<td>2</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Financiera</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+<p>Tabla 9. Vulnerabilidad calidad sistema Tibitoc.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Amenaza &nbsp;Componentes</th>
+<th>Amenaza &nbsp;Componentes</th>
+<th>Captación</th>
+<th></th>
+<th>Almacenamiento</th>
+<th>Potabilización</th>
+<th>Distribución</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cuencas hidrográficas</td>
+<td>Túneles y tuberías</td>
+<td>Embalses</td>
+<td>PTAP</td>
+<td>Estructuras de bombeo</td>
+<td>Estructuras de control</td>
+<td>Tanques</td>
+</tr>
+<tr class="even">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+<td>Cal.</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sismos</td>
+<td>4</td>
+<td>16</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Precipitaciones</td>
+<td>16</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sequías</td>
+<td>16</td>
+<td>4</td>
+<td>16</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Inundaciones</td>
+<td>8</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Deslizamientos</td>
+<td>8</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Descargas torrenciales</td>
+<td>8</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Incendios</td>
+<td>8</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Volcanes</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Vendaval</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Terrorismo/Atentados</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Terrorismo virtual</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Tecnológicos domésticos (aguas residuales)</td>
+<td>16</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Tecnológicos industriales</td>
+<td>16</td>
+<td>1</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Accidentes viales y derrames</td>
+<td>16</td>
+<td>8</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Agropecuario</td>
+<td>16</td>
+<td>2</td>
+<td>16</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Minería</td>
+<td>8</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Talento humano</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Recursos físicos</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Procedimientos</td>
+<td>8</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Financiera</td>
+<td>8</td>
+<td>4</td>
+<td>16</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+<p>El sistema de carrotanques se califica de manera general pues no presenta diferencias significativas con respecto a cada sistema de captación. Las calificaciones, así como sus justificaciones y observaciones de presentan en la <strong>Tabla 10.</strong></p>
+<p>Tabla . Vulnerabilidad calidad carrotanques.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Amenaza &nbsp;Componentes</th>
+<th>Amenaza &nbsp;Componentes</th>
+<th>Distribución</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Carro-tanques</td>
+</tr>
+<tr class="even">
+<td>Amenaza &nbsp;Componentes</td>
+<td>Amenaza &nbsp;Componentes</td>
+<td>Calificación</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sismos</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Precipitaciones</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Sequías</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Inundaciones</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Deslizamientos</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Descargas torrenciales</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Incendios</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Naturales</td>
+<td>Volcanes</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Naturales</td>
+<td>Vendaval</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Terrorismo/Atentados</td>
+<td>16</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Terrorismo virtual</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Tecnológicos domésticos (aguas residuales)</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Tecnológicos industriales</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Accidentes viales y derrames</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Agropecuario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Minería</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Talento humano</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Recursos físicos</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Antrópicas</td>
+<td>Gestión institucional - Procedimientos</td>
+<td>16</td>
+</tr>
+<tr class="even">
+<td>Antrópicas</td>
+<td>Gestión institucional - Financiera</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+<p>Adicionalmente las redes de distribución se analizaron de forma individual debido a la heterogeneidad propia de estas. Esto implica que las calificaciones se realizan para cada uno de los tramos de forma individual. Para este propósito se tuvo en cuenta una calificación a la vulnerabilidad de acuerdo con las propiedades químicas del agua (i.e.&nbsp;corrosividad, desinfectante, turbiedad) su interacción con la red y los cambios que podrían ocasionar sobre la calidad del agua, así como también una calificación a la vulnerabilidad asociada a las características físicas de cada tramo (i.e.&nbsp;material, diámetro, operación).</p>
+<p>Para asignar las calificaciones con respecto al tipo de agua que transitan se asignaron valores de vulnerabilidad baja (0), media (8) y alta (16) para la turbiedad, indicadores de corrosividad como el índice de Langelier, el índice de Ryznar, el índice de Larson, y la relación CSMR y el tipo de desinfectante es decir las variables de estabilidad química y física. Los rangos y límites que se toman para cada variable se presentan en la <strong>Tabla 11</strong>.</p>
+<p>Tabla 11. Asignación de vulnerabilidad química en redes.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables Químicas de Calidad</th>
+<th>Baja</th>
+<th>Media</th>
+<th>Alta</th>
+<th>Fuente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Estabilidad Física (Turbiedad) (NTU)</td>
+<td>&lt; 0.8</td>
+<td></td>
+<td>&gt;0.8</td>
+<td>Escala de elaboración propia a partir de límites de estabilidad física óptima propuesta por Zhang et al.&nbsp;: valores menores a 0.8 NTU indicarían que el agua distribuida es estable físicamente y generaría una vulnerabilidad baja en la red, mientras que valores superiores a 0.8 NTU incrementarían sustancialmente la vulnerabilidad a una categoría alta</td>
+</tr>
+<tr class="even">
+<td>Estabilidad Química (Langelier)</td>
+<td>&gt; -0.5</td>
+<td>de -0.5 a -2</td>
+<td>&lt; -2</td>
+<td>Escala de elaboración propia a partir de límites de corrosividad propuestos por Pietrucha-Urbanik, : para que la corrosividad sea casi imperceptible (&gt;-0.5) teniendo una vulnerabilidad baja; condiciones para una corrosión moderada (-0.5 hasta -2) generando una vulnerabilidad media; y aquellas características en los que se acelera la corrosión (&lt;-2) produciendo una vulnerabilidad alta</td>
+</tr>
+<tr class="odd">
+<td>Estabilidad Química (Ryznar)</td>
+<td>6.2 a 6.8</td>
+<td>de 6.8 a 8.5</td>
+<td>&gt; 8.5</td>
+<td>Escala de elaboración propia a partir de límites de incrustación propuestos por Lenntech : Valores entre 6.2 y 6.8 indican que no hay dificultad respecto a la formación de depósitos ya que el agua no es agresiva ni incrustante por lo que la vulnerabilidad seria baja; entre 6.8 y 8.5 el agua es agresiva mientras que entre 5.5 y 6.2 puede formar incrustaciones y por tanto en estas condiciones la vulnerabilidad generada por el agua distribuida es media; y finalmente valores mayores a 8.5 reflejan un agua altamente agresiva, mientras valores menores a 5.5 representan una alta formación de depósitos, catalogando este tipo de agua como un causante de vulnerabilidad alta en los sistemas de distribución</td>
+</tr>
+<tr class="even">
+<td>Estabilidad Química (Larson)</td>
+<td>&lt;0.4</td>
+<td>0.4-1</td>
+<td>&gt;1</td>
+<td>Escala de elaboración propia a partir de límites de corrosividad propuestos por Zhang et al.&nbsp;explican que un valor superior a 1 para este índice obedece a un agua altamente corrosiva a materiales metálicos y por tanto la vulnerabilidad del sistema por distribuir este tipo de agua sería alta. Valores entre 0.4 y 1 muestran tendencia media a la corrosión y de esta forma se generaría una vulnerabilidad media; y valores menores a 0.4 indican baja o nula corrosión a metales y en consecuencia la vulnerabilidad sería baja</td>
+</tr>
+<tr class="odd">
+<td>Desinfectante</td>
+<td>Solo MIOX</td>
+<td>Cloro o Cloramina</td>
+<td>Mezcla irregular de MIOX-Cloro</td>
+<td>Elaboración propia de acuerdo a experiencia profesional en el tema de desinfección tomando como base las siguientes características para evaluar su efecto en la vulnerabilidad del sistema de distribución como son: i. su acción residual en la red que tiene repercusiones en reducir el recrecimiento de biopelícula en la red sobre todo en puntos alejados y con altos tiempos de retención; ii. su potencial de generar nitrificación que repercute en el crecimiento de biopelícula y formación de subproductos nitrados; iii. la interacción entre el desinfectante y la red ocasionando corrosión, liberación de materiales y adicionalmente fugas; finalmente el efecto químico de su reacción con la materia orgánica natural y aquella producida por los microrganismos y su potencial de formación de subproductos de desinfección (SPD)</td>
+</tr>
+<tr class="even">
+<td>Relación (CSMR)</td>
+<td>&lt;0.2</td>
+<td>0.2 a 0.5</td>
+<td>&gt;0.5</td>
+<td>Los rangos se establecen con base en la propuesta metodológica de Edwards et al.&nbsp;y Nguyen et al.&nbsp;. De esta forma se establece que la vulnerabilidad baja está dada por un agua tratada con una relación cloruros- sulfatos menor a 2; la vulnerabilidad media cuando este ratio se incrementa hasta 0.5 (0.2-0.5); y una vulnerabilidad alta al ser mayor que 0.5.</td>
+</tr>
+</tbody>
+</table>
+<p>Con respecto a la vulnerabilidad de acuerdo con las condiciones físicas de la red, se incluyeron como parámetros que afecten la vulnerabilidad aquellos relacionados con la operación y mantenimiento, el material y el contacto del agua con componentes biológicos formados en la red de distribución como son las biopelículas. Con respecto a la operación se califica si hay mezcla o cambio de fuente y el tiempo de residencia del agua. Con respecto al material se analiza el tipo, la edad y si hay potencial de corrosión galvánica. Por último, con respecto a los biológicos se analiza la vulnerabilidad frente a que las biopelículas formadas afecten la calidad por desprendimiento. Los rangos y límites definidos para cada variable se presentan en la <strong>Tabla 12</strong>.</p>
+<p>Tabla 12. Asignación de vulnerabilidad física en redes.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables Físicas</th>
+<th>Variables Físicas</th>
+<th>Vulnerabilidad</th>
+<th>Vulnerabilidad</th>
+<th>Vulnerabilidad</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Variables Físicas</td>
+<td>Variables Físicas</td>
+<td>Baja</td>
+<td>Media</td>
+<td>Alta</td>
+</tr>
+<tr class="even">
+<td>Operación</td>
+<td>Zona Mezcla / Cambio Fuente</td>
+<td>Sin Mezcla</td>
+<td></td>
+<td>Con Mezcla</td>
+</tr>
+<tr class="odd">
+<td>Operación</td>
+<td>Tiempo Residencia (horas)</td>
+<td>&lt; 6 horas</td>
+<td>6-18 horas</td>
+<td>&gt;18 horas</td>
+</tr>
+<tr class="even">
+<td>Material</td>
+<td>Tipo</td>
+<td>Polímeros</td>
+<td>Cementos</td>
+<td>Hierros</td>
+</tr>
+<tr class="odd">
+<td>Material</td>
+<td>Edad (años)</td>
+<td>0-20</td>
+<td>20-50</td>
+<td>&gt; 50</td>
+</tr>
+<tr class="even">
+<td>Material</td>
+<td>Corrosión galvánica (potencial)</td>
+<td>Percentil 25</td>
+<td>Percentil 50</td>
+<td>Percentil 75</td>
+</tr>
+<tr class="odd">
+<td>Biológico</td>
+<td>Diámetro- Efecto de la Biopelícula</td>
+<td>&gt; 90 cm</td>
+<td>30 a 90 cm</td>
+<td>&lt; 30 cm</td>
+</tr>
+</tbody>
+</table>
+<p>Teniendo esto en cuenta, para asignar una sola calificación para la vulnerabilidad química y física se realizó un promedio ponderado asignando pesos iguales a cada parámetro. En la <strong>Figura 6</strong> se presenta la asignación de vulnerabilidad química (de 0 a 16) y física (de 0 a 5) para todos los tramos de la red matriz.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig6.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig6.png</figcaption>
+</figure>
+</div>
+<p>Fuente: Construcción propia</p>
+<p>Figura 6. Asignación de vulnerabilidad química y física en Red Matriz.</p>
+<p>Una vez se tienen las dos calificaciones de vulnerabilidad para cada uno de los tramos de la Red Matriz y Red Menor se calificó una vulnerabilidad total (de 0 a 16) en cada una a partir de la siguiente ecuación:</p>
+<p><span class="math display">\[VTotal=1680VqVfs\]</span></p>
+<p>Los resultados de vulnerabilidad total para la Red Matriz y Red Menor se presentan en la <strong>Figura 7</strong>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig7.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig7.png</figcaption>
+</figure>
+</div>
+<p>Fuente: Construcción propia</p>
+<p>Figura . Asignación vulnerabilidad por tramos en Red Matriz y Red Menor.</p>
+</section>
+<section id="riesgo" class="level3">
+<h3 class="anchored" data-anchor-id="riesgo">Riesgo</h3>
+<p>La calificación de riesgos se realizó siguiendo la metodología indicada en la Sección 2.4. Los resultados del riesgo distribuidos espacialmente para el caso de amenaza de sequía se presentan de forma ilustrativa en la <strong>Figura 8</strong>. En este mapa las asignaciones de niveles de riesgo en escala de 0 a 100 son las siguientes –basada en las calificaciones indicadas por la OMS :</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Fig8.png" class="img-fluid figure-img"></p>
+<figcaption>Imagen Fig8.png</figcaption>
+</figure>
+</div>
+<p>Bajo: 0 a 24</p>
+<p>Medio: 25 a 36</p>
+<p>Alto: 36 a 60</p>
+<p>Muy alto: 61 a 100</p>
+<p>Fuente: Elaboración propia</p>
+<p>Figura 8. Resultados riesgo sequía distribuidos espacialmente.</p>
+<p>Los resultados finales de riesgo se agrupan por componente y se presentan en la <strong>Tabla 13</strong> para los asociados con amenazas naturales y en la <strong>Tabla 14</strong> para los asociados con amenazas antrópicas. Como se puede evidenciar en estos resultados, la amenaza de sequía es representativa para el sistema de acueducto, y principalmente para la captación del sistema Norte Tibitoc. Así mismo, la amenaza asociada a incendios forestales es crítica, principalmente para captación en el sistema Sumapaz. En términos generales, la amenaza de inundación es la más importante en el sistema de distribución, aunque el riesgo se pueda categorizar en un nivel medio. Con respecto a las amenazas antrópicas, se puede evidenciar que el riesgo se concentra en la amenaza agropecuaria, principalmente en la captación y potabilización del sistema Norte – Tibitoc.</p>
+<p>A partir de esta información, es posible priorizar las combinaciones de tipo de amenaza y tipo de elemento expuesto con mayor nivel de riesgo relativo para hacer evaluaciones posteriores detalladas y a partir de esto diseñar planes de gestión del riesgo priorizados. El tipo de medidas de mitigación que se deberían implementar en este paso posterior corresponden a medidas directas de tipo estructural, normativo o capacidad de tratamiento; o indirectas, como programas de capacitación del personal, sistemas de alerta temprana basadas en mediciones de parámetros en tiempo real o elementos de protección financiera. Así mismo, es importante aclarar que estos resultados deben ser actualizados periódicamente dado que tanto la exposición como las amenazas pueden ser dinámicas y cambiantes en el tiempo.</p>
+<p>Tabla 13. Matriz resumen resultados riesgo por amenazas naturales (escala relativa).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Elementos Expuestos</th>
+<th>Elementos Expuestos</th>
+<th>Elementos Expuestos</th>
+<th>Sismo 225</th>
+<th>Sismo 475</th>
+<th>Precipitación</th>
+<th>Sequías</th>
+<th>Inundaciones</th>
+<th>Deslizamientos</th>
+<th>Descargas torrenciales</th>
+<th>Incendios forestales</th>
+<th>Volcanes</th>
+<th>Vendaval</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sistema</td>
+<td>Grupo</td>
+<td>Componente</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+</tr>
+<tr class="even">
+<td>Chingaza</td>
+<td>Captación</td>
+<td>Cuenca Chuza</td>
+<td>4.50</td>
+<td>3.00</td>
+<td>3.75</td>
+<td>25.00</td>
+<td>11.25</td>
+<td>15.00</td>
+<td>7.50</td>
+<td>26.00</td>
+<td>2.00</td>
+<td>4.00</td>
+</tr>
+<tr class="odd">
+<td>Chingaza</td>
+<td>Captación</td>
+<td>Cuenca San Rafael</td>
+<td>2.50</td>
+<td>2.25</td>
+<td>3.75</td>
+<td>25.00</td>
+<td>11.25</td>
+<td>7.50</td>
+<td>5.75</td>
+<td>39.00</td>
+<td>2.00</td>
+<td>5.25</td>
+</tr>
+<tr class="even">
+<td>Chingaza</td>
+<td>Captación</td>
+<td>Túneles y tuberías</td>
+<td>16.00</td>
+<td>10.25</td>
+<td>1.50</td>
+<td>19.50</td>
+<td>8.50</td>
+<td>10.25</td>
+<td>4.00</td>
+<td>2.00</td>
+<td>0.50</td>
+<td>2.50</td>
+</tr>
+<tr class="odd">
+<td>Chingaza</td>
+<td>Almacenamiento</td>
+<td>Embalse Chuza</td>
+<td>10.50</td>
+<td>7.00</td>
+<td>1.50</td>
+<td>20.00</td>
+<td>15.00</td>
+<td>15.00</td>
+<td>3.00</td>
+<td>20.00</td>
+<td>1.00</td>
+<td>2.00</td>
+</tr>
+<tr class="even">
+<td>Chingaza</td>
+<td>Almacenamiento</td>
+<td>Embalse San Rafael</td>
+<td>5.75</td>
+<td>5.25</td>
+<td>1.50</td>
+<td>20.00</td>
+<td>15.00</td>
+<td>7.50</td>
+<td>2.25</td>
+<td>30.00</td>
+<td>1.00</td>
+<td>2.75</td>
+</tr>
+<tr class="odd">
+<td>Chingaza</td>
+<td>Potabilización</td>
+<td>PTAP</td>
+<td>7.00</td>
+<td>5.25</td>
+<td>3.00</td>
+<td>40.00</td>
+<td>15.00</td>
+<td>4.50</td>
+<td>4.50</td>
+<td>15.00</td>
+<td>1.00</td>
+<td>6.00</td>
+</tr>
+<tr class="even">
+<td>Sumapaz</td>
+<td>Captación</td>
+<td>Cuenca La Regadera</td>
+<td>3.00</td>
+<td>2.25</td>
+<td>7.50</td>
+<td>25.00</td>
+<td>18.75</td>
+<td>11.25</td>
+<td>7.50</td>
+<td>52.00</td>
+<td>1.00</td>
+<td>8.00</td>
+</tr>
+<tr class="odd">
+<td>Sumapaz</td>
+<td>Captación</td>
+<td>Cuenca Chisacá</td>
+<td>3.00</td>
+<td>2.25</td>
+<td>7.50</td>
+<td>25.00</td>
+<td>18.75</td>
+<td>11.25</td>
+<td>7.50</td>
+<td>52.00</td>
+<td>1.00</td>
+<td>8.00</td>
+</tr>
+<tr class="even">
+<td>Sumapaz</td>
+<td>Captación</td>
+<td>Túneles y tuberías</td>
+<td>7.00</td>
+<td>5.25</td>
+<td>1.75</td>
+<td>20.00</td>
+<td>9.00</td>
+<td>8.75</td>
+<td>5.50</td>
+<td>2.50</td>
+<td>0.50</td>
+<td>3.00</td>
+</tr>
+<tr class="odd">
+<td>Sumapaz</td>
+<td>Almacenamiento</td>
+<td>Embalse La Regadera</td>
+<td>7.00</td>
+<td>5.25</td>
+<td>6.00</td>
+<td>20.00</td>
+<td>15.00</td>
+<td>11.25</td>
+<td>3.00</td>
+<td>20.00</td>
+<td>1.00</td>
+<td>4.00</td>
+</tr>
+<tr class="even">
+<td>Sumapaz</td>
+<td>Almacenamiento</td>
+<td>Embalse Chisacá</td>
+<td>7.00</td>
+<td>5.25</td>
+<td>6.00</td>
+<td>20.00</td>
+<td>15.00</td>
+<td>11.25</td>
+<td>3.00</td>
+<td>20.00</td>
+<td>1.00</td>
+<td>4.00</td>
+</tr>
+<tr class="odd">
+<td>Sumapaz</td>
+<td>Potabilización</td>
+<td>PTAP*</td>
+<td>7.00</td>
+<td>5.25</td>
+<td>1.50</td>
+<td>40.00</td>
+<td>16.00</td>
+<td>8.50</td>
+<td>4.00</td>
+<td>12.50</td>
+<td>1.00</td>
+<td>5.50</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Cuenca Neusa</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>7.50</td>
+<td>50.00</td>
+<td>18.75</td>
+<td>8.25</td>
+<td>4.50</td>
+<td>18.75</td>
+<td>2.00</td>
+<td>7.75</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Cuenca Sisga</td>
+<td>3.25</td>
+<td>2.25</td>
+<td>7.50</td>
+<td>48.00</td>
+<td>18.75</td>
+<td>9.00</td>
+<td>3.75</td>
+<td>19.50</td>
+<td>2.00</td>
+<td>4.50</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Cuenca Tominé</td>
+<td>3.00</td>
+<td>2.25</td>
+<td>7.50</td>
+<td>50.00</td>
+<td>18.75</td>
+<td>8.25</td>
+<td>7.50</td>
+<td>16.25</td>
+<td>2.00</td>
+<td>5.00</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Túneles y tuberías</td>
+<td>6.50</td>
+<td>6.75</td>
+<td>1.50</td>
+<td>20.00</td>
+<td>6.50</td>
+<td>3.00</td>
+<td>1.50</td>
+<td>3.00</td>
+<td>1.00</td>
+<td>3.00</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Almacenamiento</td>
+<td>Embalse Neusa</td>
+<td>6.50</td>
+<td>6.50</td>
+<td>3.00</td>
+<td>35.00</td>
+<td>26.25</td>
+<td>8.25</td>
+<td>4.00</td>
+<td>13.00</td>
+<td>1.00</td>
+<td>4.00</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Almacenamiento</td>
+<td>Embalse Sisga</td>
+<td>14.25</td>
+<td>9.75</td>
+<td>3.00</td>
+<td>33.50</td>
+<td>26.25</td>
+<td>9.00</td>
+<td>3.00</td>
+<td>14.00</td>
+<td>1.00</td>
+<td>2.25</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Almacenamiento</td>
+<td>Embalse Tominé</td>
+<td>13.00</td>
+<td>9.75</td>
+<td>3.00</td>
+<td>35.00</td>
+<td>26.25</td>
+<td>8.25</td>
+<td>6.00</td>
+<td>11.75</td>
+<td>1.00</td>
+<td>2.50</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Potabilización</td>
+<td>PTAP</td>
+<td>3.50</td>
+<td>0.56</td>
+<td>0.24</td>
+<td>6.40</td>
+<td>1.20</td>
+<td>1.20</td>
+<td>0.60</td>
+<td>2.40</td>
+<td>0.16</td>
+<td>0.96</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Estructuras de bombeo y control</td>
+<td>6.75</td>
+<td>5.25</td>
+<td>3.00</td>
+<td>10.00</td>
+<td>10.50</td>
+<td>4.50</td>
+<td>2.50</td>
+<td>5.00</td>
+<td>1.00</td>
+<td>2.75</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Pilas</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>2.50</td>
+<td>1.50</td>
+<td>0.75</td>
+<td>1.25</td>
+<td>0.50</td>
+<td>2.75</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Tanques</td>
+<td>7.00</td>
+<td>5.25</td>
+<td>3.00</td>
+<td>10.00</td>
+<td>9.50</td>
+<td>4.75</td>
+<td>2.75</td>
+<td>6.75</td>
+<td>1.00</td>
+<td>2.75</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 1</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>20.00</td>
+<td>1.50</td>
+<td>5.75</td>
+<td>1.50</td>
+<td>0.50</td>
+<td>3.00</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 2</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>30.75</td>
+<td>1.25</td>
+<td>7.00</td>
+<td>1.25</td>
+<td>0.50</td>
+<td>2.75</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 3</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>25.25</td>
+<td>1.50</td>
+<td>6.00</td>
+<td>1.25</td>
+<td>0.50</td>
+<td>2.25</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 4</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>16.75</td>
+<td>1.75</td>
+<td>6.50</td>
+<td>1.25</td>
+<td>0.50</td>
+<td>2.50</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 5</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>19.75</td>
+<td>1.50</td>
+<td>4.75</td>
+<td>1.00</td>
+<td>0.50</td>
+<td>2.00</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 1</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>22.00</td>
+<td>1.25</td>
+<td>4.75</td>
+<td>1.00</td>
+<td>0.50</td>
+<td>3.00</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 2</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>34.25</td>
+<td>1.00</td>
+<td>7.25</td>
+<td>1.00</td>
+<td>0.50</td>
+<td>3.00</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 3</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>26.25</td>
+<td>1.25</td>
+<td>6.25</td>
+<td>1.00</td>
+<td>0.50</td>
+<td>2.50</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 4</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>5.00</td>
+<td>18.00</td>
+<td>1.50</td>
+<td>5.75</td>
+<td>1.25</td>
+<td>0.50</td>
+<td>2.50</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 5</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>1.00</td>
+<td>5.00</td>
+<td>22.25</td>
+<td>1.50</td>
+<td>4.75</td>
+<td>1.00</td>
+<td>0.50</td>
+<td>2.00</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Carrotanques</td>
+<td>6.75</td>
+<td>5.25</td>
+<td>3.25</td>
+<td>10.00</td>
+<td>12.50</td>
+<td>4.00</td>
+<td>2.50</td>
+<td>5.00</td>
+<td>1.00</td>
+<td>2.75</td>
+</tr>
+</tbody>
+</table>
+<p>Tabla 14. Matriz resumen riesgo por amenazas antrópicas (escala relativa).</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Elementos Expuestos</th>
+<th>Elementos Expuestos</th>
+<th>Elementos Expuestos</th>
+<th>Terrorismo atentados</th>
+<th>Terrorismo virtual</th>
+<th>Tecnológico industrial</th>
+<th>Tecnológico doméstico</th>
+<th>Vías y derrames</th>
+<th>Agropecuario</th>
+<th>Minería</th>
+<th>GI Talento humano</th>
+<th>GI Recursos físicos</th>
+<th>GI Procedimientos</th>
+<th>GI Financiera</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sistema</td>
+<td>Grupo</td>
+<td>Componente</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+<td>MR</td>
+</tr>
+<tr class="even">
+<td>Chingaza</td>
+<td>Captación</td>
+<td>Cuenca Chuza</td>
+<td>16.25</td>
+<td>1.00</td>
+<td>2.25</td>
+<td>5.25</td>
+<td>7.50</td>
+<td>10.00</td>
+<td>3.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="odd">
+<td>Chingaza</td>
+<td>Captación</td>
+<td>Cuenca San Rafael</td>
+<td>16.25</td>
+<td>1.00</td>
+<td>4.50</td>
+<td>14.50</td>
+<td>22.50</td>
+<td>17.00</td>
+<td>6.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="even">
+<td>Chingaza</td>
+<td>Captación</td>
+<td>Túneles y tuberías</td>
+<td>20.00</td>
+<td>2.00</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>6.00</td>
+<td>1.00</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>3.00</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>Chingaza</td>
+<td>Almacenam.</td>
+<td>Embalse Chuza</td>
+<td>20.00</td>
+<td>1.00</td>
+<td>1.50</td>
+<td>5.25</td>
+<td>7.50</td>
+<td>10.00</td>
+<td>1.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>6.00</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Chingaza</td>
+<td>Almacenam.</td>
+<td>Embalse San Rafael</td>
+<td>20.00</td>
+<td>1.00</td>
+<td>3.00</td>
+<td>14.50</td>
+<td>22.50</td>
+<td>17.00</td>
+<td>3.25</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>6.00</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Chingaza</td>
+<td>Potabilización</td>
+<td>PTAP</td>
+<td>16.25</td>
+<td>20.00</td>
+<td>0.75</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>8.00</td>
+<td>3.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>4.50</td>
+</tr>
+<tr class="even">
+<td>Sumapaz</td>
+<td>Captación</td>
+<td>Cuenca La Regadera</td>
+<td>16.25</td>
+<td>0.25</td>
+<td>2.25</td>
+<td>5.25</td>
+<td>22.50</td>
+<td>10.00</td>
+<td>3.00</td>
+<td>4.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="odd">
+<td>Sumapaz</td>
+<td>Captación</td>
+<td>Cuenca Chisacá</td>
+<td>16.25</td>
+<td>0.25</td>
+<td>2.25</td>
+<td>5.25</td>
+<td>22.50</td>
+<td>10.00</td>
+<td>3.00</td>
+<td>4.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="even">
+<td>Sumapaz</td>
+<td>Captación</td>
+<td>Túneles y tuberías</td>
+<td>20.00</td>
+<td>0.50</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>12.00</td>
+<td>1.00</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>3.00</td>
+<td>6.00</td>
+</tr>
+<tr class="odd">
+<td>Sumapaz</td>
+<td>Almacenam.</td>
+<td>Embalse La Regadera</td>
+<td>20.00</td>
+<td>0.50</td>
+<td>1.50</td>
+<td>3.00</td>
+<td>22.50</td>
+<td>10.00</td>
+<td>2.25</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>6.00</td>
+<td>7.50</td>
+</tr>
+<tr class="even">
+<td>Sumapaz</td>
+<td>Almacenam.</td>
+<td>Embalse Chisacá</td>
+<td>20.00</td>
+<td>0.50</td>
+<td>1.50</td>
+<td>3.00</td>
+<td>22.50</td>
+<td>10.00</td>
+<td>2.25</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>6.00</td>
+<td>7.50</td>
+</tr>
+<tr class="odd">
+<td>Sumapaz</td>
+<td>Potabilización</td>
+<td>PTAP*</td>
+<td>16.25</td>
+<td>20.00</td>
+<td>3.00</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>8.00</td>
+<td>3.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>4.50</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Cuenca Neusa</td>
+<td>16.25</td>
+<td>0.25</td>
+<td>12.50</td>
+<td>17.00</td>
+<td>12.00</td>
+<td>37.75</td>
+<td>14.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Cuenca Sisga</td>
+<td>16.25</td>
+<td>0.25</td>
+<td>7.50</td>
+<td>11.50</td>
+<td>9.75</td>
+<td>40.00</td>
+<td>5.25</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Cuenca Tominé</td>
+<td>16.25</td>
+<td>0.25</td>
+<td>7.50</td>
+<td>12.25</td>
+<td>18.75</td>
+<td>50.00</td>
+<td>14.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Captación</td>
+<td>Túneles y tuberías</td>
+<td>20.00</td>
+<td>0.25</td>
+<td>0.75</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>2.00</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>1.50</td>
+<td>3.00</td>
+<td>6.00</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Almacenam.</td>
+<td>Embalse Neusa</td>
+<td>20.00</td>
+<td>0.50</td>
+<td>4.75</td>
+<td>15.75</td>
+<td>25.50</td>
+<td>37.00</td>
+<td>11.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+<td>15.00</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Almacenam.</td>
+<td>Embalse Sisga</td>
+<td>20.00</td>
+<td>0.50</td>
+<td>3.00</td>
+<td>11.50</td>
+<td>19.50</td>
+<td>40.00</td>
+<td>3.75</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+<td>15.00</td>
+</tr>
+<tr class="even">
+<td>Tibitoc</td>
+<td>Almacenam.</td>
+<td>Embalse Tominé</td>
+<td>20.00</td>
+<td>0.50</td>
+<td>3.00</td>
+<td>12.25</td>
+<td>37.50</td>
+<td>50.00</td>
+<td>10.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>10.50</td>
+<td>15.00</td>
+</tr>
+<tr class="odd">
+<td>Tibitoc</td>
+<td>Potabilización</td>
+<td>PTAP</td>
+<td>2.60</td>
+<td>3.20</td>
+<td>0.48</td>
+<td>0.48</td>
+<td>0.96</td>
+<td>1.28</td>
+<td>0.96</td>
+<td>1.20</td>
+<td>1.20</td>
+<td>1.20</td>
+<td>0.72</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Estructuras de bombeo y control</td>
+<td>16.25</td>
+<td>20.00</td>
+<td>0.75</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>8.00</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>4.50</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Pilas</td>
+<td>8.75</td>
+<td>0.25</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>1.50</td>
+<td>1.00</td>
+<td>0.75</td>
+<td>12.00</td>
+<td>6.00</td>
+<td>10.50</td>
+<td>24.00</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Tanques</td>
+<td>16.25</td>
+<td>20.00</td>
+<td>0.75</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>8.00</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>4.50</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 1</td>
+<td>8.25</td>
+<td>0.25</td>
+<td>10.00</td>
+<td>10.00</td>
+<td>5.00</td>
+<td>6.75</td>
+<td>5.00</td>
+<td>10.00</td>
+<td>10.00</td>
+<td>10.00</td>
+<td>10.00</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 2</td>
+<td>11.50</td>
+<td>0.25</td>
+<td>13.75</td>
+<td>13.75</td>
+<td>7.00</td>
+<td>9.25</td>
+<td>7.00</td>
+<td>13.75</td>
+<td>13.75</td>
+<td>13.75</td>
+<td>13.75</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 3</td>
+<td>9.75</td>
+<td>0.25</td>
+<td>11.75</td>
+<td>11.75</td>
+<td>6.00</td>
+<td>7.75</td>
+<td>6.00</td>
+<td>11.75</td>
+<td>11.75</td>
+<td>11.75</td>
+<td>11.75</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 4</td>
+<td>8.50</td>
+<td>0.25</td>
+<td>10.25</td>
+<td>10.25</td>
+<td>5.25</td>
+<td>6.75</td>
+<td>5.25</td>
+<td>10.25</td>
+<td>10.25</td>
+<td>10.25</td>
+<td>10.25</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Matriz: Zona 5</td>
+<td>7.75</td>
+<td>0.25</td>
+<td>9.25</td>
+<td>9.25</td>
+<td>4.50</td>
+<td>6.25</td>
+<td>4.50</td>
+<td>9.25</td>
+<td>9.25</td>
+<td>9.25</td>
+<td>9.25</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 1</td>
+<td>8.00</td>
+<td>0.25</td>
+<td>9.50</td>
+<td>9.50</td>
+<td>4.75</td>
+<td>6.50</td>
+<td>4.75</td>
+<td>9.50</td>
+<td>9.50</td>
+<td>9.50</td>
+<td>9.50</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 2</td>
+<td>12.00</td>
+<td>0.25</td>
+<td>14.50</td>
+<td>14.50</td>
+<td>7.25</td>
+<td>9.75</td>
+<td>7.25</td>
+<td>14.50</td>
+<td>14.50</td>
+<td>14.50</td>
+<td>14.50</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 3</td>
+<td>10.25</td>
+<td>0.25</td>
+<td>12.25</td>
+<td>12.25</td>
+<td>6.25</td>
+<td>8.25</td>
+<td>6.25</td>
+<td>12.25</td>
+<td>12.25</td>
+<td>12.25</td>
+<td>12.25</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 4</td>
+<td>8.25</td>
+<td>0.25</td>
+<td>10.00</td>
+<td>10.00</td>
+<td>5.00</td>
+<td>6.75</td>
+<td>5.00</td>
+<td>10.00</td>
+<td>10.00</td>
+<td>10.00</td>
+<td>10.00</td>
+</tr>
+<tr class="even">
+<td>General</td>
+<td>Distribución</td>
+<td>Red Menor: Zona 5</td>
+<td>8.00</td>
+<td>0.25</td>
+<td>9.50</td>
+<td>9.50</td>
+<td>4.75</td>
+<td>6.25</td>
+<td>4.75</td>
+<td>9.50</td>
+<td>9.50</td>
+<td>9.50</td>
+<td>9.50</td>
+</tr>
+<tr class="odd">
+<td>General</td>
+<td>Distribución</td>
+<td>Carrotanques</td>
+<td>16.25</td>
+<td>4.00</td>
+<td>0.75</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>8.00</td>
+<td>3.00</td>
+<td>6.00</td>
+<td>7.50</td>
+<td>7.50</td>
+<td>4.50</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="conclusiones" class="level2">
+<h2 class="anchored" data-anchor-id="conclusiones">CONCLUSIONES</h2>
+<p>En este capítulo se presenta una metodología para la evaluación del riesgo a la calidad del agua en sistemas de acueducto urbanos. En esta metodología se muestran ventajas frente a metodologías existentes como la incorporación de la frecuencia en el módulo de amenaza, o la incorporación de afectación a la calidad desde la afectación física de los componentes. Así mismo, esta metodología presenta la oportunidad de analizar diferentes tipos de amenazas, tanto naturales como antrópicas. El marco metodológico es suficientemente flexible para incluir amenazas adicionales a las presentada en este capítulo, o por el contrario, reducir y analizar sólo un subconjunto de estas. Los resultados obtenidos a partir de la aplicación de la metodología propuesta sirven para identificar los diferentes riesgos críticos a los cuales está expuesto los sistemas de acueducto de agua potable y a partir de esto realizar una priorización basada en la combinación del tipo de amenaza y de elemento expuesto. Esta metodología se aplica como caso de estudio en el sistema de acueducto de la ciudad de Bogotá, Colombia.</p>
+<p>En esta aplicación se consideran diferentes amenazas naturales como lo son la amenaza sísmica, precipitaciones, sequía, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Por otro lado, las amenazas antrópicas consideradas son terrorismo y atentados, terrorismo virtual, tecnológicos domésticos, tecnológicos industriales, accidentes viales y derrames, agropecuario, minería y aspectos relacionados con la gestión institucional del talento humano, de los recursos físicos, de procedimientos y financieros.</p>
+<p>En este caso de estudio, es posible identificar que los incendios forestales, sequías, amenazas agropecuarias y las inundaciones en las cuencas y embalses son las combinaciones más críticas resultantes de la calificación de riesgos realizada. Por otro lado, es posible obtener un resultado de riesgo promedio para cada elemento expuesto. Para esto se ponderan los resultados de riesgo para cada una de las amenazas y se obtiene una única valoración. De esta manera, los componentes más críticos para la EAAB-ESP son las cuencas y los embalses por lo que la gestión de este riesgo es crítica para el sistema. En particular las cuencas del sistema Tibitoc presentan un alto nivel de riesgo por lo que deben ser gestionadas de forma prioritaria. Por último, es posible priorizar los resultados por amenaza ponderando la valoración de riesgos por cada uno de los componentes.</p>
+<p>En este sentido, las amenazas naturales más críticas son las sequías, las inundaciones y los incendios forestales. Por otro lado, las amenazas antrópicas más críticas son las relacionadas con terrorismo por atentados, las ocasionadas por actividades agropecuarias y de gestión institucional. Estos riesgo identificados deben ser priorizados con el objetivo de realizar estudios detallados que conlleven a una mitigación eficiente del riesgo.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>PUNTOS CLAVE La evaluación y estimación del riesgo a la calidad del agua es una actividad fundamental para la apropiada gestión del riesgo de los sistemas de acueducto urbanos. Esta evaluación debe actualizarse y complementarse periódicamente. El proceso de evaluación del riesgo en un caso específico debe tener en cuenta las particularidades de cada región, para entender los elementos expuestos, las amenazas antrópicas y naturales y la vulnerabilidad frente a la calidad del agua. La información generada en un proceso de evaluación del riesgo es un insumo fundamental para la gestión del riesgo mediante el diseño e implementación de medidas de reducción del riesgo, diseño de planes de atención de emergencia y transferencia del riesgo entre otras actividades.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table class="caption-top">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>PREGUNTAS A RESOLVER Al aplicar la metodología presentada en este capítulo son las siguientes: ¿Cuál es el nivel de riesgo que tiene un sistema de acueducto? ¿Cuál es la confiabilidad del sistema de acueducto? ¿Cuáles son las amenazas que mayor riesgo representan? ¿Cuáles son los elementos expuestos que mayor riesgo en promedio tienen para diferentes amenazas? ¿Qué tipos de obras de mitigación debería priorizar?</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</section>
+<section id="conflicto-de-intereses" class="level2">
+<h2 class="anchored" data-anchor-id="conflicto-de-intereses">CONFLICTO DE INTERESES</h2>
+<p>Los autores declaran que los desarrollos y resultados presentados se realizaron en el marco del proyecto <em>Elaboración y Formulación Del Plan Maestro De La Calidad De Agua Potable - Contrato 2-2-26200-1334-2019</em> financiado por la Empresa de Acueducto y Alcantarillado (EAAB-ESP). Todos los autores participaron en el proyecto por parte de la Universidad de los Andes o de la EAAB-ESP.</p>
+</section>
+<section id="contribución-de-autoría-credit" class="level2">
+<h2 class="anchored" data-anchor-id="contribución-de-autoría-credit">CONTRIBUCIÓN DE AUTORÍA CRediT</h2>
+<p>Conceptualización: RF, MRS, ML, JSE, JCR. Curación de datos: RF, JSE, CS, IAG, LP, JM. Análisis formal: RF, JSE, CO, IAG, LP, JM. Adquisición de fondos: MRS. Investigación: RF, ML, JSE, CS. Metodología: RF, MRS, ML, JSE, JCR. Administración del proyecto: RF, MRS, ML, JSE, NL, DG. Recursos: MRS, NL, DG. Software: CO. Supervisión: MRS, JCR. Validación: MRS, JCR. Visualización: RF, CO. Redacción – borrador original: RF, JSE. Redacción – revisión y edición: MRS, JCR, ML, IAG</p>
+</section>
+<section id="agradecimientos" class="level2">
+<h2 class="anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<p>Los autores agradecen en primer lugar a la Empresa de Acueducto y Alcantarillado (EAAB-ESP) por impulsar iniciativas de reducción del riesgo en el sector. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Ingeniería Ambiental (CIIA) y al Centro de Investigación en Materiales y Obras Civiles (CIMOC) de la Universidad de los Andes y a sus integrantes que participaron en el desarrollo del proyecto presentado en este capítulo. Así mismo, se hace una mención especial al Profesor Luis E. Yamin, director del CIMOC en la Universidad de los Andes por más de 30 años, quien participó activamente en la estructuración y definición metodológica del presente proyecto.</p>
+</section>
+<section id="identificación-de-autores" class="level2">
+<h2 class="anchored" data-anchor-id="identificación-de-autores">IDENTIFICACIÓN DE AUTORES</h2>
+<p>Rafael Fernández https://orcid.org/0000-0002-2585-1958</p>
+<p>Manuel Rodríguez https://orcid.org/0000-0002-8743-0200</p>
+<p>Mildred Lemus https://orcid.org/0000-0002-2874-519X</p>
+<p>Alejandro Giraldo https://orcid.org/0000-0002-6637-7906</p>
+<p>Lina Porras https://orcid.org/0000-0003-3354-8622</p>
+<p>Juliana Martínez https://orcid.org/0000-0001-5962-4158</p>
+<p>Juan Echeverry https://orcid.org/0000-0001-6537-6381</p>
+<p>Carlos Oliveros https://orcid.org/0000-0002-1817-7010</p>
+<p>Juan Carlos Reyes https://orcid.org/0000-0003-0690-2956</p>
+<p>Nubia León https://orcid.org/0000-0002-1448-5825</p>
+<p>Diego Gutiérrez https://orcid.org/0000-0002-2716-2427</p>
+</section>
+<section id="bibliografía" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografía">BIBLIOGRAFÍA</h2>
+<p>United Nations. (2021, 3 de junio). <em>We can end poverty. Millenium development goals and beyond 2015.</em></p>
+<p>Lemus, M., Cárdenas, J.A., Martínez, A.J., &amp; Rodríguez-Susa, M.&nbsp; (2019). Changes on Eubacteria 338I, Gamma-, Betaproteobacteria in biofilms from drinking water systems according to operational conditions. <em>Environmental Processes</em>, <em>6</em>, 85–106.</p>
+<ol start="3" type="1">
+<li><p>Moreno, J. (2012). <em>Evaluación de depósitos inorgánicos en sistemas de distribución de agua potable.</em> Bogotá: Tesis de maestría. Universidad de los Andes.</p></li>
+<li><p>Rueda, J. C., Martínez, A. J., &amp; Rodríguez-Susa, M. (2013). Quantification of Bacillus cereus in biofilm- water of household drinking water network and its probably incidence on health. <em>17th International Symposium on Health-Related Water Microbiology.</em> Florianopolis, Santa Catarina, Brazil.</p></li>
+<li><p>Hurtado-McCormick, S., Sánchez, L., Martínez, J., Calderón, J., Calvo, D., Narváez, D., Rodríguez-Susa, M. (2016). Fungi in biofilms of a drinking water network: occurrence, diversity and mycotoxins approach. <em>Water Science and Technology: Water Supply, 16</em>(4), 905-914.</p></li>
+<li><p>Quintero, A. (2016). <em>Citotoxicidad y genotoxicidad de SPD derivados de la materia orgánica algal de tres diferentes grupos de microalgas: alga verde-azul, alga verde y diatomea.</em>[Tesis de maestría. Universidad de los Andes, Bogotá]</p></li>
+<li><p>Giraldo, M. (2014). <em>Sustancias inorgánicas en tuberías de agua potable: evaluación de desprendimiento e impactos en la salud.</em> [Tesis Pregrado. Universidad de los Andes, Bogotá]</p></li>
+<li><p>OMS (Organización Mundial de la Salud). (2011). <em>Guías para la calidad del agua de consumo humano.</em> Ginebra: Organización Mundial de la Salud.</p></li>
+<li><p>Amézquita, C. P., Pérez, A., &amp; Torres, P. (Junio de 2014). Evaluación del riesgo en sistemas de distribución de agua potable en el marco de un plan de seguridad del agua. <em>Revista EIA, 11</em>(21), 157-169.</p></li>
+<li><p>Mora-Alvarado, D., Orozco-Gutiérrez, J., Solís-Castro, Y., Rivera-Navarro, P. C., Cambronero-Bolaños, D., Zuñiga-Zuñiga, L. A., &amp; García-Aguilar, J. (Septiembre de 2018). Índice de Riesgo de la Calidad del Agua para Consumo Humano en Costa Rica. <em>Tecnología en marcha, 31</em>(3), 3-14.</p></li>
+<li><p>Shi, W., Xia, J., Gippel, C., Chen, J., &amp; Hong, S. (2017). Influence of disaster risk, exposure and water quality on vulnerability of surface water resources under a changing climate in the Haihe River basin. <em>Water International, 42</em>(4), 462-485.</p></li>
+<li><p>Shamsuzzoha, M., Kormoker, T., &amp; Ghosh, R. (2018). Implementation of Water Safety Plan Considering Climatic Disaster Risk Reduction in Bangladesh: A Study on Patuakhali Pourashava Water Supply System. <em>Procedia Engineering, 212</em>(2017), 583-590.</p></li>
+<li><p>Gheuens, J., Nagabhatla, N., &amp; Perera, E. (2019). Disaster-risk, water security challenges and strategies in Small Island Developing States (SIDS). <em>Water (Switzerland), 11</em>(4), 1-28.</p></li>
+<li><p>EAAB-ESP (Empresa de Acueducto y Alcantarillado de Bogotá). (2020). <em>Plan de Gestión del Riesgo de Desastres.</em> Bogotá: Empresa de Acueducto y Alcantarillado de Bogotá.</p></li>
+<li><p>EAAB-ESP (Empresa de Acueducto y Alcantarillado de Bogotá). (2014). <em>Consultoría para realizar el mapa de riesgos de los sistemas de abastecimiento de agua de la ciudad de Bogotá.</em> Bogotá: Consultor: Jose David Moreno. Bogotá.</p></li>
+<li><p>Secretaria de Salud y ESE Hospital Pablo VI de Bosa. (2014). <em>Mapa de riesgo para la calidad del agua para consumo humano.</em> Bogotá.</p></li>
+<li><p>Secretaría de Salud de Bogotá. (2018). <em>Nueva metodología para Mapa de Riesgos.</em> Bogotá.</p></li>
+<li><p>OMS (Organización Mundial de la Salud). (2009). <em>Manual para el desarrollo de planes de seguridad del agua.</em> Ginebra: Organización Mundial de la Salud e International Water Association.</p></li>
+<li><p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2014). <em>Mapa de precipitaciones anuales medias multi-anuales.</em> Bogotá: Instituto de hidrología, meteorología y estudios ambientales.</p></li>
+<li><p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). <em>Curvas Intensidad Duración Frecuencia IDF.</em></p></li>
+<li><p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2014). <em>Periodos de retorno de sequías entre los años 1981-2010.</em> Bogotá: Instituto de hidrología, meteorología y estudios.</p></li>
+<li><p>Danish Road Institute. (2010). <em>Methods to predict and handle flooding on highways: The Blue Spot Concept.</em></p></li>
+<li><p>SGC (Servicio Geológico Colombiano). (2016). <em>Mapa de susceptibilidad nacional a movimientos en masa.</em> Bogotá: Servicio Geológico Colombiano.</p></li>
+<li><p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2017). <em>Mapa nacional de susceptibilidad a avenidas torrenciales.</em> Bogotá: Instituto de hidrología, meteorología y estudios ambientales.</p></li>
+<li><p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2014). <em>Mapa nacional de susceptibilidad a incendios forestales.</em> Bogotá: Instituto de hidrología, meteorología y estudios ambientales.</p></li>
+<li><p>SGC (Servicio Geológico Colombiano). (2015). <em>Mapas de amenaza volcánica.</em> Bogotá.</p></li>
+<li><p>Fiscalía General de la Nación. (2020). Recuperado el 2020, de Datos abiertos de la fiscalía general de la Nación: https://www.fiscalia.gov.co/colombia/gestion/estadisticas/</p></li>
+<li><p>Zhang, X., Mi, Z., Wang, Y., Liu, S., Niu, Z., Lu, P., . . . Chen, C. (2014). A red water occurrence in drinking water distribution systems caused by changes in water source in Beijing, China: mechanism analysis and control measures. <em>Frontiers of Environmental Science &amp; Engineering, 8</em>(3), 417-426.</p></li>
+<li><p>Pietrucha-Urbanik, K., Tchórzewska-Cie lak, B., Dorota Papciak, D., &amp; Skrzypczak, I. (2017). Analysis of chemical stability of tap water in terms of required level of technological safety. <em>Archives of Environmental Protection, 43</em>(4), 3-12.</p></li>
+<li><p>Lenntech. (2020). <em>Ryznar Stability Index</em>.</p></li>
+<li><p>Edwards, M., &amp; Triantafyllidou, S. (2007). Chloride-to-sulfate mass ratio and lead leaching to water. <em>American Water Works Association, 99</em>(7), 96-106.</p></li>
+<li><p>Nguyen, C., Stone, K., &amp; Edwards, M. (2011). Chloride-to-sulfate mass ratio: Practical studies in galvanic corrosion of lead solder. <em>American Water Works Association, 103</em>(1).</p></li>
+</ol>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/scr-ungrd\.github\.io\/investigaciones-grd-2023\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
