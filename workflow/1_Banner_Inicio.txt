@@ -1,0 +1,29 @@
+Actúa como un experto en maquetación editorial para Quarto Markdown. Necesito que proceses y modifiques los archivos de este proyecto para que su diseño coincida con el de nuestro libro de 2025.
+
+Para entender el diseño objetivo, por favor analiza la estructura, los metadatos y el frontmatter YAML de este libro de referencia: https://scr-ungrd.github.io/investigaciones-grd-2025/ 
+
+Quiero que apliques esa misma arquitectura a mis documentos actuales, siguiendo estas dos reglas estrictas:
+
+REGLA 1: PÁGINA DE PRESENTACIÓN
+Cuando proceses el archivo que corresponde a la presentación o introducción:
+- MANTÉN el título original exactamente como viene (`# Presentación del libro`). NO lo borres ni lo cambies a "Inicio".
+- Inmediatamente debajo de ese título, inserta estrictamente esta línea para cargar la portada:
+  ![](images/libro-2023-portada.png){fig-align="center" width="80%"}
+- Conserva el resto del contenido intacto.
+
+REGLA 2: CAPÍTULOS DE INVESTIGACIÓN
+Cuando proceses los capítulos normales del libro:
+- Emplea la misma estructura de banner y caja de autores que identificaste en la URL de referencia del 2025.
+- Para lograrlo, elimina el título principal (el que empieza con `#`).
+- Extrae el título del capítulo y los nombres de los autores leyendo el texto.
+- Inicia el documento con este bloque YAML exacto:
+---
+title: "[Título Extraído]"
+author: 
+  - "[Autor 1]"
+  - "[Autor 2]"
+title-block-banner: "images/banner_2023.png"
+---
+- Asegúrate de que el resto del contenido continúe debajo del YAML y que los subtítulos mantengan la jerarquía correcta (iniciando en `##`).
+
+Por favor, aplícalo a los archivos seleccionados y devuélveme el código listo.
