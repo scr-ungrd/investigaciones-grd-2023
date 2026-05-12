@@ -1,6 +1,6 @@
 project:
-  type: book
-  output-dir: _book
+  type: website
+  output-dir: docs  
 
 book:
   title: "Investigaciones en Gestión del Riesgo"
