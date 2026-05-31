@@ -1,5 +1,9 @@
 # Inicio {.unnumbered}
 
+::: {.d-flex .justify-content-start .mb-3}
+[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.btn .btn-outline-secondary .btn-sm}
+:::
+
 ::::::::::::::::::::::::::::::::: {layout-ncol="2"}
 ::::: card
 ::: {.card-header .bg-white}
