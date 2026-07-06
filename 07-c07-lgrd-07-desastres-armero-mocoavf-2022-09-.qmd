@@ -1,18 +1,21 @@
 ---
 title: "Capítulo 07: Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo Pressure and Release"
 author:
-  - "Diana M. Rodríguez-Coca"
-  - "Julián Alberto Espejo-Díaz"
-  - "William J. Guerrero"
+  - name: "Diana M. Rodríguez-Coca ^1^"
+    orcid: "0000-0001-7452-7938"
+    affiliation: "^1^College of Engineering, Architecture and Technology Oklahoma State University, United States of America"
+  - name: "Julián Alberto Espejo-Díaz ^2^"
+    orcid: "0000-0002-1919-2407"
+    affiliation: "^2^Facultad de Ingeniería, Universidad de La Sabana, Chía, Colombia"
+  - name: "William J. Guerrero ^2^"
+    orcid: "0000-0002-9807-6593"
+    affiliation: ""
 title-block-banner: "images/banner_2023.png"
+date: ""
+doi: ""
 ---
 
-1College of Engineering, Architecture and Technology Oklahoma State University, 520 Engineering North, Stillwater OK, 74078-5061, United States
-
-2Facultad de Ingeniería, Universidad de La Sabana, Campus del Puente del Común, Km. 7, Autopista Norte de Bogotá, Chía, Colombia 
-
-*Autor de contacto: Julián Alberto Espejo-Díaz, correo-e:  
-
+::: {#resumen}
 ## Resumen {.unnumbered}
 
 El 13 de noviembre de 1985, el Volcán Nevado del Ruiz (Tolima, Colombia) hizo erupción afectando poblaciones aledañas incluyendo Armero. Esta ha sido una de las erupciones con mayores pérdidas humanas a nivel mundial con aproximadamente 23 mil muertes. Por otra parte, en horas de la noche del 31 de marzo de 2017 y primeras horas de la mañana del primero de abril de 2017, fuertes lluvias causaron el desbordamiento de los ríos Mocoa, Mulata y Sangoyaco en el departamento del Putumayo, Colombia. Los desbordamientos causaron grandes movimientos de tierra y de lodo los cuales arrasaron gran parte de la zona urbana de Mocoa costando la vida de más de 330 personas, desapareciendo a cientos de personas y afectando a más de 40 mil personas.  El presente capítulo aplica el modelo *Pressure and Release* para entender cuáles fueron las relaciones entre peligros y vulnerabilidades que destruyeron las poblaciones de Armero y Mocoa. Posteriormente, se realizó una comparación entre los desastres concluyendo que persisten fallas en acciones de mitigación las cuales aumentan la progresión de la vulnerabilidad de las poblaciones en riesgo. Adicionalmente, se observó que la respuesta a desastres ha mejorado considerablemente; sin embargo, falta establecer mecanismos efectivos de cooperación entre entidades estatales, nacionales, con entidades locales e internacionales. 
@@ -21,13 +24,20 @@ El 13 de noviembre de 1985, el Volcán Nevado del Ruiz (Tolima, Colombia) hizo e
 
 **Analysis of the Armero 1985 and Mocoa 2017 disasters in Colombia using the Pressure and Release model**
 
+:::
+
+
+::: {#abstract}
 ## Abstract {.unnumbered}
 
 On November 13, 1985, the Nevado del Ruiz Volcano, located in Tolima, Colombia, erupted, affecting several neighboring towns, including Armero. This volcanic eruption has been one of the disasters with the most significant human losses worldwide, resulting in approximately 23 thousand deaths. On the other hand, during the night hours of March 31, 2017, and early morning hours of April 1, 2017, heavy rain caused the overflowing of the Mocoa, Mulata, and Sangoyaco rivers in the department of Putumayo, Colombia. The overflows caused large movements of earth and mud, which reached a large part of the urban area of Mocoa, costing the lives of more than 330 people, hundreds more missing, and affecting more than 40 thousand people. This chapter applies the Pressure and Release model to understand the relationships between hazards and vulnerabilities in the Armero and Mocoa disasters. In addition, by comparing the disasters, we found persistent failures in mitigation activities that increase the progression of the vulnerability of the populations. Additionally, we found that the response to disasters has improved considerably. However, there is a need to establish effective cooperation mechanisms between national and local state entities.
 
 **Keywords**: Armero disaster, Mocoa disaster, Pressure and Release model, vulnerability, risk management
 
-## INTRODUCCIÓN
+:::
+
+
+## 7.1 INTRODUCCIÓN
 
 Piers Blaikie, Ben Wisner, Terry Cannon y Ian Davis desarrollaron en 1994 el modelo *Pressure and Release* (PAR) y lo presentaron en el libro *At Risk: natural hazards, people’s vulnerability and disasters* [1]. El modelo analiza el riesgo de sufrir un desastre en términos de los peligros que lo originan y la vulnerabilidad de la población que se afecta ante la ocurrencia del desastre. En otras palabras, para los autores los desastres son el resultado de la interacción entre peligros y vulnerabilidad. La **Figura 1** muestra cómo el modelo PAR explica la progresión de la vulnerabilidad en términos de causas raíz, presiones dinámicas y condiciones inseguras. 
 
@@ -56,14 +66,13 @@ A pesar del gran potencial del modelo PAR para analizar los riesgos de desastres
 Las contribuciones de este capítulo de libro se presentan en la Caja 1. 
 
 
-::: {.caja-box}
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Contribuciones al estado del arte en gestión de desastres  Presentar la aplicación del modelo PAR a dos de los desastres más significativos de la historia colombiana. Realizar la comparación de la progresión de la vulnerabilidad en ambos desastres. Consolidar las lecciones aprendidas de la mitigación y la respuesta a la luz del modelo PAR, identificando oportunidades de mejora para disminuir la progresión de vulnerabilidad que puedan ser aplicadas por el sistema Nacional de Gestión de Riesgo de desastres colombiano.
-
 :::
 
 El resto del capítulo del libro se organiza de la siguiente manera. En la Sección 2 se presenta la metodología de selección de los documentos insumo para aplicar el modelo PAR. En las Secciones 3 y 4 se aplica la metodología PAR para analizar los desastres de Armero y Mocoa, respectivamente. La Sección 5 compara y discute los hallazgos de la aplicación del modelo PAR a los casos de estudio, y finalmente, la Sección 6 presenta las conclusiones y recomendaciones del trabajo.
 
-## METODOLOGÍA DE REVISIÓN DOCUMENTAL
+## 7.2 METODOLOGÍA DE REVISIÓN DOCUMENTAL
 
 Como se mencionó anteriormente, este trabajo estudia los desastres causados por la erupción volcánica de Armero en 1985 y por las inundaciones y deslizamientos de Mocoa en marzo de 2017 usando como marco teórico el modelo PAR. Los desastres de Armero y Mocoa se seleccionaron debido al impacto de estos con respecto a la cantidad de pérdidas humanas, personas afectadas y pérdidas económicas. La información requerida para el estudio se identificó en las bases de datos de Scopus, Science Direct y Scielo usando como parámetros de búsqueda “Armero disaster”, “Mocoa disaster”, “Desastre de Armero” y “Desastre de Mocoa”. Posteriormente, de la literatura identificada en el paso anterior, se seleccionaron las referencias pertinentes para la aplicación del modelo PAR. Por otra parte, se incluyeron fuentes de información adicionales como artículos de periódicos y reportes oficiales. Finalmente, se clasificó la información referente a los desastres en causas, presiones dinámicas y condiciones inseguras. Un esquema de la metodología de selección de los documentos y clasificación de la información se presenta en la **Figura 3**.  
 
@@ -71,11 +80,11 @@ Como se mencionó anteriormente, este trabajo estudia los desastres causados por
 
 **Figura 3.**  Metodología de revisión documental.
 
-## MODELO PAR APLICADO AL DESASTRE DE ARMERO DE 1985
+## 7.3 MODELO PAR APLICADO AL DESASTRE DE ARMERO DE 1985
 
 Debido a su localización geográfica, Colombia se expone a diversas amenazas naturales como lo son terremotos, inundaciones, volcanes y deslizamientos de tierra. El Banco Mundial en su reporte *Natural Disaster Hotspots A Global Risk Analysis* menciona a Colombia como uno de los nueve países donde los volcanes son peligros concentrados en términos de área y población, junto con Japón, Filipinas, Indonesia, Estados Unidos, México, Centroamérica, Ecuador y Chile [5]. A continuación, se presenta una caracterización del desastre y luego se analiza la progresión de la vulnerabilidad al estudiar sus causas raíz, presiones dinámicas y las condiciones inseguras que dieron lugar al desastre.
 
-## 3.1 Caracterización del desastre
+## 7.4 Caracterización del desastre
 
 The international Disaster Database del Centre for Research on the Epidemiology of Disasters (CRED) presenta la erupción de un volcán en Colombia el 13 de noviembre de 1985 como el segundo desastre volcánico que ha ocasionado más pérdidas humanas (21.800 personas) en el periodo comprendido entre 1900 y el 2021 [6]. Dicha erupción corresponde a la del Volcán Nevado del Ruiz por detrás de la erupción del Monte Pelée en Martinica, que dejó alrededor de 30 mil fallecidos en 1902. El volcán Nevado del Ruiz se ubica en el departamento del Tolima el cual contaba en 1985, año de la tragedia, con una población total de 1,245,631 personas de acuerdo con el Departamento Nacional de Estadísticas (DANE) [7]. Dicho volcán se localiza a 4,937 metros de altura sobre el valle donde se encontraba construido el municipio de Armero [8].
 
@@ -84,22 +93,21 @@ El Banco Mundial realizó la distribución del riesgo volcánico en términos de
 El periodista Renny Rueda Castañeda describe en su blog del periódico El Espectador la evolución de la tragedia [10], la cual se resume en la Caja 2.  
 
 
-::: {.caja-box}
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Evolución de la tragedia de Armero A las 3 de la tarde del 13 de noviembre de 1985, en el Volcán Nevado del Ruiz se presentaron anormales detonaciones que indicaban que la erupción estaba a punto de comenzar. El alcalde de Armero, Ramón Rodríguez, enterado de la gravedad de la situación, envía una comisión encargada de verificar el estado del Rio Lagunilla, que conectaba a Armero con el nevado. La afluente del Rio Azufrado y Lagunilla, lentamente, y durante horas, almacenó más de 200 millones de metros cúbicos de Lodo, material volcánico, agua de los ríos y el nevado, y restos vegetales, que al desatarse formaban olas de hasta treinta metros de altura, acumuladas de forma desigual a lo largo del cañón.  A las 9:29 de la noche, el volcán emite una fuerte explosión, iluminando las cercanías a pesar de la pesada niebla que le rodeaba.  A las 11:15 de la noche el alcalde reportó a las autoridades de emergencia, que el agua entraba precipitadamente a su vivienda.  Desde las 11 de la noche, completando un recorrido de 48 kilómetros, el lodo y los residuos volcánicos, devastaron Armero, avanzando a una velocidad de más de 43 kilómetros por hora, cegando la vida a más de sus 23 mil pobladores, y configurando en medio de la noche, entre sofocados gritos de los habitantes del municipio, un panorama de cuerpos mutilados, inidentificables figuras, lodo y escombros. A las 11:28 de la noche, desde Bogotá, se perdió comunicación con los esfuerzos de radioaficionados en Armero.”
-
 :::
 
 La erupción volcánica estuvo acompañada de agua (resultado del descongelamiento del nevado) y deslizamientos, los cuales generaron una mezcla de lodo, ceniza, y residuos que inundaron la población de Armero. La zona geográfica (localización y características) es uno de los principales aspectos que incrementa el impacto generado por un peligro natural. 
 
 Coppola en su libro *Introduction to International Disaster Management* presenta una descripción de cómo realizar la identificación y el análisis de los peligros naturales [11]. Si bien es cierto que Instituto Colombiano de Geología y Minería, INGEOMINAS, contaba con un mapa de peligro para el Volcán Nevado del Ruiz, el mapa no consideraba Armero como una de las posibles zonas en peligro en el caso de una erupción volcánica [12]. Identificado el peligro al que se exponía Armero. A continuación, se presenta el análisis de la progresión de la vulnerabilidad de la población de Armero respecto a sus causas raíz, presiones dinámicas y condiciones inseguras. 
 
-## 3.2 Causas raíz de la tragedia de Armero
+## 7.5 Causas raíz de la tragedia de Armero
 
 El acceso limitado al poder, a las estructuras y a los recursos junto con ideolog**í**as pol**í**ticas y económicas son los principales aspectos identificados en el modelo PAR como parte de las causas raíz que generan vulnerabilidad. En el caso particular de la tragedia de Armero se resalta lo siguiente.
 
 **Acceso limitado a recursos tecnológicos.** Un grupo de expertos de la Central Hidroeléctrica de Caldas visitó el volcán Nevado del Ruiz después de que se percibieran algunos temblores en la zona. Como resultado de dicha visita, en febrero de 1985, se hizo evidente la necesidad de contar con cinco sistemas de registro sismológico, ubicados en lugares estratégicos, que monitorearán la actividad del volcán [10,12,13]. Dicho grupo de expertos reportó que el único equipo que estaba realizando dicha labor había dejado de funcionar en el mismo mes. Voight menciona que Minard Hall en representación de la Organización Mundial de Observatorios Vulcanológicos (WOVO, por sus siglas en inglés) y de la Organización de las Naciones Unidas para la Ayuda en Casos de Desastre (UNDRO, por sus siglas en inglés) visitó el volcán en mayo y manifestó su preocupación por que no se habían iniciado las actividades de monitoreo [12].
 
-## 3.3 Presiones dinámicas de la tragedia de Armero
+## 7.6 Presiones dinámicas de la tragedia de Armero
 
 Los principales aspectos que el modelo PAR menciona, como parte de las presiones dinámicas, son la ausencia de instituciones, inversiones y mercados locales; entrenamiento y habilidades adecuadas de la población expuesta al riesgo, y estándares éticos. En el caso particular de la tragedia de Armero se identifican las siguientes:
 
@@ -131,18 +139,17 @@ Algunos de ellos fueron entregados a sus familias y otros en adopción. La infor
 
 **Preparación inadecuada de las instituciones para reaccionar ante una erupción.** Voight menciona que Bruno Martinelli, quien representaba a *the Swiss Disaster Relief Corps and Swiss Seismological Service*, mencionó la existencia de una rivalidad entre el Comité Nacional de Emergencia colombiano de la época e INGEOMINAS [12]. Adicionalmente, el autor menciona que no eran claras las responsabilidades de cada institución. La principal consecuencia de dicha rivalidad fue que no se compartió información indispensable para realizar actividades previas a la erupción, que permitieran a los cuerpos de rescate y a la comunidad estar preparados para reaccionar correctamente a la tragedia.
 
-## MODELO PAR APLICADO AL DESASTRE DE MOCOA DE 2017
+## 7.7 MODELO PAR APLICADO AL DESASTRE DE MOCOA DE 2017
 
 Mocoa es una ciudad ubicada en la parte sur de Colombia, cerca de las fronteras con Ecuador. Es la capital del Putumayo, un departamento fuertemente afectado por décadas de conflicto armado. De acuerdo con el DANE, a la fecha del desastre, la ciudad contaba con una población total aproximada de 43 mil habitantes de los cuales, cerca del 82% vivían en el área urbana [7]. Adicionalmente, se estima que aproximadamente el 60% de su población es desplazada de la violencia [22]. Históricamente, Mocoa ha atravesado múltiples retos y complejas dinámicas sociales, económicas y políticas las cuales aumentan la vulnerabilidad de la población. Por otra parte, de acuerdo con el Mapa Nacional de Amenaza por Movimientos en Masa realizado por el Servicio Geológico Colombiano, gran parte del municipio está en amenaza de nivel alto o muy alto frente a movimientos en masa [23]. Lo anterior, convirtió a Mocoa en un escenario de alto riesgo y alta vulnerabilidad [24], lo que desencadenó una de las tragedias más grandes de la historia reciente colombiana. A continuación, se realiza una descripción del desastre y luego se estudia la progresión de la vulnerabilidad respecto a sus causas raíz, presiones dinámicas y condiciones inseguras. 
 
-## 4.1 Descripción del desastre de Mocoa
+## 7.8 Descripción del desastre de Mocoa
 
 Entre la noche del 31 de marzo y la madrugada del 1 de abril de 2017, fuertes movimientos de tierra y lodo ocurrieron en Mocoa destruyendo gran parte de su área urbana. Esos movimientos fueron causados por lluvias torrenciales que se extendieron por 4 días consecutivos seguidos por una fuerte lluvia la noche del evento [25].  El desastre dejó 332 muertos, 398 heridos, 77 desaparecidos, más de 22 mil personas damnificadas y 48 barrios afectados [26].  De acuerdo con The international Disaster Database del Centre for Research on the Epidemiology of Disasters (CRED), el desastre de Mocoa en 2017 ocupa el puesto 24 dentro de los deslizamientos con más víctimas fatales en el periodo desde 1900 hasta 2021 en todo el mundo [6]. Vale la pena resaltar que la categoría de deslizamientos incluye avalanchas, hundimientos, deslizamientos de montaña y deslizamientos de lodo. El periódico El Tiempo recolectó testimonios de varios habitantes de Mocoa los cuales describieron las primeras horas de la emergencia [27], como se aprecia en la Caja 3. 
 
 
-::: {.caja-box}
+::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 3.** Evolución de la tragedia de Mocoa  Sobre las 10 de la noche del viernes 31 de marzo, comenzó un impresionante aguacero el cual estuvo precedido por varios días de lluvias. Sobre la media noche, los ríos que atraviesan Mocoa (Mulato, Mocoa, y Sangoyaco) y varias quebradas como la Taruca desplazaron toneladas de lodo sobre la zona urbana sepultando barrios enteros.  Algunas personas lograron escapar de la ciudad antes que las vías de escape fueran bloqueadas por el desastre. Otras personas lograron salir de sus hogares a la calle, las cuales dieron testimonio de ríos de barro y de gente gritando de miedo. Después del gran desplazamiento de lodo, los primeros reportes oficiales realizados por el Comando General de las Fuerzas Militares reportaban al menos doscientas víctimas fatales, con cientos de personas desaparecidas. La gobernadora de la época en el Putumayo, Sorrel Aroca, informa que en la zona del desastre no hay suministro de energía eléctrica ni de gas, adicionalmente el acueducto quedó bastante afectado.  La plaza de mercado (centro de acopio de alimentos) fue devastada afectando el abastecimiento de alimentos en medio de la emergencia. Desde las primeras horas del sábado, personal de socorro de la Policía y Fuerzas Militares fueron movilizados para hacerle frente a la emergencia. En horas de la mañana, el presidente de ese entonces, Juan Manuel Santos, se desplazó a la zona y declaró el estado de calamidad. Adicionalmente, el gobierno colombiano activó el Sistema Nacional de Gestión del Riesgo de Desastres para atender la emergencia.
-
 :::
 
 La **Figura 4** muestra como los deslizamientos afectaron y sepultaron gran parte de la zona urbana de Mocoa. A continuación, se realiza el análisis de la progresión de la vulnerabilidad resaltando las principales causas raíz, presiones dinámicas y condiciones inseguras que desencadenaron la tragedia.
@@ -151,7 +158,7 @@ La **Figura 4** muestra como los deslizamientos afectaron y sepultaron gran part
 
 **Figura 4.**  Afectación del área urbana de Mocoa. Fuente: UNGRD [28].
 
-## 4.2 Causas raíz del desastre de Mocoa
+## 7.9 Causas raíz del desastre de Mocoa
 
 El modelo PAR determina como causas raíz a los factores que aumentan la vulnerabilidad de las poblaciones. Estos suelen ser procesos económicos, demográficos y políticos que afectan la distribución de recursos dentro de los grupos sociales. Adicionalmente, las causas raíz también se relacionan con la función estatal, y el control ejercido por las instituciones. Las principales causas raíz que se identificaron para el desastre de Mocoa son las siguientes.  
 
@@ -167,7 +174,7 @@ De acuerdo con el modelo PAR, las presiones dinámicas corresponden a los proces
 
 **Fuerzas macro: conflictos armados.** La violencia en zonas rurales del departamento del Putumayo y otros departamentos del sur del país corresponde a una de las más importantes presiones dinámicas para este desastre. Incluso en la segunda edición del libro en el cual se introduce el modelo PAR, se menciona como ejemplo de presiones dinámicas a la violencia rural y a la marginalización urbana en Colombia [1]. Según los autores, el desplazamiento forzado en donde los habitantes de zonas rurales son obligados a dejar sus tierras y deben irse a vivir a zonas urbanas bajo condiciones precarias, aumenta la vulnerabilidad de la población. Lo anterior corresponde sin duda alguna con el caso de Mocoa. 
 
-## 4.4 Condiciones inseguras del desastre de Mocoa
+## 7.10 Condiciones inseguras del desastre de Mocoa
 
 Siguiendo con el marco teórico del modelo PAR, las condiciones inseguras son las formas específicas en las que la vulnerabilidad de la población es expresada en el tiempo y en el espacio del peligro del desastre. A continuación, se presentan las principales condiciones inseguras del desastre de Mocoa.
 
@@ -177,7 +184,7 @@ Siguiendo con el marco teórico del modelo PAR, las condiciones inseguras son la
 
 **Preparación inadecuada de las instituciones para reaccionar ante el desastre.** Se destaca como condición insegura detonante del desastre de Mocoa en 2017 y que puede presentarse en otras zonas vulnerables del país, la no existencia de mecanismos efectivos de coordinación entre actores en caso de posibles desastres. Kuipers, Desportes and Hordijk estudiaron la fase de respuesta en el Mocoa respecto a las contribuciones de los distintos actores y partes interesadas [32]. En ese estudio se concluyó que en la fase de respuesta hubo tensiones y confrontaciones entre los actores afectando la respuesta al desastre. Adicionalmente, en el estudio encontraron que los actores estatales nacionales no contaron con la confianza y legitimidad por parte de la población en Mocoa. Además, los actores locales, los cuales contaban con la confianza de la población, carecían de recursos y capacidad para actuar, lo que causó subutilización de sus fortalezas. Un claro ejemplo de lo anterior fue que el gobierno nacional tomó el liderazgo de la planeación de la reconstrucción de Mocoa dejando a un lado al gobernador del Putumayo y al alcalde de Mocoa, de acuerdo con Ávila Cortés [32]. Esto le quitó capacidades de actuación a los lideres de elección popular locales, lo que socavó la confianza y legitimidad de los actores estatales nacionales con la población local.  A continuación, se discuten los principales hallazgos de la aplicación del modelo PAR en los casos de estudio de los desastres de Armero y Mocoa.
 
-## COMPARACIÓN Y DISCUSIÓN DE LOS RESULTADOS
+## 7.11 COMPARACIÓN Y DISCUSIÓN DE LOS RESULTADOS
 
 En 1985 Colombia contaba con instituciones como el comité de emergencia, INGEOMINAS y la defensa civil que podrían haber trabajo de manera conjunta para realizar actividades previas a la ocurrencia del desastre de Armero. Sin embargo, la burocracia, la centralización del gobierno, la ausencia de conocimiento, tecnología y recursos económicos, así como la no definición de líneas de mando, responsabilidades y procedimientos claros hicieron que dichas instituciones no actuarán un paso delante de la erupción del volcán. Adicionalmente, dos aspectos que incrementaron la vulnerabilidad de la población de Armero, potenciando así el riesgo, fueron: 1) la falta de conocimiento del riesgo puesto que el mapa de riesgo realizado por INGEOMINAS no consideraba que Armero estuviera en peligro ante una posible erupción volcánica, y 2) falta de comunicación hacia la población, dado que la información proporcionada por los medios de comunicación manifestaba que no había un peligro inminente. Esto sumado a la ubicación de la población de Armero, en el valle y junto al río Lagunilla, causó que el pueblo y la población fueran enterrados entre cenizas volcánicas, lodo y agua que obligó a los cuerpos de atención y al gobierno a declarar la zona como tierra santa ante la imposibilidad de rescatar todos los cuerpos sin vida.
 
@@ -187,7 +194,7 @@ Respecto a las actividades de atención y respuesta, se refleja la importancia d
 
 Para el caso particular de Armero, la situación vivida por las familias que aún buscan los que en ese momento fueron sus niños es un claro ejemplo de cómo algunas instituciones aprovechan la coyuntura para obtener beneficios usando como fachada el deseo de ayudar a la población afectada. En el caso de Mocoa, las actividades de atención y respuesta fueron significativamente mejores al desastre de Armero y es un ejemplo del aumento de capacidades, institucionalidad y recursos económicos. Sin embargo, aún quedan espacios de mejora en la etapa de respuesta, en especial en establecer mecanismos efectivos de cooperación entre entidades estatales nacionales con entidades locales. De esa forma se aprovechan las fortalezas de las entidades locales frente a escenarios de respuesta a desastres. Los retos de colaboración y coordinación en las cadenas de suministros humanitarias aún son objeto de investigación. El lector puede ver el trabajo de Prasanna & Haavisto [33] para ampliar este tema en particular. 
 
-## CONCLUSIONES Y RECOMENDACIONES
+## 7.12 CONCLUSIONES Y RECOMENDACIONES
 
 Como resultado de la aplicación del modelo Pressure and Release a la tragedia de Armero y el desastre de Mocoa se concluye que los peligros asociados con la localización geográfica de las comunidades afectadas fueron potenciados por la vulnerabilidad socioeconómica y las acciones inseguras. Como se observa en la Tabla 1, existen aspectos comunes entre los dos casos de estudio como son el limitado acceso a la tecnología, la urbanización en zonas de alto riesgo y la falta de mecanismos de coordinación entre los actores involucrados en la respuesta y recuperación del desastre. 
 
@@ -214,14 +221,13 @@ Adicionalmente, esta comparación ilustra los avances que ha tenido Colombia en 
 Por otra parte, se ha demostrado que las políticas actuales han consolidado varias lecciones aprendidas frente al conocimiento, gestión de la respuesta a desastres y la gobernanza del riesgo. Este conocimiento del riesgo de desastre y lecciones aprendidas llevan a recomendar el desarrollo futuro de investigación interdisciplinar en temas de liderazgo, gobernanza y conocimiento del riesgo, así como en el desarrollo de mecanismos de coordinación y colaboración de las múltiples agencias (gubernamentales, ONGs, privadas, entre otras) puesto que se identifican estos elementos como las oportunidades de mejora en la gestión del ciclo del desastre  (segunda pregunta de investigación/hipótesis). 
 
 
-| PUNTOS CLAVE Se ha mejorado en Colombia en la política de gestión de riesgos de desastres. Sin embargo, dada la complejidad, ambigüedad, volatilidad e incertidumbre de la gestión del riesgo, recomendamos trabajar aún en temas de liderazgo, gobernanza, conocimiento, colaboración y coordinación de operaciones.  El modelo PAR es un marco de referencia que ha sido utilizado en el mundo para estudiar la progresión de la vulnerabilidad respecto a las causas raíz, presiones dinámicas y condiciones inseguras. Este modelo resulta útil para estudiar otros desastres importantes de Colombia; por ejemplo, el desastre de Salgar, Antioquia en 2015. Aparte de evaluar la progresión de la vulnerabilidad en otros desastres, se pueden identificar lecciones aprendidas, causas raíz comunes y estrategias para la mitigación de futuros desastres. |
-| --- |
-
-
+::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Puntos clave.** Se ha mejorado en Colombia en la política de gestión de riesgos de desastres. Sin embargo, dada la complejidad, ambigüedad, volatilidad e incertidumbre de la gestión del riesgo, recomendamos trabajar aún en temas de liderazgo, gobernanza, conocimiento, colaboración y coordinación de operaciones.  El modelo PAR es un marco de referencia que ha sido utilizado en el mundo para estudiar la progresión de la vulnerabilidad respecto a las causas raíz, presiones dinámicas y condiciones inseguras. Este modelo resulta útil para estudiar otros desastres importantes de Colombia; por ejemplo, el desastre de Salgar, Antioquia en 2015. Aparte de evaluar la progresión de la vulnerabilidad en otros desastres, se pueden identificar lecciones aprendidas, causas raíz comunes y estrategias para la mitigación de futuros desastres.
+:::
 | RECOMENDACIONES PARA LA TOMA DE DECISIONES En un país como Colombia que está expuesto a varias amenazas naturales, es importante realizar perfiles de cada uno de los riesgos, que incluyan los riesgos secundarios, como una primera etapa de mitigación. El fortalecimiento de las entidades locales, regionales y nacionales en el tema de administración de desastres es indispensable en Colombia. Sin embargo, es importante resaltar que se deben fortalecer en los cuatro componentes del ciclo de gestión de un desastre: mitigación, preparación, respuesta y recuperación. Es necesario establecer estructuras de mando que coordinen las organizaciones nacionales e internacionales, presentes después de un desastre, para facilitar las etapas de respuesta y recuperación. |
 | --- |
 
-## CONFLICTO DE INTERESES
+## 7.13 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
@@ -229,11 +235,11 @@ Los autores no declaran conflicto de intereses
 
 Todos los autores contribuyeron a la conceptualización y desarrollo de este proyecto.
 
-## AGRADECIMIENTOS
+## 7.14 AGRADECIMIENTOS
 
 Agradecemos a la Universidad de La Sabana y a MINCIENCIAS por la financiación del proyecto con el código INGPHD-8-2018.
 
-## IDENTIFICACIÓN DE AUTORES
+## 7.15 IDENTIFICACIÓN DE AUTORES
 
 Diana M. Rodríguez-Coca   		
 
@@ -241,7 +247,7 @@ Julián Alberto Espejo-Díaz
 
 William J. Guerrero			 
 
-## BIBLIOGRAFÍA
+## 7.16 BIBLIOGRAFÍA
 
 Blaikie, P., Cannon, T., Davis, I., & Wisner, B. (1994). *At risk: Natural hazards, people’s vulnerability, and disasters*. Taylor & Francis. 
 
@@ -308,4 +314,3 @@ Palomino, S., Lafuente J.,  (2016, 13 de noviembre ). *El Gobierno de Colombia y
 Kuipers, E. H. C., Desportes, I., & Hordijk, M. (2019). Of locals and insiders. *Disaster Prevention and Management: An International Journal*, *29*(3), 352–364. 
 
 Prasanna, S. R., & Haavisto, I. (2018). Collaboration in humanitarian supply chains: an organisational culture framework. *International Journal of Production Research*, *56*(17), 5611–5625. 
-
