@@ -1,19 +1,18 @@
 ---
 title: "Capítulo 10: Sistemas de control de respuesta estructural para la mitigación del riesgo sísmico en la infraestructura colombiana. Necesidad inmediata de una normativa para el país"
 author:
-  - "Carlos Mario Piscal Arevalo1-"
-  - "Juan Andrés Oviedo Amezquita"
+  - name: "Carlos Mario Piscal Arevalo ^1^"
+    orcid: "0000-0003-1271-3406"
+    affiliation: "^1^Universidad de La Salle, Programa de Ingeniería Civil, Bogotá, D.C., Colombia. Red Colombiana de Investigación en Ingeniería Sísmica (CEER)"
+  - name: "Juan Andrés Oviedo Amezquita ^2^"
+    orcid: "0000-0001-9973-2823"
+    affiliation: "^2^efe-Prima-ce Control y Diseño de estructuras SAS, Medellín, Colombia"
 title-block-banner: "images/banner_2023.png"
+date: ""
+doi: ""
 ---
 
-1Universidad de La Salle, Programa de Ingeniería Civil, Bogotá, Colombia
-
-2efe-Prima-ce Control y Diseño de estructuras SAS, Medellín, Colombia
-
-3Red Colombiana de Investigación en Ingeniería Sísmica (CEER)
-
-*Autor de contacto: Carlos Mario Piscal Arevalo, Universidad de La Salle, Programa de Ingeniería Civil, Bogotá, Colombia. Correo-e:cpiscal@unisalle.edu.co
-
+::: {#resumen}
 ## Resumen {.unnumbered}
 
 Colombia es un país con una amenaza sísmica importante, por lo cual su infraestructura está expuesta a eventos que, dependiendo tanto de la fragilidad estructural como de la intensidad de estos, pueden generar daños, colapsos y la interrupción del normal funcionamiento de las comunidades, lo cual implica graves impactos sociales y económicos. Con la finalidad de mitigar el riesgo por sismo, alcanzar infraestructura resiliente y aportar en el desarrollo económico y humano, en el país se están incorporando nuevas tecnologías en la infraestructura como lo son los sistemas de control de respuesta estructural. Sin embargo, su implementación actual sigue requisitos dispuestos en estándares internacionales que pueden generar inconsistencias técnicas o sobrecostos. Es por lo anterior que en este trabajo se muestra la necesidad urgente de una normativa local que rija el análisis, diseño y construcción de estos sistemas de control, además se presenta un breve avance de la misma.
@@ -24,6 +23,10 @@ Aislamiento sísmico, disipación de energía, mitigación del riesgo sísmico, 
 
 **Structural response control systems for seismic risk mitigation in Colombian infrastructure. Immediate need for regulations for the country**
 
+:::
+
+
+::: {#abstract}
 ## Abstract {.unnumbered}
 
 Colombia has an important seismic hazard; therefore, its infrastructure is exposed to events that, depending on both the structural fragility and the intensity of the events, might generate damages and collapses and a disruption of the normal functioning of the community, which entails severe social and economic impacts. New technologies have been incorporated into the country, such as the structural response control systems to mitigate risk for earthquakes, achieve resilient infrastructure, and contribute to economic and human development. However, its current implementation follows requirements contained in international standards that could generate technical inconsistencies or cost overruns. Due to the limitations mentioned above, this work shows the urgent need for a local regulation that governs those systems' analysis, design, and construction. Also, a quick advance of the first Colombian code in the subject is presented herein.
@@ -32,7 +35,10 @@ Colombia has an important seismic hazard; therefore, its infrastructure is expos
 
 Energy dissipation, seismic isolation, seismic risk mitigation, structural response controls systems, performance level
 
-## INTRODUCCION
+:::
+
+
+## 10.1 INTRODUCCION
 
 Es evidente el importante papel que tiene la infraestructura en el desarrollo de los países. También se ha hecho evidente que su diseño, construcción, mantenimiento y reciclaje, no solo debe obedecer a criterios únicos, como posiblemente son los económicos, sino que debe ser incluyente de otros que aporten a un desarrollo que garantice entre otras cosas: a) una vida digna y una adecuada protección de la misma y b) un uso de los recursos dentro de los límites que tiene el planeta. Es decir, que desde la gestión de la infraestructura de un país se debe aportar al desarrollo sostenible.  
 
@@ -44,15 +50,14 @@ Para mitigar el riesgo desde una perspectiva sostenible se requiere fomentar el 
 
 Sin embargo, en el país su implementación actual sigue requisitos dispuestos en estándares internacionales que pueden generar inconsistencias técnicas o sobrecostos. Es por lo anterior que en este trabajo se muestra la necesidad urgente de una normativa local que rija el análisis, diseño y construcción de estos sistemas en Colombia, partiendo desde conceptos básicos, implementación internacional y local de la técnica, inconsistencias encontradas para la aplicación de normas extranjeras en Colombia y propuestas locales obtenidas a partir de resultados de investigación. Finalmente, se esboza un breve avance hacia el desarrollo de la primera norma de SCRE para Colombia.
 
-## SISTEMAS DE CONTROL DE RESPUESTA ESTRUCTURAL
+## 10.2 SISTEMAS DE CONTROL DE RESPUESTA ESTRUCTURAL
 
 
-::: {.caja-box}
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Definición, tipos y ventajas de los sistemas control de respuesta estructural  Los sistemas de control de respuesta estructural (SCRE) consisten básicamente en un conjunto o serie de dispositivos que se incorporan en las estructuras. Dichos dispositivos pueden clasificarse inicialmente en términos de la variación temporal de su aporte al sistema estructural. Si las propiedades del sistema de control son constantes en el tiempo (no varían), se denomina un sistema de control pasivo. Por otro lado, si las propiedades del dispositivo varían con el tiempo, ante la acción de fuentes de energía externas, se denomina un sistema de control activo.  Aquellos sistemas que combinan, para su adecuado funcionamiento, sistemas de control estructural pasivo y activo, se denominan híbridos. Finalmente, los denominados sistemas de control semiactivos se diferencian de los activos en el hecho que en los primeros, se presenta solo alguna característica variable en el tiempo y ésta se controla mediante dispositivos o fuentes de energía externas correspondientes a dispositivos pasivos. Vale la pena mencionar que el hecho de que las propiedades de los sistemas activos varíen en el tiempo permite controlar la respuesta estructural en función de la naturaleza de la solicitación (demanda) que experimente el sistema y no solo obedece a una solicitación de diseño máxima como en los sistemas pasivos. Sin embargo, son estos últimos los sistemas más usados a nivel mundial en la actualidad, por lo cual son en los que se enfoca este trabajo. Los SCRE tienen como finalidad principal reducir los desplazamientos, aceleraciones y fuerzas que las estructuras experimentarían bajo eventos extremos como son los sismos. Para tal fin los dispositivos deben tener una o varias de las siguientes características: a) modificar las propiedades dinámicas de la estructura, b) disipar la energía que ingresa al sistema y c) ejercer fuerzas que contrarrestan las solicitaciones. Dentro de los SCRE pasivos, diferentes dispositivos han sido creados con alguna o algunas de las características anteriormente mencionadas, lo cual permite subdivirlos en tres grandes grupos principales: aisladores sísmicos, disipadores de energía y masas activas. Los aisladores sísmicos y los disipadores de energía son los sistemas pasivos con mayor desarrollo y aplicación en infraestructura a nivel mundial, y por lo tanto son los que actualmente se incorporan en las normativas internacionales para aplicación de sistemas de control de respuesta estructural, por ende, son los que aquí se estudian y presentan.
-
 :::
 
-## 2.1 Aisladores de base
+## 10.3 Aisladores de base
 
 Son dispositivos con una alta capacidad de carga vertical y cuya flexibilidad en las direcciones horizontales es alta cuando se compara con la de una estructura convencional. Los aisladores se ubican primordialmente en la base de la estructura principal de edificaciones o las superestructuras en puentes, y en la actualidad pueden generalmente clasificarse dentro de dos grandes grupos, estos son aisladores de fricción y aisladores elastómericos. Esta clasificación obedece principalmente a las características de los materiales de los dispositivos, acero y goma respectivamente y a sus mecanismos de disipación de energía, fricción y deformación de materiales, respectivamente. Sin embargo, vale aclarar que su comportamiento especifico depende también de características adicionales determinadas por variables como los componentes que incluyen (núcleo de plomo, goma de alto amortiguamiento) y la geometría que poseen (altura de las capas de goma, radio de curvatura de la superficie de fricción).  Imágenes de los dispositivos y una clasificación más extensa de los mismos pueden encontrarse en los trabajos en la temática desarrollados por Piscal et al. [1–6].
 
@@ -80,7 +85,7 @@ Las anteriores cifras, en constante crecimiento a nivel mundial, se deben entre 
 
 Vale anotar que adicionalmente se definió, mediante encuestas el estado de daño de aproximadamente 300 edificaciones aisladas, concluyendo que para ninguna se presentó daño estructural, en los elementos no estructurales o en los dispositivos. En cuanto a disipadores de energía, el mismo estudio reporta que para 11 edificaciones instrumentadas y sometidas al mismo sismo, con alturas entre 5 y 54 pisos, se obtuvo una deriva de piso promedio máxima de 0.4%, deriva que sugiere una tendencia hacia comportamiento elástico y por ende daños mínimos. Al igual que en el caso de las edificaciones aisladas, se definió, mediante encuestas, el estado de daño de aproximadamente 130 edificaciones con disipadores de energía, concluyendo que para ninguna se presentó daño estructural, en los elementos no estructurales o en los dispositivos. Con el fin de comparar los anteriores resultados, de acuerdo con los estudios de Pu y Kasai [15] y Motosaka y Mitsuji [17] , se concluye que algunas edificaciones convencionales (sin sistemas de control) expuestas al sismo de Tohoku, 2011, fueron seriamente dañadas; y en aquellas instrumentadas (3), se reportó un FAA promedio de 3.5, incremento de aceleración con tendencia a daño en la infraestructura. 
 
-## NECESIDAD DE UNA NORMATIVA LOCAL PARA SCRE
+## 10.4 NECESIDAD DE UNA NORMATIVA LOCAL PARA SCRE
 
 **Alta amenaza sísmica en Colombia** 
 
@@ -93,9 +98,8 @@ Información más detallada de las características de la sismicidad del país, 
 **Comportamiento estructural de nueva infraestructura ante sismos** 
 
 
-::: {.caja-box}
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Visión normativa del comportamiento estructural esperado  Mencionando específicamente el caso de edificaciones nuevas en el país, actualmente estas deben diseñarse y construirse siguiendo obligatoriamente los requisitos del Reglamento Colombiano de Construcciones Sismo Resistentes NSR-10. Dicho reglamento en su numeral A.1.2.2 define el estado límite de daño (desempeño) para elementos estructurales y no estructurales de edificaciones, cuando éstas se exponen al denominado sismo de diseño (sismo fuerte). Afirma que frente a dicho sismo se presentarán daños estructurales y no estructurales, pero no colapso, además se protegerá la vida. Este desempeño denominado completo o total, es dual, como generalmente sucede en los reglamentos [20], siendo el primer objetivo de desempeño la necesidad de garantizar seguridad a la vida. Lo anterior mostrado de forma gráfica, y únicamente para una vivienda individual, se presenta en la Figura 1, frente a un nivel de desempeño inicial de seguridad a la vida.
-
 :::
 
 
@@ -117,9 +121,8 @@ Para el caso puntual de edificaciones indispensables, el Reglamento NSR-10 menci
 Es importante mencionar que el diseño sismo resistente de edificaciones a nivel mundial, contiene componentes probabilísticos importantes, por ende, el desempeño esperado, tiende también a ser probabilístico. De acuerdo con la *American Society of Civil Engineers* (ASCE, 7) [27], se puede presentar en las edificaciones expuesta al sismo de diseño, además de los daños esperados, entre un 2 y 10% de probabilidad que la edificación colapse. 
 
 
-::: {.caja-box}
+::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 3.** Impacto de las consideraciones actuales de diseño sismo resistente  Un escenario de daño o colapso por sismo de la infraestructura implica impactos negativos en sectores como la salud, educación, economía, industria y desarrollo de una ciudad o país. Estas experiencias, vividas por países como Nueva Zelanda y México, requieren importante intervención del sector privado y sobre todo del estado para iniciar los procesos de demolición y reconstrucción. Procesos que conllevan, entre otros, un alto costo económico.
-
 :::
 
 **Generalidades del comportamiento estructural de infraestructura existente ante sismos**
@@ -264,7 +267,7 @@ Así las cosas, la propuesta normativa incluye los avances recientes de la ingen
 
 De forma paralela a la elaboración de la primera propuesta normativa, el comité trabaja en el desarrollo de documentos de consulta y apoyo para los ingenieros y constructores, en cuanto a la adecuada aplicación de los documentos normativos. Se están elaborando documentos técnicos con ejemplos de diseño y con aspectos constructivos y de supervisión técnica en obra. Todo esto con el propósito de fomentar las buenas prácticas de uso e implementación de los SCRE y sus lineamientos normativos. Finalmente se espera que la primera propuesta normativa sea incluida dentro de la próxima actualización del Reglamento NSR-10, impulsando así la implementación de los SCRE para dotar las estructuras de un nivel de desempeño sísmico mucho mejor.
 
-## FABRICACIÓN LOCAL DE DISPOSITIVOS COMO SCRE
+## 10.5 FABRICACIÓN LOCAL DE DISPOSITIVOS COMO SCRE
 
 Como se mencionó en el Numeral 2, los sistemas de control de respuesta estructural (SCRE) consisten básicamente en un conjunto o serie de dispositivos que se incorporan en las estructuras. Dichos dispositivos en la mayoría de los proyectos actuales en Colombia, han sido importados de países como EE.UU., Italia, Chile, o Canadá, donde se encuentran empresas que los fabrican con una gran trayectoria en el mercado mundial. Algunas de estas empresas tienen oficinas en Colombia.  
 
@@ -284,7 +287,7 @@ Diversas publicaciones nacionales e internacionales dan soporte técnico a todos
 |  |
 | Figura 4. Primer ensayo en Colombia de prototipos de Riostra efe-Prima-ce -BRB- Universidad EIA.  Superior: Proyecto Fase III. Inferior: Proyecto Fase IV. |
 
-## CONCLUSIONES
+## 10.6 CONCLUSIONES
 
 Es de relevancia para el país concientizar a entidades gubernamentales, sector privado y población en general acerca del nivel de daño que tendrá la infraestructura diseñada y construida con sistemas convencionales (sin sistemas de control) después de un evento sísmico fuerte. Es importante también hacer notar las repercusiones políticas, económicas y sociales que la anterior situación conlleva. 
 
@@ -297,14 +300,13 @@ Colombia requiere una normativa local urgente que regule el diseño y construcci
 Es necesario el apoyo del país en estas temáticas de investigación, ya que es a partir de los resultados de las mismas que se construyen las normas que rigen la práctica profesional.
 
 
-| PUNTOS CLAVE Colombia es un país cuya infraestructura se encuentra expuesta a una elevada amenaza sísmica. La filosofía actual de diseño contemplada en NSR-10 para las edificaciones, acepta daños en éstas frente a eventos sísmicos fuertes. lo cual corresponde a un criterio de diseño mundialmente aceptado y validado.    La filosofía de daño en la infraestructura implica altos costos de reparación, post- sismo, pérdida de la operación de todo tipo de infraestructura (incluyendo la esencial, como lo son los hospitales), infraestructura sin capacidad de resiliencia y un sin número de problemas sociales como la pérdida de servicios esenciales de salud, educación, transporte, alimento y demás. Por ende, frena el desarrollo e impacta notablemente la calidad de vida de la población. Los sistemas de control de respuesta estructural (SCRE) son una opción muy viable para reducir el nivel de daño en la infraestructura nueva y existente de un país, expuesta a eventos sísmicos importantes. A través de esta técnica se puede mitigar el riesgo sísmico, garantizar la operación continua de la infraestructura y alcanzar la resiliencia de las ciudades. Colombia actualmente cuenta con infraestructura que incorpora SCRE, sin embargo, la implementación de la técnica aun es escasa, debido entre otras cosas a la ausencia de una normativa local. El desarrollo de una normativa para el adecuado diseño y construcción de infraestructura con SCRE es una necesidad urgente para Colombia. Ésta impulsará la implementación de más proyectos, garantizado un nivel de seguridad superior y una adecuada economía en los mismos. El avance de la norma para SCRE que actualmente se desarrolla en Colombia, es un gran aporte para la sociedad y cuenta con una adaptación robusta de normas internaciones al contexto local, resultado del trabajo conjunto del comité AIS-700, aportes en investigaciones nacionales e internacionales y opiniones de expertos en la académica y en el sector profesional. |
-| --- |
-
-
+::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Puntos clave.** Colombia es un país cuya infraestructura se encuentra expuesta a una elevada amenaza sísmica. La filosofía actual de diseño contemplada en NSR-10 para las edificaciones, acepta daños en éstas frente a eventos sísmicos fuertes. lo cual corresponde a un criterio de diseño mundialmente aceptado y validado.    La filosofía de daño en la infraestructura implica altos costos de reparación, post- sismo, pérdida de la operación de todo tipo de infraestructura (incluyendo la esencial, como lo son los hospitales), infraestructura sin capacidad de resiliencia y un sin número de problemas sociales como la pérdida de servicios esenciales de salud, educación, transporte, alimento y demás. Por ende, frena el desarrollo e impacta notablemente la calidad de vida de la población. Los sistemas de control de respuesta estructural (SCRE) son una opción muy viable para reducir el nivel de daño en la infraestructura nueva y existente de un país, expuesta a eventos sísmicos importantes. A través de esta técnica se puede mitigar el riesgo sísmico, garantizar la operación continua de la infraestructura y alcanzar la resiliencia de las ciudades. Colombia actualmente cuenta con infraestructura que incorpora SCRE, sin embargo, la implementación de la técnica aun es escasa, debido entre otras cosas a la ausencia de una normativa local. El desarrollo de una normativa para el adecuado diseño y construcción de infraestructura con SCRE es una necesidad urgente para Colombia. Ésta impulsará la implementación de más proyectos, garantizado un nivel de seguridad superior y una adecuada economía en los mismos. El avance de la norma para SCRE que actualmente se desarrolla en Colombia, es un gran aporte para la sociedad y cuenta con una adaptación robusta de normas internaciones al contexto local, resultado del trabajo conjunto del comité AIS-700, aportes en investigaciones nacionales e internacionales y opiniones de expertos en la académica y en el sector profesional.
+:::
 | NECESIDADES FUTURAS Ya que la normativa base para el país en los temas de sistemas de control de respuesta estructural es ASCE 7-16, y la cual se enfoca principalmente en el uso de SCRE para edificaciones esenciales, Piscal y Montañez [57], trabajan en nuevas propuestas normativas para que los futuros requisitos en Colombia impulsen el uso de estos sistemas en edificaciones residenciales, edificaciones que son las que existen en una mayor cantidad en todos los países. Piscal y Montañez afirman que no existe resiliencia en las ciudades solo protegiendo ciertas edificaciones, se deben proteger todas. Por lo tanto, se requiere mayor investigación y por ende financiación de los gobiernos y entidades adscritas a estos para poder desarrollar versiones futuras de normas que permitan alcanzar menor daño, funcionalidad y resiliencia en toda la infraestructura del país. Se requiere mayor desarrollo local de dispositivos para SCRE y paralelo a esto laboratorios adaptados en el país para el testeo adecuado de los dispositivos. Se requiere una mayor divulgación de las técnicas y sus beneficios a nivel gubernamental y de la sociedad en general. |
 | --- |
 
-## MATERIALES Y MÉTODOS
+## 10.7 MATERIALES Y MÉTODOS
 
 Todo lo aquí presentado es el resultado del: 
 
@@ -316,11 +318,11 @@ Investigaciones científicas desarrolladas por los autores.
 
 Aportes de cada uno de los autores.
 
-## CONFLICTO DE INTERESES
+## 10.8 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-## AGRADECIMIENTOS
+## 10.9 AGRADECIMIENTOS
 
 A la Asociación de Ingeniería Sísmica, por el apoyo para el desarrollo de la primera norma de la temática en el país, a los miembros del comité AIS-700 por todo su apoyo y trabajo, a la Universidad de La Salle y a la Universidad EIA por los espacios brindados para la investigación en estas temáticas.
 
@@ -328,13 +330,13 @@ A la Asociación de Ingeniería Sísmica, por el apoyo para el desarrollo de la 
 
 Todos los autores contribuyeron a la conceptualización y desarrollo de este proyecto.
 
-## IDENTIFICACIÓN DE AUTORES
+## 10.10 IDENTIFICACIÓN DE AUTORES
 
 Carlos Mario Piscal Arevalo		
 
 Juan Andrés Oviedo Amézquita	
 
-## BIBLIOGRAFÍA
+## 10.11 BIBLIOGRAFÍA
 
 Ángel Giraldo, D. C. & Rincón Chuscano C. A.  (2019). *Análisis del comportamiento estructural de una tribuna en concreto reforzado para un estadio con y sin aisladores de base* [Trabajo de grado - Pregrado]. Universidad de la Salle.
 
@@ -449,4 +451,3 @@ Oviedo, J. A., Jaramillo, N. & Blandón, C. (2019). *Evaluación Experimental ba
 Pelaez, A., Giraldo, J.,  &  Oviedo, J. A. (2013).  Pórticos de Concreto Reforzado Equipados con Riostras Metálicas Restringidas contra Pandeo, Medellín, 2013.
 
 Montañez, F.  & Piscal Arevalo, C. M. (2023). Evaluación del comportamiento estructural del uso de aisladores de base en estructuras residenciales bajo una nueva visión de desempeño sísmico. [Trabajo de grado - Maestría]. Universidad Militar Nueva Granada.
-
