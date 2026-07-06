@@ -1,21 +1,30 @@
 ---
 title: "Capítulo 15: Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios"
 author:
-  - "Olga Liliana Pineda López"
-  - "Joan Sebastián Arbeláez Caro"
-  - "Luz Stela Quintana Hernández"
-  - "Laura Vanessa Corrales Brand"
-  - "Valentina Ospina Poveda"
-  - "Carla María Zapata Rueda"
+  - name: "Olga Liliana Pineda López ^1^"
+    orcid: "0000-0001-8320-8154"
+    affiliation: "^1^Universidad de San Buenaventura Medellín, extensión Armenia, Colombia"
+  - name: "Joan Sebastián Arbeláez Caro ^1^"
+    orcid: "0000-0001-9935-5781"
+    affiliation: ""
+  - name: "Luz Stela Quintana Hernández ^1^"
+    orcid: "https://orcid.org 0000-0002-0204-5291"
+    affiliation: ""
+  - name: "Laura Vanessa Corrales Brand ^2^"
+    orcid: "0000-0003-3657-536X"
+    affiliation: "^2^Universidad de San Buenaventura, Medellín, Colombia"
+  - name: "Valentina Ospina Poveda ^2^"
+    orcid: "0000-0003-4401-4001"
+    affiliation: ""
+  - name: "Carla María Zapata Rueda ^2^"
+    orcid: "0000-0002-4781-3362"
+    affiliation: ""
 title-block-banner: "images/banner_2023.png"
+date: ""
+doi: ""
 ---
 
-1Universidad de San Buenaventura Medellín, extensión Armenia (Quindío). Dirección: Barrio Sesenta Casas, Cra. 23d #4-07, Armenia, Quindío.
-
-2Universidad de San Buenaventura. Dirección: Carrera 56C N° 51-110 Centro – Medellín, Antioquia.
-
-***Autor de contacto**. Docente investigadora de la Universidad de San Buenaventura Medellín extensión Armenia. Correo: olga.pineda@usbmed.edu.co 
-
+::: {#resumen}
 ## Resumen {.unnumbered}
 Los respondedores de emergencias son la primera línea de apoyo para la atención de las complejidades que implica cualquier desastre. Sin embargo, los respondedores se someten a un gran estrés emocional, adversidad y riesgos laborales durante las emergencias con potenciales efectos sobre su salud mental. No solo existe un vacío institucional de la atención de la salud mental de los respondedores, sino que su salud mental debe configurarse como una condición específica de su formación. Se plantea este ejercicio como respuesta al vacío institucional de la atención de la salud mental de los respondedores de emergencias. El objetivo de este capítulo es predecir los factores de resiliencia ante eventos estresantes según los estilos de afrontamiento presentes en un grupo de bomberos voluntarios del departamento del Quindío (Colombia). Se empleó un método cuantitativo, descriptivo-correlacional con alcance predictivo. La población objeto fueron los bomberos voluntarios del departamento del Quindío, la muestra se eligió mediante un muestreo no probabilístico de tipo intencional (n = 35). Se aplicó una ficha de caracterización, la escala de estrategias *Coping* modificada (EEC-M) y la escala de resiliencia (EA). Sentirse bien es predicho por la autonomía (R² = 0.83, β = 1.030, *p* = .00), búsqueda de apoyo social (R² = 0.83, β = .979, *p* = .00) y la reevaluación positiva (R² = 0.83, β = .403, *p* = .02). Se encontró que la búsqueda de apoyo social es influenciada por la ciudad de residencia (*F* (3, 168) = 4.098, *p* = .03), el estado civil (*F* (2, 242) = 5.878, *p* = .02), antecedentes médicos (*F* (1, 376) = 9.135, *p* = .01). Percepción de apoyo familiar (*F* (2, 311) = 7.557, *p* = .01), síntomas de ansiedad (*F* (1, 378) = 9.178, *p* = .01) y la ideación suicida (*F* (1, 251) = 6.117, *p* = .03). Se concluye que las estrategias de afrontamiento predicen en determinada proporción la resiliencia. La resiliencia es un factor fundamental en la formación integral de los bomberos voluntarios. 
 
@@ -23,25 +32,31 @@ Los respondedores de emergencias son la primera línea de apoyo para la atenció
 
 **Preparedness of emergency responders in Quindío: a study on coping styles and resilience factors in a group of volunteer firefighters** 
 
+:::
+
+
+::: {#abstract}
 ## Abstract {.unnumbered}
 Emergency responders are the first line of support in dealing with the complexities of any disaster. However, responders are subjected to great emotional stress, adversity, and occupational hazards during emergencies, potentially affecting their mental health. There is an institutional gap in mental health care for responders, so their mental health must be configured as a specific training condition. This exercise is proposed to respond to emergency responders' institutional gap in mental health care. The objective of this chapter is to predict the resilience factors to stressful events according to the coping styles present in a group of volunteer firefighters from the department of Quindío (Colombia). The methodological design was developed using a quantitative, descriptive-correlational approach that responds to a quasi-experimental design with predictive impact. The target population was volunteer firefighters from the Department of Quindío; the sample was chosen through an intentional non-probability sampling (n = 35). A characterization sheet, the modified Coping Strategies Scale (CSS-R), and the resilience scale (RS) were applied. It was found that the factor feeling good is predicted by the autonomy (R² = 0.83, β = 1.030, *p* = .00), by the search for social support (R² = 0.83, β = .970, *p* = .00) and for the positive reevaluation (R² = 0.83, β = .403, *p* = .02). It was found that the search for social support is influenced by the city of residence (*F* (3, 168) = 4.098, *p* = .03), marital status (*F* (2, 242) = 5.878, *p* = .02), medical history (*F* (1, 376) = 9.13 5, *p* = .01), Perception of family support (*F* (2, 311) = 7.557, *p* = .01), anxiety symptoms (*F* (1, 378) = 9.178, *p* = .01) and suicidal ideation (*F* (1, 251) = 6.117, *p* = .03). It is concluded that the Coping Strategies predict resilience in a certain proportion. Resilience is a fundamental factor in the comprehensive training of volunteer firefighters.
 
 **Keywords**: Volunteers, firefighters, coping, resilience, mental health. 
 
-## INTRODUCCIÓN
+:::
+
+
+## 15.1 INTRODUCCIÓN
 
 La promoción integral de las personas y de las comunidades es uno de los objetivos primordiales de la gestión del riesgo de desastres. No obstante, para realizar una atención integral de las comunidades y de sus individuos, es necesario conocer las herramientas psicológicas y de salud mental con las que cuentan. Así, la psicología de la gestión del riesgo de desastres y el conocimiento del factor psicológico se ha posicionado como un novedoso campo en el interior de la psicología científica [1]. Conocer los factores psicológicos inmersos en la gestión del riesgo de desastres implica un análisis exhaustivo de las condiciones sociales macro y micro que influyen en la estructura psicológica individual y social con las que se enfrentará una emergencia [2]. Las situaciones que se desencadenan producto de los eventos que generan emergencias en las comunidades, las atienden instituciones que previamente realizan una preparación integral de frente a la atención de la emergencia y también en la mitigación de los factores de riesgo. Estas instituciones evolucionan en la medida que lo hacen los procesos sociales que están en la base de los estados de vulnerabilidad. Una de estas instituciones, son los bomberos voluntarios. 
 
 Los bomberos voluntarios, en toda su historia como institución han aportado conocimiento sobre la reacción inmediata ante eventos de desastre. La presente investigación se enfoca en el reconocimiento de las estrategias de afrontamiento y de resiliencia en los bomberos voluntarios del departamento del Quindío (Colombia), con el fin de describir los factores psicológicos en personas que constantemente actúan en los tres procesos de la gestión del riesgo de desastres: conocimiento del riesgo, reducción del riesgo, y manejo de desastres incluyendo la atención de emergencias. 
 
-## LOS BOMBEROS VOLUNTARIOS COMO RESPONDEDORES DE EMERGENCIAS
+## 15.2 LOS BOMBEROS VOLUNTARIOS COMO RESPONDEDORES DE EMERGENCIAS
 
 Las instituciones voluntarias reúnen a personas cuya motivación es un factor de estudio para la psicología. La motivación que lleva a una persona a convertirse en voluntario de cualquier institución se estudia desde diversas teorías. La de mayor aceptación es la teoría de la autodeterminación [3-5]. En la teoría de la autodeterminación, la motivación a adherirse a grupos sociales responde a tres necesidades básicas: competir, ser autónomo y relacionarse. 
 
 
-::: {.caja-box}
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Glosario.  Bomberos voluntarios de Colombia: Asociación de voluntarios de emergencias y desastres articulada mediante la Ley 1575 de 2012.  Resiliencia: capacidad de retorno al estado previo a una situación de estrés.  Afrontamiento: capacidad de enfrentar una situación estresante mediante patrones conductuales, emocionales y cognitivos.
-
 :::
 
 Desde los modelos de indagación empírica se ha establecido que la motivación que lleva a la persona a convertirse en un voluntario implica cuatro necesidades que se desprenden de la establecidas en la teoría de la autodeterminación: realización como persona, altruismo (gregarismo), aceptación social y adaptación económica [6-8]. No sólo el ser voluntario responde a necesidades psicológicas, sino que también responde a cuestiones sociales de fondo como intereses económicos y políticos [9]. 
@@ -49,9 +64,8 @@ Desde los modelos de indagación empírica se ha establecido que la motivación 
 Sin embargo, son Latané y Darley [10] quienes proponen que la estructura psicológica que da marco a la toma de decisiones de un voluntario responde específicamente a una forma de altruismo. No obstante, el altruismo es una condición muy vaga y no ofrece una explicación acertada sobre la motivación del voluntarismo. Cabrera-Darias & Marrero-Quevedo [11] proponen que los motivos de un voluntario responden a los siguientes elementos: adquisición de aprendizajes, mejoramiento de valores, mejoramiento personal, de protección “reducir la culpa por ser más afortunado que los otros” [11] (p. 792), y de oportunidades sociales y profesionales. En función de lo anterior, se puede concluir que el voluntariado apunta en sus motivaciones a responder a necesidades personales y sociales. Dávila y Díaz [12] concluyen que el voluntariado apunta en general, a potenciar la satisfacción vital. 
 
 
-::: {.caja-box}
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Normativa en Colombia sobre voluntarios y respondedores de emergencias.  Ley 1523 de 2021: marco general para la gestión de riesgo de desastres.  Resolución 927 de 2017: Por la cual se reglamenta el desarrollo y operación del Sistema de Emergencias Médicas. Ley 1575 de 2012: Bomberos Colombia. Ley 852 de 2003: Cruz roja de Colombia. Decreto 2068 de 1984: defensa civil.
-
 :::
 
 La importancia de los bomberos es imperativa en Colombia. Para el año 2019, según estadísticas de la Unidad Administrativa Especial de Bomberos [14] se atendieron 37,976 emergencias, siendo la más recurrente la atención prehospitalaria (7,677 casos), los accidentes de tránsito (5,504 casos), y la categoría “otros” (4,955 casos). Los departamentos en donde más solicitaron los bomberos voluntarios fueron Valle del Cauca (10,177 casos) y Antioquia (9,845 casos), específicamente el departamento del Quindío reportó 322 emergencias que requirieron a los bomberos. Una de las problemáticas más atendidas en Colombia desde la prevención, mitigación y atención fueron los incendios forestales. El departamento del Meta fue el que mayor requirió la asistencia de los bomberos con 241 casos. 
@@ -78,7 +92,7 @@ Las estrategias de afrontamiento, al igual que las condiciones o factores de res
 
 Los bomberos voluntarios por las características de su profesión poseen posiblemente una capacidad de resiliencia alta dadas las estrategias de afrontamiento positivas comunes a las condiciones por las que se motivaron para ser voluntarios [6, 34-36]. Por tanto, el estudio parte de la hipótesis que estrategias de afrontamiento predicen los factores de resiliencia en una muestra de bomberos voluntarios. De tal manera que conocer las estrategias de afrontamiento prevalentes y presentes en un modelo predictivo significativo, puede desarrollarse y lograrse una mejor intervención en salud mental en los respondedores de emergencia. 
 
-## ANTECEDENTES DE ESTUDIO
+## 15.3 ANTECEDENTES DE ESTUDIO
 
 Sin duda, los estudios sobre estrategias de afrontamiento de respondedores lo han analizado en independencia de los factores de resiliencia aportando al desarrollo de un marco teórico para desarrollar nuevas hipótesis. Nuestro trabajo, en contraste, conjuga dos variables para estudiar los conceptos afrontamiento y resiliencia en el contexto de los bomberos voluntarios del departamento del Quindío (Colombia). Una primera investigación, llevada a cabo por Sainz [36], se abordaron las estrategias de afrontamiento y su impacto emocional en voluntarios de emergencias, mediante un análisis ex post, de orden cualitativo, abordó las experiencias de bomberos voluntarios en situaciones estresantes, diferenció tres tipos de estrategias de frente a la salud mental: estrategias perjudiciales, operativas y defensivas. 
 
@@ -94,19 +108,19 @@ Díaz [41] expone particularmente los riesgos psicosociales que afectan la labor
 
 En suma, los bomberos voluntarios son una institución de una relevante importancia dentro de la gestión del riesgo de desastres. La ley 1575 que derivó en su organización como institución, plantea retos organizacionales como lo describe Martínez [42]. Sin embargo, como lo plantea Díaz [41] y también a las pocas investigaciones sobre esta población, se requiere un mejor conocimiento sobre las condiciones de salud mental de los bomberos voluntarios en aras de mejorar los procesos de formación integral. Por tal motivo, el objetivo de la presente investigación es predecir los factores de resiliencia ante eventos estresantes según los estilos de afrontamiento presentes en un grupo de bomberos voluntarios del departamento del Quindío (Colombia).
 
-## MATERIALES Y MÉTODOS
+## 15.4 MATERIALES Y MÉTODOS
 
-### Diseño y muestreo
+### 15.4.1 Diseño y muestreo
 
 El presente estudio se desarrolló siguiendo un enfoque cuantitativo (empírico-analítico), de temporalidad transversal, de tipo correlacional con valor predictivo, no experimental. Según lo suguiere Monje [43], las investigaciones que emplean el método descriptivo como enfoque principal, responde a la demarcación y explicación sistemática de las peculiaridades de una población. La población objeto de la investigación fueron los bomberos voluntarios del departamento del Quindío. Los bomberos voluntarios se establecen legalmente según la ley 1575 del año 2012 [14]. La muestra del estudio se eligió mediante un muestreo no probabilístico de tipo intencional. 
 
 Se determinaron como criterios de inclusión la firma del consentimiento informado, pertenecer a un cuerpo de bomberos voluntarios del departamento del Quindío (Colombia) y ser mayor de edad. Como criterio de exclusión se estableció la habilidad cognitiva para la respuesta de los instrumentos, para lo cual se aplicó una prueba de tamizaje cognoscitivo eligiendo como punto de corte 23 puntos (el mismo de los autores).  
 
-### Consideraciones éticas
+### 15.4.2 Consideraciones éticas
 
 La presente investigación contó con el aval del comité de investigaciones y bioético de la Universidad de San Buenaventura Medellín, además el ejercicio de investigación se realizó siguiendo las recomendaciones dispuestas en la Ley 1090 de 2016, Capítulo VII. Se orientó a los participantes en el consentimiento informado que firmaban sobre las consideraciones éticas propias: secreto y buen manejo de la información, derecho a la no participación, derecho a la información, al acompañamiento y respeto por la intimidad. 
 
-### Instrumentos
+### 15.4.3 Instrumentos
 
 Para llevar a cabo los objetivos del presente estudio, se eligieron los siguientes instrumentos de evaluación. 
 
@@ -118,7 +132,7 @@ Escala de estrategias *Coping* modificada (EEC-M) de Londoño et al. [29], con e
 
 Escala de resiliencia (ER), Wagnild y Young [26], escala tipo Likert de 25 reactivos que tiene por objeto identificar el nivel de resiliencia en personas adultas en cinco dimensiones: Satisfacción personal, Ecuanimidad, Sentirse bien solo, Confianza en sí mismo, Perseverancia y satisfacción personal. En un ejercicio de adaptación de la escala a población colombiana se encontró que la escala tiene un α = 0.84 [45]. Según su estructura, no se requiere de una puntuación total, sino por cada una de las estrategias de afrontamiento.
 
-### Procedimiento
+### 15.4.4 Procedimiento
 
 Una vez se eligieron los modelos teóricos, se procedió a buscar antecedentes enfatizando en los instrumentos de medición. Luego, se hizo la elección y estudio piloto de cada uno de los instrumentos y de la encuesta de caracterización con el equipo de investigación. Se realizó un convenio temporal entre la Universidad de San Buenaventura Medellín, extensión Armenia y los Bomberos Voluntarios del departamento del Quindío gracias al equipo de comandantes en cabeza del capitán departamental. A continuación, se presentaron los instrumentos y convenios, así como el consentimiento informado al comité de bioética de la Universidad de San Buenaventura Medellín, con su aprobación, se gestionó un cronograma en cada una de las estaciones del departamento. La aplicación de las escalas se realizó presencial, la ficha de caracterización y entrevista de tamizaje cognitivo se realizó de manera individual, el ejercicio de recolección de la información tomaba 2 horas aproximadamente en cada estación. En total, el trabajo de campo duró 3 meses, entre mayo a julio de 2019. 
 
@@ -130,7 +144,7 @@ A continuación, se usó un modelo de análisis de varianza (MANOVA) para contra
 
 Por último, se realizó una regresión lineal múltiple y se probaron sus supuestos de no multicolinealidad y linealidad. Las variables criterios fueron los diferentes factores de resiliencia (satisfacción personal, ecuanimidad, sentirse bien solo, confianza en sí mismo, perseverancia y satisfacción personal) y las variables predictoras fueron las estrategias de afrontamiento (solución de problemas, apoyo social, espera, religión, evitación emocional, búsqueda de apoyo profesional, reacción agresiva, evitación cognitiva, expresión de la dificultad de afrontamiento, reevaluación positiva, negación y autonomía.). Cada uno de los factores de resiliencia fue un modelo independiente y se usó en todos como método de entrada: “introducir”. Se exponen en los resultados los modelos significativos según el ANOVA *p* < .05. 
 
-## RESULTADOS
+## 15.5 RESULTADOS
 
 La muestra se compuso por un total de 35 sujetos entre quienes la edad promedio fue de 44 años (DT = 15.55), la edad máxima del grupo de encuestados fue de 69 años y la mínima de 18 años. En promedio, el estrato socioeconómico es de 1.8 (DT = 0.822), el estrato máximo registrado en los sujetos de estudio es 4 puntos y el mínimo 1. Los encuestados reportan en promedio, pertenecen a bomberos hace 126.21 meses (DT = 133.64). Esto significa que en promedio pertenecen a bomberos hace 10.5 años, de ellos el máximo de pertenencia reportado es de 438 meses o 36 años. En la **Tabla 1** se indican las frecuencias de las demás respuestas a la entrevista de caracterización. 
 
@@ -258,7 +272,7 @@ Por último, se realizó un análisis de probabilidad, en el cual se trató de i
 
 R²= valor de r cuadrada; D-W= Durbin-Watson; β= Índice beta; *p*= significación. 
 
-## DISCUSIÓN
+## 15.6 DISCUSIÓN
 
 El objetivo del estudio fue predecir los factores de resiliencia ante eventos estresantes según los estilos de afrontamiento presentes en un grupo de bomberos voluntarios del departamento del Quindío (Colombia). La discusión versará sobre el análisis de los hallazgos acerca de las variables de estudio. 
 
@@ -278,31 +292,30 @@ La evidencia apunta a que la resiliencia es un factor fundamental en el trabajo 
 
 La principal limitante de la investigación fue el difícil acceso a la población de estudio, además no se indagaron sobre factores familiares, de personalidad y factores relacionados con la práctica de bomberos como una profesión. Se recomienda a partir de la identificación de estas limitaciones realizar posteriores estudios que incluyan el análisis de la percepción de la dinámica familiar, los factores de personalidad y laborales, los cuales se han incluido en modelos teóricos sobre la resiliencia. 
 
-## CONCLUSIONES
+## 15.7 CONCLUSIONES
 
 Como conclusión del estudio, a partir del análisis jerárquico de la relación entre estrategias de afrontamiento y factores de resiliencia, se encontró que el apoyo social es la estrategia en la que mayoritariamente influyen factores personales del sujeto. Además, Sentirse Bien es el factor de resiliencia que mayormente se predice por las estrategias de afrontamiento. La resiliencia es un elemento fundamental en la promoción de la salud mental de los bomberos voluntarios pues el desempeño de su labor requiere de mantener adecuados indicadores de calidad y bienestar personal.
 
 
-| PUNTOS CLAVE Los Bomberos en Colombia se distribuyen en tres grupos: voluntarios, oficiales y aeronáuticos  La formación para la práctica bomberil en cualquiera de las labores bomberiles no incluye la preparación psicológica.  La psicología orientada al riesgo de desastres incluye la formación de los voluntarios de emergencias.  La resiliencia y el afrontamiento son dos variables implicadas en la atención de emergencias sin alterar la salud mental del voluntario.  El apoyo social es la estrategia en la que mayoritariamente influyen factores personales del sujeto, además el factor de resiliencia que mayormente es predicha por las estrategias de afrontamiento es sentirse bien.  La formación psicológica para los bomberos debería incluir la dimensión psicológica. |
-| --- |
-
-
-| RECOMENDACIONES PARA TOMAR DECISIONES   El desarrollo de la labor bomberil implica una exposición a situaciones de impacto emocional que pueden derivar en factores de riesgo de orden psicológico como desregulación del estado emocional individual, patrones de comportamiento desadaptativo y valoraciones cognitivas.  La normativa actual es muy débil en la atención de la dimensión psicológica de los bomberos.  La estrategia de atención psicológica puede derivar en la formulación de una tarea entre la academia y las instituciones de respondedores. |
-| --- |
-
-## CONFLICTO DE INTERÉS
+::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Puntos clave.** Los Bomberos en Colombia se distribuyen en tres grupos: voluntarios, oficiales y aeronáuticos  La formación para la práctica bomberil en cualquiera de las labores bomberiles no incluye la preparación psicológica.  La psicología orientada al riesgo de desastres incluye la formación de los voluntarios de emergencias.  La resiliencia y el afrontamiento son dos variables implicadas en la atención de emergencias sin alterar la salud mental del voluntario.  El apoyo social es la estrategia en la que mayoritariamente influyen factores personales del sujeto, además el factor de resiliencia que mayormente es predicha por las estrategias de afrontamiento es sentirse bien.  La formación psicológica para los bomberos debería incluir la dimensión psicológica.
+:::
+::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Recomendaciones para tomar decisiones.** El desarrollo de la labor bomberil implica una exposición a situaciones de impacto emocional que pueden derivar en factores de riesgo de orden psicológico como desregulación del estado emocional individual, patrones de comportamiento desadaptativo y valoraciones cognitivas.  La normativa actual es muy débil en la atención de la dimensión psicológica de los bomberos.  La estrategia de atención psicológica puede derivar en la formulación de una tarea entre la academia y las instituciones de respondedores.
+:::
+## 15.8 CONFLICTO DE INTERÉS
 
 El equipo de investigación manifiesta no tener ningún conflicto de interés 
 
-## AGRADECIMIENTOS
+## 15.9 AGRADECIMIENTOS
 
 Los investigadores agradecen a los Bomberos Voluntarios del Departamento del Quindío, en cabeza del Capitán Javier Ramírez Flórez. 
 
-## CONTRIBUCIÓN DE AUTORÍA CRediT
+## 15.10 CONTRIBUCIÓN DE AUTORÍA CRediT
 
 Administración del proyecto: Olga Liliana Pineda López. Supervisión: Joan Sebastián Arbeláez Caro. Conceptualización: Luz Stela Quintana Hernández. Investigación: Laura Vanessa Corrales Brand y Valentina Ospina Poveda. Redacción, revisión y edición: Carla María Zapata Rueda.
 
-## IDENTIFICACIÓN DE AUTORES
+## 15.11 IDENTIFICACIÓN DE AUTORES
 
 Olga Liliana Pineda López 	 	
 
@@ -316,7 +329,7 @@ Valentina Ospina Poveda
 
 Carla María Zapata Rueda 		
 
-## BIBLIOGRAFÍA
+## 15.12 BIBLIOGRAFÍA
 
 Gaviria, W., & Zambrano, L. A. (2018). Hacia una psicología social en la gestión del riesgo de desastres. *Tempus Psicológico, 2(*1), 108-128. https://doi.org/10.30554/tempuspsi.1.2.2569.2019
 
@@ -451,4 +464,3 @@ Ruiz- González, P., Zayas, A., Morales-Sánchez, L., Gil-Olarte, P., & Guil, R.
 Castillo, K., Mata, J., & Nerio, C. (2014). *La resiliencia y la sinergia que presentan los trabajadores del Cuerpo de Bomberos de la Región Metropolitana del Ministerio de Gobernación de El Salvador.* (Tesis de grado). Universidad del Salvador, Facultad de ciencias y humanidades. El Salvador.
 
 Lima, G., Souza, I., Storti, L., Silva, M., Kusumota, L., & Marques, S. (2019). Resiliencia, calidad de vida y síntomas depresivos entre ancianos en tratamiento ambulatorio. *Revista latinoamericana enfermagem, 27*, 1-11. https://doi.org/10.1590/1518-8345.3133.321
-
