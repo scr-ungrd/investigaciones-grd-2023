@@ -1,3 +1,4 @@
+lang: es
 project:
   type: book
 
@@ -32,7 +33,7 @@ format:
     theme: 
       - lumen
       - theme.scss
-    css: styles.css
+    css: custom.css
     toc: true
     toc-depth: 4
     toc-expand: true

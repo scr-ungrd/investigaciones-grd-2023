@@ -8,7 +8,7 @@ REGLA 1: PÁGINA DE PRESENTACIÓN
 Cuando proceses el archivo que corresponde a la presentación o introducción:
 - MANTÉN el título original exactamente como viene (`# Presentación del libro`). NO lo borres ni lo cambies a "Inicio".
 - Inmediatamente debajo de ese título, inserta estrictamente esta línea para cargar la portada:
-  ![](images/libro-2023-portada.png){fig-align="center" width="80%"}
+  ![](images/libro-2021-portada.png){fig-align="center" width="80%"}
 - Conserva el resto del contenido intacto.
 
 REGLA 2: CAPÍTULOS DE INVESTIGACIÓN
@@ -17,12 +17,13 @@ Cuando proceses los capítulos normales del libro:
 - Para lograrlo, elimina el título principal (el que empieza con `#`).
 - Extrae el título del capítulo y los nombres de los autores leyendo el texto.
 - Inicia el documento con este bloque YAML exacto:
+- Que el texto del banner sea azul oscuro 
 ---
 title: "[Título Extraído]"
 author: 
   - "[Autor 1]"
   - "[Autor 2]"
-title-block-banner: "images/banner_2023.png"
+title-block-banner: "images/banner_2021.png"
 ---
 - Asegúrate de que el resto del contenido continúe debajo del YAML y que los subtítulos mantengan la jerarquía correcta (iniciando en `##`).
 
