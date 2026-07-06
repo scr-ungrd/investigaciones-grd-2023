@@ -1,12 +1,15 @@
 ---
 title: "Capítulo 11: La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático"
 author:
-  - "Dorotea Cardona Hernández"
+  - name: "Dorotea Cardona Hernández ^1^"
+    orcid: "https://independent.academia.edu/DoroteaCardonaHern%C3%A1ndez"
+    affiliation: "^1^Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Programa de Gestión Territorial de la Biodiversidad, Bogotá, D.C, Colombia"
 title-block-banner: "images/banner_2023.png"
+date: ""
+doi: ""
 ---
 
-1Instituto de investigación de recursos biológicos Alexander von Humboldt. Programa de Gestión Territorial de la Biodiversidad- Línea de Ordenamiento Ambiental y Planificación Territorial. Calle 28a #15-09, Bogotá, Colombia.  Correo-e: dcardona@humboldt.org.co
-
+::: {#resumen}
 ## Resumen {.unnumbered}
 
 Los riesgos de desastre y en especial aquellos exacerbados por el cambio climático aumentan cada día y con ello la insostenibilidad del territorio. Estos impactos negativos han deteriorado la biodiversidad y sus servicios ecosistémicos (BDSE); por otro lado, los ecosistemas saludables se vislumbran como una oportunidad para evitar, reducir y corregir escenarios de riesgo promoviendo el bienestar de la población y el desarrollo sostenible del territorio.  No obstante, son aún incipientes, y escasos los análisis de la relación entre biodiversidad-servicios ecosistémicos, gestión del riesgo de desastres, y cambio climático, por lo que resulta pertinente identificar puntos de articulación que propendan por potencializar los esfuerzos que se hacen para gestionar la biodiversidad, el riesgo de desastres, y el cambio climático. Este capítulo resalta la pertinencia de la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres, destacando los escenarios exacerbados por el cambio climático. Para ello se proponen dos rutas desde la gestión integral de la BDSE: i) ver la BDSE como conjunto vulnerable objeto de afectarse por el desastre, y ii) la BDSE como conjunto atenuador de riesgos de desastres e impactos que desde el enfoque de soluciones basadas en la naturaleza (SbN) se consoliden como acciones estratégicas para  fortalecer  los procesos sociales de planeación, ejecución, y monitoreo de acciones para conocer y reducir el riesgo y manejar situaciones de desastre, teniendo en cuenta además el contexto de cambio climático. 
@@ -15,22 +18,28 @@ Los riesgos de desastre y en especial aquellos exacerbados por el cambio climát
 
 **Integrative management of biodiversity and its ecosystem services for risk management and climate change**
 
+:::
+
+
+::: {#abstract}
 ## Abstract {.unnumbered}
 
 Disaster risks, especially those exacerbated by climate change, increase daily, worsening the territory's unsustainability. These negative impacts have deteriorated biodiversity and its ecosystem services (BDES); on the other hand, healthy ecosystems are seen as an opportunity to avoid, reduce and correct risk scenarios promoting the human population's well-being and the territory's sustainable development. However, analysis of the relationship between biodiversity-ecosystem services, disaster risk management, and climate change is still incipient. Therefore, it is pertinent to identify the articulation points between these and how they can best assist the efforts made to manage biodiversity, disaster risk, and climate change. In this sense, this chapter highlights integrated BDES's relevance for risk management and the exacerbating effects of climate change. Further, two pathways are proposed from the BDES integral management point of view: i) Bring to the forefront the vulnerability of BDES to get affected by disaster, and ii) approach BDES as a mitigating strategy to disaster risks and related impacts. This is to consolidate it as a nature-based solution strategy that simultaneously seeks to strengthen the social processes of planning, execution, and monitoring of actions designed to understand and reduce the risk and manage disaster situations, while considering the context of climate change.
 
 **Keywords**: Biodiversity, ecosystem services, disaster risk, climate changed, nature-based solutions
 
-## EL PAPEL TRIPLE PROPÓSITO DE LAS SOLUCIONES BASADAS EN LA NATURALEZA
+:::
+
+
+## 11.1 EL PAPEL TRIPLE PROPÓSITO DE LAS SOLUCIONES BASADAS EN LA NATURALEZA
 
 La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres en escenarios exacerbados por el cambio climático es aún incipiente y son escasos los análisis de la relación entre estos [1].
 
 Los riesgos de desastre asociados al cambio climático han aumentado sin precedentes en las últimas décadas y la biodiversidad y sus servicios ecosistémicos se impactan de manera directa [2]; aunque por otro lado, la biodiversidad ofrece soluciones que pueden reducir y dar cierta resiliencia a los riesgos derivados del cambio climático desde el enfoque de las SbN.
 
 
-::: {.caja-box}
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Definiciones Biodiversidad y servicios ecosistémicos: definida como la variabilidad de organismos vivos de cualquier fuente (terrestres, acuáticos y marinos) y los complejos ecológicos de los que forman parte (composición, estructura y función). Comprenden la diversidad de cada especie, entre las especies y de los ecosistemas. En cuanto a los servicios ecosistémicos se refieren a los beneficios directos e indirectos que la humanidad recibe de la biodiversidad y que son el resultado de la interacción entre los diferentes componentes, estructuras y funciones que constituyen la biodiversidad [1]. Riesgo de desastres: corresponde a los daños o pérdidas potenciales que pueden presentarse debido a los eventos físicos peligrosos de origen natural, socio-natural tecnológico, biosanitario o humano no intencional, en un período de tiempo específico y que son determinados por la vulnerabilidad de los elementos expuestos; por consiguiente, el riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad [3]. Cambio climático: cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables [4]. Soluciones basadas en la naturaleza: enfoque sombrilla que agrupa acciones estratégicas para proteger, gestionar y restaurar los ecosistemas naturales o modificados, con el fin de abordar los desafíos de la sociedad como (i) mitigación y adaptación al cambio climático, (ii) reducción del riesgo de desastres, (iii) desarrollo económico y social, (iv) salud humana,  (v) seguridad alimentaria, (vi) seguridad hídrica, y (vii) degradación ambiental y pérdida de la biodiversidad de manera eficiente y adaptativa en pro del bienestar humano y los beneficios para la biodiversidad [5].
-
 :::
 
 Las SbN se apoyan en los ecosistemas naturales y transformados y los servicios que estos proveen para responder a diversas problemáticas como el riesgo de desastres, el cambio climático y la pérdida y deterioro de la biodiversidad [5]; lo que conforma su papel triple propósito.
@@ -38,9 +47,8 @@ Las SbN se apoyan en los ecosistemas naturales y transformados y los servicios q
 Para articular estos temas, se identifican elementos en común, partiendo de las políticas públicas, que buscan dar directrices desde los gobiernos para atender asuntos de interés colectivo y dar alcance a compromisos internacionales como el Convenio Marco de Diversidad Biológica 2015–2030, el Marco de Sendai 2015–2030, y el Convenio Marco de Naciones Unidas sobre Cambio Climático para favorecer a la población y alcanzar un desarrollo sostenible en temas de biodiversidad, riesgo y cambio climático.
 
 
-::: {.caja-box}
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Alcances de convenios internacionales  Convenio Marco de Diversidad Biológica: busca reducir las presiones directas sobre la diversidad biológica y salvaguardar los ecosistemas para aumentar los beneficios para la población, al mejorar su aplicación e incorporación en los hábitos gubernamentales [6].  Marco de Sendai: en ruta la reducción del riesgo y el aumento de la resiliencia de las naciones y las comunidades ante los desastres, resaltando la necesidad de comprender mejor el riesgo de desastres en todas sus dimensiones relativas a la exposición, vulnerabilidad y características de las amenazas [7].  Convenio Marco de Naciones Unidas sobre Cambio Climático: asiente que los ecosistemas se adapten naturalmente al cambio climático, asegurar que la producción de alimentos no se vea amenazada y permitir que el desarrollo económico prosiga de manera sostenible [8].
-
 :::
 
 La Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos (PNGIBSE) busca maximizar el bienestar humano a través de la planificación, ejecución y monitoreo de las acciones para la conservación de la biodiversidad y sus servicios ecosistémicos tomando como base la resiliencia de los sistemas socio ecológicos a diferentes escalas [1]. 
@@ -59,14 +67,13 @@ Se resalta el cuidado del ambiente, el cual representa la base natural y donde l
 
 **Figura 1.** Esquema de articulación de políticas públicas colombianas y marcos internacionales relacionados con la biodiversidad y sus servicios ecosistémicos, riesgo de desastres y el cambio climático; donde el bienestar humano, la resiliencia y el cuidado del ambiente se perfilan como elementos emergentes que consolidan la sostenibilidad del territorio, resaltando del cuidado del ambiente la biodiversidad como eje para el desarrollo del enfoque de SbN. Fuente: Elaboración propia
 
-## RUTAS ESTRATÉGICAS PARA GESTIONAR EL RIESGO DE DESASTRES Y EL CAMBIO CLIMÁTICO DESDE LA GESTIÓN INTEGRAL DE LA BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS
+## 11.2 RUTAS ESTRATÉGICAS PARA GESTIONAR EL RIESGO DE DESASTRES Y EL CAMBIO CLIMÁTICO DESDE LA GESTIÓN INTEGRAL DE LA BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS
 
 La biodiversidad y sus servicios ecosistémicos como expresión concreta en el territorio (ecosistemas, especies e individuos) consolidan el soporte de desarrollo social, cultural y económico, y a todo esto se denomina socioecosistema [11]. Como resultado de la interacción de las partes del socioecosistema, se evidencian los conflictos socioecológicos, que para el presente capítulo se enmarcan en los escenarios de riesgo de desastre y algunos de ellos exacerbados por el cambio climático.
 
 
-::: {.caja-box}
-**Caja 3.**  Socioecosistema y conflictos socioecológicos Socioecosistema: integración de la biodiversidad y sus servicios ecosistémicos como soporte del desarrollo social, cultural y económico [1].  Conflictos socioecológicos: también se conocen como conflictos socioambientales, y se refieren a las interacciones negativas que resultan de la apropiación social sobre la biodiversidad y sus servicios ecosistémicos generando su deterioro [1]. Parte de estos conflictos socioecológicos son los escenarios de riesgo de desastre, que en algunos casos se exacerban por el cambio climático.
-
+::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 3.** Socioecosistema y conflictos socioecológicos Socioecosistema: integración de la biodiversidad y sus servicios ecosistémicos como soporte del desarrollo social, cultural y económico [1].  Conflictos socioecológicos: también se conocen como conflictos socioambientales, y se refieren a las interacciones negativas que resultan de la apropiación social sobre la biodiversidad y sus servicios ecosistémicos generando su deterioro [1]. Parte de estos conflictos socioecológicos son los escenarios de riesgo de desastre, que en algunos casos se exacerban por el cambio climático.
 :::
 
 Las diversas actividades humanas han generado la transformación de los ecosistemas, ocasionando pérdida de biodiversidad [1] y promoviendo nuevos escenarios de riesgo de desastres. Algunos de estos escenarios se asocian a condiciones hidroclimatológicas exacerbadas por el cambio climático que son cada vez más frecuentes e intensas, aumentando con ellas los conflictos socioecológicos [12].
@@ -87,7 +94,7 @@ La BDSE como conjunto para atenuar riesgos e impactos.
 
 ![Imagen LGRD-06-FIGURA_2.png](media/LGRD-06-FIGURA_2.png)
 
-### Biodiversidad y servicios ecosistémicos como conjunto vulnerable
+### 11.2.1 Biodiversidad y servicios ecosistémicos como conjunto vulnerable
 
 La vulnerabilidad se define como la “susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de afectarse o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que puedan ser afectados por eventos físicos peligrosos” [3]. 
 
@@ -96,9 +103,8 @@ La vulnerabilidad puede analizarse desde varias dimensiones dependiendo del obje
 La vulnerabilidad desde la dimensión ambiental se refiere a la explotación inadecuada de los recursos naturales, la cual genera el deterioro de los ecosistemas [15]. La vulnerabilidad se relaciona con los motores de transformación y pérdida de la biodiversidad, los cuales se consideran a nivel mundial como los factores de cambio ambiental global causantes de superar los umbrales de estabilidad y cambio de los sistemas socioecológicos que impactan negativamente la biodiversidad y sus servicios ecosistémicos [1].
 
 
-::: {.caja-box}
+::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 4.** Motores de transformación y pérdida de la biodiversidad  Cambios de uso del territorio (continental o acuático). Sobreexplotación de ecosistemas nativos y agroecosistemas. Invasiones biológicas.  Contaminación.  Cambio climático.
-
 :::
 
 Si bien algunos eventos naturales como las inundaciones y deslizamientos se identifican como disturbios inherentes a las dinámicas de transformación y precursores de adaptación de los socioecosistemas [1], las nuevas condiciones asociadas al cambio climático que influyen en la variación de la precipitación pueden afectar de manera puntual un ecosistema dado. También estas nuevas condiciones pueden afectar las capacidades de un ecosistema para soportar una perturbación y estabilizarse (resiliencia), mientras que otros son incapaces de resistir la severidad del disturbio, el cual transforma las características de los ecosistemas, cambiando su composición, estructura y función drásticamente [16].
@@ -117,7 +123,7 @@ Las acciones que se proponen desde esta ruta buscan primero evitar los motores d
 
 Las siguientes secciones describen dos estudios de caso que refieren resultados del estado de la BDSE tras un desastre y que permiten identificar elementos a tener en cuenta para intervenirlos de manera efectiva y así reducir escenarios de riesgo.
 
-### Estudios de caso de la biodiversidad y sus servicios ecosistémicos como conjunto vulnerable
+### 11.2.2 Estudios de caso de la biodiversidad y sus servicios ecosistémicos como conjunto vulnerable
 
 La BDSE como conjunto vulnerable se configura a partir de la posible ocurrencia de un evento intenso, grave y extendido que altera las capacidades de recuperación natural de los ecosistemas y las poblaciones humanas que se benefician de sus servicios. 
 
@@ -153,14 +159,13 @@ En este escenario, de transformación del ecosistema, la intervención sobre las
 
 En ambos casos, las investigaciones tienen en cuenta elementos bióticos claves, evidentes desde el reconocimiento de la vulnerabilidad ambiental y física de los ecosistemas, que facilitan la toma de decisiones para definir las estrategias de planificación que permitan el restablecimiento de los servicios ecosistémicos.
 
-### Biodiversidad y sus servicios ecosistémicos como atenuador de riesgos e impactos
+### 11.2.3 Biodiversidad y sus servicios ecosistémicos como atenuador de riesgos e impactos
 
 Renaud et al. [19] refieren el papel de la biodiversidad y sus servicios ecosistémicos en los escenarios de riesgo y cambio climático ha tomado fuerza y reconocimiento a nivel mundial.  La reducción del riesgo de desastres basada en ecosistemas y adaptación frente al cambio climático (Eco-RRD/ACC) ha promovido la generación de políticas, investigaciones e intervenciones específicas en escenarios que relacionan el riesgo de desastres y la adaptación frente al cambio climático. 
 
 
-::: {.caja-box}
-**Caja 6.**  Mitigación y adaptación frente al cambio climático Mitigación del cambio climático: se refiere a las acciones que buscan reducir las emisiones de gases efecto invernadero en la atmósfera [20].   Adaptación frente al cambio climático: relaciona los cambios en los procesos, prácticas y estructuras para moderar los daños potenciales o para beneficiarse de las oportunidades asociadas con el cambio climático en los sistemas ecológicos, sociales o económicos [21].
-
+::: {#box5 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 6.** Mitigación y adaptación frente al cambio climático Mitigación del cambio climático: se refiere a las acciones que buscan reducir las emisiones de gases efecto invernadero en la atmósfera [20].   Adaptación frente al cambio climático: relaciona los cambios en los procesos, prácticas y estructuras para moderar los daños potenciales o para beneficiarse de las oportunidades asociadas con el cambio climático en los sistemas ecológicos, sociales o económicos [21].
 :::
 
 No obstante, los conceptos de reducción del riesgo de desastres basada en ecosistemas (EcoRRD) y adaptación basada en ecosistemas (AbE) se desarrollan de manera independiente para cada uno de sus objetivos. El primero frente al riesgo de desastres y el segundo frente a los impactos del cambio climático, pero se articulan en la búsqueda de soluciones desde gestión, conservación y restauración de los ecosistemas. 
@@ -170,9 +175,8 @@ Si bien la EcoRRD retomó la definición de la AbE, la primera desarrolla su acc
 Los escenarios de riesgo como las inundaciones, los deslizamientos o las sequías pueden abordarse desde las acciones propuestas por la EcoRRD y por las medidas AbE ya que ambas hacen parte del enfoque de las SbN y pueden cambiar las condiciones de vulnerabilidad física y ambiental desde la protección y recuperación de los servicios ecosistémicos, y con ello disminuir los escenarios de riesgo de desastres y los impactos por cambio climático, además de aumentar la resiliencia del territorio [22].
 
 
-::: {.caja-box}
-**Caja 7.**  Servicios ecosistémicos de regulación  Se relacionan con aquellas contribuciones indirectas al bienestar humano provenientes del funcionamiento de los ecosistemas [23], a las cuales rara vez en la sociedad se les reconoce un valor económico [24]. Los autores [25] consideran que los SE de regulación disminuyen con el aumento de la intensidad de uso, debido al agotamiento de los ecosistemas que los proveen.  Los SE de regulación relacionados son: Regulación de la calidad del aire  Regulación climática (incluyendo la captura de carbono)  Regulación de riesgos naturales  Regulación de los flujos de agua  Tratamiento de desechos Prevención de la erosión  Mantenimiento de la fertilidad del suelo  Polinización  Control biológico
-
+::: {#box6 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 7.** Servicios ecosistémicos de regulación  Se relacionan con aquellas contribuciones indirectas al bienestar humano provenientes del funcionamiento de los ecosistemas [23], a las cuales rara vez en la sociedad se les reconoce un valor económico [24]. Los autores [25] consideran que los SE de regulación disminuyen con el aumento de la intensidad de uso, debido al agotamiento de los ecosistemas que los proveen.  Los SE de regulación relacionados son: Regulación de la calidad del aire  Regulación climática (incluyendo la captura de carbono)  Regulación de riesgos naturales  Regulación de los flujos de agua  Tratamiento de desechos Prevención de la erosión  Mantenimiento de la fertilidad del suelo  Polinización  Control biológico
 :::
 
 De los servicios ecosistémicos, se resalta el de regulación ya que actúan como controles estratégicos para reducir los escenarios de riesgo e impactos exacerbados por el cambio climático, incluidos los efectos colaterales que pueden consolidar riesgos de origen tecnológico. Esta relación se muestra en la **Figura 4.**
@@ -257,7 +261,7 @@ A continuación, la **Figura 5** muestra una aproximación conceptual desde la g
 
 **Figura 5.** Aproximación conceptual desde la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres y el cambio climático en el alcance de un modelo territorial sostenible. Fuente: Elaboración propia.
 
-## 4.  CONCLUSIONES
+## 11.3 CONCLUSIONES
 
 Las políticas de biodiversidad y servicios ecosistémicos, de riesgo de desastres, y de cambio climático coinciden en buscar a través de su gestión la sostenibilidad del territorio, el bienestar del ser humano y el aumento de la resiliencia, a la vez que responden a compromisos internacionales y precisan su articulación desde la base natural a través de las SbN.
 
@@ -270,14 +274,13 @@ En la actualidad la gestión del riesgo se centra en el restablecimiento de las 
 La identificación de la biodiversidad y sus servicios ecosistémicos como atenuador de riesgos e impactos propone reducir el riesgo de desastres desde las acciones prospectivas (evitar la generación de escenarios de riesgo) y correctivas (restauración ecológica para la recuperación de servicios ecosistémicos de regulación de riesgos).
 
 
-| PUNTOS CLAVE La restauración ecológica se configura como una estrategia práctica de reducción del riesgo y de manejo de desastres con las cual se busca reducir la vulnerabilidad y restablecer los procesos ecológicos garantizando la sostenibilidad de la intervención post evento, además de evitar la reproducción de las condiciones de riesgo preexistentes del área afectada. La promoción de ecosistemas saludables es una estrategia para reducir la exposición y vulnerabilidad a través de la mitigación de amenazas o la regulación, así como la mejora de las capacidades de subsistencia y resiliencia. Desde el enfoque de SbN el análisis de riesgos incorpora la biodiversidad y sus servicios ecosistémicos como pilar para la reducción del riesgo de desastres y aumento de la resiliencia frente al cambio climático mediante la propuesta de integración de áreas específicas a los planes de ordenamiento territorial, al ordenamiento de cuencas hidrográficas, y en los modelos de desarrollo socioeconómico sostenible mejor adaptados al cambio climático y los ecosistemas. |
-| --- |
-
-
-| RECOMENDACIONES PARA TOMAR DECISIONES Desarrollar estrategias bajo el enfoque de SbN ya que estas acciones articulan propósitos en torno a la gestión del riesgo, el cambio climático, y la protección de la biodiversidad, las cuales al incorporarse en los instrumentos de planificación y ordenamiento ambiental del territorio, facilitan a los entes territoriales y regionales el alcance indicadores mínimos de obligatorio cumplimento desde una misma acción. |
-| --- |
-
-## MATERIALES Y MÉTODOS
+::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Puntos clave.** La restauración ecológica se configura como una estrategia práctica de reducción del riesgo y de manejo de desastres con las cual se busca reducir la vulnerabilidad y restablecer los procesos ecológicos garantizando la sostenibilidad de la intervención post evento, además de evitar la reproducción de las condiciones de riesgo preexistentes del área afectada. La promoción de ecosistemas saludables es una estrategia para reducir la exposición y vulnerabilidad a través de la mitigación de amenazas o la regulación, así como la mejora de las capacidades de subsistencia y resiliencia. Desde el enfoque de SbN el análisis de riesgos incorpora la biodiversidad y sus servicios ecosistémicos como pilar para la reducción del riesgo de desastres y aumento de la resiliencia frente al cambio climático mediante la propuesta de integración de áreas específicas a los planes de ordenamiento territorial, al ordenamiento de cuencas hidrográficas, y en los modelos de desarrollo socioeconómico sostenible mejor adaptados al cambio climático y los ecosistemas.
+:::
+::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Recomendaciones para tomar decisiones.** Desarrollar estrategias bajo el enfoque de SbN ya que estas acciones articulan propósitos en torno a la gestión del riesgo, el cambio climático, y la protección de la biodiversidad, las cuales al incorporarse en los instrumentos de planificación y ordenamiento ambiental del territorio, facilitan a los entes territoriales y regionales el alcance indicadores mínimos de obligatorio cumplimento desde una misma acción.
+:::
+## 11.4 MATERIALES Y MÉTODOS
 
 Se revisaron sesenta y nueve documentos relacionados con: marcos internacionales, políticas públicas colombianas, estudios de caso, publicaciones científicas relacionadas con los temas de biodiversidad y servicios ecosistémicos, gestión del riesgo de desastres y cambio climático.  
 
@@ -287,19 +290,19 @@ Se seleccionaron veintisiete fuentes que brindaron conceptos para desarrollar la
 
 Para el análisis de información se estructuraron las sinergias de los temas y con base en ellos identificaron los elementos de enlace que permitían incorporar la biodiversidad y sus servicios ecosistémicos en los procesos de la gestión del riesgo (conocimiento del riesgo, reducción del riesgo y manejo de desastres) en escenarios exacerbados por cambio climático a partir del reconocimiento de resultados de los estudios de caso.
 
-## CONFLICTO DE INTERESES
+## 11.5 CONFLICTO DE INTERESES
 
 La autora no declara conflicto de intereses.
 
-## AGRADECIMIENTOS
+## 11.6 AGRADECIMIENTOS
 
 Agradecimiento a Paola Morales, Carolina Osorio, Elkin Noguera, Wilson Ramírez (del Instituto Humboldt), Lizardo Narváez (Banco Mundial) y Gustavo Aristizábal por sus revisiones y sugerencias para consolidar este capítulo. 
 
-## IDENTIFICACIÓN DE AUTORES
+## 11.7 IDENTIFICACIÓN DE AUTORES
 
 Dorotea Cardona Hernández	 
 
-## BIBLIOGRAFÍA
+## 11.8 BIBLIOGRAFÍA
 
 MADS (Ministerio de ambiente y desarrollo sostenible). (2012). *Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos.* https://www.minambiente.gov.co/wp-content/uploads/2021/10/Poli%CC%81tica-Nacional-de-Gestio%CC%81n-Integral-de-la-Biodiver.pdf
 
@@ -362,4 +365,3 @@ Baptiste, B. & Rinaudo, M.E. (2018). *Soluciones basadas en la naturaleza- Herra
 Faivre, N., Sgobbi, A., Happaerts, S., Raynal , J. & Schmidt, I. (2018.). *Translating the Sendai Framework into action: The EU approach to ecosystem based disaster risk reduction, international journal of risk reduction.* Sendai, Japón. 
 
 Ospina-Arango, O.L., Vanegas-Pinzón, S., Escobar-Niño, G. A., Ramírez, W. & Sánchez, J.J. (2015). *Plan Nacional de Restauración: Restauración ecológica, rehabilitación y recuperación de áreas disturbadas*. Ministerio de Ambiente y Desarrollo Sostenible.  Bogotá, D.C. Colombia.
-
