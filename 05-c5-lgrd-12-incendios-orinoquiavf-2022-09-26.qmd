@@ -1,17 +1,19 @@
 ---
 title: "Capítulo 05: Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía"
 author:
-  - "Daniela Torinjano Jiménez"
-  - "Adriana Osorio Mosquera1& Alejandro Marulanda Tobón"
+  - name: "Daniela Torinjano Jiménez ^1^"
+    orcid: "CvLAC"
+    affiliation: "^1^Facultad de Ingeniería, Tecnológico de Antioquia – Institución Universitaria, Medellín, Colombia"
+  - name: "Adriana Osorio Mosquera ^1^"
+    affiliation: ""
+  - name: "Alejandro Marulanda Tobón ^2^"
+    affiliation: "Escuela de Ciencias, Departamento de Ciencias Físicas, Universidad EAFIT, Medellín, Colombia^2^"
 title-block-banner: "images/banner_2023.png"
+date: ""
+doi: ""
 ---
 
-1Facultad de Ingeniería, Tecnológico de Antioquia – Institución Universitaria TdeA. Calle 78b, No. 72A-220, Medellín, Colombia
-
-2Escuela de Ciencias, Departamento de Ciencias Físicas, Universidad EAFIT. Carrera 49 N° 7 Sur-50, Medellín, Colombia
-
-*Autor de contacto: Adriana Osorio Mosquera. Facultad de Ingeniería, Tecnológico de Antioquia – Institución Universitaria TdeA. Calle 78b, No. 72A-220, Medellín, Colombia. Correo-e: aiosorio@tdea.edu.co
-
+::: {#resumen}
 ## Resumen {.unnumbered}
 
 La información sobre la cobertura del suelo que se logra a partir del uso de instrumentos acoplados a plataformas satelitales, ha permitido detectar y analizar con agilidad los recursos ambientales disponibles en una región, especialmente cuando han sufrido transformaciones por actividades antrópicas o naturales. En la misma línea, la alteración de la cobertura vegetal es más notoria cuando han ocurrido incendios, que en Colombia tradicionalmente se presentan en la región de la Orinoquia. Acudiendo a la necesidad de desarrollar metodologías y herramientas para detectar y monitorear incendios, en el presente capítulo se propone el uso de productos derivados de teledetección óptica (MODIS y Sentinel-2), para estimar la superficie quemada en la Orinoquia en dos periodos de tiempo: el primero entre diciembre de 2019 y junio de 2020, y el segundo entre diciembre de 2020 y junio de 2021. Los lapsos temporales seleccionados para el análisis, coinciden con las épocas secas de la región y en las cuales se suelen generar los mayores eventos de incendios forestales. Con el desarrollo, se constató que las estimaciones de área quemada variaron entre las diferentes metodologías, obteniendo para el año 2020 valores que oscilan entre 2,054,174 ha y 2,461,980 ha; para el año 2021, el área quemada fluctuó entre 815,485 ha y 847,756 ha, por lo que los datos muestran un valor superior en el área quemada en el año 2020 respecto al 2021. Las zonas con mayor afectación se presentaron en los departamentos de Vichada y Meta, así como las zonas fronterizas entre Venezuela y Colombia. Los análisis expuestos proporcionan entonces un comparativo entre dos plataformas satelitales, lo cual constituye una aproximación metodológica para la detección de incendios, acciones que pueden usarse no solo en la zona de la Orinoquia, sino también en otras regiones del territorio colombiano. El alcance del trabajo permite además recomendar sobre la necesidad de profundizar en las técnicas de análisis de incendios, especialmente en la validación de la precisión de los datos a fin de generar una aproximación a los valores reales.
@@ -20,13 +22,20 @@ La información sobre la cobertura del suelo que se logra a partir del uso de in
 
 **Comparison of wildfires in Colombia through remote sensing: a case study in the Orinoquía region**
 
+:::
+
+
+::: {#abstract}
 ## Abstract {.unnumbered}
 
 Information about land cover obtained with instruments coupled to satellite platforms has allowed quickly detect and analyze the environmental resources available in a region, especially when they have suffered transformations due to anthropic or natural activities. In the same way, the transformation of vegetation cover is more noticeable when fires have occurred, which in Colombia traditionally occur in the Orinoquía region. Addressing the need to develop methodologies and tools to fire events detection and monitoring, this chapter proposes the use of products derived from optical remote sensing (MODIS and Sentinel-2) to estimate burnt area in the Orinoquía in two periods: the first between December 2019 to June 2020, and the second between December 2020 to June 2021. The periods selected for the analysis coincide with the region’s dry season and in which the largest wildfire events usually occur. It was found that the estimates of burned area varied between the different methodologies, obtaining for the year 2020 values ​​that ranged between 2,054,174 ha and 2,461,908 ha; for the year 2021, the area burned fluctuated between 815,485 ha and 998,726 ha, so the data shows a higher value of area burned in 2020 compared to 2021. The areas with the greatest impact are Vichada and Meta, as well as the border areas between Venezuela and Colombia. The analysis concludes with a comparison between two satellite platforms techniques, which constitute a methodological approach for fire detection, actions that can be used not only in the Orinoquía area but also in other regions of the Colombian territory. The work also makes it possible to recommend the need to deepen fire analysis techniques, especially in validating the accuracy of the data to generate an approximation to the real values.
 
 **Keywords**: Remote sensing, geographic information system, wildfires, burnt area
 
-## **INTRODUCCIÓN**
+:::
+
+
+## 5.1 **INTRODUCCIÓN**
 
 Más del 90% de los incendios forestales que ocurren en el mundo son causados de forma directa o indirecta por intervención humana . Estos eventos generan una alteración de la biodiversidad al ciclo de nutrientes, un impacto directo al suelo, e incluso puede ocasionar procesos erosivos hasta la desertificación  dada la reducción del número de ejemplares arbóreos disponibles . Adicionalmente, las emisiones de partículas por quema de biomasa vegetal, se convierten en una fuente importante de aerosoles atmosféricos y gases de efecto invernadero, contribuyendo a las alteraciones climáticas actuales, afectando las tasas fotosintéticas de los ecosistemas y modificando las propiedades de coberturas nubosas .
 
@@ -45,12 +54,11 @@ Ahora bien, la caracterización de los incendios se realiza comúnmente mediante
 Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso de técnicas remotas que emplean una combinación de datos obtenidos mediante sensores ópticos . El objetivo de este capítulo es explorar las ventajas que ofrece emplear los sensores ópticos para la teledetección de incendios forestales y realizar un comparativo temporal en la región de la Orinoquía Colombiana. Así mismo, indagar sobre posibles variaciones en la frecuencia de incendios entre el periodo de aislamiento vivido a nivel mundial por la pandemia de coronavirus y un periodo normal, bajo la hipótesis que es la intervención humana la principal causa de generación de los incendios forestales.
 
 
-::: {.caja-box}
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Conceptos clave. Teledetección: La Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material . , Teledetección óptica: También conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores. Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura .
-
 :::
 
-## **DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA**
+## 5.2 **DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA**
 
 La Orinoquía (**Fig. 1**), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino . La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo . Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm . 
 
@@ -73,12 +81,11 @@ Análisis de focos de calor y áreas quemadas reportadas por el sensor MODIS.
 Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel-2.
 
 
-::: {.caja-box}
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Terminología importante  Focos de calor: Anomalías térmicas localizadas a partir de imágenes satelitales las cuales son asociadas a incendios. En la espacialización de los datos de temperatura de la zona de estudio, se plasman como un valor de temperatura elevado en comparación con los pixeles o valores colindantes, activando los umbrales establecidos en el algoritmo. El evento que ocasiona que se active el segmento, puede ser un incendio, una quema agrícola, fuegos industriales, volcanes activos u otros. . FIRMS: (Sistema de Información sobre Incendios para Gestión de Recursos): Sistema de la NASA que proporciona datos de incendios activos (incluida una ubicación aproximada de un punto de acceso detectado) de los instrumentos MODIS y VIIRS las 24 horas del día, los 7 días de la semana a cualquier persona, en cualquier parte del mundo. Las detecciones de incendios activos globales se pueden ver de forma interactiva haciendo uso de la aplicación FIRMS Fire Map .  MODIS (Espectro radiómetro de imágenes de resolución moderada): Es un sensor a bordo de los satélites AQUA y TERRA diseñado para observaciones de la tierra, atmósfera, océano y criósfera. Contiene 36 bandas espectrales y adquiere datos en tres resoluciones espaciales: 250 m, 500 m y 1 km. Este sensor detecta las radiaciones infrarrojas emitidas por los incendios, permitiendo su ubicación, así como la dirección de propagación del incendio a una resolución espacial de 1 km .  Sentinel-2: Es una misión de la Agencia Aeroespacial Europea (ESA), y que pertenecen al programa Copérnico, la cual se compone de dos satélites que obtienen imágenes multiespectrales (13 bandas espectrales: cuatro bandas a 10 m, seis bandas a 20 m y tres bandas a 60 m de alta resolución) .  Google Earth Engine (GEE): Es una plataforma en la nube para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño. Actualmente posibilita el acceso a petabytes de datos de imágenes satelitales en la nube para su análisis a escala planetaria. El panel central facilita a los usuarios escribir su código en JavaScript. GEE procesa los códigos escritos e ilustra los resultados como imágenes en el panel Mapa o como mensajes en la pestaña Consola .
-
 :::
 
-### Focos de calor y área quemada detectados a través de MODIS
+### 5.2.1 Focos de calor y área quemada detectados a través de MODIS
 
 Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (**Fig. 2**), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.  
 
@@ -125,7 +132,7 @@ La distribución de la superficie afectada por el fuego en la Orinoquia se da en
 
 ![Imagen Figura4_area_quemadaMODIS.png](media/Figura4_area_quemadaMODIS.png)
 
-### Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel 2
+### 5.2.2 Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel 2
 
 La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego . Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (**Tabla 2** y **3**, y **Fig. 5**), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.  
 
@@ -182,7 +189,7 @@ Además, sostienen que estos eventos de quema de biomasa, se deben principalment
 
 ![Imagen Figura5_dNBR.png](media/Figura5_dNBR.png)
 
-## **3. CONCLUSIONES**
+## 5.3 **3. CONCLUSIONES**
 
 Los resultados obtenidos en el presente trabajo permiten generar por medio de una comparación de técnicas de teledetección pasiva, una aproximación metodológica para la detección de incendios con información libre, la cual puede usarse no solo en la zona de la Orinoquia sino también en otras regiones del territorio colombiano. Esto es importante ya que contribuye en el proceso de identificación de tendencias en los eventos de incendios y por ende fortalece la toma de decisiones en la gestión del riesgo. No obstante, se debe tener presente que esta aproximación puede derivar en la detección de falsos incendios, por lo que se hace necesario formular a futuro, un protocolo que permita identificar los errores de comisión, errores de omisión, acuerdos de áreas quemadas y no quemadas, para obtener datos más fieles a la realidad. 
 
@@ -193,24 +200,23 @@ La distribución espacial y temporal para todos los métodos mantiene un mismo p
 Los estudios científicos sobre incendios en Colombia muestran que desde siglos atrás, los incendios están fuertemente asociados a causas socioeconómicas como la expansión de la frontera agrícola y pecuaria. La Orinoquia Colombiana no ha sido ajena a esta situación, no obstante, el incremento observado en 2020 de los incendios, hacen considerar que elementos de salud pública como es la pandemia de Covid-19 pueden influenciar la ocurrencia de incendios. Por lo anterior, se recomienda realizar un estudio detallado de la dinámica de incendios en Colombia durante las últimas décadas, para determinar si eventos pandémicos pueden modificar el comportamiento de los incendios. 
 
 
-| PUNTOS CLAVE Al comprender la influencia de las variables ambientales y su distribución espacio-temporal sobre el origen de los incendios se puede entender que están fuertemente asociados con la intervención del hombre en áreas naturales.  La identificación de incendios a partir de sensores remotos permite generar una aproximación metodológica para la detección de incendios con información libre, que contribuye en el proceso de identificación de tendencias en los eventos de incendios y por ende fortalece la toma de decisiones en la gestión del riesgo. Existen productos de uso libre que se utilizan para desarrollar metodologías que contribuyan al entendimiento de las dinámicas de los incendios en nuestro país. |
-| --- |
-
-
+::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Puntos clave.** Al comprender la influencia de las variables ambientales y su distribución espacio-temporal sobre el origen de los incendios se puede entender que están fuertemente asociados con la intervención del hombre en áreas naturales.  La identificación de incendios a partir de sensores remotos permite generar una aproximación metodológica para la detección de incendios con información libre, que contribuye en el proceso de identificación de tendencias en los eventos de incendios y por ende fortalece la toma de decisiones en la gestión del riesgo. Existen productos de uso libre que se utilizan para desarrollar metodologías que contribuyan al entendimiento de las dinámicas de los incendios en nuestro país.
+:::
 | PREGUNTAS A RESOLVER  Los incendios históricamente se asocian con dinámicas socio-económicas principalmente con las actividades agrícolas. El 2020 presentó un nuevo escenario de salud pública y un incremento significativo en la ocurrencia de incendios. ¿Los escenarios de crisis en la salud pública pueden influenciar los eventos de incendios en el país? |
 | --- |
 
-## **4. MATERIALES Y MÉTODOS**
+## 5.4 **4. MATERIALES Y MÉTODOS**
 
-### A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel 2.
+### 5.4.1 A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel 2.
 
-### Descarga focos de calor o anomalías térmicas del sensor MODIS (hotspots)
+### 5.4.2 Descarga focos de calor o anomalías térmicas del sensor MODIS (hotspots)
 
 Los focos de calor o anomalías térmicas (hotspots) del sensor MODIS se descargaron a través de la plataforma FIRMS (Fire Information for Resource Management System).  
 
 Esta información, se descargó en formato shapefile para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. Los datos se filtraron con un nivel de confiabilidad igual o superior al 90%, de acuerdo con la metodología empleada por . El procesamiento de la información se hizo a través del software ArcGis 10.5 y QGis 3.12.
 
-### Descarga del área quemada por el sensor MODIS
+### 5.4.3 Descarga del área quemada por el sensor MODIS
 
 Se descargó los datos del Land Processes Distributed Active Archive Center (LP-DAAC) de la Universidad de Maryland, disponible para su descarga en formato HDF, GeoTIFF o Shapefile de la colección 6 de MODIS de áreas quemada a través del enlace: . 
 
@@ -224,7 +230,7 @@ Se descargó la información de la ventana 5 en formato shapefile (**Fig. 6**), 
 
 ![Imagen Figura6_Ventanas_AQModis.png](media/Figura6_Ventanas_AQModis.png)
 
-### Análisis de incendios a partir de imágenes de Sentinel 2
+### 5.4.4 Análisis de incendios a partir de imágenes de Sentinel 2
 
 El procesamiento, el desarrollo de algoritmos y el cálculo de las áreas en donde hubo cambios en la vegetación se realizó a través de la plataforma Google Earth Engine (GEE) basada en la nube que permite para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño a escala planetaria.
 
@@ -238,7 +244,7 @@ Con el análisis de los focos de calor, se definió el mes de diciembre como un 
 | Sentinel -2 | 28/12/2019-5/01/2020 | 89 | 20/04/2020- 30/04/2020 | 127 | NIR 10 m, borde rojo y SWIR  20 m y bandas atmosféricas a 60 m |
 | Sentinel -2 | 1/12/2020-31/12/2020 | 6 | 01/04/2020- 30/04/2020 | 12 | NIR 10 m, borde rojo y SWIR  20 m y bandas atmosféricas a 60 m |
 
-### Cálculo del índice normalizado de área quemada (NBR) a partir de Sentinel 2
+### 5.4.5 Cálculo del índice normalizado de área quemada (NBR) a partir de Sentinel 2
 
 Se calculó el NBR para las imágenes Sentinel 2, con una resolución de 30 m, el cual estima el área quemada por clase de gravedad. Para este proceso, se siguió la metodología descrita a continuación. 
 
@@ -287,15 +293,15 @@ El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas co
 
 Conceptualización: Daniela Torinjano, Adriana Osorio. Metodología: Daniela Torinjano, Adriana Osorio. Redacción de primera versión: Daniela Torinjano, Adriana Osorio, Alejandro Marulanda. Figuras y tablas: Daniela Torinjano, Adriana Osorio. Administración de proyecto: Adriana Osorio, Alejandro Marulanda. Búsqueda de evidencia: Daniela Torinjano, Adriana Osorio.
 
-## CONFLICTO DE INTERESES
+## 5.5 CONFLICTO DE INTERESES
 
 Los autores no declaran algún tipo de conflicto de intereses.
 
-## AGRADECIMIENTOS
+## 5.6 AGRADECIMIENTOS
 
 Al Tecnológico de Antioquia I.U. principal financiador del proyecto bajo la modalidad de proyectos de investigación interna y a la Universidad EAFIT quien fue el cofinanciador.
 
-## IDENTIFICACIÓN DE AUTORES
+## 5.7 IDENTIFICACIÓN DE AUTORES
 
 Daniela Torinjano Jiménez      
 
@@ -303,7 +309,7 @@ Adriana Osorio Mosquera
 
 Alejandro Marulanda Tobón  	
 
-## **BIBLIOGRAFÍA**
+## 5.8 **BIBLIOGRAFÍA**
 
 Robinne, F-N., Burns, J., Kant, P., Groot, B., Flannigan M.D., Kleine M., Wotton D. M (2018). *Global Fire Challenges in a Warming World.* International Union of Forest Research Organizations, Occasional Paper No. 32. 
 
@@ -374,4 +380,3 @@ Roy, D. P., Jin, Y., Lewis, P. E., & Justice, C. O. (2005). Prototyping a globa
 Paz, A (2020, 2 de abril). *Incendios, contaminación del aire y Covid-19: tres problemas que acechan a Colombia*. Mongabay. 
 
 Giglio, L., Schroeder, W., Hall, J. & Justice, C. (2018). *MODIS Collection 6 Active Fire Product (*User’s Guide Revision B). NASA. 
-
