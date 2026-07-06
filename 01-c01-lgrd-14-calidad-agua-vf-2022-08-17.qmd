@@ -1,28 +1,41 @@
 ---
 title: "Capítulo 01: Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá"
 author:
-  - "Rafael Fernández"
-  - "Manuel Rodríguez Susa"
-  - "Mildred Lemus"
-  - "Iván Alejandro Giraldo"
-  - "Lina Porras"
-  - "Juliana Martínez"
-  - "Juan Sebastián Echeverry"
-  - "Carlos Oliveros"
-  - "Juan Carlos Reyes"
-  - "Nubia León"
-  - "Diego Gutiérrez"
+  - name: "Rafael Fernández ^1^"
+    affiliation: "^1^Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá D.C., Colombia"
+  - name: "Manuel Rodríguez Susa ^2^"
+    affiliation: "^2^Centro de Investigación en Ingeniería Ambiental, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, D.C., Colombia"
+  - name: "Mildred Lemus ^3^"
+    orcid: "0000-0002-2874-519X"
+    affiliation: "^3^Centro de Investigación en Ingeniería Ambiental, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, D.C., Colombia"
+  - name: "Iván Alejandro Giraldo ^2^"
+    affiliation: ""
+  - name: "Lina Porras ^3^"
+    orcid: "0000-0003-3354-8622"
+    affiliation: ""
+  - name: "Juliana Martínez ^3^"
+    orcid: "0000-0001-5962-4158"
+    affiliation: ""
+  - name: "Juan Sebastián Echeverry ^4^"
+    affiliation: "^4^Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, D.C., Colombia"
+  - name: "Carlos Oliveros ^5^"
+    orcid: "0000-0002-1817-7010"
+    affiliation: "^5^Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, D.C., Colombia"
+  - name: "Juan Carlos Reyes ^4^"
+    orcid: "0000-0003-0690-2956"
+    affiliation: ""
+  - name: "Nubia León ^6^"
+    orcid: "0000-0002-1448-5825"
+    affiliation: "^6^Empresa de Acueducto y Alcantarillado de Bogotá EAAB-ESP, Dirección Ingeniería Especializada, Bogotá, D.C., Colombia"
+  - name: "Diego Gutiérrez ^7^"
+    orcid: "0000-0002-2716-2427"
+    affiliation: "^7^Empresa de Acueducto y Alcantarillado de Bogotá EAAB-ESP, Dirección Ingeniería Especializada. Bogotá, D.C., Colombia"
 title-block-banner: "images/banner_2023.png"
+date: ""
+doi: ""
 ---
 
-1Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia
-
-2Centro de Investigación en Ingeniería Ambiental, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia
-
-3Empresa de Acueducto y Alcantarillado de Bogotá EAAB-ESP, Dirección Ingeniería Especializada. Bogotá, Colombia
-
-*Autor de contacto: Rafael Fernández. Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia. Correo-e: ri.fernandez1110@uniandes.edu.co
-
+::: {#resumen}
 ## Resumen {.unnumbered}
 
 Los sistemas de acueducto cumplen el papel fundamental de asegurar las condiciones de vida digna al suministrar y garantizar la disponibilidad y calidad del agua potable como recurso primario para la vida y la salud. Sin embargo por la complejidad y extensión de los sistemas de producción de agua, especialmente en grandes ciudades, sus componentes (i.e. captación, reservorios, tratamiento y distribución) se exponen a diversas condiciones amenazantes de origen natural (i.e. sismos, inundaciones o incendios forestales), o antrópico (i.e. terrorismo, actividades tecnológicas industriales- residenciales, gestión interna del sistema), que pueden afectar el proceso de producción y ocasionar cambios sobre los parámetros de calidad del agua de consumo. El objetivo principal de este capítulo es presentar un modelo para evaluar el riesgo en la calidad de agua potable. El método se aplica como caso de estudio en el sistema de acueducto de agua potable de la ciudad de Bogotá, Colombia, servicio prestado por la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB-ESP). Con el modelo se realiza una comparación cualitativa e indicativa de los efectos e impactos de estos eventos amenazantes externos sobre la calidad del agua en el sistema. A partir de los resultados se identificó la distribución geográfica de los riesgos, afectación sobre diferentes componentes del sistema, y alteración de parámetros de calidad del agua. Esta información sirve como base para entender y dimensionar las acciones y prioridades para mitigar este riesgo.
@@ -31,13 +44,20 @@ Los sistemas de acueducto cumplen el papel fundamental de asegurar las condicion
 
 **Indicative water quality risk assessment due to natural and man-made disasters: the case of Bogotá**
 
+:::
+
+
+::: {#abstract}
 ## Abstract {.unnumbered}
 
 Aqueduct systems play a fundamental role in ensuring decent living conditions and access to water as a primary resource for life, as well as guaranteeing its availability and safe conditions for public health. However, due to their complexity and extension in large cities, the drinking water components (i.e. collection, treatment, distribution) are exposed to various threatening natural hazards (i.e. earthquakes, floods, or wild fires) or anthropic events (i.e. terrorist acts, industrial technology impacts, or management decisions from utility operators), which can affect the process and can generate changes in the drinking water quality parameters. The main objective of this chapter is to present a model that allows risk assessment concerning drinking water quality. The proposed method is applied as a case study in the drinking-water aqueduct system of the city of Bogotá, Colombia, supplied by the Aqueduct and Sewerage Company of Bogotá (EAAB-ESP). The model allows a qualitative and indicative comparison of the effects and impacts of these external threatening events on the water quality in the system. The results allow the user to understand the geographical distribution of risks, impact on different system components, and alteration of water quality parameters. This information serves as a basis for understanding and measuring the actions and priorities to mitigate quality risk in aqueduct systems.
 
 **Keywords**: Aqueduct systems, water quality risk, natural hazards, anthropic hazards
 
-## INTRODUCCIÓN
+:::
+
+
+## 1.1 INTRODUCCIÓN
 
 El acceso al agua potable es un derecho fundamental que se ha catalogado como uno de los Objetivos de Desarrollo Sostenible por las Naciones Unidas . Según esta misma institución, en la actualidad 3 de cada 10 personas no tiene acceso a agua potable, convirtiendo el objetivo del acceso al agua potable como fundamental para el desarrollo de las comunidades y el bienestar de la población por su relevancia en el fomento, la protección y la restauración de la salud. Garantizar la calidad del agua suministrada es otro desafío igual de importante considerando factores como la continua presión de las fuentes de abastecimiento, el cambio global ambiental, la complejidad de los sistemas de producción y distribución , y en muchos casos, las precarias condiciones de tratamiento y distribución. 
 
@@ -67,7 +87,7 @@ Con relación a los estudios descritos anteriormente, es posible identificar que
 
 Teniendo esto en cuenta, en el presente estudio se abordan estas problemáticas de manera espacial con el objetivo de identificar estos puntos críticos y de evaluar el riesgo con respecto al usuario final, incorporando las capacidades de tratamiento de contaminantes de cada uno de los componentes del sistema. Así mismo, se analizan las posibles afectaciones aguas abajo de las plantas de tratamiento y los riesgos asociados a posibles contaminantes no tratados y su incidencia en la calidad del agua hacia el usuario final. De esta forma, los resultados finales se pueden interpretar con una perspectiva integral multi-amenaza consistente para todos los sistemas de acueducto, que sirva para priorizar riesgos y posteriormente realizar estudios de detalle enfocados en la mitigación. Por último, es importante resaltar que dada la relativa facilidad y sencillez de la metodología, la posibilidad de actualizar y recalcular los indicadores de riesgo periódicamente, o cuando se tenga acceso a nueva información de la red, facilita a las empresas de servicios públicos la renovación y mejoramiento continuo de las estrategias de gestión del riesgo planteadas a partir de este modelo. 
 
-## METODOLOGÍA
+## 1.2 METODOLOGÍA
 
 Teniendo en cuenta lo anterior, la metodología propuesta se basa en un enfoque de gestión del riesgo, entendiendo el riesgo como la integración de los componentes de exposición, amenaza y vulnerabilidad. Está metodología se articula con los desarrollos y procedimientos indicados por la OMS y aplicados anteriormente por la EAAB-ESP. A continuación, se presenta cada uno de estos componentes y finalmente la metodología para la cuantificación del riesgo ante eventos naturales y antrópicos.
 
@@ -81,7 +101,7 @@ Figura . Modelo exposición EAAB-ESP. Fuente: construcción propia.
 
 Los componentes principales del sistema se deben agrupar en un formato de Sistema de Información Geográfica (SIG), en el que se incluyen diferentes aspectos como la identificación de cada componente, la ubicación, el costo asociado, año de construcción y características propias de cada componente como área, volumen, diámetro o longitud, entre otras.
 
-### Amenaza
+### 1.2.1 Amenaza
 
 El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud . Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la **Figura 2.**
 
@@ -124,7 +144,7 @@ Tabla 2. Frecuencia relativa de ocurrencia de eventos de amenaza (T).
 | Ocasional | 4 | 1 a 5 años | 1 mes |
 | Frecuente | 5 | meses | 1 día |
 
-### Vulnerabilidad
+### 1.2.2 Vulnerabilidad
 
 La vulnerabilidad corresponde a la predisposición de cada componente a sufrir daño y/o a generar impacto en la calidad del agua ante cada uno de los eventos de amenaza y dependerá de los siguientes aspectos: 
 
@@ -178,7 +198,7 @@ Tabla . Calificación de vulnerabilidad a la infraestructura física (Vf).
 
 Fuente: Construcción propia
 
-### Estimación del riesgo
+### 1.2.3 Estimación del riesgo
 
 La evaluación del riesgo identifica los posibles escenarios potenciales de mayor afectación física e impacto en el sistema y en la calidad del agua. Por consiguiente, el indicador de riesgo es una herramienta básica para la toma de decisiones con respecto a las consideraciones principales que deben tenerse en cuenta en los planes de mitigación y reducción del riesgo a la calidad del agua. Teniendo en cuenta eso, la evaluación del riesgo se hará mediante la estimación de un indicador cualitativo relativo (*R*) para cada uno de los componentes y eventos que puedan afectarlo. Teniendo esto en cuenta, se propone el siguiente indicador de riesgo modificado con la frecuencia –ecuaciones basadas en OMS :
 
@@ -193,18 +213,17 @@ De esta manera una amenaza muy alta (Extrema = 5) con una vulnerabilidad muy alt
 Este indicador de riesgo puede utilizarse para priorizar los eventos y los componentes que generan el mayor impacto en el sistema teniendo en cuenta simultáneamente su frecuencia esperada de ocurrencia. Esto sirve para definir las prioridades para desarrollar estudios más detallado de evaluación de impacto y a partir de estos implementar opciones de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua. Es importante aclarar que el objetivo de este estudio no es realizar la caracterización detallada de cada posible modo de falla, sino poder entender la matriz de riesgos que afecta el sistema y a partir de esto lograr priorizar los más riesgos más críticos y lograr mitigarlos. 
 
 
-::: {.caja-box}
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Resumen de los casos que pueden ocurrir:  Evento natural con impacto en la infraestructura y luego en la calidad Evento natural con impacto en la calidad directamente sin afectar la infraestructura Evento antrópico con afectación a infraestructura y en la calidad Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura
-
 :::
 
-## CASO DE ESTUDIO: BOGOTÁ
+## 1.3 CASO DE ESTUDIO: BOGOTÁ
 
-### Generalidades
+### 1.3.1 Generalidades
 
 El análisis integral del riesgo de la calidad del agua, según como lo especifica la guía técnica de la Organización Mundial de la Salud , y como se indicó anteriormente, requiere la identificación detallada y exhaustiva de los posibles fenómenos y factores que representan una posible afectación en la calidad del agua de un sistema de agua potable. Para esto es importante identificar los diferentes tipos de amenazas que afectan al sistema, los componentes críticos del sistema, la vulnerabilidad de estos y la manera como estos se relacionan. Teniendo en cuenta todas las posibles relaciones, se realizó una mesa de trabajo multidisciplinario entre expertos en calidad del agua, sistemas hidrológicos e hidráulicos y expertos en la evaluación del riesgo físico en infraestructura. El objetivo de las reuniones entre expertos fue la definición de las posibles amenazas y parámetros a considerar en cada componente del sistema. Teniendo en cuenta lo anterior, en las siguientes secciones se presenta una descripción de cada uno de estos componentes y de su aplicación en el caso de estudio del sistema de acueducto de la ciudad de Bogotá, Colombia.
 
-### Exposición
+### 1.3.2 Exposición
 
 La información utilizada para el modelo de exposición se obtuvo principalmente de la EAAB-ESP, sin embargo esta información fue complementada según cada caso con datos oficiales disponibles en línea de entidades como la Infraestructura de Datos Espaciales Regional (IDER) de la Gobernación de Cundinamarca, el Instituto Geográfico Agustín Codazzi (IGAC), el Instituto Nacional de Vías (INVIAS) y el centro de Mapas y Estadísticas de Cundinamarca. En particular, para el caso del sistema de acueducto de Bogotá se cuenta con tres sistemas principales de recolección y suministro de agua:
 
@@ -222,12 +241,12 @@ Cada sistema puede subdividirse en diferentes componentes. Estos componentes pri
 
 **Figura 3.** Modelo de exposición completo. Fuente: Construcción propia
 
-### Amenaza
+### 1.3.3 Amenaza
 
 El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. En las siguientes secciones se presenta el análisis de las amenazas incluidas en la evaluación del riesgo, tanto naturales como antrópicas. 
 
 
-::: {.caja-box}
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Tipos de amenazas incluidas | Caja 2. Tipos de amenazas incluidas
 :::
 | --- | --- |
@@ -271,7 +290,7 @@ La amenaza minera fue desarrollada a partir de la identificación de los terreno
 
 Figura . Mapas de amenaza de origen antrópico.
 
-### Vulnerabilidad
+### 1.3.4 Vulnerabilidad
 
 La vulnerabilidad corresponde a la predisposición de cada componente a sufrir daño y/o a generar impacto en la calidad del agua ante cada uno de los eventos de amenaza y dependerá de los siguientes aspectos:
 
@@ -493,7 +512,7 @@ Fuente: Construcción propia
 
 Figura . Asignación vulnerabilidad por tramos en Red Matriz y Red Menor.
 
-### Riesgo
+### 1.3.5 Riesgo
 
 La calificación de riesgos se realizó siguiendo la metodología indicada en la Sección 2.4. Los resultados del riesgo distribuidos espacialmente para el caso de amenaza de sequía se presentan de forma ilustrativa en la **Figura 8**. En este mapa las asignaciones de niveles de riesgo en escala de 0 a 100 son las siguientes –basada en las calificaciones indicadas por la OMS : 
 
@@ -599,7 +618,7 @@ Tabla 14. Matriz resumen riesgo por amenazas antrópicas (escala relativa).
 | General | Distribución | Red Menor: Zona 5 | 8.00 | 0.25 | 9.50 | 9.50 | 4.75 | 6.25 | 4.75 | 9.50 | 9.50 | 9.50 | 9.50 |
 | General | Distribución | Carrotanques | 16.25 | 4.00 | 0.75 | 3.00 | 6.00 | 8.00 | 3.00 | 6.00 | 7.50 | 7.50 | 4.50 |
 
-## CONCLUSIONES
+## 1.4 CONCLUSIONES
 
 En este capítulo se presenta una metodología para la evaluación del riesgo a la calidad del agua en sistemas de acueducto urbanos. En esta metodología se muestran ventajas frente a metodologías existentes como la incorporación de la frecuencia en el módulo de amenaza, o la incorporación de afectación a la calidad desde la afectación física de los componentes. Así mismo, esta metodología presenta la oportunidad de analizar diferentes tipos de amenazas, tanto naturales como antrópicas. El marco metodológico es suficientemente flexible para incluir amenazas adicionales a las presentada en este capítulo, o por el contrario, reducir y analizar sólo un subconjunto de estas. Los resultados obtenidos a partir de la aplicación de la metodología propuesta sirven para identificar los diferentes riesgos críticos a los cuales está expuesto los sistemas de acueducto de agua potable y a partir de esto realizar una priorización basada en la combinación del tipo de amenaza y de elemento expuesto. Esta metodología se aplica como caso de estudio en el sistema de acueducto de la ciudad de Bogotá, Colombia. 
 
@@ -610,26 +629,25 @@ En este caso de estudio, es posible identificar que los incendios forestales, se
 En este sentido, las amenazas naturales más críticas son las sequías, las inundaciones y los incendios forestales. Por otro lado, las amenazas antrópicas más críticas son las relacionadas con terrorismo por atentados, las ocasionadas por actividades agropecuarias y de gestión institucional. Estos riesgo identificados deben ser priorizados con el objetivo de realizar estudios detallados que conlleven a una mitigación eficiente del riesgo.
 
 
-| PUNTOS CLAVE La evaluación y estimación del riesgo a la calidad del agua es una actividad fundamental para la apropiada gestión del riesgo de los sistemas de acueducto urbanos. Esta evaluación debe actualizarse y complementarse periódicamente. El proceso de evaluación del riesgo en un caso específico debe tener en cuenta las particularidades de cada región, para entender los elementos expuestos, las amenazas antrópicas y naturales y la vulnerabilidad frente a la calidad del agua. La información generada en un proceso de evaluación del riesgo es un insumo fundamental para la gestión del riesgo mediante el diseño e implementación de medidas de reducción del riesgo, diseño de planes de atención de emergencia y transferencia del riesgo entre otras actividades. |
-| --- |
-
-
+::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Puntos clave.** La evaluación y estimación del riesgo a la calidad del agua es una actividad fundamental para la apropiada gestión del riesgo de los sistemas de acueducto urbanos. Esta evaluación debe actualizarse y complementarse periódicamente. El proceso de evaluación del riesgo en un caso específico debe tener en cuenta las particularidades de cada región, para entender los elementos expuestos, las amenazas antrópicas y naturales y la vulnerabilidad frente a la calidad del agua. La información generada en un proceso de evaluación del riesgo es un insumo fundamental para la gestión del riesgo mediante el diseño e implementación de medidas de reducción del riesgo, diseño de planes de atención de emergencia y transferencia del riesgo entre otras actividades.
+:::
 | PREGUNTAS A RESOLVER  Al aplicar la metodología presentada en este capítulo son las siguientes: ¿Cuál es el nivel de riesgo que tiene un sistema de acueducto? ¿Cuál es la confiabilidad del sistema de acueducto? ¿Cuáles son las amenazas que mayor riesgo representan? ¿Cuáles son los elementos expuestos que mayor riesgo en promedio tienen para diferentes amenazas? ¿Qué tipos de obras de mitigación debería priorizar? |
 | --- |
 
-## CONFLICTO DE INTERESES
+## 1.5 CONFLICTO DE INTERESES
 
 Los autores declaran que los desarrollos y resultados presentados se realizaron en el marco del proyecto *Elaboración y Formulación Del Plan Maestro De La Calidad De Agua Potable - Contrato 2-2-26200-1334-2019* financiado por la Empresa de Acueducto y Alcantarillado (EAAB-ESP). Todos los autores participaron en el proyecto por parte de la Universidad de los Andes o de la EAAB-ESP.
 
-## CONTRIBUCIÓN DE AUTORÍA CRediT
+## 1.6 CONTRIBUCIÓN DE AUTORÍA CRediT
 
 Conceptualización: RF, MRS, ML, JSE, JCR. Curación de datos: RF, JSE, CS, IAG, LP, JM. Análisis formal: RF, JSE, CO, IAG, LP, JM. Adquisición de fondos: MRS. Investigación: RF, ML, JSE, CS. Metodología: RF, MRS, ML, JSE, JCR. Administración del proyecto: RF, MRS, ML, JSE, NL, DG. Recursos: MRS, NL, DG. Software: CO. Supervisión: MRS, JCR. Validación: MRS, JCR. Visualización: RF, CO. Redacción – borrador original: RF, JSE. Redacción – revisión y edición: MRS, JCR, ML, IAG
 
-## AGRADECIMIENTOS
+## 1.7 AGRADECIMIENTOS
 
 Los autores agradecen en primer lugar a la Empresa de Acueducto y Alcantarillado (EAAB-ESP) por impulsar iniciativas de reducción del riesgo en el sector. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Ingeniería Ambiental (CIIA) y al Centro de Investigación en Materiales y Obras Civiles (CIMOC) de la Universidad de los Andes y a sus integrantes que participaron en el desarrollo del proyecto presentado en este capítulo. Así mismo, se hace una mención especial al Profesor Luis E. Yamin, director del CIMOC en la Universidad de los Andes por más de 30 años, quien participó activamente en la estructuración y definición metodológica del presente proyecto.
 
-## IDENTIFICACIÓN DE AUTORES
+## 1.8 IDENTIFICACIÓN DE AUTORES
 
 Rafael Fernández	https://orcid.org/0000-0002-2585-1958
 
@@ -653,7 +671,7 @@ Nubia León		https://orcid.org/0000-0002-1448-5825
 
 Diego Gutiérrez	https://orcid.org/0000-0002-2716-2427
 
-## BIBLIOGRAFÍA
+## 1.9 BIBLIOGRAFÍA
 
 United Nations. (2021, 3 de junio). *We can end poverty. Millenium development goals and beyond 2015.* 
 
@@ -718,4 +736,3 @@ Lemus, M., Cárdenas, J.A., Martínez, A.J., & Rodríguez-Susa, M.  (2019). Cha
 31.	Edwards, M., & Triantafyllidou, S. (2007). Chloride-to-sulfate mass ratio and lead leaching to water. *American Water Works Association, 99*(7), 96-106. 
 
 32.	Nguyen, C., Stone, K., & Edwards, M. (2011). Chloride-to-sulfate mass ratio: Practical studies in galvanic corrosion of lead solder. *American Water Works Association, 103*(1). 	
-
