@@ -50,7 +50,7 @@ Históricamente, el LPC ha sido afectado por eventos sísmicos precursores de ts
 
 Teniendo en cuenta la ubicación geográfica, las condiciones físicas del entorno y la posibilidad de ocurrencia de eventos de tsunami en el Pacífico Colombo-ecuatoriano, este trabajo se enfoca en evaluar la amenaza por tsunami en la Bahía de Guapi, especialmente en su casco urbano, utilizando como fuentes modelos de deslizamiento interplaca con deslizamiento no homogéneo, además de información batimétrica multihaz y altimétrica de detalle actualizada, aplicando un esquema determinista. Esto permitirá conocer la amplitud y altura del tsunami, el área de inundación y la profundidad de inundación, con el fin de construir el mapa de inundación por tsunami y brindar información necesaria para la futura construcción de planes en la gestión del riesgo de desastres del municipio.
 
-![Imagen Figura_1.png](media/Figura_1.png)
+![Imagen Figura_1.png](images/capitulo_2/Figura_1.png)
 
 **Figura 1.** Ubicación geográfica de la Bahía de Guapi, la cual hace parte del litoral Pacífico Colombiano y del departamento del Cauca. Además, se nombra referencias espaciales a la Bahía de Tumaco en el departamento de Nariño y la Bahía de Buenaventura en el departamento del Valle del Cauca.  
 
@@ -84,7 +84,7 @@ El SGC se enfocó en la definición de escenarios sísmicos fuente de tsunami pa
 
 Poveda y Pulido [[7]](#ref-7) proponen el escenario C de 1979, el cual corresponde al terremoto ocurrido el 12 de diciembre de 1979 en el segmento del norte de Esmeraldas y Manglares (sur de Tumaco). Como segundo escenario B el evento ocurrido el 31 de enero de 1906, con ruptura en el segmento de Manglares y Tumaco. Por último, el escenario A “peor escenario creíble”, combinando la ruptura de los dos escenarios anteriores y con magnitud aproximada de 8.9 Mw (**Fig. 2**).
 
-![Imagen Figura_2.png](media/Figura_2.png)
+![Imagen Figura_2.png](images/capitulo_2/Figura_2.png)
 
 **Figura 2.** Escenarios basados en el Modelo de deslizamiento interplaca (Fuente: Poveda y Pulido [[7]](#ref-7)).
 
@@ -102,13 +102,13 @@ Cada escenario se construye por subfallas de 10 km2. El escenario de 1906 consta
 
 Para la evaluación de la amenaza por tsunami se utilizó el modelo TUNAMI N2, el cual simula la generación, propagación e inundación de tsunami con fuentes de campo cercano a la costa [[9]](#ref-9). En el presente estudio se evaluaron tres escenarios con base en un modelo de deslizamiento interplaca como fuentes de generación, presentados en la **Figura 2**. Además, la zona de estudio está condicionada a los cambios en el régimen mareal, para esto se incluyó el nivel del mar de aproximadamente de 2.75 m, propuesto por CCCP [[10]](#ref-10) (**Fig. 3**).
 
-![Imagen Figura_3.png](media/Figura_3.png)
+![Imagen Figura_3.png](images/capitulo_2/Figura_3.png)
 
 **Figura 3.** Curva de frecuencia acumulada del nivel de marea en la población de Guapi (Fuente: CCCP [[10]](#ref-10)).
 
 Otro insumo necesario para llevar a cabo las simulaciones es la configuración topo-batimétrica con una cobertura tanto del área de ruptura de fuente de generación como de la zona de estudio. Para esto, se utilizaron cuatro dominios computacionales (**Fig. 4**), integrando la información topográfica, batimétrica y el nivel de marea alto.
 
-![Imagen Figura_4.png](media/Figura_4.png)
+![Imagen Figura_4.png](images/capitulo_2/Figura_4.png)
 
 **Figura 4.** Dominios computacionales: dominio A resolución 810 m; dominio B resolución 270 m; dominio C resolución 90 m y dominio D resolución 30 m. Se presentan los puntos de observación P1 a P13 mareógrafos virtuales.
 
@@ -128,7 +128,7 @@ El escenario del “peor escenario” registró niveles máximos de levantamient
 
 El escenario de 1906 se despliega desde la Bahía Caráquez en Ecuador hasta la Bahía de Tumaco al sur de Colombia, con niveles máximos de levantamiento durante la deformación del lecho marino aproximadamente de 2.5 m y niveles máximos de subsidencia de 1 m. Mientras el escenario de 1979 se localiza más al norte de Ecuador desde la Bahía Esmeraldas hasta la Bahía de Buenaventura y presenta niveles máximos de 1.5 m y 1 m de levantamiento y subsidencia, respectivamente (**Fig. 5**).
 
-![Imagen Figura_5.png](media/Figura_5.png)
+![Imagen Figura_5.png](images/capitulo_2/Figura_5.png)
 
 **Figura 5.** Deformación vertical del fondo marino para cada uno de los tres modelos de deslizamiento interplaca en la zona de subducción colombo-ecuatoriana. La figura de la izquierda corresponde a la deformación del fondo oceánico del “peor escenario”, la figura central muestra la deformación del modelo de 1906, y la figura de la derecha corresponde a la deformación del modelo de 1979 [[12]](#ref-12).
 
@@ -136,7 +136,7 @@ El escenario de 1906 se despliega desde la Bahía Caráquez en Ecuador hasta la 
 
 La **Figura 6** muestra la propagación del tsunami desde la zona de generación hasta su llegada a la Bahía de Guapi. La altura se mide en la entrada de la bocana del río de Guapi (P1) y se evidencia una mayor altura de tsunami en el escenario “peor escenario” de aproximadamente 1.9 m; comparado con los valores máximos de 0.3 m y 0.9 m asociados a los escenarios 1906 y 1979, respectivamente. Estos valores se respaldan por los resultados de la **Figura 5**, teniendo en cuenta que el modelo del “peor escenario” genera la mayor deformación vertical del fondo marino.
 
-![Imagen Figura_6.png](media/Figura_6.png)
+![Imagen Figura_6.png](images/capitulo_2/Figura_6.png)
 
 **Figura 6.** Resultados de la propagación del tsunami para los tres modelos de deslizamiento interplaca en la zona de subducción colombo-ecuatoriana. La figura de la izquierda corresponde al modelo del “peor escenario”, la figura central corresponde al modelo de 1906 y la figura de la derecha corresponde al modelo de 1979.
 
@@ -152,7 +152,7 @@ La Tabla 3 contiene información de las máximas alturas de tsunami registradas 
 
 Respecto a los tiempos de propagación del tsunami desde la fuente de cada escenario, se registra en el punto P1 (**Fig. 7**), la máxima altura de tsunami de 1.9m en el minuto 39, 0.3 m en el minuto 84 y 0.9 m en el minuto 40, para los escenarios “peor escenario creíble”, 1906 y 1979, respectivamente. El punto P12 ubicado cercano al muelle turístico del casco urbano de Guapi, registra la máxima altura de tsunami de 0.2 m en el minuto 156 para el “peor escenario creíble”, de 0.15 m en el minuto 160 para el escenario de 1906 y de 0.1 m en el minuto 230 para el escenario de 1979 (**Fig. 7**). La diferencia significativa en estas alturas podría deberse a la disipación de energía que el tsunami sufre por la fricción con el fondo marino y con la interacción de la geomorfología propia del canal del río Guapi.
 
-![Imagen Figura_7.png](media/Figura_7.png)
+![Imagen Figura_7.png](images/capitulo_2/Figura_7.png)
 
 **Figura 7.** Registro de la evolución de la onda tsunami al propagarse en la Bahía de Guapi. El gráfico de la izquierda corresponde al punto P1 y el gráfico de la derecha al punto P12.
 
@@ -170,7 +170,7 @@ El código de simulación permite la visualización de los resultados en la mall
 
 La **Figura 8** muestra la distribución espacial y el rango de la profundidad de inundación para el escenario “peor escenario”, la cual se determinó evaluando los resultados de los tres escenarios del modelo de deslizamiento interplaca. En dicha comparación se identificó que los mayores valores de profundidad de inundación en toda el área del casco urbano de Guapi se dan el “peor escenario”, con un rango de 0.01 m a 0.3 m de profundidad de inundación.
 
-![Imagen Figura_8.png](media/Figura_8.png)
+![Imagen Figura_8.png](images/capitulo_2/Figura_8.png)
 
 **Figura 8.** Mapa de máxima profundidad de inundación a partir del escenario del “peor escenario creíble”. El área celeste es inundada con una amplitud de tsunami superior al 0.5 m sobre el nivel del mar de 2.75 m, el área en verde es la profundidad de inundación donde el tsunami pasa la línea de costa.
 
