@@ -62,6 +62,8 @@ Posteriormente, la mitad de las muestras llevadas al horno, se sometieron a trat
 
 **Figura 1.** Proceso de adición del medio B4 en la mitad de las muestras de suelo llevadas al horno.
 
+![Proceso de adición del medio B4 en la mitad de las muestras](images/capitulo_13/Figura 1..jpg)
+
 El medio B4 contiene una dosificación de 15 g de Acetato de Calcio, 4 g de extracto de levadura, 5 g de glucosa por 1 l de agua destilada, manteniendo la solución con un pH cercano a 8, valor apropiado para la actividad microbiana. Este medio debe dejarse actuar por 15 días en el suelo, tiempo en el que se presenta la máxima precipitación microbiana según Lee [[10]](#ref-10). Adicionalmente, para cada cuerpo de prueba se llenó el 80% de los vacíos sin agua (Va) con el B4. Lo anterior permitió una adecuada absorción del medio, sin generar deformación de las muestras, y sin exponer a condiciones anaeróbicas las bacterias aeróbicas presentes en el suelo.
 
 Todos los cuerpos de prueba llevados al horno, tanto aquellos sin adición del medio B4, como aquellos con su incorporación, se envolvieron en papel vinipel transparente y se colocaron dentro de una nevera de icopor para evitar pérdidas o ganancias de humedad.
@@ -98,17 +100,17 @@ Con relación al índice de vacíos y la gravedad específica de los sólidos, l
 
 En la curva granulométrica  (**Fig. 2**) para los suelos quemado y quemado-tratado, sin el uso de ultrason (SU) y/o sin el uso del defloculante (SD) se puede evaluar la estabilidad de las agregaciones en presencia de agua. Al utilizar el ultrason (CU) se válida la estabilidad de estas formaciones frente a una solicitación mecánica, y cuando se usa defloculante (CD) se válida la estabilidad frente a un agente químico (hexametafosfato de sodio). El uso de ambos (CD-CU) muestra la respuesta ante los dos medios (mecánico y químico).
 
-Adicionalmente, para los suelos sin uso de ultrason (SU) o defloculante (SD), el tratamiento aumentó el tamaño de los granos (agregaciones y/o floculaciones), el cual tendió a disminuir con la utilización, bien sea de ultrason (CU), de defloculante (CD) o de ambos (CD-CU), exhibiendo así la baja estabilidad de las formaciones generadas para el tiempo de cura considerado, como lo reportó Valencia en su investigación [[6]](#ref-6). 
-
-
-
 **Figura 2.** Curvas granulométricas por difracción láser para el suelo quemado y quemado-tratado, sin uso de defloculante (SD), con defloculante (CD), sin ultrason (SU) y con ultrason (CU).
 
-La **Figura 3** presenta un comparativo entre las curvas granulométricas obtenidas sin el uso de ultrason (SU) y sin el uso de defloculante (SD) tanto para la muestra quemada y quemada-tratada, como para el suelo natural, datos que se tomaron de Muñoz para el mismo material sin quemarse y sin tratarse [[32]](#ref-32). Se observa en la figura que la quema del suelo facilita su degradación como lo mostraron Alcañiz et al. [[5]](#ref-5) y Roseno y Camapum de Carvalho [[9]](#ref-9). Ya el tratamiento biotecnológico favoreció su reagregación o el fortalecimiento de las agregaciones o floculaciones presentes [[6]](#ref-6).
+![Curvas granulométricas por difracción láser](images/capitulo_13/Figura 2..jpg)
 
+Adicionalmente, para los suelos sin uso de ultrason (SU) o defloculante (SD), el tratamiento aumentó el tamaño de los granos (agregaciones y/o floculaciones), el cual tendió a disminuir con la utilización, bien sea de ultrason (CU), de defloculante (CD) o de ambos (CD-CU), exhibiendo así la baja estabilidad de las formaciones generadas para el tiempo de cura considerado, como lo reportó Valencia en su investigación [[6]](#ref-6). 
 
+**Figura 3.** Curvas granulométricas del suelo natural, quemado y quemado-tratado sin uso de ultrason (SU) y sin defloculante (SD).
 
-**Figura 3.** Curvas granulométricas del suelo natural, quemado y quemado-tratado sin uso de ultrason (SU) y sin defloculante (SD). 
+![Curvas granulométricas del suelo natural, quemado y quemado-tratado](images/capitulo_13/Figura 3..jpg)
+
+Se observa en la figura que la quema del suelo facilita su degradación como lo mostraron Alcañiz et al. [[5]](#ref-5) y Roseno y Camapum de Carvalho [[9]](#ref-9). Ya el tratamiento biotecnológico favoreció su reagregación o el fortalecimiento de las agregaciones o floculaciones presentes [[6]](#ref-6).
 
 ## 13.5 Análisis del pH y el punto de carga cero (PZC)
 
@@ -129,23 +131,25 @@ Con relación a la mineralogía a partir de la difracción de rayos X (DRX), se 
 
 
 
-**Figura 4.** Porcentaje cualitativo de minerales presentes en la muestra de suelo quemado y quemado-tratado a partir de los difractogramas obtenidos en el ensayo DRX. 
+**Figura 4.** Porcentaje cualitativo de minerales presentes en la muestra de suelo quemado y quemado-tratado a partir de los difractogramas obtenidos en el ensayo DRX.
+
+![Porcentaje cualitativo de minerales presentes en la muestra](images/capitulo_13/Figura 4..jpg)
 
 De igual forma, en la **Figura 5** se aprecia que al tratar las muestras aparecen pequeños filamentos en el exterior e interior de los cuerpos (**Fig. 5B**). Si bien, estos filamentos no son un mineral producto de la precipitación, su generación influye en el incremento de la resistencia a la tracción del suelo y en la disminución de las grietas que se forman en el material producto de la quema (**Fig. 5A**).
 
+**Figura 5.** Fotografía del estado de las muestras trabajadas. (A) Suelo después de quemado al horno. (B) Suelo quemado-tratado pasados 15 días del tratamiento y zoom de filamentos.
 
+![Fotografía del estado de las muestras trabajadas](images/capitulo_13/Figura 5..jpg)
 
 **A                                                                                                           B**
-
-**Figura 5.** Fotografía del estado de las muestras trabajadas. (A) Suelo después de quemado al horno. (B) Suelo quemado-tratado pasados 15 días del tratamiento y zoom de filamentos.
 
 ## 13.7 Curva característica de retención de agua
 
 La **Figura 6** presenta las curvas características de retención de agua para el suelo quemado y para el suelo quemado-tratado en términos de succión matricial y porcentaje de saturación (Sr). En esta figura se observa que las curvas son relativamente similares; sin embargo, la menor presión de entrada de aire registrada en el suelo quemado-tratado (24 kPa), comparada con la presión de entrada de aire en el suelo quemado (41 kPa), apunta a un cierto aumento en la macroporosidad del suelo quemado-tratado. Dicho aumento se daría como resultado de la agregación que le confiere a las muestras el tratamiento, tal como ocurrió en la investigación de Muñoz en un suelo natural tratado con B4 [[32]](#ref-32).
 
+**Figura 6.** Curva característica de retención de agua del suelo quemado y del suelo quemado-tratado.
 
-
-**Figura 6.** Curva característica de retención de agua del suelo quemado y del suelo quemado-tratado. 
+![Curva característica de retención de agua del suelo](images/capitulo_13/Figura 6..jpg) 
 
 ## 13.8 Propiedades mecánicas
 
@@ -165,9 +169,9 @@ Si se comparan las curvas de fluidez del suelo quemado y quemado-tratado (**Fig.
 | Suelo quemado | 36 | 40 |
 | Suelo quemado-tratado | 40 | 36 |
 
+**Figura 7.** Curvas de fluidez del suelo quemado y del suelo quemado-tratado.
 
-
-**Figura 7.** Curvas de fluidez del suelo quemado y del suelo quemado-tratado. 
+![Curvas de fluidez del suelo quemado y quemado-tratado](images/capitulo_13/Figura 7..jpg) 
 
 ## 13.10 Consolidación duplo-edométrica
 
@@ -175,9 +179,9 @@ En la **Figura 8** se muestran los resultados del ensayo de consolidación con l
 
 Adicionalmente, en la **Tabla 4** se muestra que el tratamiento al conferir al suelo mayor estabilidad estructural, lo lleva a presentar menores índices de colapso (I). Estos resultados corroboran los análisis de resistencia en los cuales se atribuía la mejoría en la cohesión actuante en el suelo a los pequeños filamentos originados por el tratamiento, filamentos que dificultan el movimiento de las partículas, haciendo que el suelo se torne menos compresible, como lo registra Valencia et al. [[35]](#ref-35).
 
+**Figura 8.** Curva de consolidación normaliza (e/e0) suelo quemado y suelo quemado-tratado.
 
-
-**Figura 8.** Curva de consolidación normaliza (e/e0) suelo quemado y suelo quemado-tratado. 
+![Curva de consolidación normalizada](images/capitulo_13/Figura 8..jpg)
 
 **Tabla 4.** Índice de colapso (I) en porcentaje según metodología de Jennings & Knight, [[36]](#ref-36). 
 
@@ -194,17 +198,17 @@ Adicionalmente, en la **Tabla 4** se muestra que el tratamiento al conferir al s
 
 Si bien en la **Figura 9** la proximidad de las curvas de carga y descarga apuntan a una estabilización estructural del suelo durante el flujo, los caudales menores para el suelo quemado-tratado indican un cerramiento de los poros y estabilización del canal de flujo principal que fue hecho en el cuerpo de prueba antes del ensayo, tal como lo reporta Valencia et al. [[35]](#ref-35) para un suelo tratado a 5 m de profundidad.
 
+**Figura 9.** Curva Carga hidráulica promedio *vs* Caudal promedio para el suelo quemado y quemado-tratado.
 
-
-**Figura 9.** Curva Carga hidráulica promedio *vs* Caudal promedio para el suelo quemado y quemado-tratado. 
+![Curva Carga hidráulica promedio vs Caudal promedio](images/capitulo_13/Figura 9..jpg)
 
 ## 13.11 Desagregación
 
 Con relación al ensayo de desagregación, se observa en la **Figura 10** que el suelo quemado se desagrega totalmente al sumergir las muestras durante 24 h. Por el contrario, el suelo quemado-tratado muestra claramente que hubo una mejoría en la estabilidad del suelo, semejante a lo ocurrido en la investigación de Valencia et al. [[35]](#ref-35).
 
+**Figura 10.** Ensayo de desagregación en muestra de suelo quemado y quemado-tratado:  tiempo cero (izquierda), después de 24 horas sumergidas en agua (derecha).
 
-
-**Figura 10.** Ensayo de desagregación en muestra de suelo quemado y quemado-tratado:  tiempo cero (izquierda), después de 24 horas sumergidas en agua (derecha). 
+![Ensayo de desagregación en muestra de suelo](images/capitulo_13/Figura 10..jpg) 
 
 ## 13.12 CONCLUSIONES
 
