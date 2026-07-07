@@ -103,14 +103,14 @@ Información más detallada de las características de la sismicidad del país, 
 :::
 
 
-|  |
+| <img src="images/capitulo_10/Figura 1.png" /> |
 | --- |
 | Figura 1. Representación del nivel de desempeño normativo para una edificación residencial. Adaptado de Peer [[21]](#ref-21). |
 
 El desempeño de un conjunto de edificaciones sometidas al sismo de diseño se ve como en la **Figura 2**. Se observa en algunos casos daños en elementos estructurales, daños en elementos no estructurales y en ciertos casos colapsos. De acuerdo con la información contenida en el inventario de edificaciones publicado por la sociedad de ingeniería sísmica de Nueva Zelanda [[22]](#ref-22), puede inferirse que los edificios de la **Figura 2** corresponden a estructuras con diseño sismo resistente. 
 
 
-|  |  |
+| <img src="images/capitulo_10/Figura 2 izq.png" /> | <img src="images/capitulo_10/Figura 2 der.png" /> |
 | --- | --- |
 | Figura 2. Representación del nivel de desempeño normativo para un conjunto de edificaciones. Adaptado de [[23]](#ref-23)–[[25]](#ref-25). | Figura 2. Representación del nivel de desempeño normativo para un conjunto de edificaciones. Adaptado de [[23]](#ref-23)–[[25]](#ref-25). |
 
@@ -227,7 +227,7 @@ De no emplearse la Ecuación 1, para el caso colombiano podría en ciertos casos
 Piscal y Almansa [[5]](#ref-5), [[34]](#ref-34)–[[40]](#ref-40) proponen también, emplear unos factores de reducción por amortiguamiento (FRA) estimados con las características de la amenaza local colombiana, en lugar de los planteados en la Tabla 17.5-1 de ASCE 7-16, los cuales son derivados a partir de la amenaza de EE.UU. En la **Figura 3**, se muestra una comparación entre los factores planteados por ASCE y los propuestos por Piscal-Almansa.  
 
 
-|  |
+| <img src="images/capitulo_10/Figura 3.png" /> |
 | --- |
 | Figura 3. Comparación de factores de amortiguamiento derivados para Colombia y los contenidos en ASCE 7-16. |
 
@@ -282,9 +282,9 @@ En cuanto al disipador de energía tipo Riostra BRB, la empresa efe-Prima-ce Con
 Diversas publicaciones nacionales e internacionales dan soporte técnico a todos estos años de trabajo continuo [[47]](#ref-47)–[[56]](#ref-56), junto con un reconocimiento muy valioso recibido en 2019 cuando Camacol Antioquia otorgó el primer lugar del Premio a la Innovación Camacol Antioquia a efe-Prima-ce por este desarrollo. La **Figura 4** muestra prototipos de riostra BRB siendo ensayada en el Laboratorio de Mecánica Estructural de la Universidad EIA En la imagen inferior se observa el nuevo marco de carga construido para llevar a cabo la Fase IV de todo el programa de investigación; donde por primera vez en Colombia se ensayaron riostras BRB de hasta 6 m de largo y con fuerzas de hasta 1300 kN.
 
 
-|  |
+| <img src="images/capitulo_10/Figura 4 sup.png" /> |
 | --- |
-|  |
+| <img src="images/capitulo_10/Figura 4 inf.png" /> |
 | Figura 4. Primer ensayo en Colombia de prototipos de Riostra efe-Prima-ce -BRB- Universidad EIA.  Superior: Proyecto Fase III. Inferior: Proyecto Fase IV. |
 
 ## 10.6 CONCLUSIONES
