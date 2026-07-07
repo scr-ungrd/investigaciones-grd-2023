@@ -22,4 +22,6 @@ __pycache__/
 .venv/
 venv/
 env/
-.env
+.env.venv/
+backup_temporal_qmd/
+prelim-lista-de-autores_files/

@@ -23,18 +23,6 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def parse_and_wrap(citation_str):
     """
     Parsea una cadena de texto de cita y envuelve cada número de referencia en un hipervínculo.
-
-    Toma una cadena de citas (por ejemplo, "1-3, 5") y la divide en componentes individuales.
-    Para cada componente, verifica si se trata de un rango (separado por '-' o '–') o de una
-    referencia única, y le asocia un enlace HTML al marcador correspondiente (#ref-N).
-
-    Parameters:
-        citation_str (str): Cadena de texto extraída de los corchetes que contiene
-                            los números de las citas (ej. "1-3" o "2, 4").
-
-    Returns:
-        str: Cadena de texto con los elementos convertidos a formato markdown link
-             (ej. "[[1]](#ref-1)-[[3]](#ref-3)").
     """
     parts = citation_str.split(',')
     wrapped_parts = []
@@ -59,16 +47,6 @@ def replace_citations(text):
     """
     Busca todas las ocurrencias de citas entre corchetes en un texto y las reemplaza
     por enlaces utilizando parse_and_wrap.
-
-    Utiliza una expresión regular para identificar patrones como [1], [2, 3] o [1-4].
-    Para evitar falsos positivos, se asegura de que el contenido de los corchetes
-    contenga al menos un dígito antes de procesarlo.
-
-    Parameters:
-        text (str): El texto del cuerpo del capítulo donde se buscarán las citas.
-
-    Returns:
-        str: El texto procesado con todas las citas válidas envueltas en hipervínculos.
     """
     def repl(match):
         content = match.group(1)
@@ -81,25 +59,6 @@ def replace_citations(text):
 def process_file(fpath, dry_run=False):
     """
     Procesa un archivo Quarto (.qmd) individual para vincular su bibliografía.
-
-    Realiza las siguientes tareas:
-    1. Verifica la idempotencia del script (evita procesar el archivo si ya tiene enlaces a '#ref-1').
-    2. Localiza la sección de referencias o bibliografía utilizando una heurística de búsqueda
-       (encabezado formal o, como contingencia, la detección de la primera línea que contenga [1] o 1.
-       al final del archivo).
-    3. Separa el cuerpo del capítulo de la bibliografía.
-    4. Reemplaza las citas en el cuerpo mediante `replace_citations`.
-    5. Procesa y limpia cada entrada de la bibliografía, removiendo numeraciones previas y envolviendo
-       cada entrada en un div con id único (ref-1, ref-2, etc.).
-    6. Escribe los cambios de vuelta en el archivo, a menos que dry_run esté activado.
-
-    Parameters:
-        fpath (str): Ruta completa al archivo .qmd que se va a procesar.
-        dry_run (bool): Si es True, no realiza cambios en el disco y solo simula el proceso.
-
-    Returns:
-        bool: True si el archivo fue procesado con éxito (o simulado), False si se ignoró
-              debido a idempotencia o si no se encontró la sección de bibliografía.
     """
     fname = os.path.basename(fpath)
     with open(fpath, "r", encoding="utf-8") as f:
@@ -114,13 +73,11 @@ def process_file(fpath, dry_run=False):
         
     lines = content.splitlines(keepends=True)
     
-    # Locate bibliography header using search-based logic with word boundaries to prevent substring matching
+    # Locate bibliography header using search-based logic with word boundaries
     header_idx = -1
     strategy = ""
     for idx, line in enumerate(lines):
-        # Search for exact word matches of bibliography synonyms using word boundaries
         if re.search(r'\b(BIBLIOGR[AÁ]F[IÍ]A|REFERENCIAS|LITERATURA)\b', line, re.IGNORECASE):
-            # Check if line starts with header prefix indicators (#, **, or digits)
             if re.match(r'^(?:#{1,3}|\*\*|\d+)', line.strip()):
                 header_idx = idx
                 strategy = "Detectado por encabezado formal"
@@ -129,7 +86,6 @@ def process_file(fpath, dry_run=False):
     # Contingency plan
     is_contingency = False
     if header_idx == -1:
-        # Look from the end backwards for the first line starting with [1] or 1.
         contingency_pat = re.compile(r'^(?:\[1\]|1\.)\s+')
         for idx in range(len(lines) - 1, -1, -1):
             if contingency_pat.match(lines[idx].lstrip()):
@@ -144,7 +100,7 @@ def process_file(fpath, dry_run=False):
         print(f"Capítulo {chap_num}: No se encontró la bibliografía.")
         return False
         
-    # Detect line ending style from first line or default
+    # Detect line ending style
     newline_char = "\n"
     if lines:
         if lines[0].endswith("\r\n"):
@@ -173,20 +129,16 @@ def process_file(fpath, dry_run=False):
             new_bib_lines.append(line)
             continue
             
-        # Check if page number
         if re.match(r'^(?:\*\*|\b)?\d+(?:\*\*|\b)?$', stripped):
             new_bib_lines.append(line)
             continue
             
-        # Check if subheader
         if stripped.startswith('#') or (stripped.startswith('**') and stripped.endswith('**') and len(stripped) < 40):
             new_bib_lines.append(line)
             continue
             
-        # Clean any manual previous numbering, bullet, or bracket from the start of the reference
         clean_text = re.sub(r'^(?:\[\d+\]|\d+[\.\-]?)\s*', '', stripped)
         
-        # Wrap the entry with clean index {entry_index}. 
         line_newline = "\n"
         if line.endswith("\r\n"):
             line_newline = "\r\n"
@@ -196,7 +148,6 @@ def process_file(fpath, dry_run=False):
         new_bib_lines.append(f'<div id="ref-{entry_index}">{entry_index}. {clean_text}</div>{line_newline}')
         entry_index += 1
         
-    # Reassemble and save
     final_content = new_body_text + "".join(new_bib_lines)
         
     m = re.match(r'^(\d+)', fname)
@@ -214,14 +165,10 @@ def process_file(fpath, dry_run=False):
 def main():
     """
     Función principal que orquesta el procesamiento de todos los capítulos del libro.
-
-    Escanea el directorio raíz en busca de archivos Quarto Markdown que
-    sigan el patrón '[0-1][0-9]-*.qmd' (capítulos del 01 al 14).
-    Permite el modo de prueba (dry-run) si se pasa la bandera '--dry-run' como argumento
-    de línea de comandos.
-    Muestra información del progreso en la consola y un resumen al finalizar.
     """
-    qmd_files = sorted(glob.glob(os.path.join(PROJECT_ROOT, "[0-1][0-9]-*.qmd")))
+    # Filtro estricto para procesar únicamente los capítulos 01 al 15
+    chapters = sorted(glob.glob(os.path.join(PROJECT_ROOT, "[0-9][0-9]-c*.qmd")))
+    qmd_files = [c for c in chapters if re.match(r'^(0[1-9]|1[0-5])-c', os.path.basename(c))]
     
     dry_run = "--dry-run" in sys.argv
     
