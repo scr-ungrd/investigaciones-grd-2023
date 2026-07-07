@@ -49,6 +49,8 @@ Los índices de pobreza multidimensional de los hogares campesinos encontrados p
 
 **Figura 1.** Algunos datos sobre los campesinos en Colombia. Fuente: Censo Nacional de Población y Vivienda, 2018 [[1]](#ref-1) y Encuesta Nacional de Calidad de Vida de 2019 [[2]](#ref-2). Elaboración propia utilizando la APP Canva.
 
+![Algunos datos sobre los campesinos en Colombia](images/capitulo_9/Figura 1.png)
+
 Se reconoce que la situación de vulnerabilidad y exclusión de los campesinos ha pasado desapercibida para el resto de la sociedad, lo que los sitúa en unas condiciones de mayor debilidad y fragilidad que al resto de la población [[4]](#ref-4). A la precariedad en las condiciones de vida de los campesinos identificadas por el DANE y reconocidas por los mismos campesinos en la ECV 2019 [[2]](#ref-2), se suma la existencia de constantes amenazas y riesgos de desastres socio-naturales en el territorio, tales como movimientos en masa, inundaciones, avenidas torrenciales, e incendios forestales [[5]](#ref-5), [[6]](#ref-6) que eventualmente agravan su situación de precariedad tornando indigna su vida [[4]](#ref-4).
 
 
@@ -141,6 +143,8 @@ Un enfoque diferencial permitirá a la gestión del riesgo identificar las neces
 
 
 **Figura 2.** Proceso social de la gestión del riesgo de desastres. Elaboración propia con la APP Canva.
+
+![Proceso social de la gestión del riesgo de desastres](images/capitulo_9/Figura 2.png)
 
 ## 9.5 CONCLUSIONES
 
