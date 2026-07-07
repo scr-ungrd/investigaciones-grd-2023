@@ -1,0 +1,736 @@
+/* Import Source Sans Pro for the entire project */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+
+/* MyST-style design */
+body {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Exceptions: Keep Arial font for callout boxes (box1-box5, caja1-caja5) and tables */
+#box1,
+#box2,
+#box3,
+#box4,
+#box5,
+#caja1,
+#caja2,
+#caja3,
+#caja4,
+#caja5 {
+  font-family: Arial, sans-serif !important;
+}
+
+#box1 *,
+#box2 *,
+#box3 *,
+#box4 *,
+#box5 *,
+#caja1 *,
+#caja2 *,
+#caja3 *,
+#caja4 *,
+#caja5 * {
+  font-family: Arial, sans-serif !important;
+}
+
+/* Keep Arial font for tables */
+table,
+th,
+td,
+caption {
+  font-family: Arial, sans-serif !important;
+}
+
+/* Hide breadcrumbs that appear above the banner */
+.quarto-title-breadcrumbs {
+  display: none !important;
+}
+
+/* Quarto title block banner styling */
+.title-block-banner {
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  min-height: 400px !important;
+  position: relative;
+}
+
+/* Add overlay to banner for better text readability */
+.title-block-banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+/* Ensure title content is above overlay */
+.title-block-banner .quarto-title-block {
+  position: relative;
+  z-index: 2;
+}
+
+/* Title styling */
+h1.title {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+/* Subtitle styling - used for author affiliations */
+.subtitle {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #6b7280;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* Author and date styling */
+.author,
+.date {
+  font-size: 1rem;
+  color: #9ca3af;
+  margin: 0.25rem 0;
+}
+
+/* Glossary styling */
+h2 {
+  color: #1f2937;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  color: #374151;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #9ca3af;
+  margin: 1.5rem 0;
+}
+
+strong {
+  color: #1f2937;
+  font-weight: 600;
+}
+
+/* Glossary term definition */
+p {
+  line-height: 1.7;
+  margin-bottom: 1rem;
+  color: #4b5563;
+}
+
+/* Nature-style darker text for main content sections (Introduction onwards) */
+/* Apply to all content except Resumen and Abstract sections */
+main h1:not(#resumen h1):not(#abstract h1),
+main h2:not(#resumen h2):not(#abstract h2),
+main h3:not(#resumen h3):not(#abstract h3),
+main h4:not(#resumen h4):not(#abstract h4),
+main p:not(#resumen p):not(#abstract p),
+main li:not(#resumen li):not(#abstract li),
+main td:not(#resumen td):not(#abstract td),
+main th:not(#resumen th):not(#abstract th),
+main div:not(#resumen):not(#resumen *):not(#abstract):not(#abstract *) {
+  color: #333 !important;
+}
+
+/* Ensure strong/bold text in main sections also uses darker color */
+main strong:not(#resumen strong):not(#abstract strong) {
+  color: #1f2937 !important;
+}
+
+/* Clean section headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #1f2937;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Add border only to h1 */
+h1 {
+  font-size: 1.875rem;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+}
+
+/* Remove borders from h2, h3, h4 */
+h2,
+h3,
+h4 {
+  border-bottom: none !important;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+/* Resumen styling with light blue background */
+#resumen {
+  background-color: #eff6ff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid #dbeafe;
+  margin: 2rem 0;
+}
+
+#resumen h1 {
+  color: #3b82f6;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #bfdbfe;
+  padding-bottom: 0.5rem;
+}
+
+/* Abstract styling with light yellow background */
+#abstract {
+  background-color: #FDF6D9;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid #F4E9B5;
+  margin: 2rem 0;
+}
+
+#abstract h1 {
+  color: #B8860B;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #E8D995;
+  padding-bottom: 0.5rem;
+}
+
+/* Callout boxes similar to MyST */
+.callout {
+  border-left: 4px solid;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0.25rem;
+}
+
+.callout-important {
+  background-color: #fef3c7;
+  border-color: #f59e0b;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+th,
+td {
+  border: 1px solid #d1d5db;
+  padding: 0.75rem;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+/* Table header styling - light gray background for all table headers */
+th {
+  background-color: #f0f0f0 !important;
+  font-weight: 600 !important;
+}
+
+/* Apply gray background to header rows only (not first body row) */
+table>thead>tr>th,
+table>thead>tr>td {
+  background-color: #f0f0f0 !important;
+  font-weight: 600 !important;
+}
+
+/* Callout boxes styling - Arial font for box/caja, Source Sans Pro for puntos-clave/preguntas/recomendaciones */
+#box1,
+#box2,
+#box3,
+#box4,
+#box5,
+#caja1,
+#caja2,
+#caja3,
+#caja4,
+#caja5 {
+  font-family: Arial, sans-serif !important;
+  font-size: 13px;
+}
+
+/* Remove extra spacing from all callout boxes */
+#box1,
+#box2,
+#box3,
+#box4,
+#box5,
+#caja1,
+#caja2,
+#caja3,
+#caja4,
+#caja5,
+#puntos-clave,
+#preguntas,
+#recomendaciones {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Headers in callout boxes - remove all margins */
+#box1 h2,
+#box2 h2,
+#box3 h2,
+#box4 h2,
+#box5 h2,
+#caja1 h2,
+#caja2 h2,
+#caja3 h2,
+#caja4 h2,
+#caja5 h2,
+#puntos-clave h2,
+#preguntas h2,
+#recomendaciones h2 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Specific styling for box/caja headers */
+#box1 h2,
+#box2 h2,
+#box3 h2,
+#box4 h2,
+#box5 h2,
+#caja1 h2,
+#caja2 h2,
+#caja3 h2,
+#caja4 h2,
+#caja5 h2 {
+  font-family: Arial, sans-serif !important;
+  font-size: 13px;
+}
+
+/* Body text in box/caja callouts - increased by 20% to 15px */
+#box1 ul,
+#box2 ul,
+#box3 ul,
+#box4 ul,
+#box5 ul,
+#box1 li,
+#box2 li,
+#box3 li,
+#box4 li,
+#box5 li,
+#box1 p,
+#box2 p,
+#box3 p,
+#box4 p,
+#box5 p,
+#caja1 ul,
+#caja2 ul,
+#caja3 ul,
+#caja4 ul,
+#caja5 ul,
+#caja1 li,
+#caja2 li,
+#caja3 li,
+#caja4 li,
+#caja5 li,
+#caja1 p,
+#caja2 p,
+#caja3 p,
+#caja4 p,
+#caja5 p {
+  font-family: Arial, sans-serif !important;
+  font-size: 15px;
+}
+
+/* Remove top margin from first paragraph/element after header in all callout boxes */
+#box1 h2+p,
+#box2 h2+p,
+#box3 h2+p,
+#box4 h2+p,
+#box5 h2+p,
+#caja1 h2+p,
+#caja2 h2+p,
+#caja3 h2+p,
+#caja4 h2+p,
+#caja5 h2+p,
+#puntos-clave h2+p,
+#preguntas h2+p,
+#recomendaciones h2+p,
+#box1 h2+ul,
+#box2 h2+ul,
+#box3 h2+ul,
+#box4 h2+ul,
+#box5 h2+ul,
+#caja1 h2+ul,
+#caja2 h2+ul,
+#caja3 h2+ul,
+#caja4 h2+ul,
+#caja5 h2+ul,
+#puntos-clave h2+ul,
+#preguntas h2+ul,
+#recomendaciones h2+ul {
+  margin-top: 0.5rem !important;
+}
+
+/* Body text in puntos-clave, preguntas, recomendaciones - use main text size with Source Sans Pro */
+
+#box1 ul,
+#box2 ul,
+#box3 ul,
+#box4 ul,
+#box5 ul,
+#caja1 ul,
+#caja2 ul,
+#caja3 ul,
+#caja4 ul,
+#caja5 ul,
+#puntos-clave ul,
+#preguntas ul,
+#recomendaciones ul {
+  margin-top: 0.3rem !important;
+  margin-bottom: 0 !important;
+}
+
+/* Figure caption styling */
+figcaption,
+.figure-caption,
+caption {
+  color: #000000 !important;
+  font-weight: normal;
+  font-family: Arial, sans-serif !important;
+  line-height: 1.3 !important;
+  /* Reduced by 20% from original 1.6 (1.6 → 1.44 → 1.3) */
+}
+
+/* Make "Figura X:" bold in figure captions */
+.figure-caption .caption-number,
+figcaption .caption-number,
+.quarto-float-fig .quarto-float-caption .caption-number {
+  font-weight: bold !important;
+}
+
+/* Table caption styling - match figure caption formatting */
+.quarto-float-tbl .quarto-float-caption,
+table caption,
+.tbl-cap {
+  text-align: left !important;
+  color: #000000 !important;
+  font-weight: normal;
+  font-family: Arial, sans-serif !important;
+  line-height: 1.3 !important;
+}
+
+/* Make "Tabla X:" bold in table captions */
+.quarto-float-tbl .quarto-float-caption .caption-number,
+table caption .caption-number,
+.tbl-cap .caption-number {
+  font-weight: bold !important;
+}
+
+/* Fix bibliography display issue */
+#refs.references.csl-bib-body {
+  display: block !important;
+}
+
+/* Force affiliations to appear below authors instead of side-by-side */
+.quarto-title-meta-author {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+/* Heading "Autores/as" - order: 1 */
+.quarto-title-meta-author .quarto-title-meta-heading:nth-child(1) {
+  order: 1 !important;
+  font-weight: 600 !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Heading "Afiliaciones" - order: 100 (move to near end) */
+.quarto-title-meta-author .quarto-title-meta-heading:nth-child(2) {
+  order: 100 !important;
+  font-weight: 600 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Author content blocks - detect by presence of .author class */
+.quarto-title-meta-author .quarto-title-meta-contents:has(.author) {
+  order: 2 !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Affiliation content blocks - detect by presence of .affiliation class */
+.quarto-title-meta-author .quarto-title-meta-contents:has(.affiliation) {
+  order: 101 !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Style adjustments */
+.affiliation {
+  font-style: italic;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+/* Annual Reviews style - Bold citation numbers */
+/* Style for CSL citations in brackets */
+a.citation,
+.citation-number,
+sup a {
+  font-weight: 700 !important;
+  text-decoration: none;
+}
+
+/* Hide subfigure labels (a), (b), (c) from OJS figures */
+.quarto-figure .quarto-figure-center>figure>p:last-child,
+.quarto-float-fig .quarto-float-caption .quarto-float-caption-subcap,
+figcaption>p:last-child:only-child {
+  display: none !important;
+}
+
+/* Alternative: hide only if it contains single letter like (a), (b) */
+.quarto-figure-center figcaption p {
+  display: none;
+}
+
+/* Reduce spacing around OJS figures */
+.cell-output-display,
+.quarto-figure,
+.quarto-float-fig {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Reduce padding inside OJS figure containers */
+.quarto-figure-center {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Specific for OJS cells */
+div.cell[data-language="ojs"] {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+/* Index page cards */
+.card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.2s ease;
+  border: 1px solid #e5e7eb;
+}
+
+.card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-header.bg-white {
+  border-top: 4px solid #2c7bb6;
+  border-bottom: 1px solid #e5e7eb;
+  background-color: #ffffff !important;
+  padding: 0.85rem 1rem;
+}
+
+.card-header strong {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.3;
+}
+
+.card-body img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+}
+
+.card-body {
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+
+/* Left sidebar: active chapter in dark blue + bold */
+#quarto-sidebar .sidebar-item-container .active,
+#quarto-sidebar .sidebar-item-container a.active,
+#quarto-sidebar .sidebar-navigation a.active {
+  color: #0a146b !important;
+  font-weight: 700 !important;
+  background-color: transparent !important;
+}
+
+/* Right TOC: active section with blue ocean background */
+#quarto-document-toc .nav-link.active,
+nav[role="doc-toc"] .nav-link.active {
+  background-color: #d2fafc !important;
+  color: #000000;
+  border-radius: 4px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+/* =========================================
+   Estilos UX/UI para la cuadrícula del Índice 
+   ========================================= */
+.indice-grid .card {
+  transition: all 0.3s ease;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.indice-grid .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08) !important;
+}
+
+.indice-grid .card-header {
+  background-color: transparent;
+  border-bottom: none;
+  padding: 1.5rem 1.5rem 0.5rem;
+}
+
+.indice-grid .card-header a {
+  color: #151550;
+  /* Azul principal */
+  text-decoration: none;
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.4;
+  display: block;
+}
+
+.indice-grid .card-header a:hover {
+  color: #2c7bb6;
+}
+
+.indice-grid .card-body {
+  padding: 1rem 1.5rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Estandarización estricta de las miniaturas */
+.indice-grid .card-body img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 1.2rem;
+  border: 1px solid #f3f4f6;
+}
+
+/* Tipografía pequeña y opaca para los autores */
+.indice-grid .autores-text {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-top: auto;
+  /* Empuja el texto al fondo si el título es corto */
+  line-height: 1.5;
+}
+
+/* =======================================================
+   Estilos UX/UI unificados para la cuadrícula del Índice 
+   ======================================================= */
+.indice-grid .card {
+  transition: all 0.3s ease;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.indice-grid .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* 1. Ajuste del título: Más aire arriba, pegado abajo */
+.indice-grid .card-header {
+  background-color: transparent;
+  border-bottom: none;
+  padding-top: 1.8rem !important;
+  /* Más espacio en la parte superior del título */
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 0.1rem !important;
+  /* Pega el título hacia abajo */
+}
+
+.indice-grid .card-header a {
+  color: #151550;
+  /* Azul principal UNGRD */
+  text-decoration: none;
+  font-size: 1.10rem;
+  /* Un toque más pequeño para que no estire la card */
+  font-weight: 700;
+  line-height: 1.3;
+  display: block;
+}
+
+.indice-grid .card-header a:hover {
+  color: #2c7bb6;
+}
+
+/* 2. Ajuste del cuerpo: Pegar la imagen al título */
+.indice-grid .card-body {
+  padding-top: 0.2rem !important;
+  /* Reduce el espacio entre el título y la imagen */
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1.2rem !important;
+  /* Espacio cómodo al final de la tarjeta */
+  display: flex;
+  flex-direction: column;
+}
+
+/* 3. Estandarización de las imágenes (Cortas y compactas) */
+.indice-grid .card-body img {
+  width: 100%;
+  height: 130px !important;
+  /* Forzamos los 130px para que la tarjeta sea más corta */
+  object-fit: cover;
+  border-radius: 6px;
+  margin-top: 0px !important;
+  margin-bottom: 0.6rem !important;
+  /* Menor espacio entre imagen y autores */
+  border: 1px solid #f3f4f6;
+}
+
+.indice-grid .autores-text {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-top: auto;
+  /* Mantiene a los autores alineados abajo */
+  line-height: 1.4;
+}
