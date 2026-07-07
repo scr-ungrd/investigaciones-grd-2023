@@ -57,7 +57,7 @@ Los enfoques antes mencionados asociados a las SbN, en especial las de Eco-DRR, 
 
 **Figura 1. Múltiples beneficios de la SbN, en particular de las Eco-DRR.** Estos enfoques generan múltiples beneficios (todos en verde), mientras que el único beneficio de la infraestructura gris o tradicional es la mitigación de riesgos (gris) (adaptado de [[9]](#ref-9)).
 
-![Imagen Figura_1_SbN_v2.png](media/Figura_1_SbN_v2.png)
+![Imagen Figura_1_SbN_v2.png](images/capitulo_12/Figura_1_SbN_v2.png)
 
 Uno de los aspectos más destacados de las SbN es su potencial de proporcionar más de un tercio de la adaptación y mitigación climática necesaria para cumplir los objetivos climáticos mundiales a 2030 asociados a amenazas como inundaciones, sequías y calor extremo [[10]](#ref-10). En la COP26 en Glasgow se enfatizó el rol de las SbN, la naturaleza y la biodiversidad para proteger, gestionar de manera sostenible y restaurar los ecosistemas naturales y así contribuir a los resultados de desarrollo y objetivos climáticos. Poco después, la UNDDR lanzó una guía para implementar SbN con enfoque en reducción de riesgos y adaptación al cambio climático [[11]](#ref-11).
 
@@ -195,7 +195,7 @@ Existe una necesidad de una mayor aplicación de la ciencia, la tecnología y la
 
 **Figura 2. Comparativo de las infraestructuras naturales, grises e híbridas.** Ilustra cómo al combinar la infraestructura natural y gris en una híbrida se obtienen múltiples beneficios (adaptado de [[69]](#ref-69)).
 
-![Imagen Figura_2_Grey_green_hybrid_infrastructure_v2.png](media/Figura_2_Grey_green_hybrid_infrastructure_v2.png)
+![Imagen Figura_2_Grey_green_hybrid_infrastructure_v2.png](images/capitulo_12/Figura_2_Grey_green_hybrid_infrastructure_v2.png)
 
 El avance en el conocimiento y las aplicaciones de SbN depende de las capacidades y limitaciones de los equipos de investigación e innovación, en las demandas de la industria y el Estado, y en las restricciones presupuestales de las instituciones, incorporando la opción de soluciones híbridas en las licitaciones públicas y privadas de las instituciones que las emplean. Un ejemplo de una solución híbrida son los sistemas urbanos de drenaje sostenible [[70]](#ref-70)**.** Estos sistemas tienen alta viabilidad en contextos urbanos, alta confiabilidad, durabilidad media-alta, relación costo beneficio media-alta, conservación de la biodiversidad media, entre otros beneficios.
 
