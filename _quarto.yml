@@ -1,3 +1,4 @@
+lang: es
 project:
   type: book
 
@@ -7,7 +8,7 @@ book:
     logo: media/Logo-UNGRD-Horizontal-removebg-preview.png
   chapters:
     - index.qmd
-    - prelim-presentacion.qmd
+    - 00-01-presentacion.qmd
     - 00-02-pagina-legal.qmd
     - 00-03-4-prologo-del-libro-grd-2022.qmd
     - 01-c01-lgrd-14-calidad-agua-vf-2022-08-17.qmd
@@ -33,7 +34,7 @@ format:
     theme: 
       - lumen
       - theme.scss
-    css: styles.css
+    css: custom.css
     toc: true
     toc-depth: 4
     toc-expand: true
