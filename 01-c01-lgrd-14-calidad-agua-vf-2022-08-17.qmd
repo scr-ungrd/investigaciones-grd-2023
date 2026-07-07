@@ -93,7 +93,7 @@ Teniendo en cuenta lo anterior, la metodología propuesta se basa en un enfoque 
 
 Para fines de la identificación del riesgo se agrupan los elementos de la infraestructura de los sistemas de acueducto en cuatro grandes componentes: captación, almacenamiento, tratamiento y distribución. El sistema de captación está compuesto por las cuencas, túneles y tuberías que dirigen el agua cruda a los sistemas de almacenamiento. El sistema de almacenamiento se compone por los embalses y por tanques urbanos y rurales. El sistema de tratamiento se compone por las Plantas de Tratamiento para Agua Potable (PTAP) y todos los subsistemas asociados a este. Por último, el sistema de distribución se compone por las estructuras de bombeo, estructuras de control, la red matriz y red menor de acueducto incluyendo las pilas y los tanques de almacenamiento de agua tratada del sistema. Estos sistemas y subsistemas se identifican en la **Figura 1**. 
 
-![Imagen Fig1.png](media/Fig1.png)
+![Imagen Fig1.png](images/capitulo_1/Fig1.png)
 
 Figura 1. Modelo exposición EAAB-ESP. Fuente: construcción propia.
 
@@ -103,7 +103,7 @@ Los componentes principales del sistema se deben agrupar en un formato de Sistem
 
 El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud [[17]](#ref-17). Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la **Figura 2.**
 
-![Imagen Fig2.png](media/Fig2.png)
+![Imagen Fig2.png](images/capitulo_1/Fig2.png)
 
 Figura 2. Amenazas totales consideradas. Fuente: construcción propia
 
@@ -224,7 +224,7 @@ La información utilizada para el modelo de exposición se obtuvo principalmente
 
 Cada sistema puede subdividirse en diferentes componentes. Estos componentes principales del sistema deben caracterizarse y ubicarse geográficamente para el propósito del análisis del riesgo. En la **Figura 3**, se presenta el sistema del acueducto de la ciudad de Bogotá. Esta información es la base para la cuantificación del riesgo para cada una de las amenazas y en cada componente del sistema siguiendo la metodología indicada anteriormente.
 
-![Imagen Fig3.png](media/Fig3.png)
+![Imagen Fig3.png](images/capitulo_1/Fig3.png)
 
 **Figura 3.** Modelo de exposición completo. Fuente: Construcción propia
 
@@ -248,7 +248,7 @@ La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente
 
 La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por volcanes se implementó a partir de los mapas oficiales realizados y actualizados por el Servicio Geológico Colombiano (SGC) en 2015 (escala 1:120,000) [[26]](#ref-26). La frecuencia asociada con este mapa corresponde a un valor de 1 correspondiente a un periodo de retorno de 500 años (equivalente al periodo de retorno del mapa base). La amenaza por vendavales a partir de los mapas oficiales de velocidades anuales máximas promedios de vientos del IDEAM a partir de los registros entre los años 2000 y 2010 (escala 1:12,000,000). La frecuencia asociada con este mapa corresponde a un valor de 4 equivalente a un periodo de retorno de 1 año. En la **Figura 4** se presentan los mapas de intensidad para cada una de las amenazas naturales mencionada anteriormente.
 
-![Imagen Fig4.png](media/Fig4.png)
+![Imagen Fig4.png](images/capitulo_1/Fig4.png)
 
 | a) Sismo 225 años | b) Sismo 475 años | c) Precipitaciones |
 | --- | --- | --- |
@@ -266,7 +266,7 @@ La amenaza por eventos tecnológicos domésticos se obtuvo a partir de las vivie
 
 La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la **Figura 5** se presentan los mapas de intensidades para cada una de estas amenazas.
 
-![Imagen Fig5.png](media/Fig5.png)
+![Imagen Fig5.png](images/capitulo_1/Fig5.png)
 
 | a) Terrorismo y atentados | b) Terrorismo virtual | c) Tecnológicos domésticos |
 | --- | --- | --- |
@@ -465,7 +465,7 @@ Tabla 12. Asignación de vulnerabilidad física en redes.
 
 Teniendo esto en cuenta, para asignar una sola calificación para la vulnerabilidad química y física se realizó un promedio ponderado asignando pesos iguales a cada parámetro. En la **Figura 6** se presenta la asignación de vulnerabilidad química (de 0 a 16) y física (de 0 a 5) para todos los tramos de la red matriz.
 
-![Imagen Fig6.png](media/Fig6.png)
+![Imagen Fig6.png](images/capitulo_1/Fig6.png)
 
 Fuente: Construcción propia
 
@@ -477,7 +477,7 @@ $$VTotal=1680VqVfs$$
 
 Los resultados de vulnerabilidad total para la Red Matriz y Red Menor se presentan en la **Figura 7**.
 
-![Imagen Fig7.png](media/Fig7.png)
+![Imagen Fig7.png](images/capitulo_1/Fig7.png)
 
 Fuente: Construcción propia
 
@@ -487,7 +487,7 @@ Figura 7. Asignación vulnerabilidad por tramos en Red Matriz y Red Menor.
 
 La calificación de riesgos se realizó siguiendo la metodología indicada en la Sección 2.4. Los resultados del riesgo distribuidos espacialmente para el caso de amenaza de sequía se presentan de forma ilustrativa en la **Figura 8**. En este mapa las asignaciones de niveles de riesgo en escala de 0 a 100 son las siguientes –basada en las calificaciones indicadas por la OMS [[18]](#ref-18): 
 
-![Imagen Fig8.png](media/Fig8.png)
+![Imagen Fig8.png](images/capitulo_1/Fig8.png)
 
 Bajo: 0 a 24
 
