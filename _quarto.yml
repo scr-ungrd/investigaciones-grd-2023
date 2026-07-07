@@ -8,6 +8,7 @@ book:
     logo: media/Logo-UNGRD-Horizontal-removebg-preview.png
   chapters:
     - index.qmd
+    - 00-01-presentacion.qmd
     - 00-02-pagina-legal.qmd
     - 00-03-4-prologo-del-libro-grd-2022.qmd
     - 01-c01-lgrd-14-calidad-agua-vf-2022-08-17.qmd
