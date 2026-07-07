@@ -37,8 +37,8 @@ def process_images_in_chapter(fpath):
     def replace_and_copy(match_obj, path_group_idx, full_replacement_formatter):
         raw_rel_path = match_obj.group(path_group_idx)
         
-        # Aislar la ruta limpia (ignorando títulos como "Hover text")
-        old_rel_path = raw_rel_path.split()[0]
+        # Aislar la ruta limpia (ignorando atributos extra de Quarto como {width=100})
+        old_rel_path = raw_rel_path.split()[0].split('{')[0]
         
         if not old_rel_path.startswith("media/"):
             return match_obj.group(0)
@@ -58,7 +58,7 @@ def process_images_in_chapter(fpath):
             nonlocal images_copied
             images_copied += 1
             
-            # Reconstruimos respetando los atributos extra que pudiera haber (ej. "Titulo")
+            # Reconstruimos respetando los atributos extra que pudiera haber en el string crudo
             final_rel_path = raw_rel_path.replace(old_rel_path, new_rel_path)
             return full_replacement_formatter(match_obj, final_rel_path)
         else:
@@ -134,7 +134,10 @@ def main():
     print("INICIANDO MIGRACIÓN ARQUITECTÓNICA DE IMÁGENES")
     print("=========================================================")
     
-    qmd_files = sorted(glob.glob(os.path.join(PROJECT_ROOT, "[0-1][0-9]-capitulo-*.qmd")))
+    # Expresión regular corregida para los archivos de la UNGRD
+    chapters = sorted(glob.glob(os.path.join(PROJECT_ROOT, "[0-9][0-9]-c*.qmd")))
+    qmd_files = [c for c in chapters if re.match(r'^(0[1-9]|1[0-5])-c', os.path.basename(c))]
+    
     for fpath in qmd_files:
         process_images_in_chapter(fpath)
             
