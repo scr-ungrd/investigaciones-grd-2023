@@ -41,7 +41,7 @@ On November 13, 1985, the Nevado del Ruiz Volcano, located in Tolima, Colombia, 
 
 Piers Blaikie, Ben Wisner, Terry Cannon y Ian Davis desarrollaron en 1994 el modelo *Pressure and Release* (PAR) y lo presentaron en el libro *At Risk: natural hazards, people’s vulnerability and disasters* [[1]](#ref-1). El modelo analiza el riesgo de sufrir un desastre en términos de los peligros que lo originan y la vulnerabilidad de la población que se afecta ante la ocurrencia del desastre. En otras palabras, para los autores los desastres son el resultado de la interacción entre peligros y vulnerabilidad. La **Figura 1** muestra cómo el modelo PAR explica la progresión de la vulnerabilidad en términos de causas raíz, presiones dinámicas y condiciones inseguras. 
 
-![Imagen Figura_1.png](media/Figura_1.png)
+![Imagen Figura_1.png](images/capitulo_7/Figura_1.png)
 
 
 
@@ -49,7 +49,7 @@ Piers Blaikie, Ben Wisner, Terry Cannon y Ian Davis desarrollaron en 1994 el mod
 
 Las causas tienen relación con las características propias de un grupo social y potencian el peligro al que se expone la población. Dichas características pueden ser sociales, económicas, demográficas, solo por mencionar algunas de ellas, y son el resultado de sistemas políticos o económicos. Por otra parte, las presiones dinámicas son el puente conector entre las causas y las condiciones inseguras y permiten establecer cómo las presiones se reflejan en el grupo social estudiado. El último aspecto incluido en el modelo PAR para explicar la vulnerabilidad de la población son las condiciones inseguras. Estas hacen referencia a situaciones tangibles e intangibles a las que se exponen las personas en su diario vivir y que tienen el potencial de incrementar su vulnerabilidad. La **Figura 2** muestra las distintas categorías dentro de los elementos del modelo PAR las cuales aplican para los desastres estudiados. El objetivo de este capítulo es mostrar la aplicación del modelo PAR en dos casos de estudio. Es de resaltar que nos enfocamos en la aplicación del modelo y no en su fundamentación teórica. El lector interesado en el marco teórico del modelo PAR puede consultar la referencia [[1]](#ref-1).  
 
-![Imagen Figura_2.png](media/Figura_2.png)
+![Imagen Figura_2.png](images/capitulo_7/Figura_2.png)
 
 
 
@@ -76,7 +76,7 @@ El resto del capítulo del libro se organiza de la siguiente manera. En la Secci
 
 Como se mencionó anteriormente, este trabajo estudia los desastres causados por la erupción volcánica de Armero en 1985 y por las inundaciones y deslizamientos de Mocoa en marzo de 2017 usando como marco teórico el modelo PAR. Los desastres de Armero y Mocoa se seleccionaron debido al impacto de estos con respecto a la cantidad de pérdidas humanas, personas afectadas y pérdidas económicas. La información requerida para el estudio se identificó en las bases de datos de Scopus, Science Direct y Scielo usando como parámetros de búsqueda “Armero disaster”, “Mocoa disaster”, “Desastre de Armero” y “Desastre de Mocoa”. Posteriormente, de la literatura identificada en el paso anterior, se seleccionaron las referencias pertinentes para la aplicación del modelo PAR. Por otra parte, se incluyeron fuentes de información adicionales como artículos de periódicos y reportes oficiales. Finalmente, se clasificó la información referente a los desastres en causas, presiones dinámicas y condiciones inseguras. Un esquema de la metodología de selección de los documentos y clasificación de la información se presenta en la **Figura 3**.  
 
-![Imagen Figura_3.png](media/Figura_3.png)
+![Imagen Figura_3.png](images/capitulo_7/Figura_3.png)
 
 **Figura 3.**  Metodología de revisión documental.
 
