@@ -61,7 +61,7 @@ En cuanto a elementos de articulación identificados, las políticas coinciden e
 
 Se resalta el cuidado del ambiente, el cual representa la base natural y donde la biodiversidad como elemento estructurante del territorio propicia acciones desde el enfoque de SbN para proteger y gestionar de forma sostenible los ecosistemas naturales o modificados de manera eficaz y adaptativa, al tiempo que proporciona beneficios para las poblaciones humanas y la biodiversidad [[10]](#ref-10). A continuación, la **Figura 1** muestra la articulación de las políticas desde los elementos comunes que soportan la sostenibilidad del territorio. 
 
-![Imagen LGRD-06-FIGURA_1.png](media/LGRD-06-FIGURA_1.png)
+![Imagen LGRD-06-FIGURA_1.png](images/capitulo_11/LGRD-06-FIGURA_1.png)
 
 
 
@@ -92,7 +92,7 @@ La BDSE como conjunto para atenuar riesgos e impactos.
 
 **Figura 2.** Rutas para abordar los conflictos socioecológicos relacionados con el riesgo de desastres y el cambio climático desde la gestión integral de la biodiversidad y sus servicios ecosistémicos (bajo el enfoque de las SbN). Fuente: Elaboración propia
 
-![Imagen LGRD-06-FIGURA_2.png](media/LGRD-06-FIGURA_2.png)
+![Imagen LGRD-06-FIGURA_2.png](images/capitulo_11/LGRD-06-FIGURA_2.png)
 
 ### 11.2.1 Biodiversidad y servicios ecosistémicos como conjunto vulnerable
 
@@ -117,7 +117,7 @@ Los planteamientos anteriores llevan a identificar la relación con uno o varios
 
 **Figura 3.** Relaciones de los escenarios de riesgo y la vulnerabilidad desde las dimensiones ambiental y física.  Fuente: Elaboración propia
 
-![Imagen LGRD-06-FIGURA_3.png](media/LGRD-06-FIGURA_3.png)
+![Imagen LGRD-06-FIGURA_3.png](images/capitulo_11/LGRD-06-FIGURA_3.png)
 
 Las acciones que se proponen desde esta ruta buscan primero evitar los motores de transformación y pérdida de la biodiversidad y con ello disminuir la vulnerabilidad ambiental, y segundo, establecer estrategias para recuperar la BDSE desde las SbN en caso de presentarse un desastre que impacte los sociecosistemas vulnerables físicamente. 
 
@@ -181,7 +181,7 @@ Los escenarios de riesgo como las inundaciones, los deslizamientos o las sequía
 
 De los servicios ecosistémicos, se resalta el de regulación ya que actúan como controles estratégicos para reducir los escenarios de riesgo e impactos exacerbados por el cambio climático, incluidos los efectos colaterales que pueden consolidar riesgos de origen tecnológico. Esta relación se muestra en la **Figura 4.**
 
-![Imagen LGRD-06-FIGURA_4.png](media/LGRD-06-FIGURA_4.png)
+![Imagen LGRD-06-FIGURA_4.png](images/capitulo_11/LGRD-06-FIGURA_4.png)
 
 
 
@@ -255,7 +255,7 @@ Esta estrategia permite reducir escenarios de riesgo y evitar la reproducción d
 
 A continuación, la **Figura 5** muestra una aproximación conceptual desde la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres y el cambio climático.
 
-![Imagen LGRD-06-FIGURA_5.png](media/LGRD-06-FIGURA_5.png)
+![Imagen LGRD-06-FIGURA_5.png](images/capitulo_11/LGRD-06-FIGURA_5.png)
 
 
 
