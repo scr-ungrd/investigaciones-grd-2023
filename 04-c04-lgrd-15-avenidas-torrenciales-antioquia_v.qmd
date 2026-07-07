@@ -81,11 +81,15 @@ El estudio se implementó en el departamento de Antioquia, ubicado al norocciden
 
 **Figura 1.** Mapa topográfico y ubicación del departamento de Antioquia, y del Área Metropolitana del Valle de Aburrá.   
 
+![Mapa topográfico y ubicación del departamento de Antioquia](images/capitulo_4/Fig_01.jpg)
+
 ## 4.3 DATOS Y METODOLOGÍA
 
 El análisis se realiza en tres pasos principales: el primero es el análisis de susceptibilidad, donde se utiliza un método estadístico multivariado para clasificar las cuencas del departamento entre torrenciales y no torrenciales.  Posteriormente, a partir de la geología presente en la zona de estudio, se analiza cuál es el evento torrencial más destructivo que puede ocurrir en cada cuenca. El tercer paso es el análisis de la amenaza, donde entran en consideración los factores detonantes. En este análisis se tuvo en cuenta la precipitación como factor detonante, tanto de las avenidas torrenciales como de los deslizamientos que pueden alimentar los flujos. Así, la amenaza se divide en el análisis de la probabilidad temporal de ocurrencia de la lluvia y de los eventos de interés: movimientos en masa y avenidas torrenciales; y de la magnitud, establecida a partir del volumen potencial de sedimentos que puede aportar la cuenca en la ocurrencia de la avenida torrencial. La **Figura 2** muestra un esquema de la metodología implementada.
 
 **Figura 2.** Diagrama de la metodología empleada en el estudio.
+
+![Diagrama de la metodología empleada en el estudio](images/capitulo_4/Fig_02.png)
 
 ## 4.4 Susceptibilidad
 
@@ -146,6 +150,8 @@ Teniendo los valores de $Pat$, $Pmm$ y $Pp$, se calcula la distribución espacia
 Dado que los valores de probabilidades de avenida torrencial y movimientos en masa están relacionados con un evento de precipitación, se requiere primero conocer aquellos valores de precipitación que se considere generadores de estos eventos. Para esto, se construyó un inventario de 504 avenidas torrenciales y 8046 movimientos en masa en Antioquia, a partir de la recopilación y filtrado de las bases de datos de libre acceso DESINVENTAR (https://www.desinventar.org) y SIMMA (https://simma.sgc.gov.co). Para cada uno de los eventos recopilados, se conoce su ubicación y fecha, necesarias para su correlación con un evento de lluvia. Esta correlación utilizó los datos de precipitación de 249 estaciones del Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), también de acceso libre. A estas estaciones pluviométricas se les asigna un área de influencia a partir de los polígonos de Thiessen y un rango de máximo 5 km y se correlacionan los eventos que se encuentren dentro de estas dos áreas. Los eventos que se encuentren a una distancia mayor a 5 km de una estación pluviométrica son descartados con el fin de reducir el error por la variabilidad espacial de la lluvia. También son descartados aquellos eventos en los cuales la estación más cercana no haya registrado ningún evento de lluvia, ya que se considera como necesaria la ocurrencia de un evento de precipitación para la generar una avenida torrencial. Para el caso de los movimientos en masa, se asume que aquellos ocurridos un día de no-lluvia son detonados por precipitaciones acumuladas los días antecedentes al evento. Finalmente, considerando estos filtros, quedan para el análisis 269 avenidas torrenciales y 4930 movimientos en masa. La **Figura 3** muestra la ubicación de los deslizamientos, avenidas torrenciales y estaciones pluviométricas utilizadas. 
 
 **Figura 3.** Inventario de avenidas torrenciales, movimientos en masa y estaciones pluviométricas utilizadas para el análisis de probabilidad temporal. 
+
+![Inventario de avenidas torrenciales, movimientos en masa y estaciones](images/capitulo_4/Fig_03.jpg)
 
 Utilizando esta base de datos de eventos y precipitaciones asociadas, se realiza un análisis de correlación lluvia-evento usando el método estadístico multivariado de regresión logística. Este método estima la relación entre una variable dependiente —en este caso la ocurrencia de avenidas torrenciales o movimientos en masa—, con variables independientes, en este caso la precipitación. El método tiene la ventaja de que las variables independientes no deben seguir una distribución normal, como es el caso de la lluvia. A partir de los resultados de la regresión logística, se construye una ecuación de probabilidad de ocurrencia de un movimiento en masa o una avenida torrencial, en función de un valor dado de precipitación.
 
@@ -210,19 +216,27 @@ Los valores de los cinco índices morfométricos seleccionados fueron extraídos
 
 **Figura 4.** Resultados de clasificación de las cuencas en carácter torrencial y no torrencial.
 
+![Resultados de clasificación de las cuencas en carácter torrencial](images/capitulo_4/Fig_04.jpg)
+
 La **Figura 5** muestra los resultados de la clasificación de las unidades geológicas del departamento en base a su composición mineralógica y granulometría de suelos residuales. Dentro de las unidades de regolitos grueso granulares, se destacan los cuerpos plutónicos de la Cordillera Central en el Oriente Antioqueño, mientras que en la zona central y occidental del departamento predominan las rocas sedimentarias y vulcano-sedimentarias de la Cordillera Occidental. 
 
 **Figura 5.** Tipo de regolito de las unidades geológicas.
 
+![Tipo de regolito de las unidades geológicas](images/capitulo_4/Fig_05.jpg)
+
 Para obtener el tipo de evento torrencial al que es susceptible cada cuenca, se realiza el cruce categórico entre el carácter o respuesta hidrológica de las cuencas producto de su morfometría con el tipo de suelo presente en la cuenca. Los resultados se presentan en la **Figura 6**, donde las cuencas con regímenes torrenciales y presencia de regolitos grueso granulares son clasificadas como tipo flujo de escombros canalizado, mientras aquellas con regolito fino-granular son clasificadas como susceptibles a inundación de escombros. Cuencas clasificadas como no torrenciales en el análisis morfométrico no continúan en el análisis.
 
 **Figura 6.** Susceptibilidad ante flujos de escombros canalizados e inundación de escombros para las cuencas torrenciales.
+
+![Susceptibilidad ante flujos de escombros canalizados e inundación](images/capitulo_4/Fig_06.jpg)
 
 **Probabilidad Temporal**. Al procesar la base de datos de avenidas torrenciales y su correlación con la intensidad diaria asociada, se encuentra que estos fenómenos en el departamento de Antioquia se dan al superar intensidades de 50 mm/día. Este valor no corresponde a un evento demasiado intenso, pero se considera apropiado por ser conservador. 
 
 A partir del escenario de lluvia escogido se calcula la probabilidad de excedencia de dicha intensidad a través de la frecuencia relativa de los días que se supera este valor y el total de días en que se cuenta registro. La distribución espacial de la probabilidad muestra sus valores más bajos, cercanos a 0.03% en el norte y centro del departamento, y las máximas probabilidades, cercanas a 3.97% en zonas húmedas y lluviosas como el valle del río Atrato al occidente del departamento, y su extremo suroriental en el valle del Rio Magdalena, como se observa en la **Figura 7**. 
 
 **Figura 7.** Probabilidad de excedencia de una lluvia diaria de 50 mm/día.
+
+![Probabilidad de excedencia de una lluvia diaria](images/capitulo_4/Fig_07.jpg)
 
 A continuación, se realiza el análisis de correlación entre los eventos de movimientos en masa y avenidas torrenciales con la precipitación, a través de la regresión logística. El resultado de la regresión es una fórmula que estima la probabilidad de ocurrencia de un evento, ya sea movimiento en masa o avenida torrencial, en base a un valor de precipitación, como se muestra en las ecuaciones (8) y (9):
 
@@ -238,13 +252,19 @@ Finalmente, se puede calcular la probabilidad temporal de ocurrencia para cada f
 
 **Figura 8.** Probabilidad temporal de ocurrencia de avenidas torrenciales.
 
+![Probabilidad temporal de ocurrencia de avenidas torrenciales](images/capitulo_4/Fig_08.jpg)
+
 **Magnitud.** Utilizando el modelo SHALSTAB se calculan las celdas que fallan con la lluvia detonante de 50 mm/día, y aquellas que fallan incondicionalmente, es decir, aquellas que, por sus características geotécnicas y geomorfológicas, pueden fallar aún sin lluvia detonante. Cruzando estos resultados con el mapa de espesores de suelos calculado a partir de la ecuación (5), se calcula la distribución espacial del volumen de suelo susceptible a fallar ante el evento de precipitación para las cuencas susceptibles a flujos de escombros canalizados. Los valores de volumen son clasificados en categoría media, alta y muy alta usando como límites entre categorías los quiebres naturales del histograma. Los resultados se presentan en la **Figura 9**. Los valores de magnitud, o volumen potencial por $m^2$, varían entre 0 y 2.15 $m^3/m^2$, encontrándose los mayores valores en suelos grueso-granulares del centro y sur del departamento, mientras que el norte y occidente se encuentran dominados por la categoría media. A las cuencas susceptibles a inundaciones de escombros, se les asigna la categoría de magnitud Media.  
 
 **Figura 9.** Volumen potencial normalizado de sedimentos disponibles.
 
+![Volumen potencial normalizado de sedimentos disponibles](images/capitulo_4/Fig_09.jpg)
+
 **Cálculo de amenaza.** Finalmente, a partir del cruce categórico de los resultados obtenidos de probabilidad temporal y magnitud de las cuencas usando la **Tabla 1**, se obtiene la amenaza por avenidas torrenciales en categorías media, alta y muy alta, como se presenta en la **Figura 10**. Resaltan en amenaza muy alta algunas cuencas del valle del río Cauca, especialmente al norte de Medellín, donde su cauce se hace más estrecho. Otras zonas de amenaza muy alta son el suroeste y sureste antioqueño.  
 
 **Figura 10.** Amenaza por avenidas torrenciales en el departamento de Antioquia.
+
+![Amenaza por avenidas torrenciales en el departamento de Antioquia](images/capitulo_4/Fig_10.jpg)
 
 ## 4.8 DISCUSIÓN Y CONCLUSIONES
 

@@ -54,6 +54,8 @@ Generalmente estos estudios de amenaza y riesgo se concentran en la valoración 
 
 **Figura 1.** Ejemplos de información según ámbitos: a) Regional imagen índice NVIR, b) zonal: proximidad de obras viales y derecho de vía a la ronda del río, c) y d) local: obras de arte.
 
+![Ejemplos de información según ámbitos](images/capitulo_3/Figura 01 Ambitos.png)
+
 Dentro del proceso de desarrollo de la aplicación se identificaron las variables que aportan a caracterizar cada factor amenazante (ver **Figuras 6, 10** y **Caja 5**) y que valoran el nivel de vulnerabilidad para determinar cuáles aportan significativamente a generar indicadores que cuantifiquen y valoren el nivel de riesgo dentro de un esquema multiamenaza objeto de estudio, y que pudieran capturarse mediante una aplicación móvil dentro del corredor socioeconómico.   
 
 El considerar una aproximación combinada entre remoción e inundación no obedeció a un capricho ni a un simple interés académico. El posicionamiento de las principales ciudades de Colombia en las estribaciones de la cordillera de Los Andes implica el reto de construir vías en zonas de ladera, resultando frecuentemente expuestas a deslizamientos y procesos de movimientos en masa. Cifras de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) y la Corporación OSSO indican que entre 1914 y 2019 se han presentado 67,789 eventos en Colombia de los cuales 20,085 han sido inundaciones (30% del total) y son el fenómeno con el mayor número de eventos registrados [[2]](#ref-2). De acuerdo con Gil-Guirado et al. [[3]](#ref-3), el 80% de las inundaciones afectan vías, ya sea producto de eventos torrenciales en zonas de ladera o eventos de tipo estático en zonas de planicie. La interacción de la infraestructura con el sistema físico da lugar a la exposición tanto a procesos de remoción como a inundación, que en conjunto deterioran el sistema vial, afectan la calidad de vida, condicionan el desarrollo económico del país y demandan importantes inversiones en mantenimiento y conservación.
@@ -81,6 +83,8 @@ Para recolectar datos y valorar la amenaza y vulnerabilidad física se requieren
 
 **Figura 2.** Sección transversal típica de la vía [[20]](#ref-20).
 
+![Sección transversal típica de la vía](images/capitulo_3/Figura 02 Seccion tipica.png)
+
 Todos los elementos que se mencionaron anteriormente hacen parte del corredor vial y por esta razón se llamarán elementos expuestos con el fin de realizar la construcción de los instrumentos para aplicarse por el inspector vial en la recolección de datos para su caracterización en el momento que se efectúe el recorrido de uno de los tramos que conforman el corredor vial a estudiar.
 
 La clasificación de los elementos que conforman el corredor vial se obtuvo a partir de los manuales para la inspección visual de obras de estabilización, de drenaje, puentes y pontones, pavimentos flexibles y rígidos de los estudios de investigación del estado actual de las obras de la red nacional de carreteras [[7]](#ref-7)–[[11]](#ref-11).
@@ -89,7 +93,9 @@ Con respecto a la estructura de la vía, se estableció el tipo de pavimento com
 
 
 
-**Figura 3.** Estructuras de drenaje y de estabilización de taludes utilizadas para el manejo de eventos amenazantes en la infraestructura vial, organizadas taxonómicamente en categorías y subcategorías. Izquierda (color azul) las estructuras de drenaje y a derecha (color rosado) las estructuras de estabilización. Cada subcategoría corresponde a una tipología de obra, a la cual se asocian los tipos más comunes en proyectos viales. 
+**Figura 3.** Estructuras de drenaje y de estabilización de taludes utilizadas para el manejo de eventos amenazantes en la infraestructura vial, organizadas taxonómicamente en categorías y subcategorías. Izquierda (color azul) las estructuras de drenaje y a derecha (color rosado) las estructuras de estabilización. Cada subcategoría corresponde a una tipología de obra, a la cual se asocian los tipos más comunes en proyectos viales.
+
+![Estructuras de drenaje y de estabilización de taludes](images/capitulo_3/Figura 03 Diagrama Estructuras.bmp) 
 
 Los elementos asociados al manejo de eventos amenazantes sobre la vía se agruparon en estructuras de drenaje y estructuras de estabilización teniendo en cuenta la orientación respecto a la vía, geometría, materiales y función principal (**Fig. 3**). 
 
@@ -105,6 +111,8 @@ El instrumento de recolección de datos de la infraestructura vial debe aportar 
 
 **Figura 4.** Detalle de dominios para el manejo de la información.
 
+![Detalle de dominios para el manejo de la información](images/capitulo_3/Figura 04 Ambito y escala.png)
+
 **Segunda etapa**: se desarrolló un proceso de identificación de las características relevantes del elemento expuesto a evaluar y las variables claves que permitirían su caracterización, apoyados en el criterio experto del grupo de especialistas, así como de actores de la vía (administradores viales). 
 
 **Tercera etapa**: a partir de dicha información se procedió a desarrollar los formatos de base para la captura de la información en campo, así como las rúbricas de calificación del estado de la infraestructura y de valoración, todos estos aspectos relevantes para el desarrollo del aplicativo móvil para la captura de información en campo. Dicho aplicativo debe permitir la espacialización de la información recolectada y su posterior migración a diferentes bases de datos con el propósito de valorar cualitativamente tanto amenaza como vulnerabilidad física (**Fig. 5**). En la medida que el conjunto de herramientas propuestas logra identificar correctamente las condiciones de amenaza y vulnerabilidad de puntos críticos o de control, la metodología puede validarse o en su defecto someterse a un nuevo proceso de revisión y actualización, dando lugar a un proceso o sistema adaptativo.
@@ -115,6 +123,8 @@ Una característica transversal en todo el proceso de construcción de una metod
 
 **Figura 5.** Secuencia metodológica para captura de información y valoración de amenaza y vulnerabilidad apoyado en TIC.
 
+![Secuencia metodológica para captura de información y valoración](images/capitulo_3/Figura 05 Secuencia metodologica.png)
+
 **Cuarta etapa:** iniciado el proceso para determinar el nivel de riesgo multiamenaza, se establece que el elemento expuesto es el corredor vial, conformado por su estructura física, obras de drenaje, estabilización y protección, como se menciona en el numeral anterior. Al definir con claridad el elemento expuesto, se logró precisar los parámetros de infraestructura susceptibles ante movimiento en masa e inundaciones, así como la vulnerabilidad en la estructura física, con sus respectivas dimensiones, materiales y especificaciones.
 
 **Quinta etapa:** para la calificación cualitativa del riesgo a escala local, se estableció una métrica de medición para cada variable, que se integró en una matriz de solicitaciones tendiente a determinar su aporte a la valoración de amenaza y vulnerabilidad en tres rangos: Alta, Media y Baja.
@@ -124,6 +134,8 @@ Una característica transversal en todo el proceso de construcción de una metod
 
 
 **Figura 6.** Variables para valoración de amenaza y vulnerabilidad en infraestructura vial organizadas taxonómicamente en categorías y subcategorías. Izquierda (color azul) las variables para inundación, derecha (color rosado) las variables para remoción en masa. Cada subcategoría corresponde a una tipología de obra a inspeccionar a la cual se asocian las especificaciones o criterios a valorar.
+
+![Variables para valoración de amenaza y vulnerabilidad](images/capitulo_3/Figura 06 Diagrama variables.bmp)
 
 **Séptima etapa:** se sometió el instrumento de captura de información al personal especializado en la inspección e inventario de vías, es decir, los administradores viales, quienes previa capacitación, realizaron una retroalimentación integral del instrumento, su interfaz y variables incorporadas, dando lugar a un instrumento refinado.
 
@@ -141,6 +153,8 @@ En general, para estudios de amenaza la información se ha obtenido predominante
 
 **Figura 7.** Muestra de subregistro o falta de completitud en inventarios de movimientos en masa para tramos críticos de las vías nacionales (vía Tunja Páez Departamento de Boyacá).
 
+![Muestra de subregistro o falta de completitud](images/capitulo_3/Figura 07 Subregistro.png)
+
 Lo anterior pone de manifiesto la necesidad que para una evaluación certera de amenaza en corredores viales es muy importante la captura de información a nivel local por parte de los actores que usan o que administran la vía. Si bien, aproximaciones metodológicas previas aportan una serie de formatos para la captura de la información a nivel local, muchas de las variables que se requiere registrar exigen un alto nivel de conocimiento experto de la persona que lo va aplicar, de tal manera que le permita identificar y valorar cada aspecto de una forma certera. Lo anterior hace que estas metodologías no sean de fácil aplicación para corredores viales extensos en periodos de tiempos cortos, pues se requeriría de gran cantidad de recursos físicos, económicos y personal. Esta problemática de la adquisición de la información fue discutida por Van Westen [[16]](#ref-16), quien estudió los diferentes problemas que se presentan al tratar de realizar cuantificaciones de riesgo a escalas de detalle.
 
 Finalmente, otro reto con la aplicabilidad radica en la formulación de un esquema para la integración de la información capturada en campo, y así armonizarla con la información regional y zonal. Por lo anterior, dentro del proceso del presente proyecto fue necesario en una primera instancia identificar los diferentes flujos de la información que se producen a las diferentes escalas (**Fig. 8**). También identificar las condiciones de esta para poder definir un esquema de captura e integración de la información, el cual se estructuró a partir de un proceso de utilización de TIC, con el objetivo de facilitar la captura de la información por parte de los actores de la vía (administradores viales y/o usuarios) sin tener que depender de la disponibilidad de expertos en geología y geotecnia para realizar el levantamiento de las variables en campo tanto a nivel zonal como a nivel local.
@@ -149,6 +163,8 @@ Finalmente, otro reto con la aplicabilidad radica en la formulación de un esque
 
 **Figura 8.** Flujo de información para un proceso de zonificación para un corredor vial.
 
+![Flujo de información para un proceso de zonificación](images/capitulo_3/Figura 08 Flujo informacion.png)
+
 Dentro de este contexto, fue necesario realizar una valoración inicial de las condiciones y variables de la metodología propuesta en el 2018 por el Servicio Geológico Colombiano en conjunto con INVIAS [[13]](#ref-13), proponiendo mejoras para facilitar la aplicabilidad en corredores viales, y garantizando una respuesta que permitiera una sinergia entre las variables de los tres dominios. Así pues, se incorporaron nuevas variables para refinar la determinación de la susceptibilidad (LSI). En total se identificaron 16 variables para incorporarse en el refinamiento de la susceptibilidad y de la amenaza.
 
 
@@ -156,11 +172,17 @@ Dentro de este contexto, fue necesario realizar una valoración inicial de las c
 **Caja 3.** Esquema de mejoramiento de susceptibilidad y armonización de datos  Cada una de las nuevas variables se captura de acuerdo con el dominio donde se ubica: regional (repositorios de información abierta), zonal y local (captura de datos en campo mediante aplicación móvil.  La segmentación del corredor vial en tramos relativamente homogéneos permite la agrupación de variables y eventos de distintas escalas, para su armonización y valoración estadística.
 :::
 
+| | |
+| --- | --- |
+| ![Esquema de mejoramiento - Parte A](images/capitulo_3/Caja 3a.png) | ![Esquema de mejoramiento - Parte B](images/capitulo_3/Caja 3b.png) |
+
 El formato original para levantamiento de información se desarrolló en Excel (**Fig. 9**), incluyendo la localización del evento, descripción, registro fotográfico, esquema, condiciones topográficas y geométricas de la sección, agentes externos que son posibles detonantes del evento, intervención con medidas de mitigación, la valoración del proceso de remoción (tipo, actividad reciente, caída de bloques, área afectada, entre otros) y características del terreno (composición suelo-roca, permeabilidad, humedad, fracturamiento, entre otros).
 
 
 
 **Figura 9.** Formato para levantamiento de elementos viales que aportan a la valoración de movimientos en masa.
+
+![Formato para levantamiento de elementos viales](images/capitulo_3/Figura 09 Formato remocion.bmp)
 
 ## 3.5 AMENAZA POR INUNDACIÓN
 
@@ -172,6 +194,10 @@ La UNGRD [[2]](#ref-2) considera clave en caso de inundación: “Prepararse, Ac
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 4.** Claves para valoración de la amenaza por inundación acorde con el tipo de evento.  La UNGRD [[17]](#ref-17), resalta tres tipos de inundaciones en cuya descripción es posible develar claves para su valoración, como son: el régimen hidrológico que involucra la cantidad y tiempo de precipitación, la pendiente del cauce, la intervención antrópica que da lugar a represamientos, la morfología y relieve sobre el cual se implanta la infraestructura, y la insuficiencia del sistema de drenaje construido.  Inundaciones repentinas. Se producen por la presencia de grandes cantidades de agua en muy corto tiempo. Son frecuentes en ríos de zonas montañosas con bastante pendiente, y muchas veces se producen a causa de fuertes aguaceros sobre los terrenos débiles o sin vegetación, y el represamiento de las aguas por rocas, vegetación, y demás materiales que han caído sobre el río. Ejemplo de ello el evento del 6 de mayo de 2021 en Medellín. Inundaciones lentas o en la llanura. Se producen sobre terrenos planos que desaguan muy lentamente, cercanos a las riberas de los ríos o donde las lluvias son frecuentes o torrenciales. Muchas de ellas son producto del comportamiento normal de los ríos, es decir, de su régimen de aguas, ya que es habitual que en invierno aumente la cantidad de agua inundando los terrenos cercanos como playones o llanuras, como lo ocurrido en la vía Bogotá-Chía en 2011.  Inundaciones en ciudades. Las poblaciones que no cuentan con efectivos sistemas de alcantarillado o canales de desagües y aquellas cuya superficie es plana o algo cóncava (como un valle) pueden sufrir inundaciones como efecto directo de las lluvias, independientemente de las inundaciones producidas por desbordamiento de ríos y quebradas. Condición cada vez más común como consecuencia del cambio climático y del crecimiento de las áreas urbanas, como ocurre en la ciudad de Bogotá.
 :::
+
+| | | |
+| --- | --- | --- |
+| ![Claves inundación - Repentinas](images/capitulo_3/Caja 4a.png) | ![Claves inundación - Lentas](images/capitulo_3/Caja 4b.png) | ![Claves inundación - Ciudades](images/capitulo_3/Caja 4c.png) |
 
 Para establecer con precisión el tipo de evento (inundación dinámica o estática), la frecuencia, la intensidad y el territorio afectado, es necesario realizar aproximaciones cuantitativas que requieren como insumos un levantamiento topo-batimétrico del cauce y áreas inundables, la modelación hidráulica y el procesamiento de series históricas de caudal o precipitación. La valoración de la intensidad es función de la combinación entre la profundidad y la velocidad del flujo (**Tabla 1**), variables caracterizadas por importantes fluctuaciones tanto en el cauce como en las áreas inundables, en virtud de lo cual, la valoración cuantitativa de la amenaza por inundación requiere la mayor precisión posible en la información topográfica, el intervalo computacional y la variación temporal y volumétrica del hidrograma, condiciones que redundan en recursos económicos y computacionales.
 
@@ -192,11 +218,15 @@ En contraste, las metodologías cualitativas se apoyan principalmente en la valo
 
 **Figura 10.** Variables para evaluación de amenaza por inundación en corredores viales [[19]](#ref-19), incluyendo aspectos del medio físico que dan cuenta de la severidad del evento y la susceptibilidad a nivel regional a sufrir inundaciones, así como aspectos propios de las obras de infraestructura que en virtud de su correcta construcción y estado de conservación incrementan o disminuyen la capacidad de respuesta de la infraestructura vial ante la ocurrencia de un evento
 
+![Variables para evaluación de amenaza por inundación](images/capitulo_3/Figura 10 Variables inundacion.bmp)
+
 Para garantizar una adecuada aplicación de la metodología es necesario considerar los siguientes aspectos. Primero, enfatizar en el reconocimiento de aquellas geoformas de origen aluvial que se exponen con mayor frecuencia a eventos de inundación a escala regional. Segundo, es necesario reclasificar las unidades a escala 1:100,000 siguiendo los criterios y categorías propuestos por el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y el Fondo Adaptación [[21]](#ref-21). Tercero, revisar el inventario de áreas inundables del IDEAM, el cual está debidamente espacializado a escala 1:100,000 para los años 1988, 2000, 2011 y 2012 que involucran los eventos más representativos en un lapso superior a 20 años. Cuarto, reconocer la precipitación como detonante, para lo cual se involucran registros históricos de estaciones hidrológicas que dan cuenta tanto de eventos hidrológicos torrenciales por medio de la precipitación máxima en 24 horas, como de eventos prolongados por medio de la precipitación total anual, previo análisis estadístico y construcción de isoyetas. Quinto, valorar a escala local los factores intrínsecos que hacen referencia al estado de conservación y la exposición de las obras que conforman la infraestructura vial, ante la acción de los eventos hidrológicos. Esta valoración se hace mediante la inspección física, evaluando su estado mediante rúbricas (**Fig. 11**), que pueden aplicarse a las obras de drenaje transversales (alcantarillas, puentes y box culver) obras de drenaje con flujo sobre la calzada (bateas y badenes), obras de drenaje longitudinal (cunetas y vallados) y obras de confinamiento (jarillones).
 
 
 
 **Figura 11.** Rúbrica para valoración de susceptibilidad a inundación de obras de drenaje puntual (alcantarillas, box culver, puentes y pontones) según su estado de conservación. Nota: La valoración de las obras de drenaje a escala local puede aumentar o mitigar la amenaza ante inundaciones. Para su correcta aplicación es necesario el diseño de formatos para registro de información, y protocolos de inspección visual de las obras.
+
+![Rúbrica para valoración de susceptibilidad a inundación](images/capitulo_3/Figura 11 Rubrica inspeccion obras de drenaje.bmp)
 
 ## 3.6 VULNERABILIDAD FÍSICA
 
@@ -205,6 +235,8 @@ Para implementar la aplicación de captura de datos, el registro de los puntos c
 
 
 **Figura 12.** Esquema metodológico para definir vulnerabilidad física.
+
+![Esquema metodológico para definir vulnerabilidad física](images/capitulo_3/Figura 12 Esquema Vulnerabilidad.png)
 
 Para evaluar los resultados de la inspección física, se construyeron preguntas básicas orientadoras, para calificar y determinar el nivel de exposición de la estructura (ver **Caja 5**). Las preguntas permiten evidenciar en el trabajo de campo y trabajo de oficina, las diferentes evidencias de huellas ocasionadas por los fenómenos amenazantes como son remoción en masas e inundaciones. Para la construcción de las preguntas, se toma la experiencia de la fuente primaria administradores viales, quienes inspeccionan las diferentes estructuras que componen la vía.
 
@@ -218,6 +250,8 @@ A manera de ejemplo, se muestra la aplicación de la metodología en una alcanta
 
 
 **Figura 13.** Alcantarilla localizada en el corredor vial Chiquinquirá–Otanche.
+
+![Alcantarilla localizada en el corredor vial Chiquinquirá–Otanche](images/capitulo_3/Figura 13 Ejemplo vulnerabilidad.bmp)
 
 Como resultado de la aplicación de las preguntas referentes a exposición, fragilidad y resiliencia, se obtiene una valoración de 0.51, cuyo resultado se reclasifica a las escalas de Vulnerabilidad Baja (< 0.5), Media (0.5 a 1.5) y Alta (> 1.5).
 
@@ -257,6 +291,8 @@ Por tanto y con los nuevos avances de las TIC, es posible que cualquier persona 
 
 **Figura 14.** Inspección visual de una alcantarilla localizada en la vía Chiquinquirá-Otanche y registro de datos en campo por dispositivo móvil, incluyendo dimensiones de la sección transversal, estado de conservación, integridad de la estructura, procesos de erosión e inestabilidad del talud
 
+![Inspección visual de una alcantarilla y registro de datos](images/capitulo_3/Figura 14 Inspeccion visual.png)
+
 Progresivamente, los dispositivos móviles se equipan con una gama mucho más amplia de funciones para responder a las demandas de movilidad, llegando a convertirse en un instrumento similar al computador personal, con una marcada tendencia sobre otras tecnologías, con posibilidades de convertirse en herramientas indispensables para los usuarios [[29]](#ref-29).
 
 ### 3.7.3 Instrumento móvil de captura de datos en campo
@@ -264,6 +300,8 @@ Progresivamente, los dispositivos móviles se equipan con una gama mucho más am
 Con el fin de optimizar el proceso toma de datos y en relación con la propuesta metodológica, se ideó una solución que soportara de forma práctica la captura de información en campo. Para este proceso, se implementó un recurso de la compañía la compañía ESRI (Environmental Systems Research Institute, [[25]](#ref-25)), Survey123 connect (aplicación web lanzada el 29 de noviembre de 2019), que mediante la implementación de formularios inteligentes proporciona una serie de funciones que van más allá de la simple entrada de datos (**Fig. 15**).  
 
 **Figura 15.** Survey123 Connect, permite diseñar y publicar “formularios inteligentes” en ArcGIS Online o ArcGIS Enterprise, permitiendo recopilar multitud de datos e información para después visualizarla geográficamente. Estos formularios funcionan en combinación con un editor de hojas de cálculo, que facilita obtener una vista previa de los diseños de XLSForm y validarlos.
+
+![Survey123 Connect, permite diseñar y publicar formularios](images/capitulo_3/Figura 15 Survey 123.png)
 
 Con *Survey123 Connect*, se pueden integrar y definir las diferentes variables y consultas, al igual que definir la apariencia y el comportamiento de los formularios mediante la implementación de un *documento XLSForm*, un estándar abierto que simplifica la creación de formularios en un formato legible y utilizando una hoja de cálculo. Este tipo de aplicaciones en *Survey Connect* permiten de forma previa, hacer pruebas de los formularios creados antes de publicarse, así como, trabajar con mapas offline, administrar varios idiomas, organizar diferentes flujos de trabajo. 
 
@@ -273,6 +311,8 @@ La aplicación funciona en dispositivos móviles (celulares), computadoras port�
 
 **Figura 16.** Variables disponibles para captura de información en aplicativo móvil.
 
+![Variables disponibles para captura de información](images/capitulo_3/Figura 16 Variables Survey.png)
+
 ### 3.7.4 Módulos del proceso en la aplicación Survey123 *connect*
 
 La estructura del formulario está basada en secciones desplegables que al momento de iniciar un nuevo reporte se encuentra retraída para evitar la saturación visual en la aplicación. Al interior de cada sección, el formulario cambia/oculta/muestra opciones adicionales en función de los datos preliminares ingresados. La estructura de las secciones se muestra en la (**Fig. 17**).
@@ -281,22 +321,26 @@ La estructura del formulario está basada en secciones desplegables que al momen
 
 **Figura 17.** Interfaz del aplicativo móvil.
 
+![Interfaz del aplicativo móvil](images/capitulo_3/Figura 17 Interfaz Survey.png)
+
 Los módulos del proceso, implementando la aplicación *Survey123 connect,* se relacionan a continuación:
 
 
 
 **Figura 18.** Módulos del proceso, captura y almacenamiento de información en formulario inteligente. Módulo 1: Instalación aplicación. Módulo 2: Descarga formulario. Módulo 3: Uso de la aplicación. Módulo 4: Almacenamiento y envío de datos. Módulo 5: Visualización, descarga de datos.
 
+![Módulos del proceso, captura y almacenamiento](images/capitulo_3/Figura 18 Diagrama Survey.bmp)
+
 
 ::: {#box6 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 6.** Módulos del proceso | Caja 6.  Módulos del proceso
 :::
 | --- | --- |
-| Instalación de la aplicación. ESRI dispone de dos componentes de Survey123. Uno es Survey123 Connect componente de escritorio para crear las encuestas, disponible en Microsoft Store y puede instalarse directamente en el dispositivo de mesa.  El otro componente es la aplicación de campo Survey123 para capturar datos de encuesta en dispositivos móviles, disponible en Google Play, App Store y Microsoft Store y puede instalarse directamente en su dispositivo móvil desde estas tiendas. |  |
-| Descarga del formulario o encuesta. Luego realizar la instalación, podrá dirigirse al aplicativo Survey 123. Es necesario descargar la encuesta antes de ir a campo a zonas sin acceso a internet. La aplicación puede funcionar offline y cuando exista acceso a internet podrá enviar la encuesta diligenciada. El formulario para descargarse se facilitará mediante un enlace o un código QR. |  |
-| Uso de la aplicación. Abra la aplicación de campo Survey123. Para acceder a ellos se debe hacer clic sobre el ícono del formulario a implementar. se dará clic en la pestaña ADQUIRIR para iniciar el correspondiente llenado de los datos en los diferentes campos. Desplegando los diferentes campos se encontrará la información requerida. |  |
-| Almacenamiento y envío de datos. Luego de diligenciar todos los campos del formulario, se puede enviar.  Si no pudo completar una encuesta de inmediato (o la completó sin conexión), debe guardarla en su bandeja de salida dentro de la aplicación Survey123. Esto facilitará que una encuesta parcialmente completada pueda completarse después para enviarse; o si se completó sin conexión se pueda enviar cuando se cuente con una conexión estable. |  |
-| Visualización, descarga de datos. Una vez diligenciado y enviado el formulario, es posible generar informes basados en los datos capturados. Ya que, la aplicación de forma directa no puede generar estos informes, estos se generan a través de la componente de escritorio Survey123 Connect, o desde el visor ArcGIS online. Ahora, si se requiere hacer análisis más profundos con los datos, estos podrán exportarse en diferentes formatos y extensiones para utilizarse en una aplicación desktop como ArcMap de ArcGIS. Los datos pueden descargarse en formatos SCV, KML o SHP. |  |
+| Instalación de la aplicación. ESRI dispone de dos componentes de Survey123. Uno es Survey123 Connect componente de escritorio para crear las encuestas, disponible en Microsoft Store y puede instalarse directamente en el dispositivo de mesa.  El otro componente es la aplicación de campo Survey123 para capturar datos de encuesta en dispositivos móviles, disponible en Google Play, App Store y Microsoft Store y puede instalarse directamente en su dispositivo móvil desde estas tiendas. | <img src="images/capitulo_3/Caja 6a Instalacion (modulos del proceso).png" /> |
+| Descarga del formulario o encuesta. Luego realizar la instalación, podrá dirigirse al aplicativo Survey 123. Es necesario descargar la encuesta antes de ir a campo a zonas sin acceso a internet. La aplicación puede funcionar offline y cuando exista acceso a internet podrá enviar la encuesta diligenciada. El formulario para descargarse se facilitará mediante un enlace o un código QR. | <img src="images/capitulo_3/Caja 6b Descarga (modulos del proceso).png" /> |
+| Uso de la aplicación. Abra la aplicación de campo Survey123. Para acceder a ellos se debe hacer clic sobre el ícono del formulario a implementar. se dará clic en la pestaña ADQUIRIR para iniciar el correspondiente llenado de los datos en los diferentes campos. Desplegando los diferentes campos se encontrará la información requerida. | <img src="images/capitulo_3/Caja 6c Uso (modulos del proceso).png" /> |
+| Almacenamiento y envío de datos. Luego de diligenciar todos los campos del formulario, se puede enviar.  Si no pudo completar una encuesta de inmediato (o la completó sin conexión), debe guardarla en su bandeja de salida dentro de la aplicación Survey123. Esto facilitará que una encuesta parcialmente completada pueda completarse después para enviarse; o si se completó sin conexión se pueda enviar cuando se cuente con una conexión estable. | <img src="images/capitulo_3/Caja 6d Almacenamiento (modulos del proceso).png" /> |
+| Visualización, descarga de datos. Una vez diligenciado y enviado el formulario, es posible generar informes basados en los datos capturados. Ya que, la aplicación de forma directa no puede generar estos informes, estos se generan a través de la componente de escritorio Survey123 Connect, o desde el visor ArcGIS online. Ahora, si se requiere hacer análisis más profundos con los datos, estos podrán exportarse en diferentes formatos y extensiones para utilizarse en una aplicación desktop como ArcMap de ArcGIS. Los datos pueden descargarse en formatos SCV, KML o SHP. | <img src="images/capitulo_3/Caja 6e Visualizacion (modulos del proceso).png" /> |
 
 ### 3.7.5 Proceso de análisis y resultados
 
@@ -306,13 +350,15 @@ Se hizo el recorrido por los corredores viales pertenecientes al territorial Boy
 
 **Figura 19.** Visualización de información general de datos captados en campo con la componente de campo de la aplicación *survey 123*. La imagen muestra estadísticas del recuento de puntos de interés tomados en la encuesta.
 
-
+![Visualización de estadísticas de recuento de puntos](images/capitulo_3/Figura 19.png)
 
 **Figura 20.** Visualización de información general de datos captados en campo con la componente de campo de la aplicación *survey 123*. La imagen muestra algunos puntos de interés desplegados en el visor de mapas.
 
-
+![Visualización de puntos de interés en el visor de mapas](images/capitulo_3/Figura 20.png)
 
 **Figura 21**. Ejemplo de la visualización de resultados y análisis estadístico izquierda: selección por barras en sectores analizados puntos con registro de incidencias, derecha: relación de afectaciones a infraestructura en un sector. Inferior derecha: detalle de estado de obras inspeccionadas en un sector
+
+![Ejemplo de la visualización de resultados y análisis estadístico](images/capitulo_3/Figura 21.png)
 
 En particular, para las vías de la territorial Boyacá a cargo del INVIAS, puede observarse que la mayoría de los puntos inspeccionados corresponden a la transversal Monterrey - Puerto Boyacá, particularmente Otanche – Cruce 45, sector donde prevalecen procesos de inestabilidad de taludes asociados a la presencia de rocas blandas, con fenómenos de deslizamiento rotacional y flujo de detritos, fenómenos que a su vez ocasionan la colmatación de las obras de drenaje por escorrentía y arrastre de estos materiales.
 

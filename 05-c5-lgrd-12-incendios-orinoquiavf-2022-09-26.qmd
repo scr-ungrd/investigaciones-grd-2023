@@ -65,7 +65,7 @@ La Orinoquía (**Fig. 1**), también conocida como Llanos Orientales, es una de 
 
 La Orinoquia Colombiana ha tenido una clara afectación por los incendios [[19]](#ref-19). En el periodo entre diciembre del año 2000 y febrero del 2009 las regiones que presentaron una mayor afectación fueron la Orinoquia, seguida por la Amazonía y el Caribe. Así mismo, en la Orinoquía se observó un claro patrón intra-anual de incendios, donde se evidencia un comportamiento bimodal asociado a la época de verano; el primer pico donde se concentran la gran parte de anomalías térmicas se da entre diciembre y marzo y otro más corto entre julio y agosto. 
 
-![Imagen Figura1_Ubicacion.png](media/Figura1_Ubicacion.png)
+![Imagen Figura1_Ubicacion.png](images/capitulo_5/Figura1_Ubicacion.png)
 
 **Figura 1.** Localización del área de estudio. Se ubica al este de Colombia limitando al norte y este con Venezuela, al sur con Amazonia y al oeste con la región Andina. Se halla entre los ríos Arauca, Guaviare, Orinoco y el Piedemonte llanero. Dicha región la conforma los departamentos de Arauca, Casanare, Meta y Vichada albergando 64 municipios y alcanzando un área aproximada de 254,000 km2.
 
@@ -108,7 +108,7 @@ Si bien los focos de calor detectados son una aproximación a la ocurrencia real
 
 Por otro lado, al analizar el área quemada en la Orinoquia se observa que este valor es significativamente mayor en el primer período de análisis (**Tabla 1**), alrededor de 2.5 veces más de área quemada que en el segundo período. El total de área quemada para el año 2020 es de 2,054,174.4 ha, de las cuales el 90.3% se concentran en los meses de enero a marzo. De acuerdo con [[29]](#ref-29), los datos de áreas quemadas reportadas en 2020 por MODIS, superan inclusive los valores de 2018 y 2019 que registraron 1,964,100.9 ha, y 1,493,421.3 ha respectivamente. Se resalta que de acuerdo con [[30]](#ref-30), para el 2018 hubo un incremento significativo en los focos de calor. Entre las posibles causas se encuentra las altas temperaturas que se dieron, y generando incendios que arrasaron millones de hectáreas entre la Amazonia y Orinoquia.
 
-![Imagen Figura3_FocosdeCalor.png](media/Figura3_FocosdeCalor.png)
+![Imagen Figura3_FocosdeCalor.png](images/capitulo_5/Figura3_FocosdeCalor.png)
 
 **Figura 3.** Distribución de las anomalías térmicas en la Orinoquia Colombiana para los períodos de análisis de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. 
 
@@ -125,7 +125,7 @@ Por otro lado, al analizar el área quemada en la Orinoquia se observa que este 
 
 La distribución de la superficie afectada por el fuego en la Orinoquia se da en toda la región, no obstante, para el año 2020 se observa una mayor afectación en Meta y Vichada; sin embargo, al este de Arauca y norte de vichada se concentra la mayor afectación entre los meses de febrero y marzo limitando con Venezuela. Los puntos donde se localizan los focos de calor coinciden con las áreas quemadas que presenta el sensor MODIS para la Orinoquia (**Fig. 4**).
 
-![Imagen Figura4_area_quemadaMODIS.png](media/Figura4_area_quemadaMODIS.png)
+![Imagen Figura4_area_quemadaMODIS.png](images/capitulo_5/Figura4_area_quemadaMODIS.png)
 
 **Figura 4.** Distribución de las áreas quemadas en la Orinoquia Colombiana para los períodos de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021.
 
@@ -177,7 +177,7 @@ Los resultados de ambas metodologías, muestran que en medio de la pandemia, muc
 
 Además, sostienen que estos eventos de quema de biomasa, se deben principalmente a que personas inescrupulosas, aprovecharon la emergencia sanitaria para realizar daños ambientales sobre áreas de especial importancia ecológica y áreas naturales protegidas, debido a la falta de vigilancia y control por parte de las autoridades competentes [[34]](#ref-34).
 
-![Imagen Figura5_dNBR.png](media/Figura5_dNBR.png)
+![Imagen Figura5_dNBR.png](images/capitulo_5/Figura5_dNBR.png)
 
 **Figura 5.** Mapa de clasificación del Índice Normalizado de Área Quemada (NBR) para el año 2020 y 2021 
 
@@ -217,7 +217,7 @@ El producto MCD64A1 versión 6 se genera de forma mensual, presenta una resoluci
 
 Se descargó la información de la ventana 5 en formato shapefile (**Fig. 6**), para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. A través del software ArcGis 10.5 y QGis 3.12 se realizó la delimitación de la información, el cálculo de las áreas afectadas y la composición del mapa.
 
-![Imagen Figura6_Ventanas_AQModis.png](media/Figura6_Ventanas_AQModis.png)
+![Imagen Figura6_Ventanas_AQModis.png](images/capitulo_5/Figura6_Ventanas_AQModis.png)
 
 **Figura 6.** Cobertura de los subconjuntos de formato Shapefile [[35]](#ref-35)
 
