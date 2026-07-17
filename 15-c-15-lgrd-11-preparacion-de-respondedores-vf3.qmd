@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 15: Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios"
+title: "15. Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios"
 author:
   - name: "Olga Liliana Pineda López ^1^"
     orcid: "0000-0001-8320-8154"
@@ -22,6 +22,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -72,13 +74,9 @@ La importancia de los bomberos es imperativa en Colombia. Para el año 2019, seg
 
 La preparación bomberil en Colombia dispone que se realicen pruebas psicológicas junto con las físicas con el fin de realizar pruebas de ingreso y promoción según se define en la ley 1575 de 2012 [[14]](#ref-14). Además, la resolución 661 de 2014 del Ministerio del Interior (Art. 60) dispone que la instrucción bomberil debe considerar la formación del ser, lo que implica atención psicológica, habida cuenta de los riesgos físicos y psicológicos que implican la profesión de bombero. 
 
-Algunos investigadores proponen que el acondicionamiento integral de la formación bomberil en Colombia [[15]](#ref-15), [[16]](#ref-16), así como en otros lugares del mundo, no considera algunas condiciones psicológicas como la capacidad de resiliencia y las estrategias de afrontamiento de los futuros bomberos. La psicología propone que estas dos variables son fundamentales para entender cómo funciona el sujeto de frente a una emergencia o simplemente, una situación de crisis. En general, el afrontamiento y la resiliencia se entrecruzan como factores psicológicos que predisponen al sujeto a recuperarse de un evento estresante [[17]](#ref-17). Los eventos estresantes sucederán en todas las etapas del ciclo vital, pero dejarán una huella particular dependiendo de si se fortalecieron o no las estrategias de afrontamiento, y cómo éstas operan en la resiliencia [[18]](#ref-18). Tal como se presenta en la **Figura 1**, la relación entre ambas no es de solapamiento, en cambio, de cooperación para la reacción ante situaciones de riesgo como la implica la labor bomberil. 
+Algunos investigadores proponen que el acondicionamiento integral de la formación bomberil en Colombia [[15]](#ref-15), [[16]](#ref-16), así como en otros lugares del mundo, no considera algunas condiciones psicológicas como la capacidad de resiliencia y las estrategias de afrontamiento de los futuros bomberos. La psicología propone que estas dos variables son fundamentales para entender cómo funciona el sujeto de frente a una emergencia o simplemente, una situación de crisis. En general, el afrontamiento y la resiliencia se entrecruzan como factores psicológicos que predisponen al sujeto a recuperarse de un evento estresante [[17]](#ref-17). Los eventos estresantes sucederán en todas las etapas del ciclo vital, pero dejarán una huella particular dependiendo de si se fortalecieron o no las estrategias de afrontamiento, y cómo éstas operan en la resiliencia [[18]](#ref-18). Tal como se presenta en la @fig-c15-1, la relación entre ambas no es de solapamiento, en cambio, de cooperación para la reacción ante situaciones de riesgo como la implica la labor bomberil.
 
-![Imagen Figura_1.png](images/capitulo_15/Figura_1.png)
-
-
-
-**Figura 1.** Definiciones de estrategias de afrontamiento y resiliencia. Nota: elaboración propia 
+![Definiciones de estrategias de afrontamiento y resiliencia. Nota: elaboración propia.](images/capitulo_15/Figura_1.png){#fig-c15-1}
 
 De los dos factores citados, la resiliencia resulta ser particularmente difícil de conceptualizar y abordar como constructo de investigación. Algunos autores afirman que la resiliencia es connatural al sujeto y que fortalecerla es por tanto una tarea innecesaria. En palabras de Ribes [[19]](#ref-19), la resiliencia en el campo psicológico se aduce a “condiciones previas y posteriores a un proceso. Representan condiciones por lo tanto estables que no están en transformación, sino que son condiciones de existencia” (p. 240). Por el contrario, las estrategias de afrontamiento son disposiciones adquiridas a lo largo del ciclo vital que se reorientan de acuerdo a la capacidad de adaptación del sujeto [[20]](#ref-20). La interdependencia de ambos factores está dada para el presente estudio bajo un valor predictivo. Es preciso entonces profundizar, aunque de manera sucinta ambos constructos. 
 
@@ -146,10 +144,9 @@ Por último, se realizó una regresión lineal múltiple y se probaron sus supue
 
 ## 15.5 RESULTADOS
 
-La muestra se compuso por un total de 35 sujetos entre quienes la edad promedio fue de 44 años (DT = 15.55), la edad máxima del grupo de encuestados fue de 69 años y la mínima de 18 años. En promedio, el estrato socioeconómico es de 1.8 (DT = 0.822), el estrato máximo registrado en los sujetos de estudio es 4 puntos y el mínimo 1. Los encuestados reportan en promedio, pertenecen a bomberos hace 126.21 meses (DT = 133.64). Esto significa que en promedio pertenecen a bomberos hace 10.5 años, de ellos el máximo de pertenencia reportado es de 438 meses o 36 años. En la **Tabla 1** se indican las frecuencias de las demás respuestas a la entrevista de caracterización. 
+La muestra se compuso por un total de 35 sujetos entre quienes la edad promedio fue de 44 años (DT = 15.55), la edad máxima del grupo de encuestados fue de 69 años y la mínima de 18 años. En promedio, el estrato socioeconómico es de 1.8 (DT = 0.822), el estrato máximo registrado en los sujetos de estudio es 4 puntos y el mínimo 1. Los encuestados reportan en promedio, pertenecen a bomberos hace 126.21 meses (DT = 133.64). Esto significa que en promedio pertenecen a bomberos hace 10.5 años, de ellos el máximo de pertenencia reportado es de 438 meses o 36 años. En la @tbl-c15-1 se indican las frecuencias de las demás respuestas a la entrevista de caracterización.
 
-**Tabla 1.** Frecuencias a respuestas de entrevista de caracterización. 
-
+: Frecuencias a respuestas de entrevista de caracterización. {#tbl-c15-1}
 
 |  |  | N | % |
 | --- | --- | --- | --- |
@@ -201,10 +198,9 @@ La muestra se compuso por un total de 35 sujetos entre quienes la edad promedio 
 
 Nota: *elaboración propia* 
 
-En la **Tabla 2** se presentan las medidas de tendencia central acerca de los factores de la escala de estrategia de afrontamiento y factores de resiliencia. 
+En la @tbl-c15-2 se presentan las medidas de tendencia central acerca de los factores de la escala de estrategia de afrontamiento y factores de resiliencia.
 
-**Tabla 2.** Medidas de tendencia central de las escalas de estudio.  
-
+: Medidas de tendencia central de las escalas de estudio. {#tbl-c15-2}
 
 | Constructo | Factores | Media | Desviación típica |
 | --- | --- | --- | --- |
@@ -232,10 +228,9 @@ El siguiente grupo de análisis, partió de la comprobación del supuesto de nor
 
 El primer estudio fue el análisis de la correlación, se encontró en las estrategias de afrontamiento, que los factores que se relacionan con la solución de problemas fueron: el trabajo actual, en la cual se encontró una relación moderada (r = 0.405, *p* = .01) y la percepción de la relación con los compañeros de bomberos (r = 0.421, *p* = .01). Con la variable de búsqueda de apoyo social: el trabajo actual, en la que se encontró nuevamente una relación moderada (r = 0.457, *p* = .01). En la variable de búsqueda de apoyo profesional, la edad manifestó una relación baja (r = 0.365, *p* = .03). La variable de evitación cognitiva tuvo una relación baja con la forma en cómo percibe las relaciones con sus familiares (r = 0.336, *p* = .04). Por su parte, la variable de reevaluación positiva, se relación de manera baja con haber presentado síntomas de ansiedad (r2 = 0.347, *p* = .04), esa misma relación se observó en esta variable con los síntomas de estrés postraumático (R = 0.388; *p* = .03). Acerca de la escala de resiliencia, se encontró que haber tenido síntomas de ansiedad se relaciona de manera moderada e inversa con la ecuanimidad (r = -0.410,  *p* = .01). 
 
-Para la medición de la influencia, se utilizó un modelo inter-sujetos, partiendo de la modelación de las escalas como dependientes de los factores familiares y personales. A continuación, en la **Tabla 3**, se exponen los estadísticos de las variables en las que se identificó influencia significativa. 
+Para la medición de la influencia, se utilizó un modelo inter-sujetos, partiendo de la modelación de las escalas como dependientes de los factores familiares y personales. A continuación, en la @tbl-c15-3, se exponen los estadísticos de las variables en las que se identificó influencia significativa.
 
-**Tabla 3.** Modelo de análisis de varianza (efectos inter-sujetos).
-
+: Modelo de análisis de varianza (efectos inter-sujetos). {#tbl-c15-3}
 
 | Variables fijas | Variables influencia | Gl | Media cuadrática | F | p |
 | --- | --- | --- | --- | --- | --- |
@@ -256,10 +251,9 @@ Para la medición de la influencia, se utilizó un modelo inter-sujetos, partien
 
 *F: Ratio; p: significación* 
 
-Por último, se realizó un análisis de probabilidad, en el cual se trató de identificar qué factores predicen las variables de estudio, estas fueron compiladas en la **Tabla 4**. 
+Por último, se realizó un análisis de probabilidad, en el cual se trató de identificar qué factores predicen las variables de estudio, estas fueron compiladas en la @tbl-c15-4.
 
-**Tabla 4.** Modelo de regresión lineal múltiple (factores dependientes: Factores de afrontamiento) 
-
+: Modelo de regresión lineal múltiple (factores dependientes: Factores de afrontamiento). {#tbl-c15-4}
 
 | Factor dependiente | Factor predictor | R² | D-W | Anova | β | p |
 | --- | --- | --- | --- | --- | --- | --- |

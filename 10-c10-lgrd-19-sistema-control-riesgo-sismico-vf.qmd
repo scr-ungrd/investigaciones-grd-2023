@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 10: Sistemas de control de respuesta estructural para la mitigación del riesgo sísmico en la infraestructura colombiana. Necesidad inmediata de una normativa para el país"
+title: "10. Sistemas de control de respuesta estructural para la mitigación del riesgo sísmico en la infraestructura colombiana. Necesidad inmediata de una normativa para el país"
 author:
   - name: "Carlos Mario Piscal Arevalo ^1^"
     orcid: "0000-0003-1271-3406"
@@ -10,6 +10,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -99,22 +101,22 @@ Información más detallada de las características de la sismicidad del país, 
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Visión normativa del comportamiento estructural esperado  Mencionando específicamente el caso de edificaciones nuevas en el país, actualmente estas deben diseñarse y construirse siguiendo obligatoriamente los requisitos del Reglamento Colombiano de Construcciones Sismo Resistentes NSR-10. Dicho reglamento en su numeral A.1.2.2 define el estado límite de daño (desempeño) para elementos estructurales y no estructurales de edificaciones, cuando éstas se exponen al denominado sismo de diseño (sismo fuerte). Afirma que frente a dicho sismo se presentarán daños estructurales y no estructurales, pero no colapso, además se protegerá la vida. Este desempeño denominado completo o total, es dual, como generalmente sucede en los reglamentos [[20]](#ref-20), siendo el primer objetivo de desempeño la necesidad de garantizar seguridad a la vida. Lo anterior mostrado de forma gráfica, y únicamente para una vivienda individual, se presenta en la Figura 1, frente a un nivel de desempeño inicial de seguridad a la vida.
+**Caja 2.** Visión normativa del comportamiento estructural esperado  Mencionando específicamente el caso de edificaciones nuevas en el país, actualmente estas deben diseñarse y construirse siguiendo obligatoriamente los requisitos del Reglamento Colombiano de Construcciones Sismo Resistentes NSR-10. Dicho reglamento en su numeral A.1.2.2 define el estado límite de daño (desempeño) para elementos estructurales y no estructurales de edificaciones, cuando éstas se exponen al denominado sismo de diseño (sismo fuerte). Afirma que frente a dicho sismo se presentarán daños estructurales y no estructurales, pero no colapso, además se protegerá la vida. Este desempeño denominado completo o total, es dual, como generalmente sucede en los reglamentos [[20]](#ref-20), siendo el primer objetivo de desempeño la necesidad de garantizar seguridad a la vida. Lo anterior mostrado de forma gráfica, y únicamente para una vivienda individual, se presenta en la @fig-c10-1, frente a un nivel de desempeño inicial de seguridad a la vida.
 :::
 
+![Representación del nivel de desempeño normativo para una edificación residencial. Adaptado de Peer [[21]](#ref-21).](images/capitulo_10/Figura 1.png){#fig-c10-1}
 
-| <img src="images/capitulo_10/Figura 1.png" /> |
-| --- |
-| Figura 1. Representación del nivel de desempeño normativo para una edificación residencial. Adaptado de Peer [[21]](#ref-21). |
+El desempeño de un conjunto de edificaciones sometidas al sismo de diseño se ve como en la @fig-c10-2. Se observa en algunos casos daños en elementos estructurales, daños en elementos no estructurales y en ciertos casos colapsos. De acuerdo con la información contenida en el inventario de edificaciones publicado por la sociedad de ingeniería sísmica de Nueva Zelanda [[22]](#ref-22), puede inferirse que los edificios de la @fig-c10-2 corresponden a estructuras con diseño sismo resistente.
 
-El desempeño de un conjunto de edificaciones sometidas al sismo de diseño se ve como en la **Figura 2**. Se observa en algunos casos daños en elementos estructurales, daños en elementos no estructurales y en ciertos casos colapsos. De acuerdo con la información contenida en el inventario de edificaciones publicado por la sociedad de ingeniería sísmica de Nueva Zelanda [[22]](#ref-22), puede inferirse que los edificios de la **Figura 2** corresponden a estructuras con diseño sismo resistente. 
+::: {#fig-c10-2 layout-ncol="2"}
+![](images/capitulo_10/Figura 2 izq.png)
 
+![](images/capitulo_10/Figura 2 der.png)
 
-| <img src="images/capitulo_10/Figura 2 izq.png" /> | <img src="images/capitulo_10/Figura 2 der.png" /> |
-| --- | --- |
-| Figura 2. Representación del nivel de desempeño normativo para un conjunto de edificaciones. Adaptado de [[23]](#ref-23)–[[25]](#ref-25). | Figura 2. Representación del nivel de desempeño normativo para un conjunto de edificaciones. Adaptado de [[23]](#ref-23)–[[25]](#ref-25). |
+Representación del nivel de desempeño normativo para un conjunto de edificaciones. Adaptado de [[23]](#ref-23)–[[25]](#ref-25).
+:::
 
-La **Figura 1** y la **Figura 2**, correspondientes respectivamente a edificaciones de EE.UU. y Nueva Zelanda, expuestas a sismos fuertes, son comparativas con el caso colombiano, ya que los reglamentos de dichos países, como la mayoría a nivel internacional, tienen la misma filosofía de diseño, daño sin colapso. Filosofía aceptada, entre otras cosas, por los altos costos requeridos para alcanzar infraestructura con niveles de desempeño más elevados, es decir, con menos daño.
+La @fig-c10-1 y la @fig-c10-2, correspondientes respectivamente a edificaciones de EE.UU. y Nueva Zelanda, expuestas a sismos fuertes, son comparativas con el caso colombiano, ya que los reglamentos de dichos países, como la mayoría a nivel internacional, tienen la misma filosofía de diseño, daño sin colapso. Filosofía aceptada, entre otras cosas, por los altos costos requeridos para alcanzar infraestructura con niveles de desempeño más elevados, es decir, con menos daño.
 
 Para el caso puntual de edificaciones indispensables, el Reglamento NSR-10 menciona en su numeral A.1.2.2.5 que, siguiendo los requisitos por éste planteados, se espera menor daño, de tal forma que no se inhiba ni la operación ni la ocupación inmediata. Estudios como el desarrollado por la *Federal Emergency Management Agency* (FEMA) [[26]](#ref-26)*,* han mostrado que los requisitos normativos actuales en códigos como el americano, base del colombiano, no son suficientes para alcanzar este objetivo de desempeño.  
 
@@ -161,10 +163,9 @@ Otra iniciativa que se puede mencionar es la adoptada por el otrora Ministerio d
 
 Recientemente, el Ministerio de Salud y Protección Social a través de la Resolución 2132 de 2021 modificó nuevamente los plazos para los estudios de vulnerabilidad sísmica y ejecución de obras de reforzamiento en edificaciones indispensables, ampliándolo a diciembre de 2024. En este sentido, el sector público es llamado a dar ejemplo en garantizar la operatividad de sus edificaciones institucionales e indispensables luego de un evento sísmico fuerte.
 
-La **Tabla 1** muestra un resumen de algunos documentos normativos relacionados con la iniciativa de Hospital seguro frente a desastres (a entendimiento de los autores). Es claro que se ha extendido el tiempo para tener una infraestructura de los hospitales del país con una menor vulnerabilidad ante sismos.
+La @tbl-c10-1 muestra un resumen de algunos documentos normativos relacionados con la iniciativa de Hospital seguro frente a desastres (a entendimiento de los autores). Es claro que se ha extendido el tiempo para tener una infraestructura de los hospitales del país con una menor vulnerabilidad ante sismos.
 
-**Tabla 1.** Documentos normativos relacionados con la iniciativa de Hospital seguro frente a desastres. 
-
+: Documentos normativos relacionados con la iniciativa de Hospital seguro frente a desastres. {#tbl-c10-1}
 
 | Documento | Reemplaza | Entidad | Plazos | Plazos |
 | --- | --- | --- | --- | --- |
@@ -224,12 +225,9 @@ Para las Ecuaciones 1 y 2, *g* indica la gravedad,  $SM$  y  $SM1$  corresponden
 
 De no emplearse la Ecuación 1, para el caso colombiano podría en ciertos casos incurrirse en una subestimación de DM, poniendo en riesgo el adecuado comportamiento estructural de la infraestructura que incorpore aislamiento de base. Información adicional acerca de la estimación de desplazamientos puede encontrarse en el trabajo de Piscal y Almansa [[5]](#ref-5). Información acerca del manejo o relación de parámetros de amenaza de Estados Unidos en el contexto local puede encontrarse en publicaciones técnicas desarrolladas por la Asociación Colombiana de Ingeniería Sísmica (AIS) [[41]](#ref-41). Adicionalmente una vez la norma salga a la luz podrán conocerse todos los detalles de esta.
 
-Piscal y Almansa [[5]](#ref-5), [[34]](#ref-34)–[[40]](#ref-40) proponen también, emplear unos factores de reducción por amortiguamiento (FRA) estimados con las características de la amenaza local colombiana, en lugar de los planteados en la Tabla 17.5-1 de ASCE 7-16, los cuales son derivados a partir de la amenaza de EE.UU. En la **Figura 3**, se muestra una comparación entre los factores planteados por ASCE y los propuestos por Piscal-Almansa.  
+Piscal y Almansa [[5]](#ref-5), [[34]](#ref-34)–[[40]](#ref-40) proponen también, emplear unos factores de reducción por amortiguamiento (FRA) estimados con las características de la amenaza local colombiana, en lugar de los planteados en la Tabla 17.5-1 de ASCE 7-16, los cuales son derivados a partir de la amenaza de EE.UU. En la @fig-c10-3, se muestra una comparación entre los factores planteados por ASCE y los propuestos por Piscal-Almansa.
 
-
-| <img src="images/capitulo_10/Figura 3.png" /> |
-| --- |
-| Figura 3. Comparación de factores de amortiguamiento derivados para Colombia y los contenidos en ASCE 7-16. |
+![Comparación de factores de amortiguamiento derivados para Colombia y los contenidos en ASCE 7-16.](images/capitulo_10/Figura 3.png){#fig-c10-3}
 
 Se observa que: a) la expresión planteada (propuesta) para los FRA, es dependiente del periodo, como lo muestra la investigación internacional actual, mientras que la que contiene ASCE 7-16. b) Para periodos estructurales que igualen o superen los 3.0 s, típico de edificaciones aisladas, el FRA de ASCE 7-16 sobrestima la reducción, por ende, al emplearlo bajo estas circunstancias, se obtendrían fuerzas de diseño inferiores a las que en realidad se presentarían en las estructuras aisladas para el caso colombiano.
 
@@ -279,13 +277,15 @@ Por otro lado, recientemente investigadores de la Universidad Javeriana en Cali 
 
 En cuanto al disipador de energía tipo Riostra BRB, la empresa efe-Prima-ce Control y Diseño de Estructuras SAS, en alianza con la Universidad EIA, ha sido pionera en Colombia en el desarrollo e investigación de este tipo de dispositivo sísmico. A la fecha se han realizado cuatro programas experimentales, donde se han fabricado con materiales y mano de obra local cerca de 40 prototipos de riostra BRB, investigando diversas características estructurales, mecánicas y de comportamiento, en las que se incluye, entre otros: resistencia, materiales, fatiga, rigidez y capacidad de disipación de energía. Recientemente se llevó a cabo la Fase IV de investigación donde se ensayaron por primera vez en el país riostras de 6 m de longitud, siendo estas tal vez las riostras más largas ensayadas en Latinoamérica [[47]](#ref-47)–[[56]](#ref-56). Este desarrollo ha sido posible a través del trabajo continuo por más de 15 años, para otorgar confianza al gremio sobre el buen comportamiento de estos dispositivos sísmicos. Adicional a lo anterior, se han desarrollados metodologías de diseño y cuantificación de índices de daño como herramientas de apoyo para el gremio de ingeniería estructural.
 
-Diversas publicaciones nacionales e internacionales dan soporte técnico a todos estos años de trabajo continuo [[47]](#ref-47)–[[56]](#ref-56), junto con un reconocimiento muy valioso recibido en 2019 cuando Camacol Antioquia otorgó el primer lugar del Premio a la Innovación Camacol Antioquia a efe-Prima-ce por este desarrollo. La **Figura 4** muestra prototipos de riostra BRB siendo ensayada en el Laboratorio de Mecánica Estructural de la Universidad EIA En la imagen inferior se observa el nuevo marco de carga construido para llevar a cabo la Fase IV de todo el programa de investigación; donde por primera vez en Colombia se ensayaron riostras BRB de hasta 6 m de largo y con fuerzas de hasta 1300 kN.
+Diversas publicaciones nacionales e internacionales dan soporte técnico a todos estos años de trabajo continuo [[47]](#ref-47)–[[56]](#ref-56), junto con un reconocimiento muy valioso recibido en 2019 cuando Camacol Antioquia otorgó el primer lugar del Premio a la Innovación Camacol Antioquia a efe-Prima-ce por este desarrollo. La @fig-c10-4 muestra prototipos de riostra BRB siendo ensayada en el Laboratorio de Mecánica Estructural de la Universidad EIA En la imagen inferior se observa el nuevo marco de carga construido para llevar a cabo la Fase IV de todo el programa de investigación; donde por primera vez en Colombia se ensayaron riostras BRB de hasta 6 m de largo y con fuerzas de hasta 1300 kN.
 
+::: {#fig-c10-4 layout-nrow="2"}
+![](images/capitulo_10/Figura 4 sup.png)
 
-| <img src="images/capitulo_10/Figura 4 sup.png" /> |
-| --- |
-| <img src="images/capitulo_10/Figura 4 inf.png" /> |
-| Figura 4. Primer ensayo en Colombia de prototipos de Riostra efe-Prima-ce -BRB- Universidad EIA.  Superior: Proyecto Fase III. Inferior: Proyecto Fase IV. |
+![](images/capitulo_10/Figura 4 inf.png)
+
+Primer ensayo en Colombia de prototipos de Riostra efe-Prima-ce -BRB- Universidad EIA. Superior: Proyecto Fase III. Inferior: Proyecto Fase IV.
+:::
 
 ## 10.6 CONCLUSIONES
 

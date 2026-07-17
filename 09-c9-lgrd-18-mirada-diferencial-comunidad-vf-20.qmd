@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 09: Gestión del riesgo de desastres en Colombia: una mirada diferencial para los campesinos y su vida digna"
+title: "9. Gestión del riesgo de desastres en Colombia: una mirada diferencial para los campesinos y su vida digna"
 author:
   - name: "Sandra Eliana Alzate Vargas ^1^"
     orcid: "https://scholar.google.com/citations?user=ey6NHaYAAAAJ"
@@ -10,6 +10,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -45,11 +47,9 @@ Es necesario precisar, que la población campesina está inmersa tanto en la pob
 **Caja 1.** Encuesta de calidad de vida (ECV) La ECV es una operación estadística que el Departamento Administrativo Nacional de Estadística (DANE) realiza con el objeto de recoger información sobre diferentes aspectos y dimensiones del bienestar y las condiciones de vida de los hogares, incluyendo temas como el acceso a bienes y servicios públicos, privados o comunales, salud, educación, atención integral de niños y niñas menores de 5 años, entre otros. La consideración de estos aspectos hace posible realizar posteriores análisis a los factores que explican los diferentes niveles de vida existentes en la sociedad. La ECV es, además, la fuente de información del cálculo del Índice de Pobreza Multidimensional (IPM) [[3]](#ref-3).
 :::
 
-Los índices de pobreza multidimensional de los hogares campesinos encontrados por el DANE [[2]](#ref-2) como analfabetismo 18%, bajo logro educativo 70.4%, desempleo de larga duración 11.5%, trabajo informal 86.7%, y hacinamiento crítico 8.9% develan la existencia de condiciones de vulnerabilidad y de vulneración de los campesinos en Colombia. Los datos confirman que los campesinos en Colombia son una población poco abordada desde la mirada de la gestión del riesgo de desastres, siendo un grupo social que ocupa sectores rurales que los hacen vulnerables a mayores consecuencias en el momento de la ocurrencia de un desastre. Este desconocimiento hace que esta población pueda ser excluida y marginada cuando se realizan las políticas públicas [[4]](#ref-4) (ver **Fig. 1**).
+Los índices de pobreza multidimensional de los hogares campesinos encontrados por el DANE [[2]](#ref-2) como analfabetismo 18%, bajo logro educativo 70.4%, desempleo de larga duración 11.5%, trabajo informal 86.7%, y hacinamiento crítico 8.9% develan la existencia de condiciones de vulnerabilidad y de vulneración de los campesinos en Colombia. Los datos confirman que los campesinos en Colombia son una población poco abordada desde la mirada de la gestión del riesgo de desastres, siendo un grupo social que ocupa sectores rurales que los hacen vulnerables a mayores consecuencias en el momento de la ocurrencia de un desastre. Este desconocimiento hace que esta población pueda ser excluida y marginada cuando se realizan las políticas públicas [[4]](#ref-4) (ver @fig-c9-1).
 
-**Figura 1.** Algunos datos sobre los campesinos en Colombia. Fuente: Censo Nacional de Población y Vivienda, 2018 [[1]](#ref-1) y Encuesta Nacional de Calidad de Vida de 2019 [[2]](#ref-2). Elaboración propia utilizando la APP Canva.
-
-![Algunos datos sobre los campesinos en Colombia](images/capitulo_9/Figura 1.png)
+![Algunos datos sobre los campesinos en Colombia. Fuente: Censo Nacional de Población y Vivienda, 2018 [[1]](#ref-1) y Encuesta Nacional de Calidad de Vida de 2019 [[2]](#ref-2). Elaboración propia utilizando la APP Canva.](images/capitulo_9/Figura 1.png){#fig-c9-1}
 
 Se reconoce que la situación de vulnerabilidad y exclusión de los campesinos ha pasado desapercibida para el resto de la sociedad, lo que los sitúa en unas condiciones de mayor debilidad y fragilidad que al resto de la población [[4]](#ref-4). A la precariedad en las condiciones de vida de los campesinos identificadas por el DANE y reconocidas por los mismos campesinos en la ECV 2019 [[2]](#ref-2), se suma la existencia de constantes amenazas y riesgos de desastres socio-naturales en el territorio, tales como movimientos en masa, inundaciones, avenidas torrenciales, e incendios forestales [[5]](#ref-5), [[6]](#ref-6) que eventualmente agravan su situación de precariedad tornando indigna su vida [[4]](#ref-4).
 
@@ -142,9 +142,7 @@ Un enfoque diferencial permitirá a la gestión del riesgo identificar las neces
 
 
 
-**Figura 2.** Proceso social de la gestión del riesgo de desastres. Elaboración propia con la APP Canva.
-
-![Proceso social de la gestión del riesgo de desastres](images/capitulo_9/Figura 2.png)
+![Proceso social de la gestión del riesgo de desastres. Elaboración propia con la APP Canva.](images/capitulo_9/Figura 2.png){#fig-c9-2}
 
 ## 9.5 CONCLUSIONES
 
@@ -168,10 +166,9 @@ En igual medida, se considera importante señalar que el enfoque diferencial per
 
 El método implementado es cualitativo y el enfoque que orientó la investigación es el hermenéutico [[39]](#ref-39), que comprende tres pasos o momentos, el acercamiento interpretativo a los textos, el acercamiento a las comunidades campesinas en cuanto sujetos–objetos de investigación y la síntesis que conjuga la interpretación textual, con la interpretación que el investigador realiza de lo expresado por los sujetos. En este artículo se presentan los resultados del primer momento en el cual, en la búsqueda de una creación, de un aporte al saber jurídico, se desenvuelve una experiencia que es el momento del pensamiento, del cuestionamiento, de la reflexión sobre la pregunta de investigación que nos llevó a cuestionarnos sobre las propuestas que desde el derecho, contribuyen al mejoramiento de la calidad de vida de las poblaciones, para el caso de estudio indagar sobre cómo desde la gestión del riesgo de desastres socio-naturales se puede posibilitar el derecho a la vida digna de los campesinos en Colombia. 
 
-La pregunta de investigación, como proyecto de sentido, posibilita por medio del proceso interpretativo conversar con los textos -literatura especializada, jurisprudencia de la Corte Constitucional y normatividad. Las técnicas e instrumentos utilizados fueron los reseñados en la **Tabla 1**.
+La pregunta de investigación, como proyecto de sentido, posibilita por medio del proceso interpretativo conversar con los textos -literatura especializada, jurisprudencia de la Corte Constitucional y normatividad. Las técnicas e instrumentos utilizados fueron los reseñados en la @tbl-c9-1.
 
-**Tabla 1:** Técnicas e instrumentos para la recolección de la información. Elaboración propia.
-
+: Técnicas e instrumentos para la recolección de la información. Elaboración propia. {#tbl-c9-1}
 
 | Técnicas e instrumentos para la recolección de la información | Técnicas e instrumentos para la recolección de la información | Técnicas e instrumentos para la recolección de la información |
 | --- | --- | --- |

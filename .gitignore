@@ -26,3 +26,5 @@ env/
 backup_temporal_qmd/
 prelim-lista-de-autores_files/
 scratch/
+
+**/*.quarto_ipynb

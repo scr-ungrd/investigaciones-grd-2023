@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 12: Retos para incorporar las soluciones basadas en la naturaleza y la reducción del riesgo de desastres con enfoque ecosistémico en la planificación territorial de Colombia"
+title: "12. Retos para incorporar las soluciones basadas en la naturaleza y la reducción del riesgo de desastres con enfoque ecosistémico en la planificación territorial de Colombia"
 author:
   - name: "Carolina García Londoño ^1^"
     orcid: "0000-0001-6488-5969"
@@ -19,6 +19,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -51,13 +53,9 @@ Los desastres no son naturales y sus causas son cada vez más complejas, inciert
 **Caja 1.** Glosario Adaptación basada en ecosistemas (AbE): es el uso de la biodiversidad y servicios ecosistémicos como parte de una estrategia para ayudar a las personas a adaptarse a los efectos adversos del cambio climático [[5]](#ref-5). Reducción del riesgo de desastres basada en ecosistemas (Eco-DRR, del término en inglés Ecosystem Disaster Risk Reduction): se refiere a la gestión sostenible, conservación y restauración de ecosistemas para reducir el riesgo de desastres, con el objetivo de lograr un desarrollo resiliente [[6]](#ref-6). Reto: metas ambiciosas, motivadoras, alcanzables y casi siempre multidisciplinares que conllevan avances en la práctica pública y profesional.  Servicios culturales: se relacionan con procesos de recreación, de contemplación e inspiración, así como religiosos. Servicios de aprovisionamiento: como el agua, la comida, la madera, aquellos que se pueden tomar directamente de los ecosistemas. Servicios de regulación: donde el sistema natural aporta en la regulación de condiciones climáticas, de inundaciones, de calidad del agua, de la dispersión y movilidad de enfermedades. Servicios de soporte: como la generación y mantenimiento de suelos, proceso de fotosíntesis, ciclaje de nutrientes. Servicios ecosistémicos: constituyen los beneficios que las personas obtienen a partir de los ecosistemas, basado en la interacción y proceso entre los elementos naturales, y que contribuyen a la percepción de bienestar [[7]](#ref-7). Soluciones basadas en la naturaleza: acciones para proteger, gestionar de forma sostenible, y restaurar los ecosistemas naturales o modificados, que abordan los desafíos sociales de manera efectiva y adaptativa, proporcionando simultáneamente beneficios para el bienestar humano y la biodiversidad [[8]](#ref-8).
 :::
 
-Los enfoques antes mencionados asociados a las SbN, en especial las de Eco-DRR, AbE y MbE, son complementarios, siendo las SbN un concepto más amplio y ambicioso que ampara los desafíos sociales y económicos, actuando como un marco de las políticas y prácticas ambientales para el desarrollo sostenible —más allá de aportar a la conservación de la biodiversidad. Los beneficios de los enfoques Eco-DRR, AbE y MbE sobrepasan la reducción de riesgos y la adaptación y mitigación al cambio climático, especialmente cuando se compara con el enfoque gris o estructural (**Fig. 1**) [[9]](#ref-9).
+Los enfoques antes mencionados asociados a las SbN, en especial las de Eco-DRR, AbE y MbE, son complementarios, siendo las SbN un concepto más amplio y ambicioso que ampara los desafíos sociales y económicos, actuando como un marco de las políticas y prácticas ambientales para el desarrollo sostenible —más allá de aportar a la conservación de la biodiversidad. Los beneficios de los enfoques Eco-DRR, AbE y MbE sobrepasan la reducción de riesgos y la adaptación y mitigación al cambio climático, especialmente cuando se compara con el enfoque gris o estructural (@fig-c12-1) [[9]](#ref-9).
 
-
-
-**Figura 1. Múltiples beneficios de la SbN, en particular de las Eco-DRR.** Estos enfoques generan múltiples beneficios (todos en verde), mientras que el único beneficio de la infraestructura gris o tradicional es la mitigación de riesgos (gris) (adaptado de [[9]](#ref-9)).
-
-![Imagen Figura_1_SbN_v2.png](images/capitulo_12/Figura_1_SbN_v2.png)
+![**Múltiples beneficios de la SbN, en particular de las Eco-DRR.** Estos enfoques generan múltiples beneficios (todos en verde), mientras que el único beneficio de la infraestructura gris o tradicional es la mitigación de riesgos (gris) (adaptado de [[9]](#ref-9)).](images/capitulo_12/Figura_1_SbN_v2.png){#fig-c12-1}
 
 Uno de los aspectos más destacados de las SbN es su potencial de proporcionar más de un tercio de la adaptación y mitigación climática necesaria para cumplir los objetivos climáticos mundiales a 2030 asociados a amenazas como inundaciones, sequías y calor extremo [[10]](#ref-10). En la COP26 en Glasgow se enfatizó el rol de las SbN, la naturaleza y la biodiversidad para proteger, gestionar de manera sostenible y restaurar los ecosistemas naturales y así contribuir a los resultados de desarrollo y objetivos climáticos. Poco después, la UNDDR lanzó una guía para implementar SbN con enfoque en reducción de riesgos y adaptación al cambio climático [[11]](#ref-11).
 
@@ -189,13 +187,11 @@ Finalmente, es necesario aceptar que la gobernanza participativa no siempre gene
 
 ## 12.12 Reto 10. Promover la innovación en EcoDRR, incluyendo la implementación de soluciones híbridas
 
-Existe una necesidad de una mayor aplicación de la ciencia, la tecnología y la innovación (CTeI) para generar mejores y nuevos métodos de reducción de riesgos [[68]](#ref-68). Estos nuevos enfoques incluyen la implementación de soluciones híbridas entre naturales y grises (**Fig. 2**). Particularmente en contextos urbanos, el enfoque híbrido combina las ventajas y desventajas de mezclar estructuras naturales y artificiales [[69]](#ref-69), siendo necesaria la vinculación de grupos interdisciplinarios los cuales tienen en muchos casos mejores oportunidades de obtener financiación como recomiendan recientemente las Convocatorias de Asignación Ambiental, las convocatorias de CTeI del Sistema General de Regalías, así como las de innovación a través de innpulsa Colombia (ver Reto 11 y Caja S1 en Material Suplementario). 
+Existe una necesidad de una mayor aplicación de la ciencia, la tecnología y la innovación (CTeI) para generar mejores y nuevos métodos de reducción de riesgos [[68]](#ref-68). Estos nuevos enfoques incluyen la implementación de soluciones híbridas entre naturales y grises (@fig-c12-2). Particularmente en contextos urbanos, el enfoque híbrido combina las ventajas y desventajas de mezclar estructuras naturales y artificiales [[69]](#ref-69), siendo necesaria la vinculación de grupos interdisciplinarios los cuales tienen en muchos casos mejores oportunidades de obtener financiación como recomiendan recientemente las Convocatorias de Asignación Ambiental, las convocatorias de CTeI del Sistema General de Regalías, así como las de innovación a través de innpulsa Colombia (ver Reto 11 y Caja S1 en Material Suplementario). 
 
 
 
-**Figura 2. Comparativo de las infraestructuras naturales, grises e híbridas.** Ilustra cómo al combinar la infraestructura natural y gris en una híbrida se obtienen múltiples beneficios (adaptado de [[69]](#ref-69)).
-
-![Imagen Figura_2_Grey_green_hybrid_infrastructure_v2.png](images/capitulo_12/Figura_2_Grey_green_hybrid_infrastructure_v2.png)
+![**Comparativo de las infraestructuras naturales, grises e híbridas.** Ilustra cómo al combinar la infraestructura natural y gris en una híbrida se obtienen múltiples beneficios (adaptado de [[69]](#ref-69)).](images/capitulo_12/Figura_2_Grey_green_hybrid_infrastructure_v2.png){#fig-c12-2}
 
 El avance en el conocimiento y las aplicaciones de SbN depende de las capacidades y limitaciones de los equipos de investigación e innovación, en las demandas de la industria y el Estado, y en las restricciones presupuestales de las instituciones, incorporando la opción de soluciones híbridas en las licitaciones públicas y privadas de las instituciones que las emplean. Un ejemplo de una solución híbrida son los sistemas urbanos de drenaje sostenible [[70]](#ref-70)**.** Estos sistemas tienen alta viabilidad en contextos urbanos, alta confiabilidad, durabilidad media-alta, relación costo beneficio media-alta, conservación de la biodiversidad media, entre otros beneficios.
 

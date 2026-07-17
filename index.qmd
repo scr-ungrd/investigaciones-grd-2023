@@ -2,7 +2,7 @@
 title: "Investigaciones en Gestión del Riesgo de Desastres 2023"
 ---
 
-Bienvenido al portal digital del libro de investigaciones de la Subdirección para el Conocimiento del Riesgo (SCR-UNGRD). A continuación, puede explorar los diferentes capítulos de esta edición:
+Bienvenido a la colección de la serie de libros de Investigaciones en Gestión del Riesgo de Desastres para Colombia. A continuación, puede explorar los diferentes capítulos de este volúmen:
 
 ::: {.d-flex .justify-content-start .mb-3}
 [← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.btn .btn-outline-secondary .btn-sm}
@@ -18,7 +18,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/Fig1.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_1/Fig8.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Rafael Fernández, Manuel Rodríguez Susa, Mildred Lemus, Iván Alejandro Giraldo, Lina Porras, Juliana Martínez, Juan Sebastián Echeverry, Carlos Oliveros, Juan Carlos Reyes, Nubia León, Diego Gutiérrez</p>
 :::
@@ -34,7 +34,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/Figura_1.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_2/Figura_6.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Ronald Efrén Sánchez Escobar, Paola Andrea Quintero Rodríguez, Fabio Hernán Realpe Martínez, Daniel Ruiz Figueroa, Jhonatan Cristian Paz Quintero</p>
 :::
@@ -50,7 +50,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_3/Figura 18 Diagrama Survey.bmp){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Alejandro Franco Rojas, Álvaro Rodríguez Páez, Sandra Yanet Velazco Flórez, Juan Pablo Londoño Linares, Orlando Rincón Arango</p>
 :::
@@ -66,7 +66,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_4/Fig_10.jpg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Edier Aristizábal, Federico Gómez Cardona, María Isabel Arango Carmona</p>
 :::
@@ -82,7 +82,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/Figura1_Ubicacion.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_5/Figura5_dNBR.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Daniela Torinjano Jiménez, Adriana Osorio Mosquera, Alejandro Marulanda Tobón</p>
 :::
@@ -98,7 +98,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_6/Figura_19.GIF){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Juan Camilo Olaya González, Paula Andrea Villegas González, Jairo Andrés Valcárcel Torres, Julián Darío Arbeláez Salazar, Fabián Mauricio Caicedo Carrascal, José Ville Triana García, Lina Dorado González, Juan Pablo Forero Acevedo, Maykel Yisseth Gutiérrez</p>
 :::
@@ -114,7 +114,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/Figura_1.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_7/Figura_2.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Diana M. Rodríguez-Coca, Julián Alberto Espejo-Díaz, William J. Guerrero</p>
 :::
@@ -130,7 +130,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_8/Figura 1. Aspectos influyentes en la percepción del riesgo.jpg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Luz Adriana Muñoz-Duque, Óscar E. Navarro Carrascal</p>
 :::
@@ -146,7 +146,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_9/Figura 2.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Sandra Eliana Alzate Vargas, Sandra Patricia Duque Quintero</p>
 :::
@@ -162,7 +162,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_10/Figura 3.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Carlos Mario Piscal Arevalo, Juan Andrés Oviedo Amezquita</p>
 :::
@@ -178,7 +178,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/LGRD-06-FIGURA_1.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_11/LGRD-06-FIGURA_1.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Dorotea Cardona Hernández</p>
 :::
@@ -194,7 +194,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/Figura_1_SbN_v2.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_12/Figura_2_Grey_green_hybrid_infrastructure_v2.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Carolina García Londoño, María Angela Echeverry-Galvis, Lina Ospina Ostios, Constanza Ricaurte-Villota, Mauricio Romero-Torres</p>
 :::
@@ -210,7 +210,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_13/Figura 5..jpg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Yamile Valencia-González, José Camapum de Carvalho, Luis Augusto Lara-Valencia</p>
 :::
@@ -226,7 +226,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](images/banner_2023.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_14/Fig 1. Izq. Imagen terremoto Armenia 1999.jpg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Olga Alicia Nieto Cárdenas</p>
 :::
@@ -242,7 +242,7 @@ Bienvenido al portal digital del libro de investigaciones de la Subdirección pa
 :::
 
 ::: {.card-body .pt-2 .pb-2}
-![](media/Figura_1.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_15/Figura_1.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Olga Liliana Pineda López, Joan Sebastián Arbeláez Caro, Luz Stela Quintana Hernández, Laura Vanessa Corrales Brand, Valentina Ospina Poveda, Carla María Zapata Rueda</p>
 :::

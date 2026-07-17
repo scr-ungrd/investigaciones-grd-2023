@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 06: Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana"
+title: "6. Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana"
 author:
   - name: "Juan Camilo Olaya González ^1^"
     orcid: "0000-0002-4647-256X"
@@ -30,6 +30,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -107,15 +109,13 @@ Un formato efectivo de comunicación de los resultados del modelo para apoyar la
 
 2.1.5. Metodología de análisis de amenaza por inundación a escala 1:2000
 
-En la **Figura 1** se presenta el proceso metodológico utilizado para la modelación de amenaza por inundación a partir del análisis hidrológico, hidráulico y espacial. El análisis hidrológico comprende el cálculo de caudales máximos (o niveles máximos, según corresponda al tipo de inundación, ver **Caja 2**) de distintos períodos de retorno. De acuerdo con Chow et al. (1994) [[12]](#ref-12), la magnitud de un evento extremo está inversamente relacionada con su frecuencia de ocurrencia. Es decir, eventos muy severos ocurren con menor frecuencia que eventos más moderados. Estos caudales se transitan usando un modelo hidrodinámico bidimensional que, a partir del MDE ajustado y de la solución aproximada de ecuaciones de conservación de la masa y momento lineal (Ecuaciones de Navier-Stokes para flujo incompresible), permite calcular las profundidades de inundación y velocidades medias de flujo en cada nodo del dominio establecido. El modelo se somete a protocolos de calibración y validación con la información histórica y gráfica de eventos históricos.
+En la @fig-c6-1 se presenta el proceso metodológico utilizado para la modelación de amenaza por inundación a partir del análisis hidrológico, hidráulico y espacial. El análisis hidrológico comprende el cálculo de caudales máximos (o niveles máximos, según corresponda al tipo de inundación, ver **Caja 2**) de distintos períodos de retorno. De acuerdo con Chow et al. (1994) [[12]](#ref-12), la magnitud de un evento extremo está inversamente relacionada con su frecuencia de ocurrencia. Es decir, eventos muy severos ocurren con menor frecuencia que eventos más moderados. Estos caudales se transitan usando un modelo hidrodinámico bidimensional que, a partir del MDE ajustado y de la solución aproximada de ecuaciones de conservación de la masa y momento lineal (Ecuaciones de Navier-Stokes para flujo incompresible), permite calcular las profundidades de inundación y velocidades medias de flujo en cada nodo del dominio establecido. El modelo se somete a protocolos de calibración y validación con la información histórica y gráfica de eventos históricos.
 
 Dado que los eventos de inundación son dinámicos en el espacio-tiempo, los mapas de amenaza deben ser actualizados periódicamente y se debe propender por su difusión, de tal manera que los tomadores de decisión puedan actuar en la implementación de medidas de reducción del riesgo. 
 
 
 
-**Figura 1.** Metodología análisis de amenaza de inundación. Fuente [[9]](#ref-9).
-
-![Metodología análisis de amenaza de inundación](images/capitulo_6/Figura_1.jpg)
+![Metodología análisis de amenaza de inundación. Fuente [[9]](#ref-9).](images/capitulo_6/Figura_1.jpg){#fig-c6-1}
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
@@ -134,10 +134,9 @@ La localización en planta se define mediante las coordenadas del centroide de l
 
 Una tipología estructural es una combinación de características tales como el sistema resistente, el material de la construcción, el número de pisos, entre otras. Para simplificar la estimación de daños es recomendable clasificar las edificaciones en tipologías estructurales [[14]](#ref-14), asumiendo que las edificaciones de una misma tipología tienen un comportamiento semejante ante inundaciones
 
-La **Tabla 1** presenta una descripción de las características incluidas en la definición de tipologías estructurales, las cuales se establecieron a partir de la revisión de estudios de riesgo elaborados por [[14]](#ref-14), [[16]](#ref-16)–[[20]](#ref-20).  Las tipologías estructurales se definieron considerando las siguientes propiedades: sistema resistente a cargas, material de construcción, tipo de cubierta, sistema de soporte de la cubierta y número de pisos
+La @tbl-c6-1 presenta una descripción de las características incluidas en la definición de tipologías estructurales, las cuales se establecieron a partir de la revisión de estudios de riesgo elaborados por [[14]](#ref-14), [[16]](#ref-16)–[[20]](#ref-20).  Las tipologías estructurales se definieron considerando las siguientes propiedades: sistema resistente a cargas, material de construcción, tipo de cubierta, sistema de soporte de la cubierta y número de pisos
 
-**Tabla 1.** Propiedades utilizadas en la definición de tipologías estructurales.
-
+: Propiedades utilizadas en la definición de tipologías estructurales. {#tbl-c6-1}
 
 | Componente de la estructura | Características | Utilidad |
 | --- | --- | --- |
@@ -161,13 +160,11 @@ La **Tabla 1** presenta una descripción de las características incluidas en la
 | Nivel sobre rasante y protecciones | Altura entrada sobre la rasante | Determinar si existen elementos de protección ante inundaciones y la altura a la cual la estructura estaría protegida. |
 | Nivel sobre rasante y protecciones | Altura protección | Determinar si existen elementos de protección ante inundaciones y la altura a la cual la estructura estaría protegida. |
 
-Para clasificar las edificaciones en tipologías se adopta un procedimiento (**Fig. 2**) que divide el área de estudio en zonas homogéneas. En cada zona se asume que las edificaciones son semejantes según el uso, periodo de construcción, entre otros factores. A partir de inspecciones en una muestra de edificaciones se identifican las propiedades de la **Tabla 1** y se obtienen porcentajes de participación de las tipologías más frecuentes, clasificadas según el número de pisos. Teniendo en cuenta que en la información catastral se encuentra el número de pisos, es posible asignar a cada edificación una o varias tipologías estructurales de acuerdo con los resultados de las inspecciones.
+Para clasificar las edificaciones en tipologías se adopta un procedimiento (@fig-c6-2) que divide el área de estudio en zonas homogéneas. En cada zona se asume que las edificaciones son semejantes según el uso, periodo de construcción, entre otros factores. A partir de inspecciones en una muestra de edificaciones se identifican las propiedades de la @tbl-c6-1 y se obtienen porcentajes de participación de las tipologías más frecuentes, clasificadas según el número de pisos. Teniendo en cuenta que en la información catastral se encuentra el número de pisos, es posible asignar a cada edificación una o varias tipologías estructurales de acuerdo con los resultados de las inspecciones.
 
 
 
-**Figura 2.** Procedimiento para la clasificación de edificios y asignación de tipologías estructurales. Fuente: [[8]](#ref-8). 
-
-![Procedimiento para la clasificación de edificios](images/capitulo_6/Figura_2.png)
+![Procedimiento para la clasificación de edificios y asignación de tipologías estructurales. Fuente: [[8]](#ref-8).](images/capitulo_6/Figura_2.png){#fig-c6-2}
 
 Adicionalmente, en las inspecciones realizadas se incluyeron preguntas respecto a la existencia de medidas de protección ante inundaciones, así como la altura promedio de tales medidas. Esta información se considera relevante para identificar la capacidad de adaptación de la población
 
@@ -183,13 +180,11 @@ El modelo de vulnerabilidad física propuesto plantea un método de análisis de
 
 La metodología se basa en la propuesta de Huerta-Garnica et al. [[22]](#ref-22), y permite determinar las pérdidas en los contenidos de un inmueble específico partiendo de un tirante hídrico conocido y asumiendo que no se presenta el colapso de la estructura.
 
-Bajo este supuesto, se generan realizaciones de inmuebles utilizando simulaciones de Montecarlo [[23]](#ref-23), considerando la incertidumbre asociada a la tenencia de enseres (tiene o no tiene), el valor de los contenidos, la localización en altura con respecto al piso y la altura libre de entrepiso. Los resultados de pérdida individual por tipo de contenido son integrados para obtener la pérdida total en el inmueble (**Fig. 3**). 
+Bajo este supuesto, se generan realizaciones de inmuebles utilizando simulaciones de Montecarlo [[23]](#ref-23), considerando la incertidumbre asociada a la tenencia de enseres (tiene o no tiene), el valor de los contenidos, la localización en altura con respecto al piso y la altura libre de entrepiso. Los resultados de pérdida individual por tipo de contenido son integrados para obtener la pérdida total en el inmueble (@fig-c6-3).
 
 
 
-**Figura 3.** Procedimiento para evaluación de vulnerabilidad en rubro de contenidos. Fuente: [[8]](#ref-8). 
-
-![Procedimiento para evaluación de vulnerabilidad en rubro de contenidos](images/capitulo_6/Figura_3.png)
+![Procedimiento para evaluación de vulnerabilidad en rubro de contenidos. Fuente: [[8]](#ref-8).](images/capitulo_6/Figura_3.png){#fig-c6-3}
 
 El supuesto considerado para el daño de contenidos se resume así: para una realización  $j$  con  $N$  contenidos y para un tirante hídrico (TH), el porcentaje de pérdida se evalúa de acuerdo con la siguiente ecuación.
 
@@ -207,23 +202,19 @@ $Pi$ 		= Precio estimado del contenido
 
 N		= Número total de contenidos en la edificación hipotética definida en la realización
 
-El resultado final del procedimiento es una función de vulnerabilidad (**Fig. 4**) que relaciona cada intensidad del tirante hídrico con el valor esperado del daño y su correspondiente desviación estándar. Los detalles del desarrollo de estas funciones de vulnerabilidad se encuentran en [[8]](#ref-8). 
+El resultado final del procedimiento es una función de vulnerabilidad (@fig-c6-4) que relaciona cada intensidad del tirante hídrico con el valor esperado del daño y su correspondiente desviación estándar. Los detalles del desarrollo de estas funciones de vulnerabilidad se encuentran en [[8]](#ref-8). 
 
 
 
-**Figura 4.** Ejemplo de función de vulnerabilidad para el rubro de contenidos. Fuente: [[8]](#ref-8). 
-
-![Ejemplo de función de vulnerabilidad para el rubro de contenidos](images/capitulo_6/Figura_4.png)
+![Ejemplo de función de vulnerabilidad para el rubro de contenidos. Fuente: [[8]](#ref-8).](images/capitulo_6/Figura_4.png){#fig-c6-4}
 
 2.3.2. Vulnerabilidad del rubro de edificaciones
 
-De forma similar al análisis del rubro de contenidos, en el caso de edificaciones la evaluación de vulnerabilidad se realiza a partir de simulaciones mediante el método de Montecarlo. La metodología (**Fig. 5**) incluye modelos mecánicos de las tipologías constructivas que permiten definir diferentes estados de esfuerzos y de daño en sus elementos estructurales y no estructurales. Las variables consideradas en la evaluación del daño en estructuras son: el espesor de muros, la capacidad de los materiales, las cargas gravitacionales de cubierta y de placa, y el área aferente de cubierta y de placa sobre los muros. 
+De forma similar al análisis del rubro de contenidos, en el caso de edificaciones la evaluación de vulnerabilidad se realiza a partir de simulaciones mediante el método de Montecarlo. La metodología (@fig-c6-5) incluye modelos mecánicos de las tipologías constructivas que permiten definir diferentes estados de esfuerzos y de daño en sus elementos estructurales y no estructurales. Las variables consideradas en la evaluación del daño en estructuras son: el espesor de muros, la capacidad de los materiales, las cargas gravitacionales de cubierta y de placa, y el área aferente de cubierta y de placa sobre los muros. 
 
 
 
-**Figura 5.** Procedimiento para evaluar la vulnerabilidad de edificaciones. Fuente: [[8]](#ref-8). 
-
-![Procedimiento para evaluar la vulnerabilidad de edificaciones](images/capitulo_6/Figura_5.png)
+![Procedimiento para evaluar la vulnerabilidad de edificaciones. Fuente: [[8]](#ref-8).](images/capitulo_6/Figura_5.png){#fig-c6-5}
 
 Para cada tipología se construyen modelos simplificados de elementos finitos que evalúan los efectos de fuerzas hidrostáticas e hidrodinámicas generadas por un evento de amenaza simulado. Un evento de inundación ejerce varios tipos de fuerzas sobre una edificación como el suelo hidrostático saturado, las presiones de agua hidrostáticas e hidrodinámicas, el impacto de escombros y fuerzas erosivas bajo la cimentación [[24]](#ref-24). La metodología propuesta considera la presión de agua hidrostática e hidrodinámica para determinar el estado de esfuerzos en las edificaciones. El impacto de escombros, presión de suelos saturados y efectos de erosión no se incluyen. Los cálculos de fuerzas son realizados para todo el rango de velocidades flujo y de tirante hídrico estimadas en el componente de amenaza. La dirección de las fuerzas hidrodinámicas se asume como perpendicular a la fachada de la edificación. Con estas fuerzas y con información de espesor de muros, cargas y áreas aferentes de cubierta y de fachada, se definen los estados de esfuerzos. Con esto y la capacidad del material estructural se determinan los estados de daño: sin daño, inundado, fisurado, y estado de rotura.
 
@@ -251,18 +242,15 @@ $REin$ 		= Costo de reparación de un elemento inundado en proporción al costo 
 
 *IN*		= Número de elementos inundados
 
-El resultado final del procedimiento es una función de vulnerabilidad (**Fig. 6**) de edificaciones que relaciona cada intensidad del tirante hídrico, y de velocidad media de flujo, con el valor esperado del daño y su correspondiente desviación estándar. Los detalles del desarrollo de estas funciones se encuentran en [[8]](#ref-8).
+El resultado final del procedimiento es una función de vulnerabilidad (@fig-c6-6) de edificaciones que relaciona cada intensidad del tirante hídrico, y de velocidad media de flujo, con el valor esperado del daño y su correspondiente desviación estándar. Los detalles del desarrollo de estas funciones se encuentran en [[8]](#ref-8).
 
 
 
-**Figura 6.** Ejemplo de función de vulnerabilidad para el rubro de edificaciones. Fuente: [[8]](#ref-8).
+![Ejemplo de función de vulnerabilidad para el rubro de edificaciones. Fuente: [[8]](#ref-8).](images/capitulo_6/Figura_6.png){#fig-c6-6}
 
-![Ejemplo de función de vulnerabilidad para el rubro de edificaciones](images/capitulo_6/Figura_6.png) 
+Los parámetros en orden de relevancia en la evaluación de vulnerabilidad de edificaciones y su relación con la vulnerabilidad se presentan en la @tbl-c6-2.
 
-Los parámetros en orden de relevancia en la evaluación de vulnerabilidad de edificaciones y su relación con la vulnerabilidad se presentan en la **Tabla 2**.
-
-**Tabla 2.** Relación entre parámetros considerados y variación de la vulnerabilidad.
-
+: Relación entre parámetros considerados y variación de la vulnerabilidad. {#tbl-c6-2}
 
 | Parámetro | Relación con la vulnerabilidad de edificaciones ante inundación |
 | --- | --- |
@@ -283,27 +271,24 @@ En los últimos años el país ha tenido notables avances en la evaluación del 
 
 Para la evaluación de la vulnerabilidad existen varias aproximaciones [[28]](#ref-28)–[[35]](#ref-35), que tienen en cuenta aspectos tales como: el económico, institucional, físico, ambiental, ecológico, tecnológico, científico, material, cultural, sanitario y epidemiológico [[36]](#ref-36).
 
-Las orientaciones metodológicas surgen del documento elaborado por la UNGRD-IEMP en el año 2017 “Lineamientos para el análisis de la vulnerabilidad social en los estudios de la gestión municipal del riesgo de desastres” [[7]](#ref-7); así como de la experiencia y lecciones aprendidas generadas en proyectos con comunidades. Los detalles metodológicos están en la **Figura 7**. 
+Las orientaciones metodológicas surgen del documento elaborado por la UNGRD-IEMP en el año 2017 “Lineamientos para el análisis de la vulnerabilidad social en los estudios de la gestión municipal del riesgo de desastres” [[7]](#ref-7); así como de la experiencia y lecciones aprendidas generadas en proyectos con comunidades. Los detalles metodológicos están en la @fig-c6-7.
+
+![Esquema metodológico para el análisis de la vulnerabilidad social. Fuente: adaptado y complementado de [[7]](#ref-7).](images/capitulo_6/Figura_7.jpg){#fig-c6-7}
+
+Entre los aspectos clave de la metodología están: (i) realizar un acercamiento inicial a los actores e instituciones: elaboración de un mapeo de actores. (ii) Realizar la caracterización de los hogares y territorial: se recomienda incluir los componentes principales que se presentan en la @fig-c6-8, y realizar un análisis de la percepción local del riesgo que son preguntas relacionadas no solamente con inundación, sino también con otras fuentes de peligro como sismos, tsunamis, volcanes, flujos de lodo, incendios urbanos, mala calidad sanitaria, entre otras. (iii) Realizar la caracterización de indicadores socioeconómicos: permiten medir la vulnerabilidad social en términos de los derechos básicos de las personas y de su acceso a los servicios del Estado [[7]](#ref-7).
+
+![Elementos de análisis en las preguntas orientadoras del contexto hogares, individuos o comunidades. Fuente: adaptado y complementado de [[7]](#ref-7).](images/capitulo_6/Figura_8.png){#fig-c6-8}
+
+Se identificaron otros indicadores para complementar el análisis de vulnerabilidad, relacionados con la salud, dado que en diferentes investigaciones se ha encontrado que es uno de los puntos críticos para el análisis de la vulnerabilidad social [[37]](#ref-37). Además, durante talleres de vulnerabilidad social, se identificó que esta variable se asocia a los periodos de inundación [[8]](#ref-8). (iv) Coproducción: Resulta clave la construcción colectiva de conocimiento para el cambio transformativo entre diferentes actores. Las herramientas usadas se presentan a continuación. En la @fig-c6-9 se presentan algunos resultados de la implementación de estos espacios de coproducción.
 
 
+::: {#fig-c6-9 layout-ncol="2"}
+![](images/capitulo_6/Figura_9a.png)
 
-**Figura 7.** Esquema metodológico para el análisis de la vulnerabilidad social. Fuente: adaptado y complementado de [[7]](#ref-7).
+![](images/capitulo_6/Figura_9b.png)
 
-![Esquema metodológico para el análisis de la vulnerabilidad social](images/capitulo_6/Figura_7.jpg)
-
-Entre los aspectos clave de la metodología están: (i) realizar un acercamiento inicial a los actores e instituciones: elaboración de un mapeo de actores. (ii) Realizar la caracterización de los hogares y territorial: se recomienda incluir los componentes principales que se presentan en la **Figura 8**, y realizar un análisis de la percepción local del riesgo que son preguntas relacionadas no solamente con inundación, sino también con otras fuentes de peligro como sismos, tsunamis, volcanes, flujos de lodo, incendios urbanos, mala calidad sanitaria, entre otras. (iii) Realizar la caracterización de indicadores socioeconómicos: permiten medir la vulnerabilidad social en términos de los derechos básicos de las personas y de su acceso a los servicios del Estado [[7]](#ref-7).
-
-**Figura 8.** Elementos de análisis en las preguntas orientadoras del contexto hogares, individuos o comunidades. Fuente: adaptado y complementado de [[7]](#ref-7).
-
-![Elementos de análisis en las preguntas orientadoras](images/capitulo_6/Figura_8.png)
-
-Se identificaron otros indicadores para complementar el análisis de vulnerabilidad, relacionados con la salud, dado que en diferentes investigaciones se ha encontrado que es uno de los puntos críticos para el análisis de la vulnerabilidad social [[37]](#ref-37). Además, durante talleres de vulnerabilidad social, se identificó que esta variable se asocia a los periodos de inundación [[8]](#ref-8). (iv) Coproducción: Resulta clave la construcción colectiva de conocimiento para el cambio transformativo entre diferentes actores. Las herramientas usadas se presentan a continuación. En la **Figura 9** se presentan algunos resultados de la implementación de estos espacios de coproducción.
-
-
-| <img src="images/capitulo_6/Figura_9a.png" /> | <img src="images/capitulo_6/Figura_9b.png" /> |
-| --- | --- |
-
-**Figura 9.** Espacios de participación en el municipio de San Marcos (Sucre). 
+Espacios de participación en el municipio de San Marcos (Sucre).
+:::
 
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
@@ -314,9 +299,9 @@ Se identificaron otros indicadores para complementar el análisis de vulnerabili
 
 La EPR por inundación es gobernada por la incertidumbre [[41]](#ref-41), [[42]](#ref-42). Ese contexto, sumado a la baja o nula disponibilidad de información histórica con datos de consecuencias sobre la población y sus medios de subsistencia y a la posibilidad de la ocurrencia de eventos desastrosos, genera que las evaluaciones de riesgo deban enfocarse hacia metodologías probabilistas que involucren y propaguen las incertidumbres temporales y espaciales envueltas en el proceso [[27]](#ref-27).
 
-En consecuencia, esta sección presenta un procedimiento general para la EPR por inundaciones lentas a escalas de detalle (1:2,000) en zonas urbanas (**Fig. 10**), con el objetivo de responder dos preguntas primordiales: i) ¿qué tanto daño puede producirse sobre un conjunto de elementos expuestos?; ii) ¿con qué frecuencia? La respuesta a estas preguntas se plantea por medio de una metodología que involucra los componentes de amenaza por inundación y vulnerabilidad física a partir de un proceso matemático de convolución, para un conjunto de elementos expuestos de interés. 
+En consecuencia, esta sección presenta un procedimiento general para la EPR por inundaciones lentas a escalas de detalle (1:2,000) en zonas urbanas (@fig-c6-10), con el objetivo de responder dos preguntas primordiales: i) ¿qué tanto daño puede producirse sobre un conjunto de elementos expuestos?; ii) ¿con qué frecuencia? La respuesta a estas preguntas se plantea por medio de una metodología que involucra los componentes de amenaza por inundación y vulnerabilidad física a partir de un proceso matemático de convolución, para un conjunto de elementos expuestos de interés. 
 
-El método de EPR propuesto se presenta en la **Figura 10**. El procedimiento se inicia a partir del primer evento de amenaza (*k de N*), para un elemento expuesto en particular (*j de L*). Sobre dicho elemento se realiza un proceso de simulación de Montecarlo que genera (*n*) realizaciones de tirante hídrico considerando los dos primeros momentos estadísticos de la intensidad de amenaza (*Eth,V, σth,V*) (tirante hídrico y velocidad media de flujo). Para cada una de las intensidades de amenaza simuladas, se realiza un segundo proceso de Montecarlo que genera (*m*) realizaciones de daño en los rubros de contenidos y de edificación, considerando los valores esperados –y su desviación estándar- del daño de cada rubro, definido en las funciones de vulnerabilidad correspondientes. Este proceso se realiza para todas las (*n*) realizaciones de amenaza del primer evento.
+El método de EPR propuesto se presenta en la @fig-c6-10. El procedimiento se inicia a partir del primer evento de amenaza (*k de N*), para un elemento expuesto en particular (*j de L*). Sobre dicho elemento se realiza un proceso de simulación de Montecarlo que genera (*n*) realizaciones de tirante hídrico considerando los dos primeros momentos estadísticos de la intensidad de amenaza (*Eth,V, σth,V*) (tirante hídrico y velocidad media de flujo). Para cada una de las intensidades de amenaza simuladas, se realiza un segundo proceso de Montecarlo que genera (*m*) realizaciones de daño en los rubros de contenidos y de edificación, considerando los valores esperados –y su desviación estándar- del daño de cada rubro, definido en las funciones de vulnerabilidad correspondientes. Este proceso se realiza para todas las (*n*) realizaciones de amenaza del primer evento.
 
 A partir del cálculo de las (*m*) realizaciones de daño por cada rubro, se realiza la suma de daños generados en cada uno de ellos y se estima la bondad de ajuste a una Función de Distribución de Probabilidad (FDP) conocida y se caracteriza por medio de los dos primeros momentos estadísticos de la pérdida. Posteriormente, se repite el proceso para todos los elementos expuestos de análisis (*L*), para el primer evento de amenaza considerado (*k de N*).
 
@@ -324,9 +309,7 @@ Para obtener el resultado de la pérdida del primer evento de análisis (*FDPev*
 
 
 
-**Figura 10.** Esquema metodológico general de EPR por inundación propuesto. Fuente: [[8]](#ref-8).
-
-![Esquema metodológico general de EPR por inundación propuesto](images/capitulo_6/Figura_10.png) 
+![Esquema metodológico general de EPR por inundación propuesto. Fuente: [[8]](#ref-8).](images/capitulo_6/Figura_10.png){#fig-c6-10}
 
 
 ::: {#box5 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
@@ -339,46 +322,38 @@ Para obtener el resultado de la pérdida del primer evento de análisis (*FDPev*
 
 Como caso de estudio para la aplicación de la metodología propuesta se seleccionó la región de La Mojana. Esta región es un delta hídrico que comprende 11 municipios de 4 departamentos de Colombia, por la cual transitan los ríos Magdalena, Cauca y San Jorge hacia su desembocadura en el mar Caribe. Por su topografía plana, la región presenta las condiciones ideales para la ocurrencia de eventos de inundación lenta de diferentes tipologías como (i) por desbordamiento de ríos y/o canales, y (ii) inundación pluvial. Por estas dos condiciones, en conjunto con la disponibilidad de modelos digitales de terreno detallados (tecnología LiDAR), La Mojana fue seleccionada como zona de estudio. En particular, cuatro cabeceras municipales se priorizaron para los casos de estudio: Magangué y Mompox (Bolívar), San Marcos (Sucre) y Montelíbano (Córdoba). En este artículo, se presentan en detalle los resultados para la cabecera municipal de Montelíbano (Córdoba).
 
-El Municipio de Montelíbano se localiza al sur del departamento de Córdoba. Limita con los municipios de Buenavista, Planeta Rica, San José de Uré, La Apartada, y Tierralta (**Fig. 11**). La cabecera municipal está localizada al nororiente del Municipio, ubicada entre los 40 y 50 m.s.n.m, en la ribera oriental del río San Jorge con temperaturas medias de 32ºC y una precipitación media anual de 2500 mm con un período de lluvias entre mayo y septiembre. Corresponde a un municipio de Categoría 6, con una población estimada a 2022 de 69,277 habitantes.
+El Municipio de Montelíbano se localiza al sur del departamento de Córdoba. Limita con los municipios de Buenavista, Planeta Rica, San José de Uré, La Apartada, y Tierralta (@fig-c6-11). La cabecera municipal está localizada al nororiente del Municipio, ubicada entre los 40 y 50 m.s.n.m, en la ribera oriental del río San Jorge con temperaturas medias de 32ºC y una precipitación media anual de 2500 mm con un período de lluvias entre mayo y septiembre. Corresponde a un municipio de Categoría 6, con una población estimada a 2022 de 69,277 habitantes.
 
 
 
-**Figura 11.** Localización general de la cabecera municipal de Montelíbano (Córdoba).
+![Localización general de la cabecera municipal de Montelíbano (Córdoba).](images/capitulo_6/Figura_11.png){#fig-c6-11}
 
 ## 6.5 Evaluación de la amenaza Montelíbano
 
 **Información gráfica de un evento histórico**
 
-Se obtuvo la imagen del satélite Landsat 8 del 29 de septiembre de 2017 (**Fig. 12**) (resolución espacial de 15 m) e información georreferenciada en campo obtenida por el componente social del proyecto.
+Se obtuvo la imagen del satélite Landsat 8 del 29 de septiembre de 2017 (@fig-c6-12) (resolución espacial de 15 m) e información georreferenciada en campo obtenida por el componente social del proyecto.
 
 
 
-**Figura 12.** Imagen evento de inundación del 08 mayo de 2018. Fuente: [[44]](#ref-44).
-
-![Imagen evento de inundación del 08 mayo de 2018](images/capitulo_6/Figura_12.jpg) 
+![Imagen evento de inundación del 08 mayo de 2018. Fuente: [[44]](#ref-44).](images/capitulo_6/Figura_12.jpg){#fig-c6-12}
 
 **Modelación hidrológica**
 
-Se realizó el análisis de frecuencias de caudales máximos instantáneos en la estación hidrológica Montelíbano (Cód. 25017010, **Fig. 13**) y un modelo hidrológico de precipitación-escorrentía para la microcuenca de la quebrada Muchajagua.
+Se realizó el análisis de frecuencias de caudales máximos instantáneos en la estación hidrológica Montelíbano (Cód. 25017010, @fig-c6-13) y un modelo hidrológico de precipitación-escorrentía para la microcuenca de la quebrada Muchajagua.
 
 
-| <img src="images/capitulo_6/Figura_13.jpg" /> | |
-| --- | --- |
+![Estación Montelíbano el 17 de abril de 2018 (izquierda) y su estado el 9 de mayo de 2018 (derecha). **Nota:** la imagen del estado del 9 de mayo de 2018 (derecha) no se incluyó en el archivo fuente de este capítulo.](images/capitulo_6/Figura_13.jpg){#fig-c6-13}
 
-**Figura 13.** Estación Montelíbano el 17 de abril de 2018 (izquierda) y su estado el 9 de mayo de 2018 (derecha).
-
-El periodo de datos seleccionados fue de 1974 a 2015, en donde el comportamiento de los caudales máximos demuestra la existencia de una tendencia positiva en los registros, según las pruebas T y Hotelling-Pabst (**Fig. 14**), se puede explicar a partir de fenómenos climáticos tipo El Niño Oscilación Sur (ENOS), cambio en la tecnología de medición o pérdida de capacidad hidráulica de la sección por acumulación de sedimentos en el punto de registro, entre otros. Por lo anterior, el análisis planteado correspondió al tratamiento de variables no estacionarias, en la que se debe demostrar aleatoriedad de los conjuntos estadísticos para el posterior ajuste de funciones teóricas usando la prueba de Kolmogorov (1931) [[45]](#ref-45).
+El periodo de datos seleccionados fue de 1974 a 2015, en donde el comportamiento de los caudales máximos demuestra la existencia de una tendencia positiva en los registros, según las pruebas T y Hotelling-Pabst (@fig-c6-14), se puede explicar a partir de fenómenos climáticos tipo El Niño Oscilación Sur (ENOS), cambio en la tecnología de medición o pérdida de capacidad hidráulica de la sección por acumulación de sedimentos en el punto de registro, entre otros. Por lo anterior, el análisis planteado correspondió al tratamiento de variables no estacionarias, en la que se debe demostrar aleatoriedad de los conjuntos estadísticos para el posterior ajuste de funciones teóricas usando la prueba de Kolmogorov (1931) [[45]](#ref-45).
 
 
 
-**Figura 14.** Serie de caudales máximos instantáneos estación Montelíbano (25017010).
+![Serie de caudales máximos instantáneos estación Montelíbano (25017010).](images/capitulo_6/Figura_14.jpg){#fig-c6-14}
 
-![Serie de caudales máximos instantáneos estación Montelíbano](images/capitulo_6/Figura_14.jpg)
+A partir de la prueba de aleatoriedad de Rachas [[46]](#ref-46) se obtuvo que el conjunto de datos anual, así como los mensuales de enero, mayo, junio, agosto, y septiembre no corresponde a series aleatorias, por tal motivo no fue procedente su ajuste [[47]](#ref-47). Por tanto, se seleccionó el mes de julio como el de mayor aporte de caudales en el año hidrológico, caracterizado como un subconjunto aleatorio. La FDP Gumbel_r (Gumbel con sesgo a la derecha), es la que mejor aproxima el universo completo de magnitudes con sus probabilidades para este mes. En la @tbl-c6-3 se presentan las magnitudes de caudal asociadas a los periodos de retorno de interés para el modelo de EPR.
 
-A partir de la prueba de aleatoriedad de Rachas [[46]](#ref-46) se obtuvo que el conjunto de datos anual, así como los mensuales de enero, mayo, junio, agosto, y septiembre no corresponde a series aleatorias, por tal motivo no fue procedente su ajuste [[47]](#ref-47). Por tanto, se seleccionó el mes de julio como el de mayor aporte de caudales en el año hidrológico, caracterizado como un subconjunto aleatorio. La FDP Gumbel_r (Gumbel con sesgo a la derecha), es la que mejor aproxima el universo completo de magnitudes con sus probabilidades para este mes. En la **Tabla 3** se presentan las magnitudes de caudal asociadas a los periodos de retorno de interés para el modelo de EPR.
-
-**Tabla 3***.* Periodos de retorno estación Montelíbano conjunto estadístico de julio
-
+: Periodos de retorno estación Montelíbano conjunto estadístico de julio. {#tbl-c6-3}
 
 | Cab. Municipal | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -391,76 +366,66 @@ Se usó un MDE con resolución espacial de 1.0 m con el cual cuenta el IDEAM, pr
 
 
 
-**Figura 15.** Modelo Digital de Elevación (MDE) e imagen de alta resolución Municipio de Montelíbano.
-
-![Modelo Digital de Elevación e imagen de alta resolución](images/capitulo_6/Figura_15.jpg)
+![Modelo Digital de Elevación (MDE) e imagen de alta resolución Municipio de Montelíbano.](images/capitulo_6/Figura_15.jpg){#fig-c6-15}
 
 **Modelación hidráulica**
 
-Se empleó el modelo hidrodinámico bidimensional HEC RAS 5.0.3 del U.S Army Corp of Engineers (USACE) [[49]](#ref-49) calibrado a partir de las cotas de lámina de agua de la estación Montelíbano (Cód. 25017010) y validado con información de campo e imágenes satelitales de un evento histórico (Fig. 12). El dominio computacional cubre un área de 20 km2 (**Fig. 16**) abarcando 13.3 km del río San Jorge, conformado por 8106 celdas con un espaciamiento de DX= 50 m y DY= 50 m (**Fig. 16**). 
+Se empleó el modelo hidrodinámico bidimensional HEC RAS 5.0.3 del U.S Army Corp of Engineers (USACE) [[49]](#ref-49) calibrado a partir de las cotas de lámina de agua de la estación Montelíbano (Cód. 25017010) y validado con información de campo e imágenes satelitales de un evento histórico (@fig-c6-12). El dominio computacional cubre un área de 20 km2 (@fig-c6-16) abarcando 13.3 km del río San Jorge, conformado por 8106 celdas con un espaciamiento de DX= 50 m y DY= 50 m (@fig-c6-16).
 
-La condición de frontera de entrada al modelo hidrodinámico son los caudales registrados en la estación Montelíbano para el escenario de calibración, y los caudales pico para cada período de retorno calculados en el análisis hidrológico (**Tabla 3**). La condición de frontera de salida se definió como la pendiente media de la lámina de agua, determinada a partir del análisis de las cotas de tirante hídrico de las estaciones Montelíbano y Pto. Córdoba.
-
-
-
-**Figura 16.** Dominio computacional y condiciones de frontera del modelo.
-
-![Dominio computacional y condiciones de frontera del modelo](images/capitulo_6/Figura_16.jpg)
-
-A partir de los aforos líquidos de la estación Montelíbano elaborados por el IDEAM entre 1973 y 2011 y la pendiente hidráulica media del tramo Montelíbano – Pto Córdoba, se hizo una estimación inicial del n de Manning con un valor medio de 0.0315, un mínimo de 0.0208 y un máximo de 0.051 con una desviación estándar de 0.004 para caudales entre 20.9 m3/s y 841.2 m3/s (**Fig. 17**). La calibración se realizó con las cotas de lámina de agua del año 2009, obteniendo un n de 0.03 para el cauce principal y de 0.08 para la llanura de inundación.
+La condición de frontera de entrada al modelo hidrodinámico son los caudales registrados en la estación Montelíbano para el escenario de calibración, y los caudales pico para cada período de retorno calculados en el análisis hidrológico (@tbl-c6-3). La condición de frontera de salida se definió como la pendiente media de la lámina de agua, determinada a partir del análisis de las cotas de tirante hídrico de las estaciones Montelíbano y Pto. Córdoba.
 
 
 
-**Figura 17.** Estimación inicial del n de Manning a partir del resumen de aforos líquidos (arriba). Calibración hidrométrica del modelo hidráulico (abajo).
+![Dominio computacional y condiciones de frontera del modelo.](images/capitulo_6/Figura_16.jpg){#fig-c6-16}
 
-![Estimación inicial del n de Manning](images/capitulo_6/Figura_17a.jpg)
-
-![Calibración hidrométrica del modelo hidráulico](images/capitulo_6/Figura_17b.jpg)
-
-La validación de la extensión de la inundación se realizó a partir de la información de eventos históricos levantados en campo (**Fig. 18**).
+A partir de los aforos líquidos de la estación Montelíbano elaborados por el IDEAM entre 1973 y 2011 y la pendiente hidráulica media del tramo Montelíbano – Pto Córdoba, se hizo una estimación inicial del n de Manning con un valor medio de 0.0315, un mínimo de 0.0208 y un máximo de 0.051 con una desviación estándar de 0.004 para caudales entre 20.9 m3/s y 841.2 m3/s (@fig-c6-17). La calibración se realizó con las cotas de lámina de agua del año 2009, obteniendo un n de 0.03 para el cauce principal y de 0.08 para la llanura de inundación.
 
 
 
-**Figura 18.** Validación del modelo hidráulico a partir de la información levantada en campo.
+::: {#fig-c6-17 layout-nrow="2"}
+![](images/capitulo_6/Figura_17a.jpg)
 
-![Validación del modelo hidráulico](images/capitulo_6/Figura_18.GIF) 
+![](images/capitulo_6/Figura_17b.jpg)
 
-Partiendo del modelo calibrado, se realizaron las modelaciones para cada uno de los períodos de retorno de interés, en donde se determinó que la profundidad en el cauce principal fue de 6.9 m para el período de retorno de 2.33 años y de 8.1 m para el período de retorno de 100 años, mientras que en las zonas del casco urbano donde se presentan las inundaciones, las profundidades oscilan entre 0.2 y 0.5 m para el período de retorno de 2.33 años y profundidades entre 0.5 y 1.5 m para el período de retorno de 100 años (**Fig. 19**).
+Estimación inicial del n de Manning a partir del resumen de aforos líquidos (arriba). Calibración hidrométrica del modelo hidráulico (abajo).
+:::
 
+La validación de la extensión de la inundación se realizó a partir de la información de eventos históricos levantados en campo (@fig-c6-18).
 
+![Validación del modelo hidráulico a partir de la información levantada en campo.](images/capitulo_6/Figura_18.GIF){#fig-c6-18}
 
-**Figura 19.** Profundidad [m], extensión y velocidades [m/s] de la inundación para el período de retorno de 100 años.
+Partiendo del modelo calibrado, se realizaron las modelaciones para cada uno de los períodos de retorno de interés, en donde se determinó que la profundidad en el cauce principal fue de 6.9 m para el período de retorno de 2.33 años y de 8.1 m para el período de retorno de 100 años, mientras que en las zonas del casco urbano donde se presentan las inundaciones, las profundidades oscilan entre 0.2 y 0.5 m para el período de retorno de 2.33 años y profundidades entre 0.5 y 1.5 m para el período de retorno de 100 años (@fig-c6-19).
 
-![Profundidad, extensión y velocidades de la inundación](images/capitulo_6/Figura_19.GIF) 
+![Profundidad \[m\], extensión y velocidades \[m/s\] de la inundación para el período de retorno de 100 años.](images/capitulo_6/Figura_19.GIF){#fig-c6-19}
 
 ### 6.5.1 Modelo de exposición Montelíbano
 
 3.3.1. Tipologías constructivas
 
-A cada construcción identificada en la base de datos catastral se le asignaron tipologías estructurales siguiendo la metodología propuesta (**Fig.  2**). Para la identificación de tipologías constructivas se realizaron 765 inspecciones. La **Tabla 4** presenta el porcentaje de participación de las principales tipologías identificadas en las inspecciones. Entre las tipologías más frecuentes se observan edificios de mampostería confinada de una planta (cubierta liviana) y edificios de pórticos de concreto reforzado, de una y dos plantas de cubierta liviana.
+A cada construcción identificada en la base de datos catastral se le asignaron tipologías estructurales siguiendo la metodología propuesta (@fig-c6-2). Para la identificación de tipologías constructivas se realizaron 765 inspecciones. La @tbl-c6-4 presenta el porcentaje de participación de las principales tipologías identificadas en las inspecciones. Entre las tipologías más frecuentes se observan edificios de mampostería confinada de una planta (cubierta liviana) y edificios de pórticos de concreto reforzado, de una y dos plantas de cubierta liviana.
 
-**Tabla 4.** Principales tipologías identificadas en el municipio.
-
-![Principales tipologías identificadas en el municipio](images/capitulo_6/Tabla_4.png)
+![Principales tipologías identificadas en el municipio.](images/capitulo_6/Tabla_4.png){#tbl-c6-4}
 
 
 
-Los resultados de la clasificación de edificios según tipologías se consolidaron a nivel de manzanas. Como ejemplo, la **Figura 20** presenta el porcentaje de participación de construcciones de madera respecto al total de construcciones de cada manzana. Se observa que esta tipología es más frecuente hacia el occidente y sur del municipio. En estos sectores los porcentajes de participación varían entre el 7% y el 9%. 
+Los resultados de la clasificación de edificios según tipologías se consolidaron a nivel de manzanas. Como ejemplo, la @fig-c6-20 presenta el porcentaje de participación de construcciones de madera respecto al total de construcciones de cada manzana. Se observa que esta tipología es más frecuente hacia el occidente y sur del municipio. En estos sectores los porcentajes de participación varían entre el 7% y el 9%. 
 
 3.3.2. Valor expuesto
 
-El valor total de las construcciones se estimó en 395,818 millones de pesos. A su vez, el valor total de contenidos se estimó en 88,261 millones de pesos. La **Figura 20** (der.) presenta el valor de las construcciones urbanas de Montelíbano. De esta figura se observa que las construcciones de mayor valor (superiores a 200 Millones) se ubican en la ribera del río San Jorge, así como hacia el nororiente del municipio. Al comparar estos resultados con la **Figura 20** (izq.), se observa que las tipologías de madera son más frecuentes en sectores de menor valor de las construcciones.
+El valor total de las construcciones se estimó en 395,818 millones de pesos. A su vez, el valor total de contenidos se estimó en 88,261 millones de pesos. La @fig-c6-20 (der.) presenta el valor de las construcciones urbanas de Montelíbano. De esta figura se observa que las construcciones de mayor valor (superiores a 200 Millones) se ubican en la ribera del río San Jorge, así como hacia el nororiente del municipio. Al comparar estos resultados con la @fig-c6-20 (izq.), se observa que las tipologías de madera son más frecuentes en sectores de menor valor de las construcciones.
 
 
-| <img src="images/capitulo_6/Figura_20a.png" /> | <img src="images/capitulo_6/Figura_20b.png" /> |
-| --- | --- |
+::: {#fig-c6-20 layout-ncol="2"}
+![](images/capitulo_6/Figura_20a.png)
 
-**Figura 20.** Porcentaje de edificaciones de madera respecto al total de edificaciones en cada manzana (izquierda). Valor catastral de las construcciones (derecha).
+![](images/capitulo_6/Figura_20b.png)
 
-La **Tabla 5** presenta el valor de construcciones y contenidos según usos relevantes, así como el conteo de las construcciones en todo el municipio. Se observa que la mayoría del avalúo se concentra en las construcciones de viviendas de hasta tres pisos. En cuanto al valor de los contenidos, se encuentra que son relevantes tanto los edificios de viviendas, como los de comercio.
+Porcentaje de edificaciones de madera respecto al total de edificaciones en cada manzana (izquierda). Valor catastral de las construcciones (derecha).
+:::
 
-**Tabla 6.** Valores expuestos totales según usos relevantes
+La @tbl-c6-5 presenta el valor de construcciones y contenidos según usos relevantes, así como el conteo de las construcciones en todo el municipio. Se observa que la mayoría del avalúo se concentra en las construcciones de viviendas de hasta tres pisos. En cuanto al valor de los contenidos, se encuentra que son relevantes tanto los edificios de viviendas, como los de comercio.
 
+: Valores expuestos totales según usos relevantes. {#tbl-c6-5}
 
 | Uso | Valor construcciones (millones de pesos) | Valor de contenidos (millones de pesos) | % del valor total de construcciones | % del valor total de contenidos | Construcciones | Construcciones |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -471,13 +436,9 @@ La **Tabla 5** presenta el valor de construcciones y contenidos según usos rele
 | Comercio | 33,306 | 13,507 | 8.4% | 15.3% | 615 | 3.9% |
 | Oficinas / consultorios | 12,593 | 4,078 | 3.2% | 4.6% | 149 | 0.9% |
 
-Para tener una referencia de los elementos que están expuestos a inundaciones, se consolidaron los valores de las edificaciones localizadas en zonas en las que se estiman profundidades de inundación superiores a 0.5 m para un periodo de retorno de 100 años (evento con 1% de probabilidad de excedencia). A pesar de que la selección del periodo de retorno y de la profundidad de inundación es arbitraria, corresponde a eventos poco frecuentes en los cuales se esperan daños en contenidos y limitaciones en el acceso y uso de edificaciones. La **Figura 21** presenta un resumen de los resultados. 
+Para tener una referencia de los elementos que están expuestos a inundaciones, se consolidaron los valores de las edificaciones localizadas en zonas en las que se estiman profundidades de inundación superiores a 0.5 m para un periodo de retorno de 100 años (evento con 1% de probabilidad de excedencia). A pesar de que la selección del periodo de retorno y de la profundidad de inundación es arbitraria, corresponde a eventos poco frecuentes en los cuales se esperan daños en contenidos y limitaciones en el acceso y uso de edificaciones. La @fig-c6-21 presenta un resumen de los resultados.
 
-
-
-**Figura 21.** Resumen de elementos expuestos para mapa de amenaza de periodo de retorno de 100 años. Altura mayor a 0.5 m.
-
-![Resumen de elementos expuestos para mapa de amenaza](images/capitulo_6/Figura_21.png)
+![Resumen de elementos expuestos para mapa de amenaza de periodo de retorno de 100 años. Altura mayor a 0.5 m.](images/capitulo_6/Figura_21.png){#fig-c6-21}
 
 Cerca del 6 % de la población del municipio y alrededor del 3% de las construcciones de vivienda hasta 3 pisos se exponen en zonas en las cuales la profundidad de la inundación puede ser hasta de 0.5 m para eventos de periodo de retorno de 100 años. Mayores detalles tanto de la metodología como de los resultados de la evaluación del riesgo en los municipios de Montelíbano, Mompox, Magangué y San Marcos se pueden encontrar en el documento *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)* [[50]](#ref-50).
 
@@ -491,45 +452,33 @@ En el caso de las edificaciones, las funciones de vulnerabilidad relacionan un t
 
 3.4.1. Funciones de daño para rubro de contenidos en edificaciones de uso residencial y comercial
 
-Las **Figuras 22** y **23** presentan dos ejemplos de las funciones de vulnerabilidad calculadas para edificaciones de uso residencial y comercial. En general, para edificaciones de 1 piso se alcanza el daño total de contenidos para profundidades de inundación cercanas a 2 metros. Para el caso de edificaciones residenciales de 1 piso, el 50% del daño se alcanza en 0.5 metros de profundidad de inundación. Para el caso de edificaciones comerciales de 1 piso, el 50% del daño se alcanza en 0.8 m, aproximadamente.
+Las @fig-c6-22 y @fig-c6-23 presentan dos ejemplos de las funciones de vulnerabilidad calculadas para edificaciones de uso residencial y comercial. En general, para edificaciones de 1 piso se alcanza el daño total de contenidos para profundidades de inundación cercanas a 2 metros. Para el caso de edificaciones residenciales de 1 piso, el 50% del daño se alcanza en 0.5 metros de profundidad de inundación. Para el caso de edificaciones comerciales de 1 piso, el 50% del daño se alcanza en 0.8 m, aproximadamente.
 
 
 
 
 
-**Figura 22.** Residencial-estrato 1-1 piso.
+![Residencial-estrato 1-1 piso.](images/capitulo_6/Figura_22.png){#fig-c6-22}
 
-![Residencial-estrato 1-1 piso](images/capitulo_6/Figura_22.png)
-
-**Figura 23.** Uso comercial.
-
-![Uso comercial](images/capitulo_6/Figura_23.png)
+![Uso comercial.](images/capitulo_6/Figura_23.png){#fig-c6-23}
 
 3.4.2. Funciones de daño para rubro de contenidos en edificaciones de uso educativo, institucional y de salud
 
-Para usos educativo, institucional y salud, la información recopilada clasifica los contenidos en grupos. Para cada uno de ellos se definió el porcentaje del valor de sus contenidos en relación con los contenidos totales, el porcentaje localizado en cada uno de los pisos y la función de daño. Adicionalmente, la altura libre de entrepiso está involucrada en la generación de edificaciones aleatorias. Las **Figuras** **24** a **26** presentan las funciones de vulnerabilidad desarrolladas para edificaciones de uso educativo, salud e institucional.
+Para usos educativo, institucional y salud, la información recopilada clasifica los contenidos en grupos. Para cada uno de ellos se definió el porcentaje del valor de sus contenidos en relación con los contenidos totales, el porcentaje localizado en cada uno de los pisos y la función de daño. Adicionalmente, la altura libre de entrepiso está involucrada en la generación de edificaciones aleatorias. Las @fig-c6-24 a @fig-c6-26 presentan las funciones de vulnerabilidad desarrolladas para edificaciones de uso educativo, salud e institucional.
 
-**Figura 24.** Uso salud-estrato único.
+![Uso salud-estrato único.](images/capitulo_6/Figura_24.png){#fig-c6-24}
 
-![Uso salud-estrato único](images/capitulo_6/Figura_24.png)
+![Uso educativo-estrato único.](images/capitulo_6/Figura_25.png){#fig-c6-25}
 
-**Figura 25.** Uso educativo-estrato único.
-
-![Uso educativo-estrato único](images/capitulo_6/Figura_25.png)
-
-**Figura 26.** Uso institucional-estrato único.
-
-![Uso institucional-estrato único](images/capitulo_6/Figura_26.png)
+![Uso institucional-estrato único.](images/capitulo_6/Figura_26.png){#fig-c6-26}
 
 ## 6.7 Funciones de daño para rubro de edificaciones
 
-La metodología plantea la generación de un número de edificaciones hipotéticas sobre las cuales se evalúa el daño de elementos estructurales y no estructurales. La **Tabla 7** presenta una ficha de vulnerabilidad de edificaciones de la tipología de mampostería de concreto de 1 piso y cubierta liviana. El parámetro más relevante en la evaluación de vulnerabilidad por contenidos es el uso de la edificación y el número de pisos. Los datos recopilados en el trabajo de campo no permitieron concluir que existe una variación clara de la vulnerabilidad en relación con los estratos socioeconómicos en términos de elementos estructurales. Según los resultados, y considerando las bajas velocidades de flujo en los eventos de inundación típicos de la zona, se espera que las pérdidas se concentren en los contenidos. Para niveles bajos de velocidad no se espera daño estructural considerable en las edificaciones. En general, los daños esperados en las edificaciones se reducen a afectaciones de pinturas y acabados fácilmente reparables. 
+La metodología plantea la generación de un número de edificaciones hipotéticas sobre las cuales se evalúa el daño de elementos estructurales y no estructurales. La @tbl-c6-6 presenta una ficha de vulnerabilidad de edificaciones de la tipología de mampostería de concreto de 1 piso y cubierta liviana. El parámetro más relevante en la evaluación de vulnerabilidad por contenidos es el uso de la edificación y el número de pisos. Los datos recopilados en el trabajo de campo no permitieron concluir que existe una variación clara de la vulnerabilidad en relación con los estratos socioeconómicos en términos de elementos estructurales. Según los resultados, y considerando las bajas velocidades de flujo en los eventos de inundación típicos de la zona, se espera que las pérdidas se concentren en los contenidos. Para niveles bajos de velocidad no se espera daño estructural considerable en las edificaciones. En general, los daños esperados en las edificaciones se reducen a afectaciones de pinturas y acabados fácilmente reparables. 
 
 La totalidad de resultados de la evaluación de vulnerabilidad física se encuentran en el documento [[50]](#ref-50).
 
-**Tabla 7.** Ficha de vulnerabilidad de edificaciones (mampostería de concreto 1 piso cubierta liviana).
-
-![Ficha de vulnerabilidad de edificaciones](images/capitulo_6/Tabla_7.png)
+![Ficha de vulnerabilidad de edificaciones (mampostería de concreto 1 piso cubierta liviana).](images/capitulo_6/Tabla_7.png){#tbl-c6-6}
 
 
 
@@ -541,24 +490,23 @@ Esta sección incluye algunos de los resultados del análisis de la vulnerabilid
 
 Se presenta un análisis de la situación actual de los activos físicos (vivienda y tierra), financieros (trabajo-fuentes de ingreso formales e informales) y sociales (redes de apoyo) (estos son indagados por las preguntas orientadores en este aparte). 
 
-Se observa (**Fig. 27**, izq.) que un 96% de las personas encuestadas residentes de las zonas de mayor riesgo de inundación perciben que sus viviendas no son seguras, y el 67% de los mismos consideran que están ubicados en un área susceptible de amenaza (**Fig. 27**, der.). Las fuentes de peligro identificadas por la población encuestada se encuentran en la **Figura 28**.
+Se observa (@fig-c6-27, izq.) que un 96% de las personas encuestadas residentes de las zonas de mayor riesgo de inundación perciben que sus viviendas no son seguras, y el 67% de los mismos consideran que están ubicados en un área susceptible de amenaza (@fig-c6-27, der.). Las fuentes de peligro identificadas por la población encuestada se encuentran en la @fig-c6-28.
 
+::: {#fig-c6-27 layout-ncol="2"}
+![](images/capitulo_6/Figura_27a.png)
 
-| <img src="images/capitulo_6/Figura_27a.png" /> | <img src="images/capitulo_6/Figura_27b.png" /> |
-| --- | --- |
+![](images/capitulo_6/Figura_27b.png)
 
-**Figura 27.** Pregunta 2 Contexto Hogar Montelíbano (Izquierda). Pregunta 4 Percepción del riesgo Montelíbano (Derecha).
+Pregunta 2 Contexto Hogar Montelíbano (Izquierda). Pregunta 4 Percepción del riesgo Montelíbano (Derecha).
+:::
 
-**Figura 28.** Pregunta 1 percepción local del riesgo Montelíbano. (A) Sismos, (B) Tsunamis, (C) Volcanes, (D) Flujos de lodo, (E) Movimientos en masa, (F) Hundimientos y agrietamientos, (G) Ciclones tropicales, (H) Inundaciones pluviales y fluviales, (I) Granizadas, nevadas y heladas, (J) Lluvias torrenciales, (K) Tormentas eléctricas, (L) Vientos fuertes, (M) Temperaturas extremas, (N) Erosión, (O) Sequías, (P) Incendios forestales, (Q) Incendios urbanos explosiones, (R) Fugas y derrames de sustancias peligrosas, (S) Fuentes móviles, (T) Mala calidad sanitaria, (U) Ausencia del sistema de acueducto, (V) Precaria calidad de las aguas marinas, costeras o fluviales de la zona, (W) ausencia del alcantarillado para agua-lluvia.
-
-![Pregunta 1 percepción local del riesgo Montelíbano](images/capitulo_6/Figura_28.png)
+![Pregunta 1 percepción local del riesgo Montelíbano. (A) Sismos, (B) Tsunamis, (C) Volcanes, (D) Flujos de lodo, (E) Movimientos en masa, (F) Hundimientos y agrietamientos, (G) Ciclones tropicales, (H) Inundaciones pluviales y fluviales, (I) Granizadas, nevadas y heladas, (J) Lluvias torrenciales, (K) Tormentas eléctricas, (L) Vientos fuertes, (M) Temperaturas extremas, (N) Erosión, (O) Sequías, (P) Incendios forestales, (Q) Incendios urbanos explosiones, (R) Fugas y derrames de sustancias peligrosas, (S) Fuentes móviles, (T) Mala calidad sanitaria, (U) Ausencia del sistema de acueducto, (V) Precaria calidad de las aguas marinas, costeras o fluviales de la zona, (W) ausencia del alcantarillado para agua-lluvia.](images/capitulo_6/Figura_28.png){#fig-c6-28}
 
 ## 6.9 Gestión del riesgo de desastres
 
-Las familias residentes en los sectores más deprimidos son vulnerables debido a factores ambientales como la erosión, las inundaciones y la falta de cobertura de calidad de algunos de los servicios públicos básicos. Los sectores más expuestos al riesgo son los barrios Mucha Jagua, la Pesquera, Villa Clemen, Campo alegre, algunas edificaciones viejas y la clínica Regional. Se observa en la **Tabla 8** cómo los miembros de la comunidad establecen diferentes medidas para la prevención del desastre o eventos de riesgo.
+Las familias residentes en los sectores más deprimidos son vulnerables debido a factores ambientales como la erosión, las inundaciones y la falta de cobertura de calidad de algunos de los servicios públicos básicos. Los sectores más expuestos al riesgo son los barrios Mucha Jagua, la Pesquera, Villa Clemen, Campo alegre, algunas edificaciones viejas y la clínica Regional. Se observa en la @tbl-c6-7 cómo los miembros de la comunidad establecen diferentes medidas para la prevención del desastre o eventos de riesgo.
 
-**Tabla 8.** Trabajo de campo sobre medidas de prevención del riesgo.
-
+: Trabajo de campo sobre medidas de prevención del riesgo. {#tbl-c6-7}
 
 | IDENTIFICACIÓN DE LAS ZONAS DE AFECTACIÓN. Tener un plan de respuesta rápida ante una emergencia.  Medida: a corto plazo.  Responsables: Consejo Municipal de Gestión del Riesgo de Desastres. | ALCANTARILLADO PLUVIAL.  Previene la inundación por el agua lluvia en los barrios, en los puntos más críticos y bajos. Medida: largo plazo.  Responsables: Gobierno y Municipio. | CAPACITACIONES A LA COMUNIDAD ANTE LAS EMERGENCIAS.  Previene las pérdidas humanas.  Medida: corto Plazo  Responsables: Consejo Municipal de Gestión del Riesgo de Desastres y las organizaciones de socorro |
 | --- | --- | --- |
@@ -567,40 +515,46 @@ Las familias residentes en los sectores más deprimidos son vulnerables debido a
 
 ## 6.10 Percepción del riesgo
 
-Se evidencia gran desconocimiento en factores importantes de la GRD en los habitantes de los diferentes barrios del municipio, siendo esto un factor que aumenta la vulnerabilidad de las familias. El 64% de los habitantes del municipio encuestados desconocen la ubicación y las funciones de la oficina de gestión del riesgo del municipio (**Fig. 29**).
+Se evidencia gran desconocimiento en factores importantes de la GRD en los habitantes de los diferentes barrios del municipio, siendo esto un factor que aumenta la vulnerabilidad de las familias. El 64% de los habitantes del municipio encuestados desconocen la ubicación y las funciones de la oficina de gestión del riesgo del municipio (@fig-c6-29).
 
+::: {#fig-c6-29 layout-ncol="2"}
+![](images/capitulo_6/Figura_29a.png)
 
-| <img src="images/capitulo_6/Figura_29a.png" /> | <img src="images/capitulo_6/Figura_29b.png" /> |
-| --- | --- |
+![](images/capitulo_6/Figura_29b.png)
 
-**Figura 29.** Pregunta 20 percepción del riesgo Montelíbano (Izquierda). Pregunta 22 Encuesta percepción del riesgo Montelíbano (Derecha).
+Pregunta 20 percepción del riesgo Montelíbano (Izquierda). Pregunta 22 Encuesta percepción del riesgo Montelíbano (Derecha).
+:::
 
 ## 6.11 Desarrollo de capacidades
 
-Con relación a la percepción, el 94% de la población afirma que no posee suficientes conocimientos y habilidades para la prevención de desastres. Además, 92% considera que no se han implementado acciones educativas para la GRD como se observa en la **Figura 30**.
+Con relación a la percepción, el 94% de la población afirma que no posee suficientes conocimientos y habilidades para la prevención de desastres. Además, 92% considera que no se han implementado acciones educativas para la GRD como se observa en la @fig-c6-30.
 
+::: {#fig-c6-30 layout-ncol="2"}
+![](images/capitulo_6/Figura_30a.png)
 
-| <img src="images/capitulo_6/Figura_30a.png" /> | <img src="images/capitulo_6/Figura_30b.png" /> |
-| --- | --- |
+![](images/capitulo_6/Figura_30b.png)
 
-**Figura 30.** Pregunta 18 contexto hogar Montelíbano (Izquierda). Pregunta 19 Contexto hogar Montelíbano.
+Pregunta 18 contexto hogar Montelíbano (Izquierda). Pregunta 19 Contexto hogar Montelíbano.
+:::
 
 ## 6.12 Causas de la vulnerabilidad social
 
 En esta sección se hace una descripción de la situación actual de los activos naturales, sociales y una mirada general a cómo se desarrollan las relaciones al interior de los hogares. En el componente de enfoque diferencial y equidad de género, el 94% de la población encuestada afirma que si existe equidad entre hombres y mujeres. 
 
 
-| <img src="images/capitulo_6/Figura_31a.png" /> | <img src="images/capitulo_6/Figura_31b.png" /> |
-| --- | --- |
+::: {#fig-c6-31 layout-ncol="2"}
+![](images/capitulo_6/Figura_31a.png)
 
-**Figura 31.** Pregunta 24 contexto hogar Montelíbano (Izquierda). Pregunta 25 Contexto hogar Montelíbano (Derecha).
+![](images/capitulo_6/Figura_31b.png)
+
+Pregunta 24 contexto hogar Montelíbano (Izquierda). Pregunta 25 Contexto hogar Montelíbano (Derecha).
+:::
 
 3.5.6. Grado de vulnerabilidad en el municipio
 
-Respecto a la condición de propensión a la vulnerabilidad social para el municipio, después de analizar los indicadores presentados en la **Tabla 9**, se obtiene la categoría media. Se puede observar una diferencia en la percepción del riesgo a nivel regional y local, dado que la comunidad percibe la condición de vulnerabilidad como alta y el Consejo Municipal de Gestión del Riesgo como baja. Entre los indicadores que inciden en el diagnóstico de la vulnerabilidad, se observa la tasa de desempleo, la cobertura de alcantarillado y acueducto.
+Respecto a la condición de propensión a la vulnerabilidad social para el municipio, después de analizar los indicadores presentados en la @tbl-c6-8, se obtiene la categoría media. Se puede observar una diferencia en la percepción del riesgo a nivel regional y local, dado que la comunidad percibe la condición de vulnerabilidad como alta y el Consejo Municipal de Gestión del Riesgo como baja. Entre los indicadores que inciden en el diagnóstico de la vulnerabilidad, se observa la tasa de desempleo, la cobertura de alcantarillado y acueducto.
 
-**Tabla 9.** Grado de vulnerabilidad social del municipio de Montelíbano.
-
+: Grado de vulnerabilidad social del municipio de Montelíbano. {#tbl-c6-8}
 
 | Variables | Condición de propensión a la vulnerabilidad social |
 | --- | --- |
@@ -613,28 +567,26 @@ Respecto a la condición de propensión a la vulnerabilidad social para el munic
 
 *Promedio de indicadores socioeconómicos.
 
-Respecto al mapeo de las condiciones de vulnerabilidad en la zona de alto riesgo por inundación, en la **Figura 32** (Izq.) se observa que la condición de vulnerabilidad se encuentra entre alta (color rojo) y media (color amarillo) y estas áreas corresponden a las zonas de inundación modeladas por el IDEAM que se presentan en la **Figura 32** (Der.). Los niveles de inundación acorde a las encuestas de percepción del riesgo, por parte de la comunidad, se encuentran del orden de 0.5 y 1.5 m.
+Respecto al mapeo de las condiciones de vulnerabilidad en la zona de alto riesgo por inundación, en la @fig-c6-32 (Izq.) se observa que la condición de vulnerabilidad se encuentra entre alta (color rojo) y media (color amarillo) y estas áreas corresponden a las zonas de inundación modeladas por el IDEAM que se presentan en la @fig-c6-32 (Der.). Los niveles de inundación acorde a las encuestas de percepción del riesgo, por parte de la comunidad, se encuentran del orden de 0.5 y 1.5 m.
 
 
-| <img src="images/capitulo_6/Figura_32a.png" /> | <img src="images/capitulo_6/Figura_32b.png" /> |
-| --- | --- |
+::: {#fig-c6-32 layout-ncol="2"}
+![](images/capitulo_6/Figura_32a.png)
 
-**Figura 32.** Zonificación de la vulnerabilidad social en el contexto hogar y comunidad en Montelíbano (Izquierdo). Zonificación del área de inundación y niveles de agua en Montelíbano
+![](images/capitulo_6/Figura_32b.png)
+
+Zonificación de la vulnerabilidad social en el contexto hogar y comunidad en Montelíbano (Izquierdo). Zonificación del área de inundación y niveles de agua en Montelíbano.
+:::
 
 ## 6.13 Evaluación y análisis del riesgo por inundación en Montelíbano
 
-Siguiendo la metodología de EPR por inundación propuesta (**Fig. 10**) [[8]](#ref-8), se calculan las pérdidas potenciales para edificaciones localizadas en la cabecera municipal de Montelíbano por efecto de inundaciones lentas. Los resultados del cálculo de riesgo se presentan en términos de CEP, PAE por rubros, PML, mapa de riesgo de PAE relativa, y mapa de clasificación de riesgo en niveles alto, medio y bajo. 
+Siguiendo la metodología de EPR por inundación propuesta (@fig-c6-10) [[8]](#ref-8), se calculan las pérdidas potenciales para edificaciones localizadas en la cabecera municipal de Montelíbano por efecto de inundaciones lentas. Los resultados del cálculo de riesgo se presentan en términos de CEP, PAE por rubros, PML, mapa de riesgo de PAE relativa, y mapa de clasificación de riesgo en niveles alto, medio y bajo. 
 
-La Figura 33 presenta la CEP por eventos de inundación en edificaciones y contenidos. En esta figura se representan las frecuencias anuales con que ocurrirán eventos que igualan o exceden un valor específico de pérdida del conjunto de elementos expuestos analizado [[26]](#ref-26). Esto comprende todas las edificaciones localizadas exclusivamente en la cabecera municipal de Montelíbano, en conjunto con los contenidos muebles de dichas edificaciones. La **Tabla 10** presenta la PAE discretizada por rubros de análisis y de manera general para toda la cabecera.
+La @fig-c6-33 presenta la CEP por eventos de inundación en edificaciones y contenidos. En esta figura se representan las frecuencias anuales con que ocurrirán eventos que igualan o exceden un valor específico de pérdida del conjunto de elementos expuestos analizado [[26]](#ref-26). Esto comprende todas las edificaciones localizadas exclusivamente en la cabecera municipal de Montelíbano, en conjunto con los contenidos muebles de dichas edificaciones. La @tbl-c6-9 presenta la PAE discretizada por rubros de análisis y de manera general para toda la cabecera.
 
+![Curva de excedencia de pérdidas (CEP) para la cabecera municipal de Montelíbano (Córdoba).](images/capitulo_6/Figura_33.png){#fig-c6-33}
 
-
-**Figura 33.** Curva de excedencia de pérdidas (CEP) para la cabecera municipal de Montelíbano (Córdoba).
-
-![Curva de excedencia de pérdidas](images/capitulo_6/Figura_33.png)
-
-**Tabla 10** Pérdida anual esperada (PAE) discretizados por rubro: contenidos y edificación.
-
+: Pérdida anual esperada (PAE) discretizados por rubro: contenidos y edificación. {#tbl-c6-9}
 
 | Rubro | Montelíbano - Córdoba | Montelíbano - Córdoba | Montelíbano - Córdoba | Montelíbano - Córdoba |
 | --- | --- | --- | --- | --- |
@@ -646,34 +598,26 @@ La Figura 33 presenta la CEP por eventos de inundación en edificaciones y conte
 
 Se observa que la PAE para la cabecera municipal se estima en $275,242,283 pesos (0.6‰). Esta cantidad se obtiene a partir de calcular el área bajo la curva de la CEP (Fig. 40) y representa el valor promedio de la pérdida que al acumularla año tras año durante un periodo de observación lo suficientemente largo, es semejante al valor acumulado de las pérdidas que pueden ocurrir de manera aleatoria en el mismo periodo. La PAE debe entenderse como un “promedio a largo plazo”. Es decir, en un período de observación lo suficientemente grande (1000 años, por ejemplo) se espera que, en promedio, la pérdida sea de $275,242,283 pesos al año en las edificaciones y contenidos de la cabecera de Montelíbano. Si se divide esta cantidad entre el valor expuesto total calculado ($484,079 millones de pesos), se obtiene la prima de riesgo igual a 0.6‰.
 
-La **Figura 34** presenta los valores de PML para la cabecera municipal de Montelíbano, considerando períodos de retorno entre 100 y 1500 años. Estos valores indican pérdidas que no ocurren con frecuencia o en otras palabras, que se espera que ocurra en periodos de tiempo muy largos. En esta figura se evidencia que, para un período de retorno muy grande, se espera que la pérdida económica sea de $2,825 millones de pesos, o más. Lo anterior corresponde al 0.58% del valor expuesto total en la cabecera municipal.
+La @fig-c6-34 presenta los valores de PML para la cabecera municipal de Montelíbano, considerando períodos de retorno entre 100 y 1500 años. Estos valores indican pérdidas que no ocurren con frecuencia o en otras palabras, que se espera que ocurra en periodos de tiempo muy largos. En esta figura se evidencia que, para un período de retorno muy grande, se espera que la pérdida económica sea de $2,825 millones de pesos, o más. Lo anterior corresponde al 0.58% del valor expuesto total en la cabecera municipal.
 
 
 
-**Figura 34.** Pérdida máxima probable (PML, por sus siglas en inglés) para la cabecera municipal de Montelíbano (Córdoba).
+![Pérdida máxima probable (PML, por sus siglas en inglés) para la cabecera municipal de Montelíbano (Córdoba).](images/capitulo_6/Figura_34.png){#fig-c6-34}
 
-![Pérdida máxima probable](images/capitulo_6/Figura_34.png)
-
-A partir de la PAE es posible construir mapas de riesgo que ilustran el riesgo de manera espacial. La **Figura 35** (Izq.) representa el riesgo para cada elemento expuesto en términos de la PAE en pesos colombianos [COP]. Si cada valor de pérdida reportado en la **Figura 35** (Izq.) se divide entre el valor expuesto total de cada elemento, se obtiene la **Figura 35** (Der.), la cual representa la PAE relativa y es adimensional debido a que es una proporción de dinero, que usualmente se representa en uno por cada mil (al millar) [‰].
+A partir de la PAE es posible construir mapas de riesgo que ilustran el riesgo de manera espacial. La @fig-c6-35 (Izq.) representa el riesgo para cada elemento expuesto en términos de la PAE en pesos colombianos [COP]. Si cada valor de pérdida reportado en la @fig-c6-35 (Izq.) se divide entre el valor expuesto total de cada elemento, se obtiene la @fig-c6-35 (Der.), la cual representa la PAE relativa y es adimensional debido a que es una proporción de dinero, que usualmente se representa en uno por cada mil (al millar) [‰].
 
 
-| <img src="images/capitulo_6/Figura_35.GIF" /> | |
-| --- | --- |
-
-**Figura 35.** Mapa de riesgo físico por inundación: Pérdida Anual Esperada (PAE) en pesos colombianos [COP] para edificaciones- Montelíbano (Izquierda). Mapa de riesgo físico por inundación: Pérdida Anual Esperada (PAE) relativa al millar [‰] para edificaciones- Montelíbano (Derecha). 
+![Mapa de riesgo físico por inundación: Pérdida Anual Esperada (PAE) en pesos colombianos [COP] para edificaciones- Montelíbano (Izquierda). Mapa de riesgo físico por inundación: Pérdida Anual Esperada (PAE) relativa al millar [‰] para edificaciones- Montelíbano (Derecha). **Nota:** la imagen del mapa derecho (PAE relativa) no se incluyó en el archivo fuente de este capítulo.](images/capitulo_6/Figura_35.GIF){#fig-c6-35}
 
 
 
-**Figura 36.** Mapa de categorización de riesgo físico por inundación – Montelíbano.
+![Mapa de categorización de riesgo físico por inundación – Montelíbano.](images/capitulo_6/Figura_36.GIF){#fig-c6-36}
 
-![Mapa de categorización de riesgo físico por inundación](images/capitulo_6/Figura_36.GIF)
+El mapa de PAE relativa representa la distribución espacial del indicador de riesgo físico que se propone sea tomado en cuenta como criterio para establecer las categorías de riesgo alto, medio y bajo. Para ello, se realiza un análisis de deciles de los valores de PAE relativa con el fin de segmentar los valores de pérdida en rangos equitativos que permitan clasificar el riesgo. Para este caso se obtiene un nivel de riesgo bajo para los decíles menores a 6, medio para los decíles 7 a 9 y alto para el decíl 10 (@fig-c6-36). Lo anterior, para la cabecera municipal de Montelíbano, arrojó que un total de 318 edificaciones (10% del total) se catalogan en zonas de riesgo alto por inundación, particularmente en los barrios de: Muchajagua, y predios localizados en la ribera del río San Jorge, particularmente entre calles 12 y 19 y entre carreras 4 y 8.
 
-El mapa de PAE relativa representa la distribución espacial del indicador de riesgo físico que se propone sea tomado en cuenta como criterio para establecer las categorías de riesgo alto, medio y bajo. Para ello, se realiza un análisis de deciles de los valores de PAE relativa con el fin de segmentar los valores de pérdida en rangos equitativos que permitan clasificar el riesgo. Para este caso se obtiene un nivel de riesgo bajo para los decíles menores a 6, medio para los decíles 7 a 9 y alto para el decíl 10 (**Fig. 36**). Lo anterior, para la cabecera municipal de Montelíbano, arrojó que un total de 318 edificaciones (10% del total) se catalogan en zonas de riesgo alto por inundación, particularmente en los barrios de: Muchajagua, y predios localizados en la ribera del río San Jorge, particularmente entre calles 12 y 19 y entre carreras 4 y 8.
+Con el fin de tener una referencia respecto al monto de la pérdida, la @tbl-c6-10 presenta los ingresos totales y tributarios del municipio, así como los montos del Sistema General de Participaciones y sus destinaciones a los sectores de educación, salud, agua potable y gestión del riesgo de desastre. Estos valores se expresan normalizados según el valor de la PAE del municipio.
 
-Con el fin de tener una referencia respecto al monto de la pérdida, la **Tabla 11** presenta los ingresos totales y tributarios del municipio, así como los montos del Sistema General de Participaciones y sus destinaciones a los sectores de educación, salud, agua potable y gestión del riesgo de desastre. Estos valores se expresan normalizados según el valor de la PAE del municipio.
-
-**Tabla 11.** PAE en comparación con rubros del presupuesto anual para la vigencia 2018 del Municipio de Montelíbano.
-
+: PAE en comparación con rubros del presupuesto anual para la vigencia 2018 del Municipio de Montelíbano. {#tbl-c6-10}
 
 | PAE [COP millones] | 275.24 | 275.24 |
 | --- | --- | --- |
@@ -686,7 +630,7 @@ Con el fin de tener una referencia respecto al monto de la pérdida, la **Tabla 
 | Agua potable y saneamiento básico | 4,118.75 | 6.68 |
 | Gastos Prevención y Atención de Desastres | 650.52 | 42.31 |
 
-Considerando los resultados de PAE en comparación con diferentes rubros del presupuesto anual para la vigencia fiscal de 2017 del Municipio de Montelíbano [[51]](#ref-51), se concluye que la PAE corresponde a (**Tabla 11**):
+Considerando los resultados de PAE en comparación con diferentes rubros del presupuesto anual para la vigencia fiscal de 2017 del Municipio de Montelíbano [[51]](#ref-51), se concluye que la PAE corresponde a (@tbl-c6-10):
 
 El 0.41% de los ingresos totales anuales del Municipio, de los cuales corresponde al 1.75% de los ingresos tributarios sin considerar los rubros de sobretasa a la gasolina, estampillas, impuesto predial, entre otros.
 

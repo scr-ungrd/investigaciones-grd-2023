@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 07: Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo Pressure and Release"
+title: "7. Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo Pressure and Release"
 author:
   - name: "Diana M. Rodríguez-Coca ^1^"
     orcid: "0000-0001-7452-7938"
@@ -13,6 +13,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -39,21 +41,13 @@ On November 13, 1985, the Nevado del Ruiz Volcano, located in Tolima, Colombia, 
 
 ## 7.1 INTRODUCCIÓN
 
-Piers Blaikie, Ben Wisner, Terry Cannon y Ian Davis desarrollaron en 1994 el modelo *Pressure and Release* (PAR) y lo presentaron en el libro *At Risk: natural hazards, people’s vulnerability and disasters* [[1]](#ref-1). El modelo analiza el riesgo de sufrir un desastre en términos de los peligros que lo originan y la vulnerabilidad de la población que se afecta ante la ocurrencia del desastre. En otras palabras, para los autores los desastres son el resultado de la interacción entre peligros y vulnerabilidad. La **Figura 1** muestra cómo el modelo PAR explica la progresión de la vulnerabilidad en términos de causas raíz, presiones dinámicas y condiciones inseguras. 
+Piers Blaikie, Ben Wisner, Terry Cannon y Ian Davis desarrollaron en 1994 el modelo *Pressure and Release* (PAR) y lo presentaron en el libro *At Risk: natural hazards, people’s vulnerability and disasters* [[1]](#ref-1). El modelo analiza el riesgo de sufrir un desastre en términos de los peligros que lo originan y la vulnerabilidad de la población que se afecta ante la ocurrencia del desastre. En otras palabras, para los autores los desastres son el resultado de la interacción entre peligros y vulnerabilidad. La @fig-c7-1 muestra cómo el modelo PAR explica la progresión de la vulnerabilidad en términos de causas raíz, presiones dinámicas y condiciones inseguras.
 
-![Imagen Figura_1.png](images/capitulo_7/Figura_1.png)
+![Estructura general del modelo PAR, adaptado de Blaikie, et al. [[1]](#ref-1).](images/capitulo_7/Figura_1.png){#fig-c7-1}
 
+Las causas tienen relación con las características propias de un grupo social y potencian el peligro al que se expone la población. Dichas características pueden ser sociales, económicas, demográficas, solo por mencionar algunas de ellas, y son el resultado de sistemas políticos o económicos. Por otra parte, las presiones dinámicas son el puente conector entre las causas y las condiciones inseguras y permiten establecer cómo las presiones se reflejan en el grupo social estudiado. El último aspecto incluido en el modelo PAR para explicar la vulnerabilidad de la población son las condiciones inseguras. Estas hacen referencia a situaciones tangibles e intangibles a las que se exponen las personas en su diario vivir y que tienen el potencial de incrementar su vulnerabilidad. La @fig-c7-2 muestra las distintas categorías dentro de los elementos del modelo PAR las cuales aplican para los desastres estudiados. El objetivo de este capítulo es mostrar la aplicación del modelo PAR en dos casos de estudio. Es de resaltar que nos enfocamos en la aplicación del modelo y no en su fundamentación teórica. El lector interesado en el marco teórico del modelo PAR puede consultar la referencia [[1]](#ref-1).
 
-
-**Figura 1.** Estructura general del modelo PAR, adaptado de Blaikie, et al. [[1]](#ref-1).
-
-Las causas tienen relación con las características propias de un grupo social y potencian el peligro al que se expone la población. Dichas características pueden ser sociales, económicas, demográficas, solo por mencionar algunas de ellas, y son el resultado de sistemas políticos o económicos. Por otra parte, las presiones dinámicas son el puente conector entre las causas y las condiciones inseguras y permiten establecer cómo las presiones se reflejan en el grupo social estudiado. El último aspecto incluido en el modelo PAR para explicar la vulnerabilidad de la población son las condiciones inseguras. Estas hacen referencia a situaciones tangibles e intangibles a las que se exponen las personas en su diario vivir y que tienen el potencial de incrementar su vulnerabilidad. La **Figura 2** muestra las distintas categorías dentro de los elementos del modelo PAR las cuales aplican para los desastres estudiados. El objetivo de este capítulo es mostrar la aplicación del modelo PAR en dos casos de estudio. Es de resaltar que nos enfocamos en la aplicación del modelo y no en su fundamentación teórica. El lector interesado en el marco teórico del modelo PAR puede consultar la referencia [[1]](#ref-1).  
-
-![Imagen Figura_2.png](images/capitulo_7/Figura_2.png)
-
-
-
-**Figura 2.**  Metodología PAR, adaptado de Blaikie, et al.  [[1]](#ref-1). 
+![Metodología PAR, adaptado de Blaikie, et al. [[1]](#ref-1).](images/capitulo_7/Figura_2.png){#fig-c7-2}
 
 El modelo PAR se ha utilizado para analizar varios desastres en el mundo. Por ejemplo, el modelo fue aplicado para estudiar las epidemias en Kerala, India [[2]](#ref-2). En ese trabajo el autor demostró que varios aspectos sociales, económicos y ecológicos propios de esa zona de estudio juegan un rol importante al incrementar el factor de vulnerabilidad. Por otra parte, el autor concluye que cualquier intento de prevención y mitigación en salud pública debe estar dirigido a la reducción de la vulnerabilidad. Adicionalmente, se utilizó el modelo PAR para estudiar los riesgos de desastres causados por inundaciones y deslizamientos en Brunéi, Asia [[3]](#ref-3). Los autores concluyeron existe una percepción errónea de bajo riesgo en el país asiático, debido a que este no reporta la totalidad de los desastres en bases de datos internacionales. Lo anterior ocasiona que los riesgos y la vulnerabilidad se incrementen debido a que no existen estrategias de mitigación y adaptación efectivas ante eventos recurrentes de baja magnitud. Recientemente Mustofa y Cirella utilizaron el modelo PAR para evaluar cómo las situaciones sociopolíticas aumentan el riesgo de desastres [[4]](#ref-4). Para ello utilizaron como casos de estudio los desastres causados por el tsunami del océano índico del 2004 y el terremoto de Haití en 2010.  Los autores concluyen que en las zonas estudiadas los impactos fueron mayores debido a las situaciones sociopolíticas que vivían en ese entonces. 
 
@@ -74,11 +68,9 @@ El resto del capítulo del libro se organiza de la siguiente manera. En la Secci
 
 ## 7.2 METODOLOGÍA DE REVISIÓN DOCUMENTAL
 
-Como se mencionó anteriormente, este trabajo estudia los desastres causados por la erupción volcánica de Armero en 1985 y por las inundaciones y deslizamientos de Mocoa en marzo de 2017 usando como marco teórico el modelo PAR. Los desastres de Armero y Mocoa se seleccionaron debido al impacto de estos con respecto a la cantidad de pérdidas humanas, personas afectadas y pérdidas económicas. La información requerida para el estudio se identificó en las bases de datos de Scopus, Science Direct y Scielo usando como parámetros de búsqueda “Armero disaster”, “Mocoa disaster”, “Desastre de Armero” y “Desastre de Mocoa”. Posteriormente, de la literatura identificada en el paso anterior, se seleccionaron las referencias pertinentes para la aplicación del modelo PAR. Por otra parte, se incluyeron fuentes de información adicionales como artículos de periódicos y reportes oficiales. Finalmente, se clasificó la información referente a los desastres en causas, presiones dinámicas y condiciones inseguras. Un esquema de la metodología de selección de los documentos y clasificación de la información se presenta en la **Figura 3**.  
+Como se mencionó anteriormente, este trabajo estudia los desastres causados por la erupción volcánica de Armero en 1985 y por las inundaciones y deslizamientos de Mocoa en marzo de 2017 usando como marco teórico el modelo PAR. Los desastres de Armero y Mocoa se seleccionaron debido al impacto de estos con respecto a la cantidad de pérdidas humanas, personas afectadas y pérdidas económicas. La información requerida para el estudio se identificó en las bases de datos de Scopus, Science Direct y Scielo usando como parámetros de búsqueda “Armero disaster”, “Mocoa disaster”, “Desastre de Armero” y “Desastre de Mocoa”. Posteriormente, de la literatura identificada en el paso anterior, se seleccionaron las referencias pertinentes para la aplicación del modelo PAR. Por otra parte, se incluyeron fuentes de información adicionales como artículos de periódicos y reportes oficiales. Finalmente, se clasificó la información referente a los desastres en causas, presiones dinámicas y condiciones inseguras. Un esquema de la metodología de selección de los documentos y clasificación de la información se presenta en la @fig-c7-3.
 
-![Imagen Figura_3.png](images/capitulo_7/Figura_3.png)
-
-**Figura 3.**  Metodología de revisión documental.
+![Metodología de revisión documental.](images/capitulo_7/Figura_3.png){#fig-c7-3}
 
 ## 7.3 MODELO PAR APLICADO AL DESASTRE DE ARMERO DE 1985
 
@@ -152,11 +144,13 @@ Entre la noche del 31 de marzo y la madrugada del 1 de abril de 2017, fuertes mo
 **Caja 3.** Evolución de la tragedia de Mocoa  Sobre las 10 de la noche del viernes 31 de marzo, comenzó un impresionante aguacero el cual estuvo precedido por varios días de lluvias. Sobre la media noche, los ríos que atraviesan Mocoa (Mulato, Mocoa, y Sangoyaco) y varias quebradas como la Taruca desplazaron toneladas de lodo sobre la zona urbana sepultando barrios enteros.  Algunas personas lograron escapar de la ciudad antes que las vías de escape fueran bloqueadas por el desastre. Otras personas lograron salir de sus hogares a la calle, las cuales dieron testimonio de ríos de barro y de gente gritando de miedo. Después del gran desplazamiento de lodo, los primeros reportes oficiales realizados por el Comando General de las Fuerzas Militares reportaban al menos doscientas víctimas fatales, con cientos de personas desaparecidas. La gobernadora de la época en el Putumayo, Sorrel Aroca, informa que en la zona del desastre no hay suministro de energía eléctrica ni de gas, adicionalmente el acueducto quedó bastante afectado.  La plaza de mercado (centro de acopio de alimentos) fue devastada afectando el abastecimiento de alimentos en medio de la emergencia. Desde las primeras horas del sábado, personal de socorro de la Policía y Fuerzas Militares fueron movilizados para hacerle frente a la emergencia. En horas de la mañana, el presidente de ese entonces, Juan Manuel Santos, se desplazó a la zona y declaró el estado de calamidad. Adicionalmente, el gobierno colombiano activó el Sistema Nacional de Gestión del Riesgo de Desastres para atender la emergencia.
 :::
 
-La **Figura 4** muestra como los deslizamientos afectaron y sepultaron gran parte de la zona urbana de Mocoa. A continuación, se realiza el análisis de la progresión de la vulnerabilidad resaltando las principales causas raíz, presiones dinámicas y condiciones inseguras que desencadenaron la tragedia.
+La @fig-c7-4 muestra como los deslizamientos afectaron y sepultaron gran parte de la zona urbana de Mocoa. A continuación, se realiza el análisis de la progresión de la vulnerabilidad resaltando las principales causas raíz, presiones dinámicas y condiciones inseguras que desencadenaron la tragedia.
 
+::: {#fig-c7-4}
+**Nota:** la imagen de esta figura no se incluyó en el archivo fuente de este capítulo.
 
-
-**Figura 4.**  Afectación del área urbana de Mocoa. Fuente: UNGRD [[28]](#ref-28).
+Afectación del área urbana de Mocoa. Fuente: UNGRD [[28]](#ref-28).
+:::
 
 ## 7.9 Causas raíz del desastre de Mocoa
 
@@ -196,10 +190,9 @@ Para el caso particular de Armero, la situación vivida por las familias que aú
 
 ## 7.12 CONCLUSIONES Y RECOMENDACIONES
 
-Como resultado de la aplicación del modelo Pressure and Release a la tragedia de Armero y el desastre de Mocoa se concluye que los peligros asociados con la localización geográfica de las comunidades afectadas fueron potenciados por la vulnerabilidad socioeconómica y las acciones inseguras. Como se observa en la Tabla 1, existen aspectos comunes entre los dos casos de estudio como son el limitado acceso a la tecnología, la urbanización en zonas de alto riesgo y la falta de mecanismos de coordinación entre los actores involucrados en la respuesta y recuperación del desastre. 
+Como resultado de la aplicación del modelo Pressure and Release a la tragedia de Armero y el desastre de Mocoa se concluye que los peligros asociados con la localización geográfica de las comunidades afectadas fueron potenciados por la vulnerabilidad socioeconómica y las acciones inseguras. Como se observa en la @tbl-c7-1, existen aspectos comunes entre los dos casos de estudio como son el limitado acceso a la tecnología, la urbanización en zonas de alto riesgo y la falta de mecanismos de coordinación entre los actores involucrados en la respuesta y recuperación del desastre. 
 
-**Tabla 1.** Comparación de la aplicación del modelo PAR para la tragedia de Armero y el desastre de Mocoa.
-
+: Comparación de la aplicación del modelo PAR para la tragedia de Armero y el desastre de Mocoa. {#tbl-c7-1}
 
 | Categoría | Factor 1 | Factor 2 | Armero | Mocoa |
 | --- | --- | --- | --- | --- |

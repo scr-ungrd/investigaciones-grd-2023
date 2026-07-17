@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 11: La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático"
+title: "11. La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático"
 author:
   - name: "Dorotea Cardona Hernández ^1^"
     orcid: "https://independent.academia.edu/DoroteaCardonaHern%C3%A1ndez"
@@ -7,6 +7,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -59,13 +61,9 @@ Por otro lado, la Política Nacional de Cambio Climático (PNCC) expresa que pro
 
 En cuanto a elementos de articulación identificados, las políticas coinciden en referir el bienestar humano, la resiliencia y el cuidado del ambiente los cuales consolidan la sostenibilidad del territorio (adaptado de [[3]](#ref-3), [[4]](#ref-4), [[9]](#ref-9)). 
 
-Se resalta el cuidado del ambiente, el cual representa la base natural y donde la biodiversidad como elemento estructurante del territorio propicia acciones desde el enfoque de SbN para proteger y gestionar de forma sostenible los ecosistemas naturales o modificados de manera eficaz y adaptativa, al tiempo que proporciona beneficios para las poblaciones humanas y la biodiversidad [[10]](#ref-10). A continuación, la **Figura 1** muestra la articulación de las políticas desde los elementos comunes que soportan la sostenibilidad del territorio. 
+Se resalta el cuidado del ambiente, el cual representa la base natural y donde la biodiversidad como elemento estructurante del territorio propicia acciones desde el enfoque de SbN para proteger y gestionar de forma sostenible los ecosistemas naturales o modificados de manera eficaz y adaptativa, al tiempo que proporciona beneficios para las poblaciones humanas y la biodiversidad [[10]](#ref-10). A continuación, la @fig-c11-1 muestra la articulación de las políticas desde los elementos comunes que soportan la sostenibilidad del territorio.
 
-![Imagen LGRD-06-FIGURA_1.png](images/capitulo_11/LGRD-06-FIGURA_1.png)
-
-
-
-**Figura 1.** Esquema de articulación de políticas públicas colombianas y marcos internacionales relacionados con la biodiversidad y sus servicios ecosistémicos, riesgo de desastres y el cambio climático; donde el bienestar humano, la resiliencia y el cuidado del ambiente se perfilan como elementos emergentes que consolidan la sostenibilidad del territorio, resaltando del cuidado del ambiente la biodiversidad como eje para el desarrollo del enfoque de SbN. Fuente: Elaboración propia
+![Esquema de articulación de políticas públicas colombianas y marcos internacionales relacionados con la biodiversidad y sus servicios ecosistémicos, riesgo de desastres y el cambio climático; donde el bienestar humano, la resiliencia y el cuidado del ambiente se perfilan como elementos emergentes que consolidan la sostenibilidad del territorio, resaltando del cuidado del ambiente la biodiversidad como eje para el desarrollo del enfoque de SbN. Fuente: Elaboración propia.](images/capitulo_11/LGRD-06-FIGURA_1.png){#fig-c11-1}
 
 ## 11.2 RUTAS ESTRATÉGICAS PARA GESTIONAR EL RIESGO DE DESASTRES Y EL CAMBIO CLIMÁTICO DESDE LA GESTIÓN INTEGRAL DE LA BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS
 
@@ -82,17 +80,13 @@ El cambio climático ha afectado la biodiversidad y sus servicios ecosistémicos
 
 Es por esto que la gestión del riesgo frente al cambio climático desde la biodiversidad y sus servicios ecosistémicos se centra en la reducción de la exposición y la vulnerabilidad a la vez que se aumenta la resiliencia a los potenciales impactos adversos [[14]](#ref-14) mediante el reconocimiento de la naturaleza como atenuador de impactos y elemento clave para la adaptación frente al cambio climático.
 
-Para incorporar la biodiversidad y sus servicios ecosistémicos en la gestión del riesgo de desastres y el cambio climático se reconocen los socioecosistemas como los espacios donde el ser humano, sus expresiones culturales y desarrollo económico hacen parte integral de los ecosistemas para gestionar la biodiversidad [[6]](#ref-6). Desde el enfoque de SbN se proponen estrategias para abordar los conflictos socioecológicos, en este caso relacionados con el riesgo de desastres y el cambio climático desde dos rutas (**Fig. 2**). A continuación, se desarrollan cada una de estas rutas propuestas. 
+Para incorporar la biodiversidad y sus servicios ecosistémicos en la gestión del riesgo de desastres y el cambio climático se reconocen los socioecosistemas como los espacios donde el ser humano, sus expresiones culturales y desarrollo económico hacen parte integral de los ecosistemas para gestionar la biodiversidad [[6]](#ref-6). Desde el enfoque de SbN se proponen estrategias para abordar los conflictos socioecológicos, en este caso relacionados con el riesgo de desastres y el cambio climático desde dos rutas (@fig-c11-2). A continuación, se desarrollan cada una de estas rutas propuestas.
 
-La BDSE como conjunto vulnerable receptor de impactos. 
+La BDSE como conjunto vulnerable receptor de impactos.
 
-La BDSE como conjunto para atenuar riesgos e impactos. 
+La BDSE como conjunto para atenuar riesgos e impactos.
 
-
-
-**Figura 2.** Rutas para abordar los conflictos socioecológicos relacionados con el riesgo de desastres y el cambio climático desde la gestión integral de la biodiversidad y sus servicios ecosistémicos (bajo el enfoque de las SbN). Fuente: Elaboración propia
-
-![Imagen LGRD-06-FIGURA_2.png](images/capitulo_11/LGRD-06-FIGURA_2.png)
+![Rutas para abordar los conflictos socioecológicos relacionados con el riesgo de desastres y el cambio climático desde la gestión integral de la biodiversidad y sus servicios ecosistémicos (bajo el enfoque de las SbN). Fuente: Elaboración propia.](images/capitulo_11/LGRD-06-FIGURA_2.png){#fig-c11-2}
 
 ### 11.2.1 Biodiversidad y servicios ecosistémicos como conjunto vulnerable
 
@@ -115,9 +109,7 @@ Los planteamientos anteriores llevan a identificar la relación con uno o varios
 
 
 
-**Figura 3.** Relaciones de los escenarios de riesgo y la vulnerabilidad desde las dimensiones ambiental y física.  Fuente: Elaboración propia
-
-![Imagen LGRD-06-FIGURA_3.png](images/capitulo_11/LGRD-06-FIGURA_3.png)
+![Relaciones de los escenarios de riesgo y la vulnerabilidad desde las dimensiones ambiental y física. Fuente: Elaboración propia.](images/capitulo_11/LGRD-06-FIGURA_3.png){#fig-c11-3}
 
 Las acciones que se proponen desde esta ruta buscan primero evitar los motores de transformación y pérdida de la biodiversidad y con ello disminuir la vulnerabilidad ambiental, y segundo, establecer estrategias para recuperar la BDSE desde las SbN en caso de presentarse un desastre que impacte los sociecosistemas vulnerables físicamente. 
 
@@ -179,13 +171,9 @@ Los escenarios de riesgo como las inundaciones, los deslizamientos o las sequía
 **Caja 7.** Servicios ecosistémicos de regulación  Se relacionan con aquellas contribuciones indirectas al bienestar humano provenientes del funcionamiento de los ecosistemas [[23]](#ref-23), a las cuales rara vez en la sociedad se les reconoce un valor económico [[24]](#ref-24). Los autores [[25]](#ref-25) consideran que los SE de regulación disminuyen con el aumento de la intensidad de uso, debido al agotamiento de los ecosistemas que los proveen.  Los SE de regulación relacionados son: Regulación de la calidad del aire  Regulación climática (incluyendo la captura de carbono)  Regulación de riesgos naturales  Regulación de los flujos de agua  Tratamiento de desechos Prevención de la erosión  Mantenimiento de la fertilidad del suelo  Polinización  Control biológico
 :::
 
-De los servicios ecosistémicos, se resalta el de regulación ya que actúan como controles estratégicos para reducir los escenarios de riesgo e impactos exacerbados por el cambio climático, incluidos los efectos colaterales que pueden consolidar riesgos de origen tecnológico. Esta relación se muestra en la **Figura 4.**
+De los servicios ecosistémicos, se resalta el de regulación ya que actúan como controles estratégicos para reducir los escenarios de riesgo e impactos exacerbados por el cambio climático, incluidos los efectos colaterales que pueden consolidar riesgos de origen tecnológico. Esta relación se muestra en la @fig-c11-4.
 
-![Imagen LGRD-06-FIGURA_4.png](images/capitulo_11/LGRD-06-FIGURA_4.png)
-
-
-
-**Figura 4.** Relaciones de la biodiversidad y sus servicios ecosistémicos de regulación como conjunto para atenuar riesgos de desastre e impactos por el cambio climático.  Fuente: Elaboración propia.
+![Relaciones de la biodiversidad y sus servicios ecosistémicos de regulación como conjunto para atenuar riesgos de desastre e impactos por el cambio climático. Fuente: Elaboración propia.](images/capitulo_11/LGRD-06-FIGURA_4.png){#fig-c11-4}
 
 **2.2.1.	Estudios de caso de la biodiversidad y sus servicios ecosistémicos como atenuador de riesgos e impactos** 
 
@@ -253,13 +241,9 @@ La cual permite su aplicación en distintas escalas y unidades de paisaje, media
 
 Esta estrategia permite reducir escenarios de riesgo y evitar la reproducción de las condiciones de riesgo preexistentes de áreas afectadas por el desastre. 
 
-A continuación, la **Figura 5** muestra una aproximación conceptual desde la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres y el cambio climático.
+A continuación, la @fig-c11-5 muestra una aproximación conceptual desde la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres y el cambio climático.
 
-![Imagen LGRD-06-FIGURA_5.png](images/capitulo_11/LGRD-06-FIGURA_5.png)
-
-
-
-**Figura 5.** Aproximación conceptual desde la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres y el cambio climático en el alcance de un modelo territorial sostenible. Fuente: Elaboración propia.
+![Aproximación conceptual desde la gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres y el cambio climático en el alcance de un modelo territorial sostenible. Fuente: Elaboración propia.](images/capitulo_11/LGRD-06-FIGURA_5.png){#fig-c11-5}
 
 ## 11.3 CONCLUSIONES
 

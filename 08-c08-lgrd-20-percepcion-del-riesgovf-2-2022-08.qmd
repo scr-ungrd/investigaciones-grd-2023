@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 08: Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia"
+title: "8. Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia"
 author:
   - name: "Luz Adriana Muñoz-Duque ^1^"
     affiliation: "^1^Grupo de Investigación en Psicología Sociedad y Subjetividades, Facultad de Ciencias Sociales y Humanas, y Grupo de Investigación Salud y Ambiente, Facultad Nacional de Salud Pública, Universidad de Antioquia, Medellín, Colombia"
@@ -9,6 +9,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -58,13 +60,9 @@ En esta pretensión de recoger algunas reflexiones suscitadas a partir de tales 
 
 ## 8.2 ASPECTOS INFLUYENTES EN LA PERCEPCIÓN DEL RIESGO
 
-La revisión de antecedentes investigativos, tanto como los estudios realizados en nuestro país, a propósito de la percepción del riesgo de desastres, nos permiten resaltar algunos aspectos psicosociales que, en interacción con diversos fenómenos riesgosos, posibilitan ampliar la comprensión de la manera como las personas nos relacionamos con los riesgos ambientales. Así, la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos (Figura 1).
+La revisión de antecedentes investigativos, tanto como los estudios realizados en nuestro país, a propósito de la percepción del riesgo de desastres, nos permiten resaltar algunos aspectos psicosociales que, en interacción con diversos fenómenos riesgosos, posibilitan ampliar la comprensión de la manera como las personas nos relacionamos con los riesgos ambientales. Así, la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos (@fig-c8-1).
 
-
-
-**Figura 1.** Aspectos influyentes en la percepción del riesgo.
-
-![Aspectos influyentes en la percepción del riesgo](images/capitulo_8/Figura 1. Aspectos influyentes en la percepción del riesgo.jpg)
+![Aspectos influyentes en la percepción del riesgo.](images/capitulo_8/Figura 1. Aspectos influyentes en la percepción del riesgo.jpg){#fig-c8-1}
 
 **Características del evento riesgoso y percepción del riesgo**
 

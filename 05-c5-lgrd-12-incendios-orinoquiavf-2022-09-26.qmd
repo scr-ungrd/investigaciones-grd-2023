@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 05: Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía"
+title: "5. Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía"
 author:
   - name: "Daniela Torinjano Jiménez ^1^"
     orcid: "CvLAC"
@@ -11,6 +11,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -61,13 +63,11 @@ Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso 
 
 ## 5.2 DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA
 
-La Orinoquía (**Fig. 1**), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino [[16]](#ref-16). La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo [[17]](#ref-17). Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm [[16]](#ref-16), [[18]](#ref-18). 
+La Orinoquía (@fig-c5-1), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino [[16]](#ref-16). La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo [[17]](#ref-17). Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm [[16]](#ref-16), [[18]](#ref-18). 
 
 La Orinoquia Colombiana ha tenido una clara afectación por los incendios [[19]](#ref-19). En el periodo entre diciembre del año 2000 y febrero del 2009 las regiones que presentaron una mayor afectación fueron la Orinoquia, seguida por la Amazonía y el Caribe. Así mismo, en la Orinoquía se observó un claro patrón intra-anual de incendios, donde se evidencia un comportamiento bimodal asociado a la época de verano; el primer pico donde se concentran la gran parte de anomalías térmicas se da entre diciembre y marzo y otro más corto entre julio y agosto. 
 
-![Imagen Figura1_Ubicacion.png](images/capitulo_5/Figura1_Ubicacion.png)
-
-**Figura 1.** Localización del área de estudio. Se ubica al este de Colombia limitando al norte y este con Venezuela, al sur con Amazonia y al oeste con la región Andina. Se halla entre los ríos Arauca, Guaviare, Orinoco y el Piedemonte llanero. Dicha región la conforma los departamentos de Arauca, Casanare, Meta y Vichada albergando 64 municipios y alcanzando un área aproximada de 254,000 km2.
+![Localización del área de estudio. Se ubica al este de Colombia limitando al norte y este con Venezuela, al sur con Amazonia y al oeste con la región Andina. Se halla entre los ríos Arauca, Guaviare, Orinoco y el Piedemonte llanero. Dicha región la conforma los departamentos de Arauca, Casanare, Meta y Vichada albergando 64 municipios y alcanzando un área aproximada de 254,000 km2.](images/capitulo_5/Figura1_Ubicacion.png){#fig-c5-1}
 
 En lo que respecta al impacto en el paisaje y los ecosistemas, se encuentra que es sobre todo la deforestación para la instauración de nuevos sistemas de producción agropecuaria [[20]](#ref-20) y extracción de hidrocarburos [[21]](#ref-21) el fenómeno de mayor peso. Seguidamente, se encuentran los incendios forestales, de los cuales se reporta que las sabanas son influenciadas por incendios recurrentes y de amplia extensión, principalmente en el periodo seco de enero a marzo. Estas conflagraciones son esencialmente ocasionadas por actividades de caza, pesca y renovación de pastizales [[10]](#ref-10), así como en actividades de inicio de siembra [[22]](#ref-22).
 
@@ -90,29 +90,29 @@ Los análisis y comparativos se realizarán bajo dos procedimientos:
 
 ### 5.2.1 Focos de calor y área quemada detectados a través de MODIS
 
-Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (**Fig. 2**), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.  
+Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (@fig-c5-2), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.  
 
+::: {#fig-c5-2}
 | A |  |
 | --- | --- |
 |  | B |
 
-**Figura 2.** Número de anomalías térmicas (día-noche) obtenidas por el sensor MODIS en la Orinoquía Colombiana para los períodos de análisis de (A) diciembre de 2019 a junio de 2020 y (B) diciembre de 2020 a junio de 2021.
+Número de anomalías térmicas (día-noche) obtenidas por el sensor MODIS en la Orinoquía Colombiana para los períodos de análisis de (A) diciembre de 2019 a junio de 2020 y (B) diciembre de 2020 a junio de 2021. **Nota:** las imágenes originales A y B no se incluyeron en el archivo fuente de este capítulo; solo se conservan las celdas de referencia.
+:::
 
 Durante el período de estudio se observa que la mayor detección de anomalías térmicas, se presenta entre los meses de enero a marzo para ambos períodos analizados, situación muy probablemente generada por la baja precipitación, las altas temperaturas y la acción del viento de esta época. El mes donde los registros de anomalías se concentran es marzo, momento en el que se denotan 1,006 focos de calor para el primer periodo de análisis, y 312 para el segundo. A partir de abril, se evidencia una clara reducción en el número de fuegos detectados, donde la causa más probable de dicha reducción se debe al inicio de la temporada de lluvia que se extiende hasta finales de noviembre. Estos resultados concuerdan con trabajos similares realizados en condiciones o escenarios próximos [[19]](#ref-19), [[28]](#ref-28).
 
 Al realizar un análisis detallado del 2020, se evidenció que el 13 de febrero, y el 5 y 21 de marzo se presentaron las mayores anomalías térmicas alcanzando 108, 93 y 92 puntos de calor respectivamente. Además, se observó que el día en que inicia el incremento de este parámetro es el 28 de enero. Es importante resaltar que para el mes de marzo de 2020 se decreta el inicio de los períodos de aislamiento obligatorio preventivo por la emergencia sanitaria por COVID-19. Específicamente el 12 de marzo de 2020 se declara emergencia sanitaria en todo el territorio nacional, el 17 de marzo se declara estado de Emergencia por parte del presidente de la República y a partir del 25 de marzo se genera el aislamiento preventivo obligatorio, hecho que podría relacionarse con el gran incremento que se presentó respecto al año 2021.
 
-La distribución espacial de los focos de calor en los dos períodos de análisis (**Fig. 3**), muestra que la mayoría de los focos de calor se presentan en los departamentos de Vichada y Meta, no obstante, para el año 2020 existe una alta concentración de anomalías térmicas en la frontera de Colombia y Venezuela que se hace más evidente en el mes de marzo. 
+La distribución espacial de los focos de calor en los dos períodos de análisis (@fig-c5-3), muestra que la mayoría de los focos de calor se presentan en los departamentos de Vichada y Meta, no obstante, para el año 2020 existe una alta concentración de anomalías térmicas en la frontera de Colombia y Venezuela que se hace más evidente en el mes de marzo. 
 
 Si bien los focos de calor detectados son una aproximación a la ocurrencia real de incendios forestales, constituyen una fuente importante para el análisis de la distribución espacial y temporal de los eventos, el estudio y definición del foco de contaminación del aire, la ubicación de puntos persistentes, y un insumo preliminar para un comparativo con las detecciones alcanzadas de áreas quemadas que se pueden deducir del uso de otros instrumentos, tales como la información de MODIS y Sentinel 2.
 
-Por otro lado, al analizar el área quemada en la Orinoquia se observa que este valor es significativamente mayor en el primer período de análisis (**Tabla 1**), alrededor de 2.5 veces más de área quemada que en el segundo período. El total de área quemada para el año 2020 es de 2,054,174.4 ha, de las cuales el 90.3% se concentran en los meses de enero a marzo. De acuerdo con [[29]](#ref-29), los datos de áreas quemadas reportadas en 2020 por MODIS, superan inclusive los valores de 2018 y 2019 que registraron 1,964,100.9 ha, y 1,493,421.3 ha respectivamente. Se resalta que de acuerdo con [[30]](#ref-30), para el 2018 hubo un incremento significativo en los focos de calor. Entre las posibles causas se encuentra las altas temperaturas que se dieron, y generando incendios que arrasaron millones de hectáreas entre la Amazonia y Orinoquia.
+Por otro lado, al analizar el área quemada en la Orinoquia se observa que este valor es significativamente mayor en el primer período de análisis (@tbl-c5-1), alrededor de 2.5 veces más de área quemada que en el segundo período. El total de área quemada para el año 2020 es de 2,054,174.4 ha, de las cuales el 90.3% se concentran en los meses de enero a marzo. De acuerdo con [[29]](#ref-29), los datos de áreas quemadas reportadas en 2020 por MODIS, superan inclusive los valores de 2018 y 2019 que registraron 1,964,100.9 ha, y 1,493,421.3 ha respectivamente. Se resalta que de acuerdo con [[30]](#ref-30), para el 2018 hubo un incremento significativo en los focos de calor. Entre las posibles causas se encuentra las altas temperaturas que se dieron, y generando incendios que arrasaron millones de hectáreas entre la Amazonia y Orinoquia.
 
-![Imagen Figura3_FocosdeCalor.png](images/capitulo_5/Figura3_FocosdeCalor.png)
+![Distribución de las anomalías térmicas en la Orinoquia Colombiana para los períodos de análisis de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021.](images/capitulo_5/Figura3_FocosdeCalor.png){#fig-c5-3}
 
-**Figura 3.** Distribución de las anomalías térmicas en la Orinoquia Colombiana para los períodos de análisis de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. 
-
-**Tabla 1.** Área quemada en hectáreas en la Orinoquia Colombiana reportada por el sensor MODIS MCD64A1 versión 6.
+: Área quemada en hectáreas en la Orinoquia Colombiana reportada por el sensor MODIS MCD64A1 versión 6. {#tbl-c5-1}
 
 | Departamento | Área (ha) | Área (ha) |
 | --- | --- | --- |
@@ -123,23 +123,21 @@ Por otro lado, al analizar el área quemada en la Orinoquia se observa que este 
 | Vichada | 1,119,361.87 | 354,132.80 |
 | TOTAL | 2,054,174.32 | 815,485.79 |
 
-La distribución de la superficie afectada por el fuego en la Orinoquia se da en toda la región, no obstante, para el año 2020 se observa una mayor afectación en Meta y Vichada; sin embargo, al este de Arauca y norte de vichada se concentra la mayor afectación entre los meses de febrero y marzo limitando con Venezuela. Los puntos donde se localizan los focos de calor coinciden con las áreas quemadas que presenta el sensor MODIS para la Orinoquia (**Fig. 4**).
+La distribución de la superficie afectada por el fuego en la Orinoquia se da en toda la región, no obstante, para el año 2020 se observa una mayor afectación en Meta y Vichada; sin embargo, al este de Arauca y norte de vichada se concentra la mayor afectación entre los meses de febrero y marzo limitando con Venezuela. Los puntos donde se localizan los focos de calor coinciden con las áreas quemadas que presenta el sensor MODIS para la Orinoquia (@fig-c5-4).
 
-![Imagen Figura4_area_quemadaMODIS.png](images/capitulo_5/Figura4_area_quemadaMODIS.png)
-
-**Figura 4.** Distribución de las áreas quemadas en la Orinoquia Colombiana para los períodos de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021.
+![Distribución de las áreas quemadas en la Orinoquia Colombiana para los períodos de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021.](images/capitulo_5/Figura4_area_quemadaMODIS.png){#fig-c5-4}
 
 ### 5.2.2 Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel-2
 
-La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego [[31]](#ref-31). Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (**Tabla 2** y **3**, y **Fig. 5**), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.  
+La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego [[31]](#ref-31). Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (@tbl-c5-2 y @tbl-c5-3, y @fig-c5-5), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.  
 
-Al calcular la superficie quemada como la sumatoria de las clases 1 (alta severidad), 2 (moderada/alta severidad), 3 (moderada/baja severidad) y 4 (baja severidad) (**Tabla 2** y **3**) en el área de estudio, fue para el primer período de 2,461,908.6 ha, mientras que para el segundo período fue de 847,756.5 ha. Por otro lado, se observa que un área equivalente a 2,333,588.4 ha se registra como sucesión vegetal (clases 6 y 7) en el año 2021 (mayor a 2,294,845.9 ha que se reportan en el año 2020), probablemente debido a los incendios registrados un año atrás. 
+Al calcular la superficie quemada como la sumatoria de las clases 1 (alta severidad), 2 (moderada/alta severidad), 3 (moderada/baja severidad) y 4 (baja severidad) (@tbl-c5-2 y @tbl-c5-3) en el área de estudio, fue para el primer período de 2,461,908.6 ha, mientras que para el segundo período fue de 847,756.5 ha. Por otro lado, se observa que un área equivalente a 2,333,588.4 ha se registra como sucesión vegetal (clases 6 y 7) en el año 2021 (mayor a 2,294,845.9 ha que se reportan en el año 2020), probablemente debido a los incendios registrados un año atrás. 
 
-Es importante mencionar que, durante el procesamiento de los datos, muchas de las imágenes se encontraban con una alta nubosidad, razón por la cual, se aplica una máscara para eliminar las nubes y las sombras de nubes, ya que las primeras no permiten observar la superficie mientras que las sombras tienen bajos niveles de reflectividad, por tanto, pueden ser confundidas con zonas de áreas quemadas. Por lo anterior, en los resultados se observa espacios en blanco (correspondiente a la categoría NA), donde no se pudo determinar el índice Normalizado de Área Quemada (**Fig. 5**).
+Es importante mencionar que, durante el procesamiento de los datos, muchas de las imágenes se encontraban con una alta nubosidad, razón por la cual, se aplica una máscara para eliminar las nubes y las sombras de nubes, ya que las primeras no permiten observar la superficie mientras que las sombras tienen bajos niveles de reflectividad, por tanto, pueden ser confundidas con zonas de áreas quemadas. Por lo anterior, en los resultados se observa espacios en blanco (correspondiente a la categoría NA), donde no se pudo determinar el índice Normalizado de Área Quemada (@fig-c5-5).
 
 El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detección de cambios, en el que los datos anteriores y posteriores a un evento se deducen entre sí, por lo que se pueden detectar como incendios los cambios generados por deforestación y otros cambios en la cobertura del suelo. De igual forma, en ocasiones los algoritmos de máscara de nubes y sombra de nubes aplicados no eliminan totalmente las sombras de las nubes, lo que puede ocasionar que existan detecciones falsas o errores de omisión [[32]](#ref-32). Igualmente, pueden ser fuente de error los cambios leves en la vegetación, como lo es la regeneración natural detectada en el mes de abril, en zonas donde ocurrieron incendios, ya que generan una baja diferencia en el rango de dNBR el cual no es clasificado como área quemada sino posiblemente como rebrote (vegetación en crecimiento).  De lo anterior, puede afirmarse que el desarrollo de técnicas de validación para la detección de cambios en la cobertura vegetal, es fundamental para evaluar las incertidumbres asociadas con los productos basados ​​en datos satelitales, para identificar las mejoras necesarias en los productos y para permitir que los productos se utilicen adecuadamente [[33]](#ref-33).
 
-**Tabla 2.** Área reportada para las clases del índice Normalizado de Área Quemada en el período 2019 a 2020.
+: Área reportada para las clases del índice Normalizado de Área Quemada en el período 2019 a 2020. {#tbl-c5-2}
 
 | Clase | Nombre | Departamento | Departamento | Departamento | Departamento |
 | --- | --- | --- | --- | --- | --- |
@@ -154,7 +152,7 @@ El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detec
 | 7 | Nuevo rebrote, Alto | 1,383.98 | 202,217.40 | 614,039.20 | 75,275.80 |
 | Total | Total | 2,377,757.74 | 4,430,384.21 | 8,546,626.86 | 9,937,376.66 |
 
-**Tabla 3.** Área reportada para las clases del índice Normalizado de Área Quemada en el período 2020 a 2021.
+: Área reportada para las clases del índice Normalizado de Área Quemada en el período 2020 a 2021. {#tbl-c5-3}
 
 | Clase | Nombre | Departamento | Departamento | Departamento | Departamento |
 | --- | --- | --- | --- | --- | --- |
@@ -169,7 +167,7 @@ El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detec
 | 7 | Nuevo rebrote, Alto | 6,231.04 | 5,389.88 | 659,097.60 | 191,943.04 |
 | Total | Total | 2,377,757.62 | 4,430,384.72 | 8,546,627.18 | 9,937,377.46 |
 
-En el área de estudio, se observa que el departamento de Arauca y Meta, fueron los departamentos que presenta mayores cambios de la vegetación para el 2020, de igual forma, se observa que entre Arauca y Casanare se sigue una trayectoria de área afectada que va desde los límites con Venezuela (**Fig. 5**). 
+En el área de estudio, se observa que el departamento de Arauca y Meta, fueron los departamentos que presenta mayores cambios de la vegetación para el 2020, de igual forma, se observa que entre Arauca y Casanare se sigue una trayectoria de área afectada que va desde los límites con Venezuela (@fig-c5-5).
 
 Por otro lado, las variaciones en los datos pueden deberse al umbral implementado, algunos estudios como el realizado por [[27]](#ref-27), muestran los diferentes resultados de detección de áreas quemadas al modificar el valor del umbral como respuesta a los múltiples factores que afectan el cálculo de la diferencia temporal de NBR y la importancia de definir valores por ecosistemas que permitan la estimación de área quemada utilizando modelos regionales.  
 
@@ -177,9 +175,7 @@ Los resultados de ambas metodologías, muestran que en medio de la pandemia, muc
 
 Además, sostienen que estos eventos de quema de biomasa, se deben principalmente a que personas inescrupulosas, aprovecharon la emergencia sanitaria para realizar daños ambientales sobre áreas de especial importancia ecológica y áreas naturales protegidas, debido a la falta de vigilancia y control por parte de las autoridades competentes [[34]](#ref-34).
 
-![Imagen Figura5_dNBR.png](images/capitulo_5/Figura5_dNBR.png)
-
-**Figura 5.** Mapa de clasificación del Índice Normalizado de Área Quemada (NBR) para el año 2020 y 2021 
+![Mapa de clasificación del Índice Normalizado de Área Quemada (NBR) para el año 2020 y 2021.](images/capitulo_5/Figura5_dNBR.png){#fig-c5-5}
 
 ## 5.3 CONCLUSIONES
 
@@ -213,21 +209,19 @@ Esta información, se descargó en formato shapefile para el período comprendid
 
 Se descargó los datos del Land Processes Distributed Active Archive Center (LP-DAAC) de la Universidad de Maryland, disponible para su descarga en formato HDF, GeoTIFF o Shapefile de la colección 6 de MODIS de áreas quemada a través del enlace: ftp://ba1.geog.umd.edu. 
 
-El producto MCD64A1 versión 6 se genera de forma mensual, presenta una resolución espacial de 500 m y nivel 3 (nivel de procesamiento de los datos satelitales, que se han mapeado en una cuadrícula, espacio-tiempo uniforme y de calidad controlada). Su procesamiento identifica áreas quemadas recientes (> 25 ha) y descarta las que ocurrieron en temporadas anteriores (no contempla áreas quemadas procesadas en cálculos anteriores, con el fin de evitar el reporte de valores que ya han sido previamente considerados). Los archivos se reproyectan en proyección Plate-Carree y cubren un conjunto de ventanas subcontinentales (**Fig. 6**).
+El producto MCD64A1 versión 6 se genera de forma mensual, presenta una resolución espacial de 500 m y nivel 3 (nivel de procesamiento de los datos satelitales, que se han mapeado en una cuadrícula, espacio-tiempo uniforme y de calidad controlada). Su procesamiento identifica áreas quemadas recientes (> 25 ha) y descarta las que ocurrieron en temporadas anteriores (no contempla áreas quemadas procesadas en cálculos anteriores, con el fin de evitar el reporte de valores que ya han sido previamente considerados). Los archivos se reproyectan en proyección Plate-Carree y cubren un conjunto de ventanas subcontinentales (@fig-c5-6).
 
-Se descargó la información de la ventana 5 en formato shapefile (**Fig. 6**), para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. A través del software ArcGis 10.5 y QGis 3.12 se realizó la delimitación de la información, el cálculo de las áreas afectadas y la composición del mapa.
+Se descargó la información de la ventana 5 en formato shapefile (@fig-c5-6), para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. A través del software ArcGis 10.5 y QGis 3.12 se realizó la delimitación de la información, el cálculo de las áreas afectadas y la composición del mapa.
 
-![Imagen Figura6_Ventanas_AQModis.png](images/capitulo_5/Figura6_Ventanas_AQModis.png)
-
-**Figura 6.** Cobertura de los subconjuntos de formato Shapefile [[35]](#ref-35)
+![Cobertura de los subconjuntos de formato Shapefile [[35]](#ref-35).](images/capitulo_5/Figura6_Ventanas_AQModis.png){#fig-c5-6}
 
 ### 5.4.4 Análisis de incendios a partir de imágenes de Sentinel 2
 
 El procesamiento, el desarrollo de algoritmos y el cálculo de las áreas en donde hubo cambios en la vegetación se realizó a través de la plataforma Google Earth Engine (GEE) basada en la nube que permite para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño a escala planetaria.
 
-Con el análisis de los focos de calor, se definió el mes de diciembre como un período donde la ocurrencia de incendios fue muy baja (pre-incendio) y a partir de abril como la época donde ya habían ocurrido la mayor parte de los incendios (post-incendios). De acuerdo con la disponibilidad de imágenes Sentinel-2 en GEE, se ajustó el período de análisis tal como se presenta en la **Tabla 4**.
+Con el análisis de los focos de calor, se definió el mes de diciembre como un período donde la ocurrencia de incendios fue muy baja (pre-incendio) y a partir de abril como la época donde ya habían ocurrido la mayor parte de los incendios (post-incendios). De acuerdo con la disponibilidad de imágenes Sentinel-2 en GEE, se ajustó el período de análisis tal como se presenta en la @tbl-c5-4.
 
-**Tabla 4.** Características de las imágenes utilizadas para los análisis de áreas quemadas con Sentinel-2
+: Características de las imágenes utilizadas para los análisis de áreas quemadas con Sentinel-2. {#tbl-c5-4}
 
 | Sensor | Período pre-incendio | No de imágenes | Período post-incendio | No de imágenes | Resolución espacial |
 | --- | --- | --- | --- | --- | --- |
@@ -260,9 +254,9 @@ dNBR: Diferencia normalizada de área quemada
 NBRprefuego: Índice normalizado de área quemada previo al incendio
 NBRpostfuego: Índice normalizado de área quemada posterior al incendio
 
-El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas con valores de dNBR más altos indican daños más severos, mientras que las áreas con valores de dNBR negativos pueden mostrar una mayor productividad de la vegetación [[32]](#ref-32). El dNBR se clasificó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (**Tabla 5**).
+El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas con valores de dNBR más altos indican daños más severos, mientras que las áreas con valores de dNBR negativos pueden mostrar una mayor productividad de la vegetación [[32]](#ref-32). El dNBR se clasificó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (@tbl-c5-5).
 
-**Tabla 5.** Niveles de severidad y rangos en incendios propuestos.
+: Niveles de severidad y rangos en incendios propuestos. {#tbl-c5-5}
 
 | Nivel de severidad | Rango dNBR (escala de 103) | Rango dNBR (no escalado) |
 | --- | --- | --- |

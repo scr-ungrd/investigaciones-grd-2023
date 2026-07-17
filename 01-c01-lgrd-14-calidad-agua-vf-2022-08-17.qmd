@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 01: Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá"
+title: "1. Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá"
 author:
   - name: "Rafael Fernández ^1^"
     affiliation: "^1^Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá D.C., Colombia"
@@ -33,6 +33,8 @@ author:
 title-block-banner: "images/banner_2023.png"
 date: ""
 doi: ""
+crossref:
+  chapters: false
 ---
 
 ::: {#resumen}
@@ -91,21 +93,17 @@ Teniendo en cuenta lo anterior, la metodología propuesta se basa en un enfoque 
 
 **Exposición**
 
-Para fines de la identificación del riesgo se agrupan los elementos de la infraestructura de los sistemas de acueducto en cuatro grandes componentes: captación, almacenamiento, tratamiento y distribución. El sistema de captación está compuesto por las cuencas, túneles y tuberías que dirigen el agua cruda a los sistemas de almacenamiento. El sistema de almacenamiento se compone por los embalses y por tanques urbanos y rurales. El sistema de tratamiento se compone por las Plantas de Tratamiento para Agua Potable (PTAP) y todos los subsistemas asociados a este. Por último, el sistema de distribución se compone por las estructuras de bombeo, estructuras de control, la red matriz y red menor de acueducto incluyendo las pilas y los tanques de almacenamiento de agua tratada del sistema. Estos sistemas y subsistemas se identifican en la **Figura 1**. 
+Para fines de la identificación del riesgo se agrupan los elementos de la infraestructura de los sistemas de acueducto en cuatro grandes componentes: captación, almacenamiento, tratamiento y distribución. El sistema de captación está compuesto por las cuencas, túneles y tuberías que dirigen el agua cruda a los sistemas de almacenamiento. El sistema de almacenamiento se compone por los embalses y por tanques urbanos y rurales. El sistema de tratamiento se compone por las Plantas de Tratamiento para Agua Potable (PTAP) y todos los subsistemas asociados a este. Por último, el sistema de distribución se compone por las estructuras de bombeo, estructuras de control, la red matriz y red menor de acueducto incluyendo las pilas y los tanques de almacenamiento de agua tratada del sistema. Estos sistemas y subsistemas se identifican en la @fig-c1-1.
 
-![Imagen Fig1.png](images/capitulo_1/Fig1.png)
-
-Figura 1. Modelo exposición EAAB-ESP. Fuente: construcción propia.
+![Modelo exposición EAAB-ESP. Fuente: construcción propia.](images/capitulo_1/Fig1.png){#fig-c1-1}
 
 Los componentes principales del sistema se deben agrupar en un formato de Sistema de Información Geográfica (SIG), en el que se incluyen diferentes aspectos como la identificación de cada componente, la ubicación, el costo asociado, año de construcción y características propias de cada componente como área, volumen, diámetro o longitud, entre otras.
 
 ### 1.2.1 Amenaza
 
-El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud [[17]](#ref-17). Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la **Figura 2.**
+El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud [[17]](#ref-17). Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la @fig-c1-2.
 
-![Imagen Fig2.png](images/capitulo_1/Fig2.png)
-
-Figura 2. Amenazas totales consideradas. Fuente: construcción propia
+![Amenazas totales consideradas. Fuente: construcción propia.](images/capitulo_1/Fig2.png){#fig-c1-2}
 
 Cada una de las posibles amenazas se debe evaluar de manera simplificada, con el fin de calificar la probabilidad de ocurrencia en un escenario seleccionado de tiempo determinado, en términos de: 
 
@@ -117,7 +115,7 @@ Las amenazas se representan mediante escenarios seleccionados con alta probabili
 
 Un indicador de intensidad relativa (1 a 5): es la intensidad con que se podría presentar el evento en cada una de las ubicaciones o componentes expuestos y que pueden llegar a generar posibles impactos a la infraestructura expuesta o directamente en la calidad del agua. Se debe tener en cuenta que el indicador debe permitir comparar el nivel de amenaza para todos los componentes simultáneamente. Por otro lado, debe asegurarse consistencia al comparar un nivel de amenaza entre dos eventos con relación al eventual impacto que pueden llegar a producir (por ejemplo, Nivel 5 para un terremoto o un incendio generarían las peores posibles consecuencias a los componentes que puede afectar según su vulnerabilidad). Cada evento se debe calificar de acuerdo con la siguiente tabla de severidad o intensidades relativas y la calificación debe hacerse para cada uno de los componentes principales expuestos del sistema.
 
-Tabla 1. Intensidad relativa de eventos de amenaza (A).
+: Intensidad relativa de eventos de amenaza (A). {#tbl-c1-1}
 
 | Nivel | Calificación | Observación |
 | --- | --- | --- |
@@ -127,9 +125,9 @@ Tabla 1. Intensidad relativa de eventos de amenaza (A).
 | Alto | 4 | Susceptibilidad alta - Evento que generaría impactos importantes |
 | Extremo | 5 | Susceptibilidad muy alta - Eventos con alta potencialidad de generar daños |
 
-Un indicador de frecuencia relativa de ocurrencia: la intensidad indicada anteriormente deberá tener un indicador asociado de frecuencia de ocurrencia según la **Tabla 2**. Esta tabla debe usarse para caracterizar las amenazas naturales y antrópicas, de acuerdo con la frecuencia histórica observada de ocurrencia de dichos eventos.
+Un indicador de frecuencia relativa de ocurrencia: la intensidad indicada anteriormente deberá tener un indicador asociado de frecuencia de ocurrencia según la @tbl-c1-2. Esta tabla debe usarse para caracterizar las amenazas naturales y antrópicas, de acuerdo con la frecuencia histórica observada de ocurrencia de dichos eventos.
 
-Tabla 2. Frecuencia relativa de ocurrencia de eventos de amenaza (T).
+: Frecuencia relativa de ocurrencia de eventos de amenaza (T). {#tbl-c1-2}
 
 | Caracterización | Calificación | Frecuencia de Ocurrencia Valor de Referencia | Frecuencia de Ocurrencia Valor de Referencia |
 | --- | --- | --- | --- |
@@ -158,13 +156,13 @@ $$V=Vc$$
 
 $$V=1680VcVf$$
 
-En las anteriores ecuaciones,  $Vc$  se refiere al impacto de la amenaza sobre la calidad del agua para el usuario final y debe asignarse de acuerdo con lo indicado en la **Tabla 3** (esta calificación está basada en el Manual para el Desarrollo de Planes de Seguridad del Agua de la Organización Mundial de la Salud OMS de 2009). Vale la pena aclarar que si se está considerando un contaminante en los subsistemas de almacenamiento y/o captación (cuencas, embalses, túneles, etc.), previo al proceso de tratamiento en las PTAP y estos contaminantes se tratan efectivamente en la planta bajo condiciones de operación normal de la misma, la vulnerabilidad asignada debe ser 1. Por otro lado,  $Vf$  corresponde a un indicador de vulnerabilidad física de cada componente ante cada tipo de amenaza con respecto a la posible afectación sobre la calidad del agua. El indicador  $Vf$  debe asignarse de acuerdo con lo indicado en la **Tabla 4**.
+En las anteriores ecuaciones,  $Vc$  se refiere al impacto de la amenaza sobre la calidad del agua para el usuario final y debe asignarse de acuerdo con lo indicado en la @tbl-c1-3 (esta calificación está basada en el Manual para el Desarrollo de Planes de Seguridad del Agua de la Organización Mundial de la Salud OMS de 2009). Vale la pena aclarar que si se está considerando un contaminante en los subsistemas de almacenamiento y/o captación (cuencas, embalses, túneles, etc.), previo al proceso de tratamiento en las PTAP y estos contaminantes se tratan efectivamente en la planta bajo condiciones de operación normal de la misma, la vulnerabilidad asignada debe ser 1. Por otro lado,  $Vf$  corresponde a un indicador de vulnerabilidad física de cada componente ante cada tipo de amenaza con respecto a la posible afectación sobre la calidad del agua. El indicador  $Vf$  debe asignarse de acuerdo con lo indicado en la @tbl-c1-4.
 
 El indicador de vulnerabilidad final  $V$ , identifica el impacto en la calidad del agua para amenazas que no generen afectación en la infraestructura como en el caso de derrames accidentales, amenaza agropecuaria, minera o tecnológica industrial o doméstica. También identifica el impacto para el caso en que la amenaza genere afectación directa en la infraestructura y por lo tanto a la calidad del agua como en el caso de sismos, deslizamientos y descargas torrenciales.
 
 La calificación final del indicador de vulnerabilidad,  $V$ , estará entonces en un rango de 1 a 16, siendo 16 la mayor vulnerabilidad. La escala relativa hasta 16 se prefiere con el fin de mantener la compatibilidad con lo propuesto por la OMS [[18]](#ref-18). 
 
-Tabla 3. Calificación de vulnerabilidad a la calidad del agua (Vc).
+: Calificación de vulnerabilidad a la calidad del agua (Vc). Adaptado de: OMS, 2009. {#tbl-c1-3}
 
 | Nivel | Calificación | Descripción |
 | --- | --- | --- |
@@ -174,9 +172,7 @@ Tabla 3. Calificación de vulnerabilidad a la calidad del agua (Vc).
 | Graves | 8 | Posibles efectos sobre la salud a largo plazo |
 | Catastróficas | 16 | Posible enfermedad |
 
-Adaptado de: OMS, 2009
-
-Tabla 4. Calificación de vulnerabilidad a la infraestructura física (Vf).
+: Calificación de vulnerabilidad a la infraestructura física (Vf). Fuente: Construcción propia. {#tbl-c1-4}
 
 | Nivel | Calificación | Observación |
 | --- | --- | --- |
@@ -186,15 +182,13 @@ Tabla 4. Calificación de vulnerabilidad a la infraestructura física (Vf).
 | Alto | 4 | La ocurrencia del evento generaría impacto alto con cierre, falla o colapso y alta afectación |
 | Extremo | 5 | La ocurrencia del evento podría generar la falla o colapso del componente y generar muy alta afectación |
 
-Fuente: Construcción propia
-
 ### 1.2.3 Estimación del riesgo
 
 La evaluación del riesgo identifica los posibles escenarios potenciales de mayor afectación física e impacto en el sistema y en la calidad del agua. Por consiguiente, el indicador de riesgo es una herramienta básica para la toma de decisiones con respecto a las consideraciones principales que deben tenerse en cuenta en los planes de mitigación y reducción del riesgo a la calidad del agua. Teniendo en cuenta eso, la evaluación del riesgo se hará mediante la estimación de un indicador cualitativo relativo (*R*) para cada uno de los componentes y eventos que puedan afectarlo. Teniendo esto en cuenta, se propone el siguiente indicador de riesgo modificado con la frecuencia –ecuaciones basadas en OMS [[18]](#ref-18):
 
 $$RT = A V T$$
 
-En esta ecuación, *A* es un indicador de la amenaza (de 1 a 5) y *V* es un indicador de la vulnerabilidad (de 1 a 16), siguiendo las calificaciones indicadas anteriormente. Cada calificación del riesgo tendría además un indicador de temporalidad de ocurrencia, *T*, asociado a la frecuencia media de ocurrencia asignada a cada evento de acuerdo con la **Tabla 2** (de 1 a 5). Considerando que eventos con alta frecuencia de ocurrencia deben generar una estrategia diferente de acción con respecto a eventos de ocurrencia remota. 
+En esta ecuación, *A* es un indicador de la amenaza (de 1 a 5) y *V* es un indicador de la vulnerabilidad (de 1 a 16), siguiendo las calificaciones indicadas anteriormente. Cada calificación del riesgo tendría además un indicador de temporalidad de ocurrencia, *T*, asociado a la frecuencia media de ocurrencia asignada a cada evento de acuerdo con la @tbl-c1-2 (de 1 a 5). Considerando que eventos con alta frecuencia de ocurrencia deben generar una estrategia diferente de acción con respecto a eventos de ocurrencia remota. 
 
 De esta manera una amenaza muy alta (Extrema = 5) con una vulnerabilidad muy alta con o sin afectación a la infraestructura (Catastrófica o Extrema = 16) y una alta frecuencia alta de ocurrencia para eventos naturales o antrópicos (Frecuente = 5), tendrá un indicador de riesgo con un valor de  $R=400$ . En un proceso posterior, es posible normalizar el indicador al rango 0 a 100%, en el cual el 100% corresponde al evento con peor posible riesgo; es decir, aquel con máxima intensidad de amenaza natural o antrópica, máxima frecuencia de ocurrencia y máxima vulnerabilidad con eventual impacto en la calidad del agua del sistema. 
 
@@ -222,11 +216,9 @@ La información utilizada para el modelo de exposición se obtuvo principalmente
 * Sistema Sumapaz: Cuenca Río Sumapaz
 * Sistema Agregado Norte – Tibitoc: Cuenca Río Bogotá (Chuza y San Rafael)
 
-Cada sistema puede subdividirse en diferentes componentes. Estos componentes principales del sistema deben caracterizarse y ubicarse geográficamente para el propósito del análisis del riesgo. En la **Figura 3**, se presenta el sistema del acueducto de la ciudad de Bogotá. Esta información es la base para la cuantificación del riesgo para cada una de las amenazas y en cada componente del sistema siguiendo la metodología indicada anteriormente.
+Cada sistema puede subdividirse en diferentes componentes. Estos componentes principales del sistema deben caracterizarse y ubicarse geográficamente para el propósito del análisis del riesgo. En la @fig-c1-3, se presenta el sistema del acueducto de la ciudad de Bogotá. Esta información es la base para la cuantificación del riesgo para cada una de las amenazas y en cada componente del sistema siguiendo la metodología indicada anteriormente.
 
-![Imagen Fig3.png](images/capitulo_1/Fig3.png)
-
-**Figura 3.** Modelo de exposición completo. Fuente: Construcción propia
+![Modelo de exposición completo. Fuente: Construcción propia.](images/capitulo_1/Fig3.png){#fig-c1-3}
 
 ### 1.3.3 Amenaza
 
@@ -246,9 +238,9 @@ En primer lugar, la amenaza sísmica se obtuvo a partir del modelo probabilista 
 
 La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 50 años. La amenaza por deslizamiento fue incluida a partir de los mapas de susceptibilidad desarrollados por el SGC [[23]](#ref-23). La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 25 años. La amenaza por descargas torrenciales se generó a partir de una metodología simplificada de clasificación de susceptibilidad de cuencas [[24]](#ref-24). La frecuencia asociada con este mapa corresponde a un valor de 3 equivalente a un periodo de retorno de 50 años. La amenaza por incendios forestales se consideró a partir de los mapas oficiales realizados por el IDEAM [[25]](#ref-25) (escala a nivel nacional 1:500,000 o menores). 
 
-La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por volcanes se implementó a partir de los mapas oficiales realizados y actualizados por el Servicio Geológico Colombiano (SGC) en 2015 (escala 1:120,000) [[26]](#ref-26). La frecuencia asociada con este mapa corresponde a un valor de 1 correspondiente a un periodo de retorno de 500 años (equivalente al periodo de retorno del mapa base). La amenaza por vendavales a partir de los mapas oficiales de velocidades anuales máximas promedios de vientos del IDEAM a partir de los registros entre los años 2000 y 2010 (escala 1:12,000,000). La frecuencia asociada con este mapa corresponde a un valor de 4 equivalente a un periodo de retorno de 1 año. En la **Figura 4** se presentan los mapas de intensidad para cada una de las amenazas naturales mencionada anteriormente.
+La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por volcanes se implementó a partir de los mapas oficiales realizados y actualizados por el Servicio Geológico Colombiano (SGC) en 2015 (escala 1:120,000) [[26]](#ref-26). La frecuencia asociada con este mapa corresponde a un valor de 1 correspondiente a un periodo de retorno de 500 años (equivalente al periodo de retorno del mapa base). La amenaza por vendavales a partir de los mapas oficiales de velocidades anuales máximas promedios de vientos del IDEAM a partir de los registros entre los años 2000 y 2010 (escala 1:12,000,000). La frecuencia asociada con este mapa corresponde a un valor de 4 equivalente a un periodo de retorno de 1 año. En la @fig-c1-4 se presentan los mapas de intensidad para cada una de las amenazas naturales mencionada anteriormente.
 
-![Imagen Fig4.png](images/capitulo_1/Fig4.png)
+![Mapas de amenaza de origen natural.](images/capitulo_1/Fig4.png){#fig-c1-4}
 
 | a) Sismo 225 años | b) Sismo 475 años | c) Precipitaciones |
 | --- | --- | --- |
@@ -256,25 +248,21 @@ La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a 
 | g) Descargas torrenciales | h) Incendios forestales | i) Volcanes |
 | | j) Vendaval | |
 
-Figura 4. Mapas de amenaza de origen natural.
-
 **Amenazas antrópicas**
 
 La amenaza por terrorismo y atentados se determinó de acuerdo con consulta interdisciplinaria de especialistas teniendo en cuenta que todos los elementos pueden ser sujetos a algún tipo de sabotaje y atentado. La frecuencia asociada a este fenómeno corresponde a un valor de 1 asociado a periodos de retorno de 10 años. Este periodo de retorno está basado en los atentados y su frecuencia registrados en la base de datos de la Fiscalía [[27]](#ref-27). La amenaza por terrorismo virtual, contrario al terrorismo/atentados, se conceptualiza como la potencialidad de intentos de sabotaje electrónico y/o virtual de los componentes. El terrorismo virtual únicamente es relevante para aquellos componentes cuya funcionalidad de control, ejecución y supervisión depende de sistemas electrónicos. La frecuencia asociada a este fenómeno corresponde a un valor de 1 asociado a periodos de retorno de 10 años. 
 
 La amenaza por eventos tecnológicos domésticos se obtuvo a partir de las viviendas urbanas y rurales identificadas en los mapas del Instituto Geográfico Agustín Codazzi (IGAC), en los cuales se puede identificar las zonas de uso. La frecuencia asociada con este mapa corresponde a un valor de 3 asociado a un periodo de retorno de 1 año. La amenaza por eventos tecnológicos industriales se generó a partir de la identificación de las construcciones con ocupación y uso industrial en los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca, así como su posterior validación con los respectivos POT municipales de la región. La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 1 año. La amenaza por accidentes viales y derrames fue identificada a partir de los mapas de vías principales y secundarias del INVIAS y la ANI, junto con los mapas de la ubicación aproximada de los sistemas de oleoductos y gasoductos en el territorio nacional del CENIT y GEB respectivamente. La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 1 año. La amenaza agropecuaria está derivada a partir de la identificación de los terrenos con ocupación agrícola y pecuaria de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. 
 
-La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la **Figura 5** se presentan los mapas de intensidades para cada una de estas amenazas.
+La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la @fig-c1-5 se presentan los mapas de intensidades para cada una de estas amenazas.
 
-![Imagen Fig5.png](images/capitulo_1/Fig5.png)
+![Mapas de amenaza de origen antrópico.](images/capitulo_1/Fig5.png){#fig-c1-5}
 
 | a) Terrorismo y atentados | b) Terrorismo virtual | c) Tecnológicos domésticos |
 | --- | --- | --- |
 | d) Tecnológicos industriales | e) Accidentes viales y derrames | f) Agropecuario |
 | g) Minería | h) Gestión institucional – Talento humano | i) Gestión institucional – Recursos físicos |
 | j) Gestión institucional - Procedimientos | k) Gestión institucional - Financiero | |
-
-Figura 5. Mapas de amenaza de origen antrópico.
 
 ### 1.3.4 Vulnerabilidad
 
@@ -283,9 +271,9 @@ La vulnerabilidad corresponde a la predisposición de cada componente a sufrir d
 * Que cada uno de los eventos de amenaza puedan llegar a tener algún tipo de impacto en cada componente y por lo tanto en la calidad del agua.
 * Del tipo de componente, sus características físicas, accesibilidad y estado actual. 
 
-Para cada componente y para cada amenaza se asigna una vulnerabilidad de acuerdo con la posible afectación a la infraestructura y/o a su impacto en la calidad del agua. Estas calificaciones se desarrollaron en conjunto, a partir de reuniones virtuales colaborativas, entre expertos de la Universidad de Los Andes y de la Empresa de Acueducto y Alcantarillado de Bogotá, teniendo en cuenta que cada fila representa una amenaza particular y cada columna un componente de exposición. Por cada combinación de componente con amenaza se indicó en la justificación los diferentes parámetros químicos, microbiológicos o radioactivos que se están considerando en la calificación. A modo de ejemplo, en la **Tabla 5** se presentan las calificaciones de vulnerabilidad a la calidad y sus justificaciones para el sistema de captación Norte Chingaza y las amenaza de incendios forestales.
+Para cada componente y para cada amenaza se asigna una vulnerabilidad de acuerdo con la posible afectación a la infraestructura y/o a su impacto en la calidad del agua. Estas calificaciones se desarrollaron en conjunto, a partir de reuniones virtuales colaborativas, entre expertos de la Universidad de Los Andes y de la Empresa de Acueducto y Alcantarillado de Bogotá, teniendo en cuenta que cada fila representa una amenaza particular y cada columna un componente de exposición. Por cada combinación de componente con amenaza se indicó en la justificación los diferentes parámetros químicos, microbiológicos o radioactivos que se están considerando en la calificación. A modo de ejemplo, en la @tbl-c1-5 se presentan las calificaciones de vulnerabilidad a la calidad y sus justificaciones para el sistema de captación Norte Chingaza y las amenaza de incendios forestales.
 
-Tabla 5. Justificación calificaciones vulnerabilidad a partir de reuniones colaborativas.
+: Justificación calificaciones vulnerabilidad a partir de reuniones colaborativas. {#tbl-c1-5}
 
 | Amenaza \ Componentes | Captación | Captación | Captación | Captación |
 | --- | --- | --- | --- | --- |
@@ -293,9 +281,9 @@ Tabla 5. Justificación calificaciones vulnerabilidad a partir de reuniones cola
 | Amenaza \ Componentes | Justificación | Observación UA | Observación EAAB | Cal. |
 | Incendios | Material particulado Arrastre materia orgánica Aumento inundaciones Sustancias químicas (retardantes de llama) Aumento en temperatura del agua: Cambios en concentraciones de sustancias y liberación genes resistentes antibióticos) Poblaciones microbiológicas de los suelos (aumento anaerobias fijadoras de nitrógeno)  incremento de CO2, Óxidos de Nitrógeno y azufre, alquitrán, se puede producir ozono a nivel del suelo. | Las plantas no están preparadas para remover contaminantes emergentes (PFOS, PFOA, muy estables). No se miden, Asociado con los incendios se genera  aumento de Turbidez, presencia de materia orgánica húmica. Fúlvica, cambios de pH en las fuentes superficiales del área aferente. Afectación de la fauna y la flora, pérdida de biodiversidad, riesgo de inundaciones y erosión por la pérdida de la capa vegetal | 16 debido a que los incendios pueden modificar la producción de agua) y se reflejaría en un desabastecimiento | 16 |
 
-En total se tienen cinco matrices de vulnerabilidad para todas las amenazas y todos los componentes. La **Tabla 6** presenta la vulnerabilidad física para todos los componentes de los sistemas de captación, almacenamiento y potabilización, en cada una de las amenazas consideradas.
+En total se tienen cinco matrices de vulnerabilidad para todas las amenazas y todos los componentes. La @tbl-c1-6 presenta la vulnerabilidad física para todos los componentes de los sistemas de captación, almacenamiento y potabilización, en cada una de las amenazas consideradas.
 
-Tabla 6. Vulnerabilidad física. 
+: Vulnerabilidad física. {#tbl-c1-6}
 
 | Amenaza \ Componentes | Amenaza \ Componentes | Captación | Captación | Almacenamiento | Almacenamiento | Potabilización | Potabilización | Potabilización | Potabilización |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -322,9 +310,9 @@ Tabla 6. Vulnerabilidad física.
 | Antrópicas | Gestión institucional - Procedimientos | 3 | 4 | 4 | 3 | 3 | 3 | 3 | 2 |
 | Antrópicas | Gestión institucional - Financiera | 4 | 4 | 3 | 3 | 3 | 2 | 3 | 1 |
 
-En la **Tabla 7** se presentan los resultados para los componentes de captación, componentes de almacenamiento y potabilización, para los componentes del sistema de distribución del sistema Norte Chingaza. Para el sistema Sur–Sumapaz se presenta en la **Tabla 8** los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución. Para el sistema Agregado Norte-Tibitoc se presenta en la **Tabla 9** los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución.
+En la @tbl-c1-7 se presentan los resultados para los componentes de captación, componentes de almacenamiento y potabilización, para los componentes del sistema de distribución del sistema Norte Chingaza. Para el sistema Sur–Sumapaz se presenta en la @tbl-c1-8 los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución. Para el sistema Agregado Norte-Tibitoc se presenta en la @tbl-c1-9 los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución.
 
-Tabla 7. Vulnerabilidad calidad sistema Norte Chingaza.
+: Vulnerabilidad calidad sistema Norte Chingaza. {#tbl-c1-7}
 
 | Amenaza \ Componentes | Amenaza \ Componentes | Captación | Captación | Almacenamiento | Potabilización | Distribución | Distribución | Distribución |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -351,7 +339,7 @@ Tabla 7. Vulnerabilidad calidad sistema Norte Chingaza.
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 4 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 8 | 4 | 4 | 4 | 8 |
 
-Tabla 8. Vulnerabilidad calidad Sur – Sumapaz. 
+: Vulnerabilidad calidad Sur – Sumapaz. {#tbl-c1-8}
 
 | Amenaza \ Componentes | Amenaza \ Componentes | Captación | Captación | Almacenamiento | Potabilización | Distribución | Distribución | Distribución |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -378,7 +366,7 @@ Tabla 8. Vulnerabilidad calidad Sur – Sumapaz.
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 4 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 8 | 4 | 4 | 4 | 8 |
 
-Tabla 9. Vulnerabilidad calidad sistema Tibitoc.
+: Vulnerabilidad calidad sistema Tibitoc. {#tbl-c1-9}
 
 | Amenaza \ Componentes | Amenaza \ Componentes | Captación |  | Almacenamiento | Potabilización | Distribución |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -405,9 +393,9 @@ Tabla 9. Vulnerabilidad calidad sistema Tibitoc.
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 8 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 16 | 4 | 4 | 4 | 8 |
 
-El sistema de carrotanques se califica de manera general pues no presenta diferencias significativas con respecto a cada sistema de captación. Las calificaciones, así como sus justificaciones y observaciones de presentan en la **Tabla 10.**
+El sistema de carrotanques se califica de manera general pues no presenta diferencias significativas con respecto a cada sistema de captación. Las calificaciones, así como sus justificaciones y observaciones de presentan en la @tbl-c1-10.
 
-Tabla 10. Vulnerabilidad calidad carrotanques.
+: Vulnerabilidad calidad carrotanques. {#tbl-c1-10}
 
 | Amenaza \ Componentes | Amenaza \ Componentes | Distribución |
 | --- | --- | --- |
@@ -436,9 +424,9 @@ Tabla 10. Vulnerabilidad calidad carrotanques.
 
 Adicionalmente las redes de distribución se analizaron de forma individual debido a la heterogeneidad propia de estas. Esto implica que las calificaciones se realizan para cada uno de los tramos de forma individual. Para este propósito se tuvo en cuenta una calificación a la vulnerabilidad de acuerdo con las propiedades químicas del agua (i.e. corrosividad, desinfectante, turbiedad) su interacción con la red y los cambios que podrían ocasionar sobre la calidad del agua, así como también una calificación a la vulnerabilidad asociada a las características físicas de cada tramo (i.e. material, diámetro, operación). 
 
-Para asignar las calificaciones con respecto al tipo de agua que transitan se asignaron valores de vulnerabilidad baja (0), media (8) y alta (16) para la turbiedad, indicadores de corrosividad como el índice de Langelier, el índice de Ryznar, el índice de Larson, y la relación CSMR y el tipo de desinfectante es decir las variables de estabilidad química y física. Los rangos y límites que se toman para cada variable se presentan en la **Tabla 11**.
+Para asignar las calificaciones con respecto al tipo de agua que transitan se asignaron valores de vulnerabilidad baja (0), media (8) y alta (16) para la turbiedad, indicadores de corrosividad como el índice de Langelier, el índice de Ryznar, el índice de Larson, y la relación CSMR y el tipo de desinfectante es decir las variables de estabilidad química y física. Los rangos y límites que se toman para cada variable se presentan en la @tbl-c1-11.
 
-Tabla 11. Asignación de vulnerabilidad química en redes.
+: Asignación de vulnerabilidad química en redes. {#tbl-c1-11}
 
 | Variables Químicas de Calidad | Baja | Media | Alta | Fuente |
 | --- | --- | --- | --- | --- |
@@ -449,9 +437,9 @@ Tabla 11. Asignación de vulnerabilidad química en redes.
 | Desinfectante | Solo MIOX | Cloro o Cloramina | Mezcla irregular de MIOX-Cloro | Elaboración propia de acuerdo a experiencia profesional en el tema de desinfección tomando como base las siguientes características para evaluar su efecto en la vulnerabilidad del sistema de distribución como son: i. su acción residual en la red que tiene repercusiones en reducir el recrecimiento de biopelícula en la red sobre todo en puntos alejados y con altos tiempos de retención; ii. su potencial de generar nitrificación que repercute en el crecimiento de biopelícula y formación de subproductos nitrados; iii. la interacción entre el desinfectante y la red ocasionando corrosión, liberación de materiales y adicionalmente fugas; finalmente el efecto químico de su reacción con la materia orgánica natural y aquella producida por los microrganismos y su potencial de formación de subproductos de desinfección (SPD) |
 | Relación (CSMR) | <0.2 | 0.2 a 0.5 | >0.5 | Los rangos se establecen con base en la propuesta metodológica de Edwards et al. [[31]](#ref-31) y Nguyen et al. [[32]](#ref-32). De esta forma se establece que la vulnerabilidad baja está dada por un agua tratada con una relación cloruros- sulfatos menor a 2; la vulnerabilidad media cuando este ratio se incrementa hasta 0.5 (0.2-0.5); y una vulnerabilidad alta al ser mayor que 0.5. |
 
-Con respecto a la vulnerabilidad de acuerdo con las condiciones físicas de la red, se incluyeron como parámetros que afecten la vulnerabilidad aquellos relacionados con la operación y mantenimiento, el material y el contacto del agua con componentes biológicos formados en la red de distribución como son las biopelículas. Con respecto a la operación se califica si hay mezcla o cambio de fuente y el tiempo de residencia del agua. Con respecto al material se analiza el tipo, la edad y si hay potencial de corrosión galvánica. Por último, con respecto a los biológicos se analiza la vulnerabilidad frente a que las biopelículas formadas afecten la calidad por desprendimiento. Los rangos y límites definidos para cada variable se presentan en la **Tabla 12**.
+Con respecto a la vulnerabilidad de acuerdo con las condiciones físicas de la red, se incluyeron como parámetros que afecten la vulnerabilidad aquellos relacionados con la operación y mantenimiento, el material y el contacto del agua con componentes biológicos formados en la red de distribución como son las biopelículas. Con respecto a la operación se califica si hay mezcla o cambio de fuente y el tiempo de residencia del agua. Con respecto al material se analiza el tipo, la edad y si hay potencial de corrosión galvánica. Por último, con respecto a los biológicos se analiza la vulnerabilidad frente a que las biopelículas formadas afecten la calidad por desprendimiento. Los rangos y límites definidos para cada variable se presentan en la @tbl-c1-12.
 
-Tabla 12. Asignación de vulnerabilidad física en redes.
+: Asignación de vulnerabilidad física en redes. {#tbl-c1-12}
 
 | Variables Físicas | Variables Físicas | Vulnerabilidad | Vulnerabilidad | Vulnerabilidad |
 | --- | --- | --- | --- | --- |
@@ -463,31 +451,21 @@ Tabla 12. Asignación de vulnerabilidad física en redes.
 | Material | Corrosión galvánica (potencial) | Percentil 25 | Percentil 50 | Percentil 75 |
 | Biológico | Diámetro- Efecto de la Biopelícula | > 90 cm | 30 a 90 cm | < 30 cm |
 
-Teniendo esto en cuenta, para asignar una sola calificación para la vulnerabilidad química y física se realizó un promedio ponderado asignando pesos iguales a cada parámetro. En la **Figura 6** se presenta la asignación de vulnerabilidad química (de 0 a 16) y física (de 0 a 5) para todos los tramos de la red matriz.
+Teniendo esto en cuenta, para asignar una sola calificación para la vulnerabilidad química y física se realizó un promedio ponderado asignando pesos iguales a cada parámetro. En la @fig-c1-6 se presenta la asignación de vulnerabilidad química (de 0 a 16) y física (de 0 a 5) para todos los tramos de la red matriz.
 
-![Imagen Fig6.png](images/capitulo_1/Fig6.png)
-
-Fuente: Construcción propia
-
-Figura 6. Asignación de vulnerabilidad química y física en Red Matriz.
+![Asignación de vulnerabilidad química y física en Red Matriz. Fuente: Construcción propia.](images/capitulo_1/Fig6.png){#fig-c1-6}
 
 Una vez se tienen las dos calificaciones de vulnerabilidad para cada uno de los tramos de la Red Matriz y Red Menor se calificó una vulnerabilidad total (de 0 a 16) en cada una a partir de la siguiente ecuación:
 
 $$VTotal=1680VqVfs$$
 
-Los resultados de vulnerabilidad total para la Red Matriz y Red Menor se presentan en la **Figura 7**.
+Los resultados de vulnerabilidad total para la Red Matriz y Red Menor se presentan en la @fig-c1-7.
 
-![Imagen Fig7.png](images/capitulo_1/Fig7.png)
-
-Fuente: Construcción propia
-
-Figura 7. Asignación vulnerabilidad por tramos en Red Matriz y Red Menor.
+![Asignación vulnerabilidad por tramos en Red Matriz y Red Menor. Fuente: Construcción propia.](images/capitulo_1/Fig7.png){#fig-c1-7}
 
 ### 1.3.5 Riesgo
 
-La calificación de riesgos se realizó siguiendo la metodología indicada en la Sección 2.4. Los resultados del riesgo distribuidos espacialmente para el caso de amenaza de sequía se presentan de forma ilustrativa en la **Figura 8**. En este mapa las asignaciones de niveles de riesgo en escala de 0 a 100 son las siguientes –basada en las calificaciones indicadas por la OMS [[18]](#ref-18): 
-
-![Imagen Fig8.png](images/capitulo_1/Fig8.png)
+La calificación de riesgos se realizó siguiendo la metodología indicada en la Sección 2.4. Los resultados del riesgo distribuidos espacialmente para el caso de amenaza de sequía se presentan de forma ilustrativa en la @fig-c1-8. En este mapa las asignaciones de niveles de riesgo en escala de 0 a 100 son las siguientes –basada en las calificaciones indicadas por la OMS [[18]](#ref-18):
 
 Bajo: 0 a 24
 
@@ -497,15 +475,13 @@ Alto: 36 a 60
 
 Muy alto: 61 a 100
 
-Fuente: Elaboración propia
+![Resultados riesgo sequía distribuidos espacialmente. Fuente: Elaboración propia.](images/capitulo_1/Fig8.png){#fig-c1-8}
 
-Figura 8. Resultados riesgo sequía distribuidos espacialmente. 
-
-Los resultados finales de riesgo se agrupan por componente y se presentan en la **Tabla 13** para los asociados con amenazas naturales y en la **Tabla 14** para los asociados con amenazas antrópicas. Como se puede evidenciar en estos resultados, la amenaza de sequía es representativa para el sistema de acueducto, y principalmente para la captación del sistema Norte Tibitoc. Así mismo, la amenaza asociada a incendios forestales es crítica, principalmente para captación en el sistema Sumapaz. En términos generales, la amenaza de inundación es la más importante en el sistema de distribución, aunque el riesgo se pueda categorizar en un nivel medio. Con respecto a las amenazas antrópicas, se puede evidenciar que el riesgo se concentra en la amenaza agropecuaria, principalmente en la captación y potabilización del sistema Norte – Tibitoc. 
+Los resultados finales de riesgo se agrupan por componente y se presentan en la @tbl-c1-13 para los asociados con amenazas naturales y en la @tbl-c1-14 para los asociados con amenazas antrópicas. Como se puede evidenciar en estos resultados, la amenaza de sequía es representativa para el sistema de acueducto, y principalmente para la captación del sistema Norte Tibitoc. Así mismo, la amenaza asociada a incendios forestales es crítica, principalmente para captación en el sistema Sumapaz. En términos generales, la amenaza de inundación es la más importante en el sistema de distribución, aunque el riesgo se pueda categorizar en un nivel medio. Con respecto a las amenazas antrópicas, se puede evidenciar que el riesgo se concentra en la amenaza agropecuaria, principalmente en la captación y potabilización del sistema Norte – Tibitoc. 
 
 A partir de esta información, es posible priorizar las combinaciones de tipo de amenaza y tipo de elemento expuesto con mayor nivel de riesgo relativo para hacer evaluaciones posteriores detalladas y a partir de esto diseñar planes de gestión del riesgo priorizados. El tipo de medidas de mitigación que se deberían implementar en este paso posterior corresponden a medidas directas de tipo estructural, normativo o capacidad de tratamiento; o indirectas, como programas de capacitación del personal, sistemas de alerta temprana basadas en mediciones de parámetros en tiempo real o elementos de protección financiera. Así mismo, es importante aclarar que estos resultados deben ser actualizados periódicamente dado que tanto la exposición como las amenazas pueden ser dinámicas y cambiantes en el tiempo.
 
-Tabla 13. Matriz resumen resultados riesgo por amenazas naturales (escala relativa).
+: Matriz resumen resultados riesgo por amenazas naturales (escala relativa). {#tbl-c1-13}
 
 | Elementos Expuestos | Elementos Expuestos | Elementos Expuestos | Sismo 225 | Sismo 475 | Precipitación | Sequías | Inundaciones | Deslizamientos | Descargas torrenciales | Incendios forestales | Volcanes | Vendaval |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -545,7 +521,7 @@ Tabla 13. Matriz resumen resultados riesgo por amenazas naturales (escala relati
 | General | Distribución | Red Menor: Zona 5 | 1.00 | 0.75 | 1.00 | 5.00 | 22.25 | 1.50 | 4.75 | 1.00 | 0.50 | 2.00 |
 | General | Distribución | Carrotanques | 6.75 | 5.25 | 3.25 | 10.00 | 12.50 | 4.00 | 2.50 | 5.00 | 1.00 | 2.75 |
 
-Tabla 14. Matriz resumen riesgo por amenazas antrópicas (escala relativa).
+: Matriz resumen riesgo por amenazas antrópicas (escala relativa). {#tbl-c1-14}
 
 | Elementos Expuestos | Elementos Expuestos | Elementos Expuestos | Terrorismo atentados | Terrorismo virtual | Tecnológico industrial | Tecnológico doméstico | Vías y derrames | Agropecuario | Minería | GI Talento humano | GI  Recursos físicos | GI  Procedimientos | GI Financiera |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
