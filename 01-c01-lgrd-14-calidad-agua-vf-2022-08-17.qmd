@@ -39,6 +39,7 @@ crossref:
 
 ::: {#resumen}
 ## Resumen {.unnumbered}
+
 Los sistemas de acueducto cumplen el papel fundamental de asegurar las condiciones de vida digna al suministrar y garantizar la disponibilidad y calidad del agua potable como recurso primario para la vida y la salud. Sin embargo por la complejidad y extensión de los sistemas de producción de agua, especialmente en grandes ciudades, sus componentes (i.e. captación, reservorios, tratamiento y distribución) se exponen a diversas condiciones amenazantes de origen natural (i.e. sismos, inundaciones o incendios forestales), o antrópico (i.e. terrorismo, actividades tecnológicas industriales- residenciales, gestión interna del sistema), que pueden afectar el proceso de producción y ocasionar cambios sobre los parámetros de calidad del agua de consumo. El objetivo principal de este capítulo es presentar un modelo para evaluar el riesgo en la calidad de agua potable. El método se aplica como caso de estudio en el sistema de acueducto de agua potable de la ciudad de Bogotá, Colombia, servicio prestado por la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB-ESP). Con el modelo se realiza una comparación cualitativa e indicativa de los efectos e impactos de estos eventos amenazantes externos sobre la calidad del agua en el sistema. A partir de los resultados se identificó la distribución geográfica de los riesgos, afectación sobre diferentes componentes del sistema, y alteración de parámetros de calidad del agua. Esta información sirve como base para entender y dimensionar las acciones y prioridades para mitigar este riesgo.
 
 **Palabras clave:** sistemas de acueducto, riesgo en la calidad del agua potable, amenazas naturales, amenazas antrópicas.
@@ -48,6 +49,7 @@ Los sistemas de acueducto cumplen el papel fundamental de asegurar las condicion
 
 ::: {#abstract}
 ## Abstract {.unnumbered}
+
 Aqueduct systems play a fundamental role in ensuring decent living conditions and access to water as a primary resource for life, as well as guaranteeing its availability and safe conditions for public health. However, due to their complexity and extension in large cities, the drinking water components (i.e. collection, treatment, distribution) are exposed to various threatening natural hazards (i.e. earthquakes, floods, or wild fires) or anthropic events (i.e. terrorist acts, industrial technology impacts, or management decisions from utility operators), which can affect the process and can generate changes in the drinking water quality parameters. The main objective of this chapter is to present a model that allows risk assessment concerning drinking water quality. The proposed method is applied as a case study in the drinking-water aqueduct system of the city of Bogotá, Colombia, supplied by the Aqueduct and Sewerage Company of Bogotá (EAAB-ESP). The model allows a qualitative and indicative comparison of the effects and impacts of these external threatening events on the water quality in the system. The results allow the user to understand the geographical distribution of risks, impact on different system components, and alteration of water quality parameters. This information serves as a basis for understanding and measuring the actions and priorities to mitigate quality risk in aqueduct systems.
 
 **Keywords**: Aqueduct systems, water quality risk, natural hazards, anthropic hazards
@@ -119,7 +121,7 @@ Las amenazas se representan mediante escenarios seleccionados con alta probabili
 | Alto | 4 | Susceptibilidad alta - Evento que generaría impactos importantes |
 | Extremo | 5 | Susceptibilidad muy alta - Eventos con alta potencialidad de generar daños |
 
-: Intensidad relativa de eventos de amenaza (A). {#tbl-c1-1}
+: Intensidad relativa de eventos de amenaza (A).
 
 2.  Un indicador de frecuencia relativa de ocurrencia: la intensidad indicada anteriormente deberá tener un indicador asociado de frecuencia de ocurrencia según la @tbl-c1-2. Esta tabla debe usarse para caracterizar las amenazas naturales y antrópicas, de acuerdo con la frecuencia histórica observada de ocurrencia de dichos eventos.
 
@@ -132,7 +134,7 @@ Las amenazas se representan mediante escenarios seleccionados con alta probabili
 | Ocasional | 4 | \~1 a 5 años | \~ 1 mes |
 | Frecuente | 5 | \~ meses | \~ 1 día |
 
-: Frecuencia relativa de ocurrencia de eventos de amenaza (T). {#tbl-c1-2}
+: Frecuencia relativa de ocurrencia de eventos de amenaza (T).
 
 ### 1.2.2 Vulnerabilidad
 
@@ -166,7 +168,7 @@ La calificación final del indicador de vulnerabilidad, $V$ , estará entonces e
 | Graves | 8 | Posibles efectos sobre la salud a largo plazo |
 | Catastróficas | 16 | Posible enfermedad |
 
-: Calificación de vulnerabilidad a la calidad del agua (Vc). Adaptado de: OMS, 2009. {#tbl-c1-3}
+: Calificación de vulnerabilidad a la calidad del agua (Vc). Adaptado de: OMS, 2009.
 
 | Nivel | Calificación | Observación |
 |------------------------|------------------------|------------------------|
@@ -176,7 +178,7 @@ La calificación final del indicador de vulnerabilidad, $V$ , estará entonces e
 | Alto | 4 | La ocurrencia del evento generaría impacto alto con cierre, falla o colapso y alta afectación |
 | Extremo | 5 | La ocurrencia del evento podría generar la falla o colapso del componente y generar muy alta afectación |
 
-: Calificación de vulnerabilidad a la infraestructura física (Vf). Fuente: Construcción propia. {#tbl-c1-4}
+: Calificación de vulnerabilidad a la infraestructura física (Vf). Fuente: Construcción propia.
 
 ### 1.2.3 Estimación del riesgo
 
@@ -234,12 +236,6 @@ La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a 
 
 ![Mapas de amenaza de origen natural.](images/capitulo_1/Fig4.png){#fig-c1-4}
 
-| a\) Sismo 225 años         | b\) Sismo 475 años       | c\) Precipitaciones |
-|---------------------------|-------------------------|--------------------|
-| d\) Sequía                 | e\) Inundaciones         | f\) Deslizamiento   |
-| g\) Descargas torrenciales | h\) Incendios forestales | i\) Volcanes        |
-|                            | j\) Vendaval             |                     |
-
 **Amenazas antrópicas**
 
 La amenaza por terrorismo y atentados se determinó de acuerdo con consulta interdisciplinaria de especialistas teniendo en cuenta que todos los elementos pueden ser sujetos a algún tipo de sabotaje y atentado. La frecuencia asociada a este fenómeno corresponde a un valor de 1 asociado a periodos de retorno de 10 años. Este periodo de retorno está basado en los atentados y su frecuencia registrados en la base de datos de la Fiscalía [\[27\]](#ref-27). La amenaza por terrorismo virtual, contrario al terrorismo/atentados, se conceptualiza como la potencialidad de intentos de sabotaje electrónico y/o virtual de los componentes. El terrorismo virtual únicamente es relevante para aquellos componentes cuya funcionalidad de control, ejecución y supervisión depende de sistemas electrónicos. La frecuencia asociada a este fenómeno corresponde a un valor de 1 asociado a periodos de retorno de 10 años.
@@ -249,7 +245,6 @@ La amenaza por eventos tecnológicos domésticos se obtuvo a partir de las vivie
 La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la @fig-c1-5 se presentan los mapas de intensidades para cada una de estas amenazas.
 
 ![Mapas de amenaza de origen antrópico.](images/capitulo_1/Fig5.png){#fig-c1-5}
-
 
 ### 1.3.4 Vulnerabilidad
 
@@ -266,11 +261,11 @@ Para cada componente y para cada amenaza se asigna una vulnerabilidad de acuerdo
 | Amenaza  Componentes | Justificación | Observación UA | Observación EAAB | Cal. |
 | Incendios | Material particulado Arrastre materia orgánica Aumento inundaciones Sustancias químicas (retardantes de llama) Aumento en temperatura del agua: Cambios en concentraciones de sustancias y liberación genes resistentes antibióticos) Poblaciones microbiológicas de los suelos (aumento anaerobias fijadoras de nitrógeno) incremento de CO2, Óxidos de Nitrógeno y azufre, alquitrán, se puede producir ozono a nivel del suelo. | Las plantas no están preparadas para remover contaminantes emergentes (PFOS, PFOA, muy estables). No se miden, Asociado con los incendios se genera aumento de Turbidez, presencia de materia orgánica húmica. Fúlvica, cambios de pH en las fuentes superficiales del área aferente. Afectación de la fauna y la flora, pérdida de biodiversidad, riesgo de inundaciones y erosión por la pérdida de la capa vegetal | 16 debido a que los incendios pueden modificar la producción de agua) y se reflejaría en un desabastecimiento | 16 |
 
-: Justificación calificaciones vulnerabilidad a partir de reuniones colaborativas. {#tbl-c1-5}
+: Justificación calificaciones vulnerabilidad a partir de reuniones colaborativas.
 
 En total se tienen cinco matrices de vulnerabilidad para todas las amenazas y todos los componentes. La @tbl-c1-6 presenta la vulnerabilidad física para todos los componentes de los sistemas de captación, almacenamiento y potabilización, en cada una de las amenazas consideradas.
 
-::: {.column-page}
+::: column-page
 | Amenaza  Componentes | Amenaza  Componentes | Captación | Captación | Almacenamiento | Almacenamiento | Potabilización | Potabilización | Potabilización | Potabilización |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Amenaza  Componentes | Amenaza  Componentes | Cuencas hidrográficas | Túneles y tuberías | Embalses | PTAP | Estructuras de bombeo | Estructuras de control | Tanques | Carrotanques |
@@ -296,12 +291,12 @@ En total se tienen cinco matrices de vulnerabilidad para todas las amenazas y to
 | Antrópicas | Gestión institucional - Procedimientos | 3 | 4 | 4 | 3 | 3 | 3 | 3 | 2 |
 | Antrópicas | Gestión institucional - Financiera | 4 | 4 | 3 | 3 | 3 | 2 | 3 | 1 |
 
-: Vulnerabilidad física. {#tbl-c1-6}
+: Vulnerabilidad física.
 :::
 
 En la @tbl-c1-7 se presentan los resultados para los componentes de captación, componentes de almacenamiento y potabilización, para los componentes del sistema de distribución del sistema Norte Chingaza. Para el sistema Sur–Sumapaz se presenta en la @tbl-c1-8 los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución. Para el sistema Agregado Norte-Tibitoc se presenta en la @tbl-c1-9 los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución.
 
-::: {.column-page}
+::: column-page
 | Amenaza  Componentes | Amenaza  Componentes | Captación | Captación | Almacenamiento | Potabilización | Distribución | Distribución | Distribución |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Amenaza  Componentes | Amenaza  Componentes | Cuencas hidrográficas | Túneles y tuberías | Embalses | PTAP | Estructuras de bombeo | Estructuras de control | Tanques |
@@ -327,10 +322,10 @@ En la @tbl-c1-7 se presentan los resultados para los componentes de captación, 
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 4 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 8 | 4 | 4 | 4 | 8 |
 
-: Vulnerabilidad calidad sistema Norte Chingaza. {#tbl-c1-7}
+: Vulnerabilidad calidad sistema Norte Chingaza.
 :::
 
-::: {.column-page}
+::: column-page
 | Amenaza  Componentes | Amenaza  Componentes | Captación | Captación | Almacenamiento | Potabilización | Distribución | Distribución | Distribución |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Amenaza  Componentes | Amenaza  Componentes | Cuencas hidrográficas | Túneles y tuberías | Embalses | PTAP | Estructuras de bombeo | Estructuras de control | Tanques |
@@ -356,10 +351,10 @@ En la @tbl-c1-7 se presentan los resultados para los componentes de captación, 
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 4 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 8 | 4 | 4 | 4 | 8 |
 
-: Vulnerabilidad calidad Sur – Sumapaz. {#tbl-c1-8}
+: Vulnerabilidad calidad Sur – Sumapaz.
 :::
 
-::: {.column-page}
+::: column-page
 | Amenaza  Componentes | Amenaza  Componentes | Captación |   | Almacenamiento | Potabilización | Distribución |   |   |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Amenaza  Componentes | Amenaza  Componentes | Cuencas hidrográficas | Túneles y tuberías | Embalses | PTAP | Estructuras de bombeo | Estructuras de control | Tanques |
@@ -385,7 +380,7 @@ En la @tbl-c1-7 se presentan los resultados para los componentes de captación, 
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 8 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 16 | 4 | 4 | 4 | 8 |
 
-: Vulnerabilidad calidad sistema Tibitoc. {#tbl-c1-9}
+: Vulnerabilidad calidad sistema Tibitoc.
 :::
 
 El sistema de carrotanques se califica de manera general pues no presenta diferencias significativas con respecto a cada sistema de captación. Las calificaciones, así como sus justificaciones y observaciones de presentan en la @tbl-c1-10.
@@ -415,7 +410,7 @@ El sistema de carrotanques se califica de manera general pues no presenta difere
 | Antrópicas | Gestión institucional - Procedimientos | 16 |
 | Antrópicas | Gestión institucional - Financiera | 8 |
 
-: Vulnerabilidad calidad carrotanques. {#tbl-c1-10}
+: Vulnerabilidad calidad carrotanques.
 
 Adicionalmente las redes de distribución se analizaron de forma individual debido a la heterogeneidad propia de estas. Esto implica que las calificaciones se realizan para cada uno de los tramos de forma individual. Para este propósito se tuvo en cuenta una calificación a la vulnerabilidad de acuerdo con las propiedades químicas del agua (i.e. corrosividad, desinfectante, turbiedad) su interacción con la red y los cambios que podrían ocasionar sobre la calidad del agua, así como también una calificación a la vulnerabilidad asociada a las características físicas de cada tramo (i.e. material, diámetro, operación).
 
@@ -430,7 +425,7 @@ Para asignar las calificaciones con respecto al tipo de agua que transitan se as
 | Desinfectante | Solo MIOX | Cloro o Cloramina | Mezcla irregular de MIOX-Cloro | Elaboración propia de acuerdo a experiencia profesional en el tema de desinfección tomando como base las siguientes características para evaluar su efecto en la vulnerabilidad del sistema de distribución como son: i. su acción residual en la red que tiene repercusiones en reducir el recrecimiento de biopelícula en la red sobre todo en puntos alejados y con altos tiempos de retención; ii. su potencial de generar nitrificación que repercute en el crecimiento de biopelícula y formación de subproductos nitrados; iii. la interacción entre el desinfectante y la red ocasionando corrosión, liberación de materiales y adicionalmente fugas; finalmente el efecto químico de su reacción con la materia orgánica natural y aquella producida por los microrganismos y su potencial de formación de subproductos de desinfección (SPD) |
 | Relación (CSMR) | \<0.2 | 0.2 a 0.5 | \>0.5 | Los rangos se establecen con base en la propuesta metodológica de Edwards et al. [\[31\]](#ref-31) y Nguyen et al. [\[32\]](#ref-32). De esta forma se establece que la vulnerabilidad baja está dada por un agua tratada con una relación cloruros- sulfatos menor a 2; la vulnerabilidad media cuando este ratio se incrementa hasta 0.5 (0.2-0.5); y una vulnerabilidad alta al ser mayor que 0.5. |
 
-: Asignación de vulnerabilidad química en redes. {#tbl-c1-11}
+: Asignación de vulnerabilidad química en redes.
 
 Con respecto a la vulnerabilidad de acuerdo con las condiciones físicas de la red, se incluyeron como parámetros que afecten la vulnerabilidad aquellos relacionados con la operación y mantenimiento, el material y el contacto del agua con componentes biológicos formados en la red de distribución como son las biopelículas. Con respecto a la operación se califica si hay mezcla o cambio de fuente y el tiempo de residencia del agua. Con respecto al material se analiza el tipo, la edad y si hay potencial de corrosión galvánica. Por último, con respecto a los biológicos se analiza la vulnerabilidad frente a que las biopelículas formadas afecten la calidad por desprendimiento. Los rangos y límites definidos para cada variable se presentan en la @tbl-c1-12.
 
@@ -444,7 +439,7 @@ Con respecto a la vulnerabilidad de acuerdo con las condiciones físicas de la r
 | Material | Corrosión galvánica (potencial) | Percentil 25 | Percentil 50 | Percentil 75 |
 | Biológico | Diámetro- Efecto de la Biopelícula | \> 90 cm | 30 a 90 cm | \< 30 cm |
 
-: Asignación de vulnerabilidad física en redes. {#tbl-c1-12}
+: Asignación de vulnerabilidad física en redes.
 
 Teniendo esto en cuenta, para asignar una sola calificación para la vulnerabilidad química y física se realizó un promedio ponderado asignando pesos iguales a cada parámetro. En la @fig-c1-6 se presenta la asignación de vulnerabilidad química (de 0 a 16) y física (de 0 a 5) para todos los tramos de la red matriz.
 
@@ -462,10 +457,10 @@ Los resultados de vulnerabilidad total para la Red Matriz y Red Menor se present
 
 La calificación de riesgos se realizó siguiendo la metodología indicada en la Sección 2.4. Los resultados del riesgo distribuidos espacialmente para el caso de amenaza de sequía se presentan de forma ilustrativa en la @fig-c1-8. En este mapa las asignaciones de niveles de riesgo en escala de 0 a 100 son las siguientes –basada en las calificaciones indicadas por la OMS [\[18\]](#ref-18):
 
-* Bajo: 0 a 24
-* Medio: 25 a 36
-* Alto: 36 a 60
-* Muy alto: 61 a 100
+- Bajo: 0 a 24
+- Medio: 25 a 36
+- Alto: 36 a 60
+- Muy alto: 61 a 100
 
 ![Resultados riesgo sequía distribuidos espacialmente. Fuente: Elaboración propia.](images/capitulo_1/Fig8.png){#fig-c1-8}
 
@@ -473,7 +468,7 @@ Los resultados finales de riesgo se agrupan por componente y se presentan en la 
 
 A partir de esta información, es posible priorizar las combinaciones de tipo de amenaza y tipo de elemento expuesto con mayor nivel de riesgo relativo para hacer evaluaciones posteriores detalladas y a partir de esto diseñar planes de gestión del riesgo priorizados. El tipo de medidas de mitigación que se deberían implementar en este paso posterior corresponden a medidas directas de tipo estructural, normativo o capacidad de tratamiento; o indirectas, como programas de capacitación del personal, sistemas de alerta temprana basadas en mediciones de parámetros en tiempo real o elementos de protección financiera. Así mismo, es importante aclarar que estos resultados deben ser actualizados periódicamente dado que tanto la exposición como las amenazas pueden ser dinámicas y cambiantes en el tiempo.
 
-::: {.column-page}
+::: column-page
 | Elementos Expuestos | Elementos Expuestos | Elementos Expuestos | Sismo 225 | Sismo 475 | Precipitación | Sequías | Inundaciones | Deslizamientos | Descargas torrenciales | Incendios forestales | Volcanes | Vendaval |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Sistema | Grupo | Componente | MR | MR | MR | MR | MR | MR | MR | MR | MR | MR |
@@ -512,12 +507,12 @@ A partir de esta información, es posible priorizar las combinaciones de tipo de
 | General | Distribución | Red Menor: Zona 5 | 1.00 | 0.75 | 1.00 | 5.00 | 22.25 | 1.50 | 4.75 | 1.00 | 0.50 | 2.00 |
 | General | Distribución | Carrotanques | 6.75 | 5.25 | 3.25 | 10.00 | 12.50 | 4.00 | 2.50 | 5.00 | 1.00 | 2.75 |
 
-: Matriz resumen resultados riesgo por amenazas naturales (escala relativa). {#tbl-c1-13}
+: Matriz resumen resultados riesgo por amenazas naturales (escala relativa).
 :::
 
-::: {.column-page}
+::: column-page
 | Elementos Expuestos | Elementos Expuestos | Elementos Expuestos | Terrorismo atentados | Terrorismo virtual | Tecnológico industrial | Tecnológico doméstico | Vías y derrames | Agropecuario | Minería | GI Talento humano | GI Recursos físicos | GI Procedimientos | GI Financiera |
-|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | Sistema | Grupo | Componente | MR | MR | MR | MR | MR | MR | MR | MR | MR | MR | MR |
 | Chingaza | Captación | Cuenca Chuza | 16.25 | 1.00 | 2.25 | 5.25 | 7.50 | 10.00 | 3.00 | 7.50 | 7.50 | 7.50 | 10.50 |
 | Chingaza | Captación | Cuenca San Rafael | 16.25 | 1.00 | 4.50 | 14.50 | 22.50 | 17.00 | 6.50 | 7.50 | 7.50 | 7.50 | 10.50 |
@@ -554,7 +549,7 @@ A partir de esta información, es posible priorizar las combinaciones de tipo de
 | General | Distribución | Red Menor: Zona 5 | 8.00 | 0.25 | 9.50 | 9.50 | 4.75 | 6.25 | 4.75 | 9.50 | 9.50 | 9.50 | 9.50 |
 | General | Distribución | Carrotanques | 16.25 | 4.00 | 0.75 | 3.00 | 6.00 | 8.00 | 3.00 | 6.00 | 7.50 | 7.50 | 4.50 |
 
-: Matriz resumen riesgo por amenazas antrópicas (escala relativa). {#tbl-c1-14}
+: Matriz resumen riesgo por amenazas antrópicas (escala relativa).
 :::
 
 ## 1.4 CONCLUSIONES
@@ -568,15 +563,31 @@ En este caso de estudio, es posible identificar que los incendios forestales, se
 En este sentido, las amenazas naturales más críticas son las sequías, las inundaciones y los incendios forestales. Por otro lado, las amenazas antrópicas más críticas son las relacionadas con terrorismo por atentados, las ocasionadas por actividades agropecuarias y de gestión institucional. Estos riesgo identificados deben ser priorizados con el objetivo de realizar estudios detallados que conlleven a una mitigación eficiente del riesgo.
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
 
-La evaluación y estimación del riesgo a la calidad del agua es una actividad fundamental para la apropiada gestión del riesgo de los sistemas de acueducto urbanos. Esta evaluación debe actualizarse y complementarse periódicamente. El proceso de evaluación del riesgo en un caso específico debe tener en cuenta las particularidades de cada región, para entender los elementos expuestos, las amenazas antrópicas y naturales y la vulnerabilidad frente a la calidad del agua. La información generada en un proceso de evaluación del riesgo es un insumo fundamental para la gestión del riesgo mediante el diseño e implementación de medidas de reducción del riesgo, diseño de planes de atención de emergencia y transferencia del riesgo entre otras actividades.
+Puntos Clave
+
+</h2>
+
+- La evaluación y estimación del riesgo a la calidad del agua es una actividad fundamental para la apropiada gestión del riesgo de los sistemas de acueducto urbanos.
+- Esta evaluación debe actualizarse y complementarse periódicamente.
+- El proceso de evaluación del riesgo en un caso específico debe tener en cuenta las particularidades de cada región, para entender los elementos expuestos, las amenazas antrópicas y naturales y la vulnerabilidad frente a la calidad del agua.
+- La información generada en un proceso de evaluación del riesgo es un insumo fundamental para la gestión del riesgo mediante el diseño e implementación de medidas de reducción del riesgo, diseño de planes de atención de emergencia y transferencia del riesgo entre otras actividades.
 :::
 
 ::: {#preguntas .callout-important style="background-color: #f3eaf8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Preguntas por resolver</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
 
-Al aplicar la metodología presentada en este capítulo son las siguientes: ¿Cuál es el nivel de riesgo que tiene un sistema de acueducto? ¿Cuál es la confiabilidad del sistema de acueducto? ¿Cuáles son las amenazas que mayor riesgo representan? ¿Cuáles son los elementos expuestos que mayor riesgo en promedio tienen para diferentes amenazas? ¿Qué tipos de obras de mitigación debería priorizar?
+Preguntas por resolver
+
+</h2>
+
+Al aplicar la metodología presentada en este capítulo son las siguientes:
+
+- ¿Cuál es el nivel de riesgo que tiene un sistema de acueducto?
+- ¿Cuál es la confiabilidad del sistema de acueducto? ¿Cuáles son las amenazas que mayor riesgo representan?
+- ¿Cuáles son los elementos expuestos que mayor riesgo en promedio tienen para diferentes amenazas?
+- ¿Qué tipos de obras de mitigación debería priorizar?
 :::
 
 ## 1.5 CONFLICTO DE INTERESES
@@ -593,27 +604,27 @@ Los autores agradecen en primer lugar a la Empresa de Acueducto y Alcantarillado
 
 ## 1.8 IDENTIFICACIÓN DE AUTORES
 
-Rafael Fernández https://orcid.org/0000-0002-2585-1958
+Rafael Fernández <https://orcid.org/0000-0002-2585-1958>
 
-Manuel Rodríguez https://orcid.org/0000-0002-8743-0200
+Manuel Rodríguez <https://orcid.org/0000-0002-8743-0200>
 
-Mildred Lemus https://orcid.org/0000-0002-2874-519X
+Mildred Lemus <https://orcid.org/0000-0002-2874-519X>
 
-Alejandro Giraldo https://orcid.org/0000-0002-6637-7906
+Alejandro Giraldo <https://orcid.org/0000-0002-6637-7906>
 
-Lina Porras https://orcid.org/0000-0003-3354-8622
+Lina Porras <https://orcid.org/0000-0003-3354-8622>
 
-Juliana Martínez https://orcid.org/0000-0001-5962-4158
+Juliana Martínez <https://orcid.org/0000-0001-5962-4158>
 
-Juan Echeverry https://orcid.org/0000-0001-6537-6381
+Juan Echeverry <https://orcid.org/0000-0001-6537-6381>
 
-Carlos Oliveros https://orcid.org/0000-0002-1817-7010
+Carlos Oliveros <https://orcid.org/0000-0002-1817-7010>
 
-Juan Carlos Reyes https://orcid.org/0000-0003-0690-2956
+Juan Carlos Reyes <https://orcid.org/0000-0003-0690-2956>
 
-Nubia León https://orcid.org/0000-0002-1448-5825
+Nubia León <https://orcid.org/0000-0002-1448-5825>
 
-Diego Gutiérrez https://orcid.org/0000-0002-2716-2427
+Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
 
 ## 1.9 BIBLIOGRAFÍA
 
