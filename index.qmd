@@ -14,7 +14,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 01: Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá](01-c01-lgrd-14-calidad-agua-vf-2022-08-17.qmd){.fs-6 .fw-bold .text-decoration-none}
+[1. Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá](01-c01-lgrd-14-calidad-agua-vf-2022-08-17.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -30,7 +30,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 02: Evaluación de la amenaza por tsunami en el litoral Pacífico colombiano: Caso de estudio Guapi, Departamento del Cauca](02-c02-lgrd-16-evaluacion-amenaza-tsunami_vf-202.qmd){.fs-6 .fw-bold .text-decoration-none}
+[2. Evaluación de la amenaza por tsunami en el litoral Pacífico colombiano: Caso de estudio Guapi, Departamento del Cauca](02-c02-lgrd-16-evaluacion-amenaza-tsunami_vf-202.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -46,7 +46,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 03: Metodología para captura de datos y caracterización en estudios de valoración cualitativa multiamenaza en corredores viales apoyada en TIC](03-c3-lgrd-27-multiamenaza-corredores-vialesvf20.qmd){.fs-6 .fw-bold .text-decoration-none}
+[3. Metodología para captura de datos y caracterización en estudios de valoración cualitativa multiamenaza en corredores viales apoyada en TIC](03-c3-lgrd-27-multiamenaza-corredores-vialesvf20.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -62,7 +62,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 04: Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca](04-c04-lgrd-15-avenidas-torrenciales-antioquia_v.qmd){.fs-6 .fw-bold .text-decoration-none}
+[4. Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca](04-c04-lgrd-15-avenidas-torrenciales-antioquia_v.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -78,7 +78,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 05: Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía](05-c5-lgrd-12-incendios-orinoquiavf-2022-09-26.qmd){.fs-6 .fw-bold .text-decoration-none}
+[5. Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía](05-c5-lgrd-12-incendios-orinoquiavf-2022-09-26.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -94,7 +94,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 06: Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana](06-c06-lgrd-23-riesgo-inundacion-mojana-vf-2022-.qmd){.fs-6 .fw-bold .text-decoration-none}
+[6. Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana](06-c06-lgrd-23-riesgo-inundacion-mojana-vf-2022-.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -110,7 +110,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 07: Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo Pressure and Release](07-c07-lgrd-07-desastres-armero-mocoavf-2022-09-.qmd){.fs-6 .fw-bold .text-decoration-none}
+[7. Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo Pressure and Release](07-c07-lgrd-07-desastres-armero-mocoavf-2022-09-.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -126,7 +126,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 08: Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia](08-c08-lgrd-20-percepcion-del-riesgovf-2-2022-08.qmd){.fs-6 .fw-bold .text-decoration-none}
+[8. Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia](08-c08-lgrd-20-percepcion-del-riesgovf-2-2022-08.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -142,7 +142,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 09: Gestión del riesgo de desastres en Colombia: una mirada diferencial para los campesinos y su vida digna](09-c9-lgrd-18-mirada-diferencial-comunidad-vf-20.qmd){.fs-6 .fw-bold .text-decoration-none}
+[9. Gestión del riesgo de desastres en Colombia: una mirada diferencial para los campesinos y su vida digna](09-c9-lgrd-18-mirada-diferencial-comunidad-vf-20.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -158,7 +158,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 10: Sistemas de control de respuesta estructural para la mitigación del riesgo sísmico en la infraestructura colombiana. Necesidad inmediata de una normativa para el país](10-c10-lgrd-19-sistema-control-riesgo-sismico-vf.qmd){.fs-6 .fw-bold .text-decoration-none}
+[10. Sistemas de control de respuesta estructural para la mitigación del riesgo sísmico en la infraestructura colombiana. Necesidad inmediata de una normativa para el país](10-c10-lgrd-19-sistema-control-riesgo-sismico-vf.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -174,7 +174,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 11: La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático](11-c11-lgrd-06-gestion-integral-biodiversidadv6-.qmd){.fs-6 .fw-bold .text-decoration-none}
+[11. La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático](11-c11-lgrd-06-gestion-integral-biodiversidadv6-.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -190,7 +190,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 12: Retos para incorporar las soluciones basadas en la naturaleza y la reducción del riesgo de desastres con enfoque ecosistémico en la planificación territorial de Colombia](12-c12-lgrd-21-retos-eco-drr-y-sbn-vf-2022-18-08.qmd){.fs-6 .fw-bold .text-decoration-none}
+[12. Retos para incorporar las soluciones basadas en la naturaleza y la reducción del riesgo de desastres con enfoque ecosistémico en la planificación territorial de Colombia](12-c12-lgrd-21-retos-eco-drr-y-sbn-vf-2022-18-08.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -206,7 +206,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 13: Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema](13-c13-lgrd-10-biotratamiento-suelo-quema-19-09-.qmd){.fs-6 .fw-bold .text-decoration-none}
+[13. Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema](13-c13-lgrd-10-biotratamiento-suelo-quema-19-09-.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -222,7 +222,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 14: Gestión del riesgo en salud en situación de desastres. Lecciones aprendidas en Armenia](14-c14-lgrd-03-gestion-del-riesgo-en-salud-vf-v4.qmd){.fs-6 .fw-bold .text-decoration-none}
+[14. Gestión del riesgo en salud en situación de desastres. Lecciones aprendidas en Armenia](14-c14-lgrd-03-gestion-del-riesgo-en-salud-vf-v4.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
@@ -238,7 +238,7 @@ Bienvenido a la colección de la serie de libros de Investigaciones en Gestión 
 ::: {.card .h-100 .shadow-sm}
 
 ::: {.card-header .pt-2 .pb-2}
-[Capítulo 15: Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios](15-c-15-lgrd-11-preparacion-de-respondedores-vf3.qmd){.fs-6 .fw-bold .text-decoration-none}
+[15. Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios](15-c-15-lgrd-11-preparacion-de-respondedores-vf3.qmd){.fs-6 .fw-bold .text-decoration-none}
 :::
 
 ::: {.card-body .pt-2 .pb-2}
