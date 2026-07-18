@@ -201,80 +201,158 @@ Sandra Patricia Duque Quintero
 
 ## 9.9 BIBLIOGRAFÍA
 
-<div id="ref-1">1. DANE (Departamento Administrativo Nacional de Estadística). (2019). *Manual de Conceptos Censo Nacional de Población y Vivienda-Cnpv 2018.*</div>
+<div id="ref-1">
+1. DANE (Departamento Administrativo Nacional de Estadística). (2019). *Manual de Conceptos Censo Nacional de Población y Vivienda-Cnpv 2018.*
+</div>
 
-<div id="ref-2">2. DANE (Departamento Administrativo Nacional de Estadística). (2020). *Encuesta Nacional de Calidad de Vida ECV 2019*, *Resultados-Identificación Subjetiva De La Población Campesina*.</div>
+<div id="ref-2">
+2. DANE (Departamento Administrativo Nacional de Estadística). (2020). *Encuesta Nacional de Calidad de Vida ECV 2019*, *Resultados-Identificación Subjetiva De La Población Campesina*.
+</div>
 
-<div id="ref-3">3. Departamento Administrativo Nacional de Estadística - DANE. (2021). *Metodología General Encuesta Nacional de Calidad de Vida.*</div>
+<div id="ref-3">
+3. Departamento Administrativo Nacional de Estadística - DANE. (2021). *Metodología General Encuesta Nacional de Calidad de Vida.*
+</div>
 
-<div id="ref-4">4. Mantilla García, J.C. (2016). *Vida digna: Hacia un horizonte normativo para el Desarrollo Humano en la Colombia Rural*. [Tesis de doctorado, Pontificia Universidad Javeriana]</div>
+<div id="ref-4">
+4. Mantilla García, J.C. (2016). *Vida digna: Hacia un horizonte normativo para el Desarrollo Humano en la Colombia Rural*. [Tesis de doctorado, Pontificia Universidad Javeriana]
+</div>
 
-<div id="ref-5">5. MADS (Ministerio de Ambiente y Desarrollo Sostenible), PNUD (Programa de las Naciones Unidas para el Desarrollo), Bárcenas Sandoval J, Gómez Castiblanco L, Wilchex-Chaux, G. (2016), *Curso en Gestión del Riesgo de Desastres para Autoridades Ambientales en Colombia. Unidad I: Marco conceptual, institucional y normativo.*</div>
+<div id="ref-5">
+5. MADS (Ministerio de Ambiente y Desarrollo Sostenible), PNUD (Programa de las Naciones Unidas para el Desarrollo), Bárcenas Sandoval J, Gómez Castiblanco L, Wilchex-Chaux, G. (2016), *Curso en Gestión del Riesgo de Desastres para Autoridades Ambientales en Colombia. Unidad I: Marco conceptual, institucional y normativo.*
+</div>
 
-<div id="ref-6">6. MADS (Ministerio de Ambiente y Desarrollo Sostenible), PNUD (Programa de las Naciones Unidas para el Desarrollo), Carrión Barrero, GA. (2016). *Curso en Gestión del Riesgo de Desastres para Autoridades Ambientales en Colombia. Unidad II: Gestión de riesgos de desastre en la planificación territorial.*</div>
+<div id="ref-6">
+6. MADS (Ministerio de Ambiente y Desarrollo Sostenible), PNUD (Programa de las Naciones Unidas para el Desarrollo), Carrión Barrero, GA. (2016). *Curso en Gestión del Riesgo de Desastres para Autoridades Ambientales en Colombia. Unidad II: Gestión de riesgos de desastre en la planificación territorial.*
+</div>
 
-<div id="ref-7">7. Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres -UNDRR. (2021, 3 de agosto). *DesInventar Sendai*.</div>
+<div id="ref-7">
+7. Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres -UNDRR. (2021, 3 de agosto). *DesInventar Sendai*.
+</div>
 
-<div id="ref-8">8. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2022, 8 de abril). *Monitoreo de Amenazas Naturales - 8 de abril de 2022.* .</div>
+<div id="ref-8">
+8. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2022, 8 de abril). *Monitoreo de Amenazas Naturales - 8 de abril de 2022.* .
+</div>
 
-<div id="ref-9">9. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres), Cardona Arboleda, O., Bernal, G., Marulanda Fraume, P., Villegas, C., González, D.; Escovar, M. A., Carreño, M., Marulanda Fraume, M., (2019) *Atlas de Riesgo de Colombia: Revelando los Desastres Latentes.*</div>
+<div id="ref-9">
+9. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres), Cardona Arboleda, O., Bernal, G., Marulanda Fraume, P., Villegas, C., González, D.; Escovar, M. A., Carreño, M., Marulanda Fraume, M., (2019) *Atlas de Riesgo de Colombia: Revelando los Desastres Latentes.*
+</div>
 
-<div id="ref-10">10. Cardona Arboleda, O. (2001). *Estimación Holística del Riesgo Sísmico Utilizando Sistemas Dinámicos Complejos*.</div>
+<div id="ref-10">
+10. Cardona Arboleda, O. (2001). *Estimación Holística del Riesgo Sísmico Utilizando Sistemas Dinámicos Complejos*.
+</div>
 
-<div id="ref-11">11. Blaikie, P., Terry, C., Davis, I., Wisner, B. (1994). *At risk. Natural Hazards, People´s Vulnerability, and Disasters*. Taylor & Francis e-Library. https://doi.org/10.4324/9780203714775</div>
+<div id="ref-11">
+11. Blaikie, P., Terry, C., Davis, I., Wisner, B. (1994). *At risk. Natural Hazards, People´s Vulnerability, and Disasters*. Taylor & Francis e-Library. https://doi.org/10.4324/9780203714775
+</div>
 
-<div id="ref-12">12. Turner, B., Kasperson, R., Matson, P., Matsone, P., McCarthy, JJ., Corell, RW., et al. (2003). A framework for vulnerability analysis in sustainability science. *Proceedings of the National Academy of Sciences, 100*(14), 8074–9.</div>
+<div id="ref-12">
+12. Turner, B., Kasperson, R., Matson, P., Matsone, P., McCarthy, JJ., Corell, RW., et al. (2003). A framework for vulnerability analysis in sustainability science. *Proceedings of the National Academy of Sciences, 100*(14), 8074–9.
+</div>
 
-<div id="ref-13">13. Wilches-Chaux, G. (2017). Vulnerabilidad Global. *Journal of Chemical Information and Modeling, 8*(9),1–58.</div>
+<div id="ref-13">
+13. Wilches-Chaux, G. (2017). Vulnerabilidad Global. *Journal of Chemical Information and Modeling, 8*(9),1–58.
+</div>
 
-<div id="ref-14">14. Soares, D., Murillo-Licea, D. (2013). Percepciones Sociales y Cambio Climático. *Cuadernos de Desarrollo Rural, 10*(72),181–199.</div>
+<div id="ref-14">
+14. Soares, D., Murillo-Licea, D. (2013). Percepciones Sociales y Cambio Climático. *Cuadernos de Desarrollo Rural, 10*(72),181–199.
+</div>
 
-<div id="ref-15">15. De la Fuente, A. (2010). Desastres Naturales y Pobreza En América Latina: Impacto Al Bienestar y Soluciones de Protección Social. *Bienestar y Política Social,* 6(1),1–16.</div>
+<div id="ref-15">
+15. De la Fuente, A. (2010). Desastres Naturales y Pobreza En América Latina: Impacto Al Bienestar y Soluciones de Protección Social. *Bienestar y Política Social,* 6(1),1–16.
+</div>
 
-<div id="ref-16">16. Lampis, A. (2010). *Pobreza y Riesgo Medioambiental: Un problema de Vulnerabilidad y Desarrollo*.</div>
+<div id="ref-16">
+16. Lampis, A. (2010). *Pobreza y Riesgo Medioambiental: Un problema de Vulnerabilidad y Desarrollo*.
+</div>
 
-<div id="ref-17">17. PNUD (Programa de las Naciones Unidas para el Desarrollo). (2011). El Campesinado Reconocimiento para construir País*. Cuaderno del Informe de Desarrollo Humano, Colombia.*</div>
+<div id="ref-17">
+17. PNUD (Programa de las Naciones Unidas para el Desarrollo). (2011). El Campesinado Reconocimiento para construir País*. Cuaderno del Informe de Desarrollo Humano, Colombia.*
+</div>
 
-<div id="ref-18">18. Mosquera Téllez, J., Gómez Carvajal, ER. (2012). Bases Conceptuales para la Gestión Integral del Riesgo. *Luna Azul,* (34):148–69.</div>
+<div id="ref-18">
+18. Mosquera Téllez, J., Gómez Carvajal, ER. (2012). Bases Conceptuales para la Gestión Integral del Riesgo. *Luna Azul,* (34):148–69.
+</div>
 
-<div id="ref-19">19. Villareal Camacho, KA. (2016). Aporte de la Política de Gestión del Riesgo de Desastres a la Reducción de la Pobreza en Colombia desde un Enfoque de Vulnerabilidad Social.</div>
+<div id="ref-19">
+19. Villareal Camacho, KA. (2016). Aporte de la Política de Gestión del Riesgo de Desastres a la Reducción de la Pobreza en Colombia desde un Enfoque de Vulnerabilidad Social.
+</div>
 
-<div id="ref-20">20. Campos-Vargas, M., Toscana-Aparicio, A., Campos Alanís, J. (2015). Riesgos Socionaturales: Vulnerabilidad Socioeconómica, Justicia Ambiental y Justicia Espacial. *Cuadernos de Geografía. Revista Colombiana de Geografía, 24*(2):53–69.</div>
+<div id="ref-20">
+20. Campos-Vargas, M., Toscana-Aparicio, A., Campos Alanís, J. (2015). Riesgos Socionaturales: Vulnerabilidad Socioeconómica, Justicia Ambiental y Justicia Espacial. *Cuadernos de Geografía. Revista Colombiana de Geografía, 24*(2):53–69.
+</div>
 
-<div id="ref-21">21. Mora, M., Saffon, M. P., Gómez, P. (2018). Investigación-Acción Durante Desastres: Uso de Redes y Derechos. *Revista Mexicana de Sociología,* (80), 95–119.</div>
+<div id="ref-21">
+21. Mora, M., Saffon, M. P., Gómez, P. (2018). Investigación-Acción Durante Desastres: Uso de Redes y Derechos. *Revista Mexicana de Sociología,* (80), 95–119.
+</div>
 
-<div id="ref-22">22. Acuña Gamba, E. J., (2016). Responsabilidad Del Estado Por Fallas Geológicas. *Revista Vía Iuris*, *21*(8), 47–67.</div>
+<div id="ref-22">
+22. Acuña Gamba, E. J., (2016). Responsabilidad Del Estado Por Fallas Geológicas. *Revista Vía Iuris*, *21*(8), 47–67.
+</div>
 
-<div id="ref-23">23. Kasperson, RE., Renn, O., Slovic, P., Brown, HS., Emel. J., Goble, R., et al. (1988). The Social Amplification of Risk: A Conceptual Framework. *Risk Analysis,* *8*(2):177–87.</div>
+<div id="ref-23">
+23. Kasperson, RE., Renn, O., Slovic, P., Brown, HS., Emel. J., Goble, R., et al. (1988). The Social Amplification of Risk: A Conceptual Framework. *Risk Analysis,* *8*(2):177–87.
+</div>
 
-<div id="ref-24">24. Unidad Nacional de Gestión del Riesgo de Desastres - UNGRD, Comité Nacional para el Conocimiento del Riesgo - SNGRD. (2017). Terminología sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes.</div>
+<div id="ref-24">
+24. Unidad Nacional de Gestión del Riesgo de Desastres - UNGRD, Comité Nacional para el Conocimiento del Riesgo - SNGRD. (2017). Terminología sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes.
+</div>
 
-<div id="ref-25">25. Pérez Aldana, LY. (2016). El desarrollo como Determinante de la Magnitud de los Desastres en Colombia 2000-2012.</div>
+<div id="ref-25">
+25. Pérez Aldana, LY. (2016). El desarrollo como Determinante de la Magnitud de los Desastres en Colombia 2000-2012.
+</div>
 
-<div id="ref-26">26. Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres -UNDRR. (2019). *Informe de Evaluación Global sobre la Reducción del Riesgo de Desastres (síntesis). Hacia el Desarrollo Sostenible*.</div>
+<div id="ref-26">
+26. Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres -UNDRR. (2019). *Informe de Evaluación Global sobre la Reducción del Riesgo de Desastres (síntesis). Hacia el Desarrollo Sostenible*.
+</div>
 
-<div id="ref-27">27. Olivar Rojas, AF. (2020). Políticas Públicas y Enfoques Diferenciales: Aproximaciones desde la Interculturalidad y la Democracia Radical. *Iztapalapa Revista Ciencias Sociales y Humanidades, 88*(1).</div>
+<div id="ref-27">
+27. Olivar Rojas, AF. (2020). Políticas Públicas y Enfoques Diferenciales: Aproximaciones desde la Interculturalidad y la Democracia Radical. *Iztapalapa Revista Ciencias Sociales y Humanidades, 88*(1).
+</div>
 
-<div id="ref-28">28. Lampis, A. (2019). ¿Qué Ha Pasado con la Vulnerabilidad Social en Colombia? Conectar Libertades Instrumentales y Fundamentales. *Sociedad y Economía*. (19), 229-261.</div>
+<div id="ref-28">
+28. Lampis, A. (2019). ¿Qué Ha Pasado con la Vulnerabilidad Social en Colombia? Conectar Libertades Instrumentales y Fundamentales. *Sociedad y Economía*. (19), 229-261.
+</div>
 
-<div id="ref-29">29. Yie Garzón, SM. (2018) *¡Vea, Los Campesinos Aquí Estamos!: Etnografía De La (Re)Aparición Del Campesinado Como Sujeto Político En Los Andes Nariñenses Colombianos*. [Tesis doctoral, Universidade Estadual de Campinas. Instituto de Filosofia e Ciências Humanas].</div>
+<div id="ref-29">
+29. Yie Garzón, SM. (2018) *¡Vea, Los Campesinos Aquí Estamos!: Etnografía De La (Re)Aparición Del Campesinado Como Sujeto Político En Los Andes Nariñenses Colombianos*. [Tesis doctoral, Universidade Estadual de Campinas. Instituto de Filosofia e Ciências Humanas].
+</div>
 
-<div id="ref-30">30. Velasco Olarte, ME. (2021, 2 de agosto). *Quienes Son Hoy los/as Campesinos/as: Un Acercamiento al Proceso de Construcción de Identidad Campesina en el Marco del Conflicto Armado en Colombia. Caso de Estudio: Las Zonas de Reserva Campesina*. .</div>
+<div id="ref-30">
+30. Velasco Olarte, ME. (2021, 2 de agosto). *Quienes Son Hoy los/as Campesinos/as: Un Acercamiento al Proceso de Construcción de Identidad Campesina en el Marco del Conflicto Armado en Colombia. Caso de Estudio: Las Zonas de Reserva Campesina*. .
+</div>
 
-<div id="ref-31">31. Mora Delgado, J. (2008). Persistencia, Conocimiento Local y Estrategias de Vida en Sociedades Campesinas. *Revista de Estudios Sociales,* (29),122–33.</div>
+<div id="ref-31">
+31. Mora Delgado, J. (2008). Persistencia, Conocimiento Local y Estrategias de Vida en Sociedades Campesinas. *Revista de Estudios Sociales,* (29),122–33.
+</div>
 
-<div id="ref-32">32. Instituto Colombiano de Antropología e Historia -ICANH. (2017, febrero). *Elementos para la conceptualización de lo “campesino” en Colombia Documento técnico elaborado por el ICANH*.</div>
+<div id="ref-32">
+32. Instituto Colombiano de Antropología e Historia -ICANH. (2017, febrero). *Elementos para la conceptualización de lo “campesino” en Colombia Documento técnico elaborado por el ICANH*.
+</div>
 
-<div id="ref-33">33. Salgado Araméndez, C. Los Campesinos Imaginados. (2002). *Cuadernos Tierra y Justicia. ILSA,* (6):40.</div>
+<div id="ref-33">
+33. Salgado Araméndez, C. Los Campesinos Imaginados. (2002). *Cuadernos Tierra y Justicia. ILSA,* (6):40.
+</div>
 
-<div id="ref-34">34. Chacón Hernández, D. (2018). ¿Y qué hay de los derechos humanos campesinos? *Alegatos - Revista Jurídica de la Universidad Autónoma Metropolitana*, *18*(1):815–41.</div>
+<div id="ref-34">
+34. Chacón Hernández, D. (2018). ¿Y qué hay de los derechos humanos campesinos? *Alegatos - Revista Jurídica de la Universidad Autónoma Metropolitana*, *18*(1):815–41.
+</div>
 
-<div id="ref-35">35. Duque Quintero, SP., Duque Quintero, M., González Sánchez, P. (2019). Sobre el Derecho Fundamental Al Mínimo Vital o a La Subsistencia: Análisis Jurisprudencial. *Revista Encuentros, 17*(01):80–95.</div>
+<div id="ref-35">
+35. Duque Quintero, SP., Duque Quintero, M., González Sánchez, P. (2019). Sobre el Derecho Fundamental Al Mínimo Vital o a La Subsistencia: Análisis Jurisprudencial. *Revista Encuentros, 17*(01):80–95.
+</div>
 
-<div id="ref-36">36. Rodríguez, JN., Camacho, SJ. (2013). ¿Quiénes son los campesinos colombianos hoy? *Universidad, Ciencia y Desarrollo*.</div>
+<div id="ref-36">
+36. Rodríguez, JN., Camacho, SJ. (2013). ¿Quiénes son los campesinos colombianos hoy? *Universidad, Ciencia y Desarrollo*.
+</div>
 
-<div id="ref-37">37. Arteaga Morales, BI. (2012). El Enfoque Diferencial: ¿Una Apuesta Para La Construcción De Paz? [Internet]. En: Observatorio de Construcción De Paz. (Eds.), *Identidades, Enfoque Diferencial y Construcción de Paz. Serie Documentos Para La Paz (N° 3*., p.p.15–38). Universidad Jorge Tadeo Lozano.</div>
+<div id="ref-37">
+37. Arteaga Morales, BI. (2012). El Enfoque Diferencial: ¿Una Apuesta Para La Construcción De Paz? [Internet]. En: Observatorio de Construcción De Paz. (Eds.), *Identidades, Enfoque Diferencial y Construcción de Paz. Serie Documentos Para La Paz (N° 3*., p.p.15–38). Universidad Jorge Tadeo Lozano.
+</div>
 
-<div id="ref-38">38. Salinas, V., Cevallos, W., Levy, K. (2020). Afrodescendientes e Indígenas Vulnerables Al Cambio Climático: Desacuerdos Frente A Medidas Preventivas Estatales Ecuatorianas. *Iconos,* *24*(66),107–29.</div>
+<div id="ref-38">
+38. Salinas, V., Cevallos, W., Levy, K. (2020). Afrodescendientes e Indígenas Vulnerables Al Cambio Climático: Desacuerdos Frente A Medidas Preventivas Estatales Ecuatorianas. *Iconos,* *24*(66),107–29.
+</div>
 
-<div id="ref-39">39. González Agudelo, E. (2011). Sobre La Experiencia Hermenéutica o Acerca de Otra Posibilidad Para La Construcción Del Conocimiento. *Discusiones Filosóficas*, *12*(18),125–43.</div>
+<div id="ref-39">
+39. González Agudelo, E. (2011). Sobre La Experiencia Hermenéutica o Acerca de Otra Posibilidad Para La Construcción Del Conocimiento. *Discusiones Filosóficas*, *12*(18),125–43.
+</div>

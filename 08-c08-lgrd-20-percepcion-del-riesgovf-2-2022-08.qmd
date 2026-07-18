@@ -155,51 +155,147 @@ Los autores no declaran conflicto de intereses
 
 ## 8.7 BIBLIOGRAFÍA
 
-<div id="ref-1">1. Weber, J. M., Hair, J. F., & Fowler, C. R. (2000). Developing a measure of perceived environmental risk. *Journal of Environmental Education*, *32*(1), 28–35.</div>
-<div id="ref-2">2. Corral V., V., Frías A., M., & González L., D. (2003). Percepción de riesgos, conducta proambiental y variables demográficas en una comunidad de Sonora, México. *Región y Sociedad*, *XV*(26), 50–72.</div>
-<div id="ref-3">3. Slovic, P. (2000). *The perception of risk*. Washington: Earthscan.</div>
-<div id="ref-4">4. Wester-Herber, M. (2004). Underlying concerns in land-use conflicts - The role of place-identity in risk perception. *Environmental Science and Policy*, *7*, 109–116.</div>
-<div id="ref-5">5. Joffe, H. (2003). Risk: from perception to social representation. *The British Journal of Social Psychology*, *42*, 55–73.</div>
-<div id="ref-6">6. Doise, W. (1986). *Levels of explanation in social psychology.* Cambridge: Cambridge University Press.</div>
-<div id="ref-7">7. Holahan, C. (2004). *Psicología ambiental: un enfoque general*. México: Limusa editores.</div>
-<div id="ref-8">8. Navarro, O. (2017). Social inequality and environmental risk perception. En G. Fleury-Bahi, E. Pol, & O. Navarro (Eds.), *Handbook of environmental psychology and QOL research*. Springer International Publishing.</div>
-<div id="ref-9">9. Muñoz-Duque, L.A., & Navarro, O. (2020). Percepción del riesgo y estrategias de afrontamiento en población expuesta a inundación en Antioquia, Colombia. En P. Olivos J., O. Navarro, & A. Loureiro (Eds.), *Cómo afrontar una catástrofe. Percepción de riesgo y factores psicosociales de la adaptaciónón* (pp. 61–90). Cuenca: Ediciones de la Universidad de Castilla-La Macha.</div>
-<div id="ref-10">10. Navarro, O., Chavez, L., Piñeres, J., & Noreña, M. (2016). Percepción del riesgo y estrategias de afrontamiento en población expuesta y no expuesta al riesgo de inundación. *Interaméricain Journal of Psychology*, *50*(3), 331–346.</div>
-<div id="ref-11">11. Muñoz-Duque, L.A., & Arroyave, O. (2017). Percepción del riesgo y apego al lugar en población expuesta a inundación: un estudio comparativo. *Pensamiento Psicológico*, *15*(2), 79–92.</div>
-<div id="ref-12">12. Zapa-Pérez, K., Navarro, O., & Rendón-Rivera, A. (2017). Modelo de análisis de la vulnerabilidad psicosocial en la gestión del riesgo de desastres. *Ista de Gestão Social e Ambiental*, *11*(2), 91–110.</div>
-<div id="ref-13">13. Navarro, Oscar, Restrepo-Ochoa, D., Muñoz-Duque, L.A., Zapa-Perez, K., Ameline, A., Mercier, D., & Fleury-Bahi, G. (2020). Determinants of coping strategies in two types of natural hazards: Flash floods and costal flooding. *International Journal of Disaster Risk Reduction*, *46*(January).</div>
-<div id="ref-14">14. Muñoz-Duque, L.A., Navarro, O., Restrepo-Ochoa, D., & Fleury-Bahi, G. (2021). Risk perception and trust management in inhabitants exposed to coastal flooding: The case of Cartagena, Colombia. *International Journal of Disaster Risk Reduction*, *60*(April), 102261.</div>
-<div id="ref-15">15. Lemée, C., Navarro, O., Restrepo-Ochoa, D., Mercier, D., & Fleury-Bahi, G. (2020). Protective behaviors regarding coastal flooding risk in a context of climate change. *Advances in Climate Change Research*, *11*(4), 310–316.</div>
-<div id="ref-16">16. Guillard, M., Navarro, O., Cortes, S., & Fleury-Bahi, G. (2021). How do we adapt when we are faced with the effects of climate change? *International Journal of Disaster Risk Reduction*, *65*.</div>
-<div id="ref-17">17. Navarro, O. (2022). *Psychologie environnementale. Enjeux environnementaux, risques et qualité de vie*. De Boeck supérieur.</div>
-<div id="ref-18">18. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2020, 12 de agosto). Boletín de prensa 091. *¿Cuál es el riesgo por inundaciones en Colombia?*</div>
-<div id="ref-19">19. https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29910/Boletin_de_prensa_N_091.pdf?</div>
-<div id="ref-20">20. COSUDE (Agencia Suiza para el Desarrollo y Cooperación) / ALARN (Apoyo Local para el Análisis y Manejo de los Riesgos Naturales). (2002). *Instrumentos de apoyo para el análisis y la gestión de los riesgos naturales. Guía para el especialista*. Managua.</div>
-<div id="ref-21">21. Caballero, J. (2011). Las avenidas torrenciales: una amenaza potencial en el Valle de Aburra. *Gestion y Ambiente*, *14*(3), 45–50.</div>
-<div id="ref-22">22. Alvioli, M., Melillo, M., Guzzetti, F., Rossi, M., Palazzi, E., von Hardenberg, J., … Peruccacci, S. (2018). Implications of climate change on landslide hazard in Central Italy. *Science of the Total Environment*, *630*, 1528–1543.</div>
-<div id="ref-23">23. Spizzichino, D., Capriolo, A., & F., D. G. (2015). Climate change, flash flood risk assessment and adaptation policies: the urban area of Ancona municipality. *Engineering Geology for Society and Territory*, *5*, 1–7.</div>
-<div id="ref-24">24. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (s.f.). *Sequías*. http://gestiondelriesgo.gov.co/snigrd/pagina.aspx?id=148</div>
-<div id="ref-25">25. Reser, J., & Swim, J. (2011). Adaptating to and coping with the threat and impacts of climate change. *The American Psychologist*, *66*(4), 277–289.</div>
-<div id="ref-26">26. Cutter, S. L., Boruff, B. J., & Shirley, W. L. (2003). Social vulnerability to environmental hazards. *Social Science Quarterly,* *84*(2), 242–261.</div>
-<div id="ref-27">27. Gierlach, E., Belsher, B. ., & Beutler, L. . (2010). Cross-cultural differences in risk perceptions of disasters. *Risk Analysis*, *30*(10), 1539–1549.</div>
-<div id="ref-28">28. Douglas, M. (1996). *La aceptabilidad del riesgo según las ciencias sociales*. Barcelona: Paidós.</div>
-<div id="ref-29">29. Douglas, M. (2001). Los riesgos a los que se enfrenta un técnico de prevención de riesgos. *Revista Empresa y Humanismo*, *IV*(2/01), 267–290.</div>
-<div id="ref-30">30. Røislien, H. E. (2007). Living with Contradiction : Examining the Worldview of the Jewish Settlers in Hebron. *International Journal of Conflict and Violence*, *1*(2), 169–184.</div>
-<div id="ref-31">31. Billig, M. (2006). Is my home my castle? Place attachment, risk perception, and religious faith. *Environment and Behavior*, *38*(2), 248.</div>
-<div id="ref-32">32. Mishra, S., Mazumdar, S., & Suar, D. (2010). Place attachment and flood preparedness. *Journal of Environmental Psychology*, *30*(2), 187–197.</div>
-<div id="ref-33">33. Roussel, I., Gailhard-Rocher, I., Lelievre, F., Lefranc, A., Tallec, A., Menard, C., & Beck, F. (2009). Diversité des perceptions de la pollution de l’air extérieur, disparités sociales et territoriales. Comment construire une politique égalitaire ? *Air Pur*, *76*, 30–35.</div>
-<div id="ref-34">34. Bernardo, F. (2013). Impact of place attachment on risk perception: Exploring the multidimensionality of risk and its magnitude. *Estudios de Psicología*, *34*(3), 323–329.</div>
-<div id="ref-35">35. Hidalgo, M. del C., & Hernández, B. (2001). Place attachment: conceptual and empirical questions. *Journal of Environmental Psychology*, *21*(3), 273–281.</div>
-<div id="ref-36">36. Jorgensen, B. S., & Stedman, R. C. (2001). Sense of place as an attitude: Lakeshore owners attitudes toward their properties. *Journal of Environmental Psychology*, *21*(3), 233–248.</div>
-<div id="ref-37">37. Vidal, T., Pol, E., Guàrdia, J., & Peró, M. (2004). Un modelo de apropiación del espacio mediante ecuaciones estructurales. *Medio Ambiente y Comportamiento Humano*, *5*(1 y 2), 27–52.</div>
-<div id="ref-38">38. Urcan, I. (2012). Flood hazards perception. The result of an opinion survey made in the little towns from lower Aries Corridor. *Riscuri Şi Catastrofe*, *11*(2), 202–210.</div>
-<div id="ref-39">39. Bonaiuto, M., Alves, S., De Dominicis, S., & Petruccelli, I. (2016). Place attachment and natural hazard risk: Research review and agenda. *Journal of Environmental Psychology*, *48*, 33–53.</div>
-<div id="ref-40">40. De Dominicis, S., Fornara, F., Ganucci C., U., Twigger-Ross, C., & Bonaiuto, M. (2015). We are at risk, and so what? Place attachment, environmental risk perceptions and preventive coping behaviours. *Journal of Environmental Psychology*, *43*, 66–78.</div>
-<div id="ref-41">41. Siegrist, M., & Cvetkovich, G. (2000). Perception of hazards: The role of social trust and knowledge. *Risk Analysis*, *20*(5), 713–719.</div>
-<div id="ref-42">42. Siegrist, M. (2019). Trust and risk perception: a critical review of the literature. *Risk Analisys*, *27*.</div>
-<div id="ref-43">43. Siegrist, M., & Zingg, A. (2014). The role of public trust during pandemics: Implications for crisis communication. *European Psychologist*, *19*(1), 23–32.</div>
-<div id="ref-44">44. Slovic, P. (1993). Perceived risk, trust, and democracy. *Risk Analysis*, *13*, 675–682.</div>
-<div id="ref-45">45. Earle, T. C. (2010). Trust in risk management: A model-based review of empirical research. *Risk Analysis*, *30*, 541–574.</div>
-<div id="ref-46">46. Earle, T. C., Siegrist, M., & Gutscher, H. (2007). Trust, risk perception, and the TCC model of cooperation. In M. Siegrist, T. C. Earle, & H. Gutscher (Eds.), *Trust in cooperative risk management: Uncertainty and scepticism in the public mind* (pp. 1–49). London: Earthscan.</div>
-<div id="ref-47">47. Frewer, L. J. (2003). Trust, transparency, and social context: Implications for social amplification of risk. En N. F. Pidgeon, R. E. Kasperson, & P. Slovic (Eds.), *The social amplification of risk* (pp. 123–137). Cambridge: Cambridge University Press.</div>
-<div id="ref-48">48. Fleury-Bahi, G., Marcouyeux, A., Préau, M., & Annabi-Attia, T. (2013). Development and validation of an environmental quality of life scale: study of a French sample. *Social Indicators Research*, *113*(3), 903–913.</div>
+<div id="ref-1">
+1. Weber, J. M., Hair, J. F., & Fowler, C. R. (2000). Developing a measure of perceived environmental risk. *Journal of Environmental Education*, *32*(1), 28–35.
+</div>
+<div id="ref-2">
+2. Corral V., V., Frías A., M., & González L., D. (2003). Percepción de riesgos, conducta proambiental y variables demográficas en una comunidad de Sonora, México. *Región y Sociedad*, *XV*(26), 50–72.
+</div>
+<div id="ref-3">
+3. Slovic, P. (2000). *The perception of risk*. Washington: Earthscan.
+</div>
+<div id="ref-4">
+4. Wester-Herber, M. (2004). Underlying concerns in land-use conflicts - The role of place-identity in risk perception. *Environmental Science and Policy*, *7*, 109–116.
+</div>
+<div id="ref-5">
+5. Joffe, H. (2003). Risk: from perception to social representation. *The British Journal of Social Psychology*, *42*, 55–73.
+</div>
+<div id="ref-6">
+6. Doise, W. (1986). *Levels of explanation in social psychology.* Cambridge: Cambridge University Press.
+</div>
+<div id="ref-7">
+7. Holahan, C. (2004). *Psicología ambiental: un enfoque general*. México: Limusa editores.
+</div>
+<div id="ref-8">
+8. Navarro, O. (2017). Social inequality and environmental risk perception. En G. Fleury-Bahi, E. Pol, & O. Navarro (Eds.), *Handbook of environmental psychology and QOL research*. Springer International Publishing.
+</div>
+<div id="ref-9">
+9. Muñoz-Duque, L.A., & Navarro, O. (2020). Percepción del riesgo y estrategias de afrontamiento en población expuesta a inundación en Antioquia, Colombia. En P. Olivos J., O. Navarro, & A. Loureiro (Eds.), *Cómo afrontar una catástrofe. Percepción de riesgo y factores psicosociales de la adaptaciónón* (pp. 61–90). Cuenca: Ediciones de la Universidad de Castilla-La Macha.
+</div>
+<div id="ref-10">
+10. Navarro, O., Chavez, L., Piñeres, J., & Noreña, M. (2016). Percepción del riesgo y estrategias de afrontamiento en población expuesta y no expuesta al riesgo de inundación. *Interaméricain Journal of Psychology*, *50*(3), 331–346.
+</div>
+<div id="ref-11">
+11. Muñoz-Duque, L.A., & Arroyave, O. (2017). Percepción del riesgo y apego al lugar en población expuesta a inundación: un estudio comparativo. *Pensamiento Psicológico*, *15*(2), 79–92.
+</div>
+<div id="ref-12">
+12. Zapa-Pérez, K., Navarro, O., & Rendón-Rivera, A. (2017). Modelo de análisis de la vulnerabilidad psicosocial en la gestión del riesgo de desastres. *Ista de Gestão Social e Ambiental*, *11*(2), 91–110.
+</div>
+<div id="ref-13">
+13. Navarro, Oscar, Restrepo-Ochoa, D., Muñoz-Duque, L.A., Zapa-Perez, K., Ameline, A., Mercier, D., & Fleury-Bahi, G. (2020). Determinants of coping strategies in two types of natural hazards: Flash floods and costal flooding. *International Journal of Disaster Risk Reduction*, *46*(January).
+</div>
+<div id="ref-14">
+14. Muñoz-Duque, L.A., Navarro, O., Restrepo-Ochoa, D., & Fleury-Bahi, G. (2021). Risk perception and trust management in inhabitants exposed to coastal flooding: The case of Cartagena, Colombia. *International Journal of Disaster Risk Reduction*, *60*(April), 102261.
+</div>
+<div id="ref-15">
+15. Lemée, C., Navarro, O., Restrepo-Ochoa, D., Mercier, D., & Fleury-Bahi, G. (2020). Protective behaviors regarding coastal flooding risk in a context of climate change. *Advances in Climate Change Research*, *11*(4), 310–316.
+</div>
+<div id="ref-16">
+16. Guillard, M., Navarro, O., Cortes, S., & Fleury-Bahi, G. (2021). How do we adapt when we are faced with the effects of climate change? *International Journal of Disaster Risk Reduction*, *65*.
+</div>
+<div id="ref-17">
+17. Navarro, O. (2022). *Psychologie environnementale. Enjeux environnementaux, risques et qualité de vie*. De Boeck supérieur.
+</div>
+<div id="ref-18">
+18. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2020, 12 de agosto). Boletín de prensa 091. *¿Cuál es el riesgo por inundaciones en Colombia?*
+</div>
+<div id="ref-19">
+19. https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29910/Boletin_de_prensa_N_091.pdf?
+</div>
+<div id="ref-20">
+20. COSUDE (Agencia Suiza para el Desarrollo y Cooperación) / ALARN (Apoyo Local para el Análisis y Manejo de los Riesgos Naturales). (2002). *Instrumentos de apoyo para el análisis y la gestión de los riesgos naturales. Guía para el especialista*. Managua.
+</div>
+<div id="ref-21">
+21. Caballero, J. (2011). Las avenidas torrenciales: una amenaza potencial en el Valle de Aburra. *Gestion y Ambiente*, *14*(3), 45–50.
+</div>
+<div id="ref-22">
+22. Alvioli, M., Melillo, M., Guzzetti, F., Rossi, M., Palazzi, E., von Hardenberg, J., … Peruccacci, S. (2018). Implications of climate change on landslide hazard in Central Italy. *Science of the Total Environment*, *630*, 1528–1543.
+</div>
+<div id="ref-23">
+23. Spizzichino, D., Capriolo, A., & F., D. G. (2015). Climate change, flash flood risk assessment and adaptation policies: the urban area of Ancona municipality. *Engineering Geology for Society and Territory*, *5*, 1–7.
+</div>
+<div id="ref-24">
+24. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (s.f.). *Sequías*. http://gestiondelriesgo.gov.co/snigrd/pagina.aspx?id=148
+</div>
+<div id="ref-25">
+25. Reser, J., & Swim, J. (2011). Adaptating to and coping with the threat and impacts of climate change. *The American Psychologist*, *66*(4), 277–289.
+</div>
+<div id="ref-26">
+26. Cutter, S. L., Boruff, B. J., & Shirley, W. L. (2003). Social vulnerability to environmental hazards. *Social Science Quarterly,* *84*(2), 242–261.
+</div>
+<div id="ref-27">
+27. Gierlach, E., Belsher, B. ., & Beutler, L. . (2010). Cross-cultural differences in risk perceptions of disasters. *Risk Analysis*, *30*(10), 1539–1549.
+</div>
+<div id="ref-28">
+28. Douglas, M. (1996). *La aceptabilidad del riesgo según las ciencias sociales*. Barcelona: Paidós.
+</div>
+<div id="ref-29">
+29. Douglas, M. (2001). Los riesgos a los que se enfrenta un técnico de prevención de riesgos. *Revista Empresa y Humanismo*, *IV*(2/01), 267–290.
+</div>
+<div id="ref-30">
+30. Røislien, H. E. (2007). Living with Contradiction : Examining the Worldview of the Jewish Settlers in Hebron. *International Journal of Conflict and Violence*, *1*(2), 169–184.
+</div>
+<div id="ref-31">
+31. Billig, M. (2006). Is my home my castle? Place attachment, risk perception, and religious faith. *Environment and Behavior*, *38*(2), 248.
+</div>
+<div id="ref-32">
+32. Mishra, S., Mazumdar, S., & Suar, D. (2010). Place attachment and flood preparedness. *Journal of Environmental Psychology*, *30*(2), 187–197.
+</div>
+<div id="ref-33">
+33. Roussel, I., Gailhard-Rocher, I., Lelievre, F., Lefranc, A., Tallec, A., Menard, C., & Beck, F. (2009). Diversité des perceptions de la pollution de l’air extérieur, disparités sociales et territoriales. Comment construire une politique égalitaire ? *Air Pur*, *76*, 30–35.
+</div>
+<div id="ref-34">
+34. Bernardo, F. (2013). Impact of place attachment on risk perception: Exploring the multidimensionality of risk and its magnitude. *Estudios de Psicología*, *34*(3), 323–329.
+</div>
+<div id="ref-35">
+35. Hidalgo, M. del C., & Hernández, B. (2001). Place attachment: conceptual and empirical questions. *Journal of Environmental Psychology*, *21*(3), 273–281.
+</div>
+<div id="ref-36">
+36. Jorgensen, B. S., & Stedman, R. C. (2001). Sense of place as an attitude: Lakeshore owners attitudes toward their properties. *Journal of Environmental Psychology*, *21*(3), 233–248.
+</div>
+<div id="ref-37">
+37. Vidal, T., Pol, E., Guàrdia, J., & Peró, M. (2004). Un modelo de apropiación del espacio mediante ecuaciones estructurales. *Medio Ambiente y Comportamiento Humano*, *5*(1 y 2), 27–52.
+</div>
+<div id="ref-38">
+38. Urcan, I. (2012). Flood hazards perception. The result of an opinion survey made in the little towns from lower Aries Corridor. *Riscuri Şi Catastrofe*, *11*(2), 202–210.
+</div>
+<div id="ref-39">
+39. Bonaiuto, M., Alves, S., De Dominicis, S., & Petruccelli, I. (2016). Place attachment and natural hazard risk: Research review and agenda. *Journal of Environmental Psychology*, *48*, 33–53.
+</div>
+<div id="ref-40">
+40. De Dominicis, S., Fornara, F., Ganucci C., U., Twigger-Ross, C., & Bonaiuto, M. (2015). We are at risk, and so what? Place attachment, environmental risk perceptions and preventive coping behaviours. *Journal of Environmental Psychology*, *43*, 66–78.
+</div>
+<div id="ref-41">
+41. Siegrist, M., & Cvetkovich, G. (2000). Perception of hazards: The role of social trust and knowledge. *Risk Analysis*, *20*(5), 713–719.
+</div>
+<div id="ref-42">
+42. Siegrist, M. (2019). Trust and risk perception: a critical review of the literature. *Risk Analisys*, *27*.
+</div>
+<div id="ref-43">
+43. Siegrist, M., & Zingg, A. (2014). The role of public trust during pandemics: Implications for crisis communication. *European Psychologist*, *19*(1), 23–32.
+</div>
+<div id="ref-44">
+44. Slovic, P. (1993). Perceived risk, trust, and democracy. *Risk Analysis*, *13*, 675–682.
+</div>
+<div id="ref-45">
+45. Earle, T. C. (2010). Trust in risk management: A model-based review of empirical research. *Risk Analysis*, *30*, 541–574.
+</div>
+<div id="ref-46">
+46. Earle, T. C., Siegrist, M., & Gutscher, H. (2007). Trust, risk perception, and the TCC model of cooperation. In M. Siegrist, T. C. Earle, & H. Gutscher (Eds.), *Trust in cooperative risk management: Uncertainty and scepticism in the public mind* (pp. 1–49). London: Earthscan.
+</div>
+<div id="ref-47">
+47. Frewer, L. J. (2003). Trust, transparency, and social context: Implications for social amplification of risk. En N. F. Pidgeon, R. E. Kasperson, & P. Slovic (Eds.), *The social amplification of risk* (pp. 123–137). Cambridge: Cambridge University Press.
+</div>
+<div id="ref-48">
+48. Fleury-Bahi, G., Marcouyeux, A., Préau, M., & Annabi-Attia, T. (2013). Development and validation of an environmental quality of life scale: study of a French sample. *Social Indicators Research*, *113*(3), 903–913.
+</div>

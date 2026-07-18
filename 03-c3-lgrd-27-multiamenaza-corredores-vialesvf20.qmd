@@ -346,60 +346,118 @@ Juan Pablo Londoño
 
 ## 3.13 BIBLIOGRAFÍA
 
-<div id="ref-1">1. Silva, D. (2020) *Indicadores de ciencia y tecnología 2019*. Observatorio Colombiano de Ciencia y Tecnología, Bogotá.</div>
+<div id="ref-1">
+1. Silva, D. (2020) *Indicadores de ciencia y tecnología 2019*. Observatorio Colombiano de Ciencia y Tecnología, Bogotá.
+</div>
 
-<div id="ref-2">2. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2020, 17 de enero). *¿Cuál es el riesgo por inundaciones en Colombia?*</div>
+<div id="ref-2">
+2. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2020, 17 de enero). *¿Cuál es el riesgo por inundaciones en Colombia?*
+</div>
 
-<div id="ref-3">3. Gil-Guirado, S.; Pérez-Morales, A; Pino, D., Peña, J. C. & Martínez, F. L. (2022). Flood impact on the Spanish Mediterranean coast since 1960 based on the prevailing synoptic patterns, *Science of The Total Environment*, *807*(parte 1), 150777.</div>
+<div id="ref-3">
+3. Gil-Guirado, S.; Pérez-Morales, A; Pino, D., Peña, J. C. & Martínez, F. L. (2022). Flood impact on the Spanish Mediterranean coast since 1960 based on the prevailing synoptic patterns, *Science of The Total Environment*, *807*(parte 1), 150777.
+</div>
 
-<div id="ref-4">4. Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.</div>
+<div id="ref-4">
+4. Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.
+</div>
 
-<div id="ref-5">5. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Terminología Sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes*. UNGRD</div>
+<div id="ref-5">
+5. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Terminología Sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes*. UNGRD
+</div>
 
-<div id="ref-6">6. Rosales-Veítia, J. Evolución histórica de la concepción de la gestión de riesgos de desastres: algunas consideraciones. *Revista Kawsaypacha: Sociedad y medio ambiente*, 7, 67-81, 2021.</div>
+<div id="ref-6">
+6. Rosales-Veítia, J. Evolución histórica de la concepción de la gestión de riesgos de desastres: algunas consideraciones. *Revista Kawsaypacha: Sociedad y medio ambiente*, 7, 67-81, 2021.
+</div>
 
-<div id="ref-7">7. INVIAS (Instituto Nacional de Vías). (2006). *Manual para la inspección visual de obra de estabilizacion*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.</div>
+<div id="ref-7">
+7. INVIAS (Instituto Nacional de Vías). (2006). *Manual para la inspección visual de obra de estabilizacion*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.
+</div>
 
-<div id="ref-8">8. INVIAS (Instituto Nacional de Vías). (2003). *Manual para la inspección visual de obras de drenaje*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.</div>
+<div id="ref-8">
+8. INVIAS (Instituto Nacional de Vías). (2003). *Manual para la inspección visual de obras de drenaje*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.
+</div>
 
-<div id="ref-9">9. INVIAS (Instituto Nacional de Vías). (2006). *Manual para la inspección visual puentes y pontones*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.</div>
+<div id="ref-9">
+9. INVIAS (Instituto Nacional de Vías). (2006). *Manual para la inspección visual puentes y pontones*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.
+</div>
 
-<div id="ref-10">10. INVIAS (Instituto Nacional de Vías). (2006). Manual para la inspección visual de pavimentos flexibles. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.</div>
+<div id="ref-10">
+10. INVIAS (Instituto Nacional de Vías). (2006). Manual para la inspección visual de pavimentos flexibles. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.
+</div>
 
-<div id="ref-11">11. INVIAS (Instituto Nacional de Vías). (2006). *Manual para la inspección visual de pavimentos rígidos*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.</div>
+<div id="ref-11">
+11. INVIAS (Instituto Nacional de Vías). (2006). *Manual para la inspección visual de pavimentos rígidos*. Universidad Nacional de Colombia & Instituto Nacional de Vías - Ministerio de Transporte.
+</div>
 
-<div id="ref-12">12. INVIAS (Instituto Nacional de Vías). (2013, 25 de enero). *Administradores Viales*.</div>
+<div id="ref-12">
+12. INVIAS (Instituto Nacional de Vías). (2013, 25 de enero). *Administradores Viales*.
+</div>
 
-<div id="ref-13">13. Servicio Geológico Colombiano (SGC). (2018). *Guía metodológica para la evaluación del riesgo físico por movimientos en masa en la infraestructura vial.* Bogotá</div>
+<div id="ref-13">
+13. Servicio Geológico Colombiano (SGC). (2018). *Guía metodológica para la evaluación del riesgo físico por movimientos en masa en la infraestructura vial.* Bogotá
+</div>
 
-<div id="ref-14">14. Servicio Geológico Colombiano (SGC). (2016). *Guía metodológica para estudios de amenaza, vulnerabilidad y riesgo por movimientos en masa a escala detallada o local*.  Servicio Geológico Colombiano ed. Bogotá: Servicio Geológico Colombiano.</div>
+<div id="ref-14">
+14. Servicio Geológico Colombiano (SGC). (2016). *Guía metodológica para estudios de amenaza, vulnerabilidad y riesgo por movimientos en masa a escala detallada o local*.  Servicio Geológico Colombiano ed. Bogotá: Servicio Geológico Colombiano.
+</div>
 
-<div id="ref-15">15. Rodríguez Castiblanco, E. A., Sandoval Ramírez, J. H., Chaparro Cordón, J. L., Trejos González, G. A., Medina Bello, E., Ramírez Hernández, K. C., Castro Marín, E., Castro Guerra, J. A., & Ruiz Peña, G. L. (Eds.). (2017). *Guía metodológica para la zonificación de amenaza por movimientos en masa escala 1: 25.000*. Libros del Servicio Geológico Colombiano.</div>
+<div id="ref-15">
+15. Rodríguez Castiblanco, E. A., Sandoval Ramírez, J. H., Chaparro Cordón, J. L., Trejos González, G. A., Medina Bello, E., Ramírez Hernández, K. C., Castro Marín, E., Castro Guerra, J. A., & Ruiz Peña, G. L. (Eds.). (2017). *Guía metodológica para la zonificación de amenaza por movimientos en masa escala 1: 25.000*. Libros del Servicio Geológico Colombiano.
+</div>
 
-<div id="ref-16">16. van Westen, C. J., van Asch, T. W. J. & Soeters, R. (2006). Landslide hazard and risk zonation—why is it still so difficult?," *Bulletin of Engineering Geology and the Environment*, *65*, 167–184.</div>
+<div id="ref-16">
+16. van Westen, C. J., van Asch, T. W. J. & Soeters, R. (2006). Landslide hazard and risk zonation—why is it still so difficult?," *Bulletin of Engineering Geology and the Environment*, *65*, 167–184.
+</div>
 
-<div id="ref-17">17. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2014, 15 de enero). *Sistema Nacional de Información para la Gestión del Riesgo de Desastres.*</div>
+<div id="ref-17">
+17. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2014, 15 de enero). *Sistema Nacional de Información para la Gestión del Riesgo de Desastres.*
+</div>
 
-<div id="ref-18">18. Agencia Suiza para el Desarrollo y la Cooperacion, Managua (Nicaragua). (2005). *Inundaciones fluviales. Mapas de amenaza, recomendaciones técnicas para su elaboración*. Instituto Nicaragüense de Estudios Territoriales y Agencia Suiza para el Desarrollo y la Cooperación, Managua.</div>
+<div id="ref-18">
+18. Agencia Suiza para el Desarrollo y la Cooperacion, Managua (Nicaragua). (2005). *Inundaciones fluviales. Mapas de amenaza, recomendaciones técnicas para su elaboración*. Instituto Nicaragüense de Estudios Territoriales y Agencia Suiza para el Desarrollo y la Cooperación, Managua.
+</div>
 
-<div id="ref-19">19. Universidad de La Salle. (2020). *Tomo III: Lineamientos para la evaluación del riesgo con enfoque multiamenaza en corredores viales escala regional, zonal y local*. Instituto Nacional de Vias INVIAS, Bogotá, Informe. Convenio especial de cooperación 736-2020. INVIAS/UNISALLE/UNIQUINDIO.</div>
+<div id="ref-19">
+19. Universidad de La Salle. (2020). *Tomo III: Lineamientos para la evaluación del riesgo con enfoque multiamenaza en corredores viales escala regional, zonal y local*. Instituto Nacional de Vias INVIAS, Bogotá, Informe. Convenio especial de cooperación 736-2020. INVIAS/UNISALLE/UNIQUINDIO.
+</div>
 
-<div id="ref-20">20. United States Agency for International Development. (USAID). (2018). *Guía para el mantenimiento rutinario de vías rurales.* Bogotá.</div>
+<div id="ref-20">
+20. United States Agency for International Development. (USAID). (2018). *Guía para el mantenimiento rutinario de vías rurales.* Bogotá.
+</div>
 
-<div id="ref-21">21. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt & Fondo de Adaptación. (2015). *Propuesta de limites funcionales de humedales a partir de criterios de geomorfología en Ventanas Ciénaga de la Virgen, ciénaga de Zapatosa y Paz de Ariporo - Hato Corozal a escala 1:25.000*. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Bogotá.</div>
+<div id="ref-21">
+21. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt & Fondo de Adaptación. (2015). *Propuesta de limites funcionales de humedales a partir de criterios de geomorfología en Ventanas Ciénaga de la Virgen, ciénaga de Zapatosa y Paz de Ariporo - Hato Corozal a escala 1:25.000*. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Bogotá.
+</div>
 
-<div id="ref-22">22. United Nations Statistical Commission and Economic Commission for Europe. (2000). *Terminology on statistical metadata*. United Nations. Geneva.</div>
+<div id="ref-22">
+22. United Nations Statistical Commission and Economic Commission for Europe. (2000). *Terminology on statistical metadata*. United Nations. Geneva.
+</div>
 
-<div id="ref-23">23. Towards Data Science. (2020, 29 de noviembre). *What is Data*.</div>
+<div id="ref-23">
+23. Towards Data Science. (2020, 29 de noviembre). *What is Data*.
+</div>
 
-<div id="ref-24">24. Muñoz, A. (2009). *Geodesia y cartografía: Fundamentos de los sistemas de información geográfica.* Recursos educativos abiertos.</div>
+<div id="ref-24">
+24. Muñoz, A. (2009). *Geodesia y cartografía: Fundamentos de los sistemas de información geográfica.* Recursos educativos abiertos.
+</div>
 
-<div id="ref-25">25. ESRI. (2021, 15 de enero). *What is GIS*?</div>
+<div id="ref-25">
+25. ESRI. (2021, 15 de enero). *What is GIS*?
+</div>
 
-<div id="ref-26">26. Joshua, S., Smith, J. & Bianchetti, R. (2012). Encoding Our World: Geographic Data Representation. En Joshua, S., Smith, J. & Bianchetti, R. (Eds), *Mapping Our Changing World*.  Department of Geography, Pennsylvania State University.</div>
+<div id="ref-26">
+26. Joshua, S., Smith, J. & Bianchetti, R. (2012). Encoding Our World: Geographic Data Representation. En Joshua, S., Smith, J. & Bianchetti, R. (Eds), *Mapping Our Changing World*.  Department of Geography, Pennsylvania State University.
+</div>
 
-<div id="ref-27">27. Alarcón-Ruiz, E. & Ordoñez-Pacheco, L. D. (2019) Tendencias de los Sistemas de Información Geográfica. Alcances y limitaciones.  *Revista de Tecnologías Computacionales, 3*(12)*.*</div>
+<div id="ref-27">
+27. Alarcón-Ruiz, E. & Ordoñez-Pacheco, L. D. (2019) Tendencias de los Sistemas de Información Geográfica. Alcances y limitaciones.  *Revista de Tecnologías Computacionales, 3*(12)*.*
+</div>
 
-<div id="ref-28">28. Rodríguez, E. (2010, 4 y 5 de octubre). *La Geolocalización, Coordenadas hacia el Éxito. El potencial de la aplicación de una herramienta social de geolocalización en la comunicación institucional y corporativa*. II Congreso Internacional Comunicación 3.0. Salamanca.</div>
+<div id="ref-28">
+28. Rodríguez, E. (2010, 4 y 5 de octubre). *La Geolocalización, Coordenadas hacia el Éxito. El potencial de la aplicación de una herramienta social de geolocalización en la comunicación institucional y corporativa*. II Congreso Internacional Comunicación 3.0. Salamanca.
+</div>
 
-<div id="ref-29">29. Velazco, S & Joyanes, L. (2010). *Servicios de Geolocalización, el enfoque de las Redes Sociales*. V Simposio Internacional de Sistemas de Información e Ingeniería de Software en la Sociedad del Conocimiento (SISOFT -2010). Bogotá.</div>
+<div id="ref-29">
+29. Velazco, S & Joyanes, L. (2010). *Servicios de Geolocalización, el enfoque de las Redes Sociales*. V Simposio Internacional de Sistemas de Información e Ingeniería de Software en la Sociedad del Conocimiento (SISOFT -2010). Bogotá.
+</div>

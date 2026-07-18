@@ -716,106 +716,210 @@ Juan Pablo Forero Acevedo
 
 ## 6.19 BIBLIOGRAFÍA
 
-<div id="ref-1">1. PreventionWeb. (2021). *Resilience*.</div>
+<div id="ref-1">
+1. PreventionWeb. (2021). *Resilience*.
+</div>
 
-<div id="ref-2">2. Parsons, M., Reeve, I., McGregor, J., Morley, P., Marshall, G., Stayner, R., McNeil, J., Glavac, S. & Hastings, P. (2020*). The Australian Natural Disaster Resilience Index: Volume II – Index Design and Computation*. Melbourne: Bushfire and Natural Hazards CRC.</div>
+<div id="ref-2">
+2. Parsons, M., Reeve, I., McGregor, J., Morley, P., Marshall, G., Stayner, R., McNeil, J., Glavac, S. & Hastings, P. (2020*). The Australian Natural Disaster Resilience Index: Volume II – Index Design and Computation*. Melbourne: Bushfire and Natural Hazards CRC.
+</div>
 
-<div id="ref-3">3. Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.</div>
+<div id="ref-3">
+3. Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.
+</div>
 
-<div id="ref-4">4. Decreto Ley 19 de 2012. Por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública. Enero 19 de 2012.</div>
+<div id="ref-4">
+4. Decreto Ley 19 de 2012. Por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública. Enero 19 de 2012.
+</div>
 
-<div id="ref-5">5. Decreto 1807 de 2014. Por el cual se reglamenta el artículo 189 del Decreto-ley 019 de 2012 en lo relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento territorial y se dictan otras disposiciones. Septiembre 19 de 2014.</div>
+<div id="ref-5">
+5. Decreto 1807 de 2014. Por el cual se reglamenta el artículo 189 del Decreto-ley 019 de 2012 en lo relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento territorial y se dictan otras disposiciones. Septiembre 19 de 2014.
+</div>
 
-<div id="ref-6">6. Decreto 1077 de 2015. Esta versión incorpora las modificaciones introducidas al Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio a partir de la fecha de su expedición. Mayo 26 de 2015.</div>
+<div id="ref-6">
+6. Decreto 1077 de 2015. Esta versión incorpora las modificaciones introducidas al Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio a partir de la fecha de su expedición. Mayo 26 de 2015.
+</div>
 
-<div id="ref-7">7. UNGRD-IEMP (Unidad Nacional para la Gestión del Riesgo de Desastres-Instituto de Estudios del Ministerio Público). (2017). *Lineamientos para el análisis de la vulnerabilidad social en los estudios de la gestión municipal del riesgo de desastres*. Bogotá. D.C.</div>
+<div id="ref-7">
+7. UNGRD-IEMP (Unidad Nacional para la Gestión del Riesgo de Desastres-Instituto de Estudios del Ministerio Público). (2017). *Lineamientos para el análisis de la vulnerabilidad social en los estudios de la gestión municipal del riesgo de desastres*. Bogotá. D.C.
+</div>
 
-<div id="ref-8">8. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Lineamientos técnicos para el desarrollo de estudios de riesgo por inundación lenta*. Subdirección para el conocimiento del riesgo. Bogotá, D.C., UNGRD.</div>
+<div id="ref-8">
+8. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Lineamientos técnicos para el desarrollo de estudios de riesgo por inundación lenta*. Subdirección para el conocimiento del riesgo. Bogotá, D.C., UNGRD.
+</div>
 
-<div id="ref-9">9. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2017). *Guía Metodológica de elaboración de mapas de inundación*. Bogotá. IDEAM.</div>
+<div id="ref-9">
+9. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2017). *Guía Metodológica de elaboración de mapas de inundación*. Bogotá. IDEAM.
+</div>
 
-<div id="ref-10">10. OMM (Organización Meteorológica Mundial). Hadeen, K., Guttman, N. (1994). *Homogeneity of data and the climate record. Papers presented at the WMO Technical Conference on Instruments and Methods of Observation (TECO-94)*. Instruments and Observing Methods Report No. 57 (WMO/TD-No. 588). Ginebra.</div>
+<div id="ref-10">
+10. OMM (Organización Meteorológica Mundial). Hadeen, K., Guttman, N. (1994). *Homogeneity of data and the climate record. Papers presented at the WMO Technical Conference on Instruments and Methods of Observation (TECO-94)*. Instruments and Observing Methods Report No. 57 (WMO/TD-No. 588). Ginebra.
+</div>
 
-<div id="ref-11">11. Decreto 1807 de 2014. Por el cual se reglamenta el artículo 189 del Decreto Ley 019 de 2012 en lo relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento territorial y se dictan otras disposiciones. Ministerio de Vivienda Ciudad y Territorio. República de Colombia. 19 de septiembre de 2014.</div>
+<div id="ref-11">
+11. Decreto 1807 de 2014. Por el cual se reglamenta el artículo 189 del Decreto Ley 019 de 2012 en lo relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento territorial y se dictan otras disposiciones. Ministerio de Vivienda Ciudad y Territorio. República de Colombia. 19 de septiembre de 2014.
+</div>
 
-<div id="ref-12">12. Chow, V., Maidment, D., & Mays, l. (1994), *Hidrología aplicada* (1st ed; M. Suarez, ed.). Bogotá, Colombia: McGraw-Hill.</div>
+<div id="ref-12">
+12. Chow, V., Maidment, D., & Mays, l. (1994), *Hidrología aplicada* (1st ed; M. Suarez, ed.). Bogotá, Colombia: McGraw-Hill.
+</div>
 
-<div id="ref-13">13. IPCC (Panel Intergubernamental de Cambio Climático). (2012). Glossary of terms. *Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation* En C.B. Field, V. Barros, T.F. Stocker, D. Qin, D.J. Dokken, K.L. Ebi, M.D. Mastrandrea, K.J. Mach, G.-K. Plattner, S.K. Allen, M. Tignor, and P.M. Midgley (Eds.). A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC). Cambridge University Press, Cambridge, UK, and New York, NY, USA, pp. 555-564.</div>
+<div id="ref-13">
+13. IPCC (Panel Intergubernamental de Cambio Climático). (2012). Glossary of terms. *Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation* En C.B. Field, V. Barros, T.F. Stocker, D. Qin, D.J. Dokken, K.L. Ebi, M.D. Mastrandrea, K.J. Mach, G.-K. Plattner, S.K. Allen, M. Tignor, and P.M. Midgley (Eds.). A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC). Cambridge University Press, Cambridge, UK, and New York, NY, USA, pp. 555-564.
+</div>
 
-<div id="ref-14">14. Figueiredo, R., Martina, M. (2016). Using open building data in the development of exposure data sets for catastrophe risk modelling. *Natural Hazards and Earth System Sciences, 16*, 417-429.</div>
+<div id="ref-14">
+14. Figueiredo, R., Martina, M. (2016). Using open building data in the development of exposure data sets for catastrophe risk modelling. *Natural Hazards and Earth System Sciences, 16*, 417-429.
+</div>
 
-<div id="ref-15">15. IGAC (Instituto Geográfico Agustín Codazzi). (2022, 19 de enero). *Geoportal. Datos Abiertos. Subdirección de Catastro*.</div>
+<div id="ref-15">
+15. IGAC (Instituto Geográfico Agustín Codazzi). (2022, 19 de enero). *Geoportal. Datos Abiertos. Subdirección de Catastro*.
+</div>
 
-<div id="ref-16">16. De Risi, R., Jalayer, F., De Paola, F., Iervolino, I., Giugni, M., Topa, M.E., Mbuya, E., Kyessi, A., Manfredi, G., Gasparini, P. (2013). Flood risk assessment for informal settlements. *Natural Hazards, 69*, 1003-1032.</div>
+<div id="ref-16">
+16. De Risi, R., Jalayer, F., De Paola, F., Iervolino, I., Giugni, M., Topa, M.E., Mbuya, E., Kyessi, A., Manfredi, G., Gasparini, P. (2013). Flood risk assessment for informal settlements. *Natural Hazards, 69*, 1003-1032.
+</div>
 
-<div id="ref-17">17. Figueiredo, R., Schröter, K., Alexander Weiss-Motz, A., Martina1, M., Kreibich, H. (2017). Improving accuracy and quantifying uncertainty in flood loss estimations through the use of multi-model ensembles. *Natural Hazards and Earth System Sciences*.</div>
+<div id="ref-17">
+17. Figueiredo, R., Schröter, K., Alexander Weiss-Motz, A., Martina1, M., Kreibich, H. (2017). Improving accuracy and quantifying uncertainty in flood loss estimations through the use of multi-model ensembles. *Natural Hazards and Earth System Sciences*.
+</div>
 
-<div id="ref-18">18. Gutenson, J.L. Oubeidillah, A.A., Ernest, A.N.S., Zhu, L., Zhang, X., Sadeghi, S.T. (2017) Investigating Uncertainty in Developing Regional Building Inventories for Flood Damage Prediction. *Natural Hazards Review, 18*(3): 04016013.</div>
+<div id="ref-18">
+18. Gutenson, J.L. Oubeidillah, A.A., Ernest, A.N.S., Zhu, L., Zhang, X., Sadeghi, S.T. (2017) Investigating Uncertainty in Developing Regional Building Inventories for Flood Damage Prediction. *Natural Hazards Review, 18*(3): 04016013.
+</div>
 
-<div id="ref-19">19. Gutenson, J.L. Oubeidillah, A.A., Ernest, A.N.S., Zhu, L., Zhang, X., Sadeghi, S.T. (2017). Rapid flood damage prediction and forecasting using public domain cadastral and address point data with fuzzy logic algorithms. *Journal of the American Water Resources Association, 54*(1), 104-123.</div>
+<div id="ref-19">
+19. Gutenson, J.L. Oubeidillah, A.A., Ernest, A.N.S., Zhu, L., Zhang, X., Sadeghi, S.T. (2017). Rapid flood damage prediction and forecasting using public domain cadastral and address point data with fuzzy logic algorithms. *Journal of the American Water Resources Association, 54*(1), 104-123.
+</div>
 
-<div id="ref-20">20. Rodríguez Gavíria, E.M (2016). *Diseño metodológico para la evaluación del riesgo por inundación a nivel local con información escasa*. Tesis de Doctorado, Universidad Nacional de Colombia - Sede Medellín.</div>
+<div id="ref-20">
+20. Rodríguez Gavíria, E.M (2016). *Diseño metodológico para la evaluación del riesgo por inundación a nivel local con información escasa*. Tesis de Doctorado, Universidad Nacional de Colombia - Sede Medellín.
+</div>
 
-<div id="ref-21">21. DANE (Departamento Administrativo Nacional de Estadística). (2018, 17 de abril). *Sistema de consulta de información censal: Censo Básico. Ver: Sistema de consulta de información censal: Censo Básico*. http://systema59.dane.gov.co/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl</div>
+<div id="ref-21">
+21. DANE (Departamento Administrativo Nacional de Estadística). (2018, 17 de abril). *Sistema de consulta de información censal: Censo Básico. Ver: Sistema de consulta de información censal: Censo Básico*. http://systema59.dane.gov.co/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl
+</div>
 
-<div id="ref-22">22. Huerta-Garnica, B., Vega-Serratos, B., & Avelar-Frausto, C. E. (2006). *Caracterización del daño causado a estructuras y contenidos por inundaciones fluviales y costeras*. En XV Congreso Nacional de Ingeniería Estructural. Puerto Vallarta, México.</div>
+<div id="ref-22">
+22. Huerta-Garnica, B., Vega-Serratos, B., & Avelar-Frausto, C. E. (2006). *Caracterización del daño causado a estructuras y contenidos por inundaciones fluviales y costeras*. En XV Congreso Nacional de Ingeniería Estructural. Puerto Vallarta, México.
+</div>
 
-<div id="ref-23">23. Metropolis Nicholas, S. U. (1949). The Montecarlo Metod. *Journal of the American Statistical Association*, *44*.</div>
+<div id="ref-23">
+23. Metropolis Nicholas, S. U. (1949). The Montecarlo Metod. *Journal of the American Statistical Association*, *44*.
+</div>
 
-<div id="ref-24">24. FEMA (Agencia Federal para el Manejo de Emergencias) (2012). *Engineering: Principles and Practices for Retrofitting Flood-Prone Residential Structures*.</div>
+<div id="ref-24">
+24. FEMA (Agencia Federal para el Manejo de Emergencias) (2012). *Engineering: Principles and Practices for Retrofitting Flood-Prone Residential Structures*.
+</div>
 
-<div id="ref-25">25. Yamin, L. E., Ghesquiere, F., Cardona, O.-D., & Ordaz, M. G. (2013). *Modelación probabilista para la gestión del riesgo de desastre: El caso de Bogotá, Colombia*. (Banco Mundial & Universidad de Los Andes (Eds.). Banco Mundial.</div>
+<div id="ref-25">
+25. Yamin, L. E., Ghesquiere, F., Cardona, O.-D., & Ordaz, M. G. (2013). *Modelación probabilista para la gestión del riesgo de desastre: El caso de Bogotá, Colombia*. (Banco Mundial & Universidad de Los Andes (Eds.). Banco Mundial.
+</div>
 
-<div id="ref-26">26. Ordaz, M., Torres, M. A., & Domínguez, R. (2013). *Vulnerabilidad y Riesgo Por Inundaciones*. Instituto de Ingeniería - UNAM.</div>
+<div id="ref-26">
+26. Ordaz, M., Torres, M. A., & Domínguez, R. (2013). *Vulnerabilidad y Riesgo Por Inundaciones*. Instituto de Ingeniería - UNAM.
+</div>
 
-<div id="ref-27">27. Torres, M., Jaimes, M., Reinoso, E., & Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. *International Journal of River Basin Management, 12*(4), 377–389.</div>
+<div id="ref-27">
+27. Torres, M., Jaimes, M., Reinoso, E., & Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. *International Journal of River Basin Management, 12*(4), 377–389.
+</div>
 
-<div id="ref-28">28. Cardona, O. D. (2006). *Midiendo lo inmedible. Indicadores de Vulnerabilidad y Riesgo*.</div>
+<div id="ref-28">
+28. Cardona, O. D. (2006). *Midiendo lo inmedible. Indicadores de Vulnerabilidad y Riesgo*.
+</div>
 
-<div id="ref-29">29. Wilches-Chaux, G. (1989). *Vulnerabilidad Global y Pobreza*.  .</div>
+<div id="ref-29">
+29. Wilches-Chaux, G. (1989). *Vulnerabilidad Global y Pobreza*.  .
+</div>
 
-<div id="ref-30">30. Gobierno regional Cusco. (2011). *Herramienta para integrar la reducción del riesgo de desastres en proyectos de agua y saneamiento rural*.</div>
+<div id="ref-30">
+30. Gobierno regional Cusco. (2011). *Herramienta para integrar la reducción del riesgo de desastres en proyectos de agua y saneamiento rural*.
+</div>
 
-<div id="ref-31">31. Lavell, A. (1997). *Viviendo en riesgo: Comunidades vulnerables y prevención de desastres en América Latina*. .</div>
+<div id="ref-31">
+31. Lavell, A. (1997). *Viviendo en riesgo: Comunidades vulnerables y prevención de desastres en América Latina*. .
+</div>
 
-<div id="ref-32">32. Banco Interamericano de Desarrollo. (2010). *Riesgos ante desastres naturales para Latinoamérica y El Caribe*.</div>
+<div id="ref-32">
+32. Banco Interamericano de Desarrollo. (2010). *Riesgos ante desastres naturales para Latinoamérica y El Caribe*.
+</div>
 
-<div id="ref-33">33. Botero, V. (2009). *Geo-information for measuring vulnerability to earthquakes: a fitness for use approach*.</div>
+<div id="ref-33">
+33. Botero, V. (2009). *Geo-information for measuring vulnerability to earthquakes: a fitness for use approach*.
+</div>
 
-<div id="ref-34">34. INDECI. (2006). *Manual básico para estimar el riesgo*. Lima, Perú.</div>
+<div id="ref-34">
+34. INDECI. (2006). *Manual básico para estimar el riesgo*. Lima, Perú.
+</div>
 
-<div id="ref-35">35. Cannon, T. (1991). *A hazard need not a disaster make: rural vulnerability and the causes of natural disasters*. Institute of Social Studies. La Haya.</div>
+<div id="ref-35">
+35. Cannon, T. (1991). *A hazard need not a disaster make: rural vulnerability and the causes of natural disasters*. Institute of Social Studies. La Haya.
+</div>
 
-<div id="ref-36">36. Suárez-Méndez, C., Agudelo, O., Vargas, C., Cuesta, J., & Reyes, J. (2014). *Gestión del Riesgo de Desastres en la sede Tumaco de la Universidad Nacional de Colombia.* Informe final de la ODS 17. Universidad Nacional de Colombia – Sede Bogotá.</div>
+<div id="ref-36">
+36. Suárez-Méndez, C., Agudelo, O., Vargas, C., Cuesta, J., & Reyes, J. (2014). *Gestión del Riesgo de Desastres en la sede Tumaco de la Universidad Nacional de Colombia.* Informe final de la ODS 17. Universidad Nacional de Colombia – Sede Bogotá.
+</div>
 
-<div id="ref-37">37. Villegas González, P. A. Obregón, Nelson (2018). Tesis doctoral en Ingeniería*: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos Modelos integrados de sistemas socio-ecológicos: caso de estudio en la ecorregión de la Mojana*. Pontificia Universidad Javeriana.</div>
+<div id="ref-37">
+37. Villegas González, P. A. Obregón, Nelson (2018). Tesis doctoral en Ingeniería*: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos Modelos integrados de sistemas socio-ecológicos: caso de estudio en la ecorregión de la Mojana*. Pontificia Universidad Javeriana.
+</div>
 
-<div id="ref-38">38. Uniter Nations General Assembly – UNGA. (2016). *Reccommendations of the Open-ended Intergovernmental Expert Working Group on Indicators and Terminology relating to Disaster Risk Reduction*. Ginebra, Suiza.</div>
+<div id="ref-38">
+38. Uniter Nations General Assembly – UNGA. (2016). *Reccommendations of the Open-ended Intergovernmental Expert Working Group on Indicators and Terminology relating to Disaster Risk Reduction*. Ginebra, Suiza.
+</div>
 
-<div id="ref-39">39. UNISDR. (2009). *Terminología sobre Reducción del Riesgo de Desastres. Estrategia Internacional para la Reducción de Desastres de las Naciones Unidas.*</div>
+<div id="ref-39">
+39. UNISDR. (2009). *Terminología sobre Reducción del Riesgo de Desastres. Estrategia Internacional para la Reducción de Desastres de las Naciones Unidas.*
+</div>
 
-<div id="ref-40">40. Lampis, A. (2007). *Vulnerabilidad y Protección Social en Colombia: Estudios de Caso en Bogotá, Cali y Manizales.* En Zorro, C. (Comp.), El Desarrollo: Perspectivas y Dimensiones – Aportes Interdisciplinarios. Bogotá: CIDER, Embajada de los Países Bajos en Colombia.</div>
+<div id="ref-40">
+40. Lampis, A. (2007). *Vulnerabilidad y Protección Social en Colombia: Estudios de Caso en Bogotá, Cali y Manizales.* En Zorro, C. (Comp.), El Desarrollo: Perspectivas y Dimensiones – Aportes Interdisciplinarios. Bogotá: CIDER, Embajada de los Países Bajos en Colombia.
+</div>
 
-<div id="ref-41">41. Merz, B., Elmer, F., & Thieken, A. H. (2009). Significance of “high probability/low damage” versus “low probability/high damage” flood events. *Natural Hazards and Earth System Science, 10*(1), 1–14.</div>
+<div id="ref-41">
+41. Merz, B., Elmer, F., & Thieken, A. H. (2009). Significance of “high probability/low damage” versus “low probability/high damage” flood events. *Natural Hazards and Earth System Science, 10*(1), 1–14.
+</div>
 
-<div id="ref-42">42. Merz, B., & Thieken, A. H. (2005). Separating natural and epistemic uncertainty in flood frequency analysis. *Journal of Hydrology, 309*(1–4), 114–132.</div>
+<div id="ref-42">
+42. Merz, B., & Thieken, A. H. (2005). Separating natural and epistemic uncertainty in flood frequency analysis. *Journal of Hydrology, 309*(1–4), 114–132.
+</div>
 
-<div id="ref-43">43. Mejía, C. E. (2019). Una convolución muy útil y unas derivadas ilustres. *Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales, 43*, 168.</div>
+<div id="ref-43">
+43. Mejía, C. E. (2019). Una convolución muy útil y unas derivadas ilustres. *Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales, 43*, 168.
+</div>
 
-<div id="ref-44">44. Planet Explorer. Planet (2018, febrero). https://www.planet.com/explorer</div>
+<div id="ref-44">
+44. Planet Explorer. Planet (2018, febrero). https://www.planet.com/explorer
+</div>
 
-<div id="ref-45">45. Kolmogorov, A. (1931). Über die analytischen Methoden in der Wahrscheinlichkeitsrechnung. *Mathematische Annalen*, *104*(1), 415–458. Recuperado de https://doi.org/10.1007/BF01457949</div>
+<div id="ref-45">
+45. Kolmogorov, A. (1931). Über die analytischen Methoden in der Wahrscheinlichkeitsrechnung. *Mathematische Annalen*, *104*(1), 415–458. Recuperado de https://doi.org/10.1007/BF01457949
+</div>
 
-<div id="ref-46">46. Bendot, J. S., & Piersol, A. G. (2010). Random data: Analysis and Measurement Procedures. In *Wiley Series in Probabillity and Statistics*. Recuperado de https://doi.org/10.1002/9781118032428</div>
+<div id="ref-46">
+46. Bendot, J. S., & Piersol, A. G. (2010). Random data: Analysis and Measurement Procedures. In *Wiley Series in Probabillity and Statistics*. Recuperado de https://doi.org/10.1002/9781118032428
+</div>
 
-<div id="ref-47">47. Haan, C. (2002). *Statistical methods in hydrology* (2nd ed.; Wiley-Blackwell, ed.). Ames, Iowa.</div>
+<div id="ref-47">
+47. Haan, C. (2002). *Statistical methods in hydrology* (2nd ed.; Wiley-Blackwell, ed.). Ames, Iowa.
+</div>
 
-<div id="ref-48">48. Fondo Adaptación. (2015). *Modelación hidrodinámica de La Mojana*. Bogotá, Colombia.</div>
+<div id="ref-48">
+48. Fondo Adaptación. (2015). *Modelación hidrodinámica de La Mojana*. Bogotá, Colombia.
+</div>
 
-<div id="ref-49">49. US Army Corp of Engineers – USACE. (2015). HEC-RAS V.5.0.3 software. Davis, California.</div>
+<div id="ref-49">
+49. US Army Corp of Engineers – USACE. (2015). HEC-RAS V.5.0.3 software. Davis, California.
+</div>
 
-<div id="ref-50">50. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018a). *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)*. Subdirección para el Conocimiento del Riesgo (Ed.). Bogotá, D.C. http://hdl.handle.net/20.500.11762/27249</div>
+<div id="ref-50">
+50. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018a). *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)*. Subdirección para el Conocimiento del Riesgo (Ed.). Bogotá, D.C. http://hdl.handle.net/20.500.11762/27249
+</div>
 
-<div id="ref-51">51. Alcaldía Municipal de Montelíbano. (2017). *Decreto No. 0861 del 18 de Diciembre de 2017.* Montelíbano, Córdoba.</div>
+<div id="ref-51">
+51. Alcaldía Municipal de Montelíbano. (2017). *Decreto No. 0861 del 18 de Diciembre de 2017.* Montelíbano, Córdoba.
+</div>
 
-<div id="ref-52">52. ERN-AL. (2005). *Diseño de esquemas de transferencia de riesgo para la protección financiera de edificaciones públicas y privadas en Manizales en el caso de desastres por eentos naturales*. DNP, Banco Mundial. Disponible en:</div>
+<div id="ref-52">
+52. ERN-AL. (2005). *Diseño de esquemas de transferencia de riesgo para la protección financiera de edificaciones públicas y privadas en Manizales en el caso de desastres por eentos naturales*. DNP, Banco Mundial. Disponible en:
+</div>

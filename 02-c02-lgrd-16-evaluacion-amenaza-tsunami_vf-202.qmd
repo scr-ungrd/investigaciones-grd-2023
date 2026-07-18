@@ -209,32 +209,62 @@ Jhonatan Cristian Paz Quintero  https://orcid.org/0000-0002-4916-5063
 
 ## 2.8 BIBLIOGRAFÍA
 
-<div id="ref-1">1. Mejía, Isabel. & Parra, E. (2002). *Mapa preliminar de unidades geomorfológicas Plancha 340 Guapi.Memoria Explicativa*.</div>
+<div id="ref-1">
+1. Mejía, Isabel. & Parra, E. (2002). *Mapa preliminar de unidades geomorfológicas Plancha 340 Guapi.Memoria Explicativa*.
+</div>
 
-<div id="ref-2">2. Sagiya, T., & Mora–Páez, H. (2020). Interplate Coupling along the Nazca Subduction Zone on the Pacific Coast of Colombia Deduced from GeoRED GPS Observation Data*. The Geology of Colombia*, 4 (December).</div>
+<div id="ref-2">
+2. Sagiya, T., & Mora–Páez, H. (2020). Interplate Coupling along the Nazca Subduction Zone on the Pacific Coast of Colombia Deduced from GeoRED GPS Observation Data*. The Geology of Colombia*, 4 (December).
+</div>
 
-<div id="ref-3">3. Raigoza Arango, J. & Bolaños Cifuentes, R. E. (2013). Aspectos sismo-tectónicos. En: Dimar-CCCP. *Estudio de la Amenaza por Tsunami y Gestión del Riesgo en el Litoral Pacífico Colombiano* (pp. 31–50). Dirección General Marítima-Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico. Serie de Publicaciones Especiales Vol. 8. San Andrés de Tumaco, Colombia.</div>
+<div id="ref-3">
+3. Raigoza Arango, J. & Bolaños Cifuentes, R. E. (2013). Aspectos sismo-tectónicos. En: Dimar-CCCP. *Estudio de la Amenaza por Tsunami y Gestión del Riesgo en el Litoral Pacífico Colombiano* (pp. 31–50). Dirección General Marítima-Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico. Serie de Publicaciones Especiales Vol. 8. San Andrés de Tumaco, Colombia.
+</div>
 
-<div id="ref-4">4. Ustáriz Manjarrés, G.M. & Reyna Moreno, J.A. (2013).  Tsunami: Gestión del Riesgo en el Territorio Colombiano. En: Dimar-CCCP*. Estudio de la Amenaza por Tsunami y Gestión del Riesgo en el Litoral Pacífico Colombiano* (pp. 93–108). Dirección General Marítima- Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico. Serie Publicaciones Especiales Vol. 8. San Andrés de Tumaco, Colombia.</div>
+<div id="ref-4">
+4. Ustáriz Manjarrés, G.M. & Reyna Moreno, J.A. (2013).  Tsunami: Gestión del Riesgo en el Territorio Colombiano. En: Dimar-CCCP*. Estudio de la Amenaza por Tsunami y Gestión del Riesgo en el Litoral Pacífico Colombiano* (pp. 93–108). Dirección General Marítima- Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico. Serie Publicaciones Especiales Vol. 8. San Andrés de Tumaco, Colombia.
+</div>
 
-<div id="ref-5">5. COI (Comisión Oceanográfica Intergubernamental). (2019). *Glosario De Tsunamis*. Unesco/Ioc, 85, 50.</div>
+<div id="ref-5">
+5. COI (Comisión Oceanográfica Intergubernamental). (2019). *Glosario De Tsunamis*. Unesco/Ioc, 85, 50.
+</div>
 
-<div id="ref-6">6. Mora-Páez, H., Kellogg, J. N., Freymueller, J. T., Mencin, D., Fernandes, R. M. S., Diederix, H., LaFemina, P., Cardona-Piedrahita, L., Lizarazo, S., Peláez-Gaviria, J. R., Díaz-Mila, F., Bohórquez-Orozco, O., Giraldo-Londoño, L. & Corchuelo-Cuervo, Y. (2019). Crustal deformation in the northern Andes – A new GPS velocity field. *Journal of South American Earth Sciences, 89*(October 2018), 76–91.</div>
+<div id="ref-6">
+6. Mora-Páez, H., Kellogg, J. N., Freymueller, J. T., Mencin, D., Fernandes, R. M. S., Diederix, H., LaFemina, P., Cardona-Piedrahita, L., Lizarazo, S., Peláez-Gaviria, J. R., Díaz-Mila, F., Bohórquez-Orozco, O., Giraldo-Londoño, L. & Corchuelo-Cuervo, Y. (2019). Crustal deformation in the northern Andes – A new GPS velocity field. *Journal of South American Earth Sciences, 89*(October 2018), 76–91.
+</div>
 
-<div id="ref-7">7. Poveda, E. & Pulido, N. (2019). *Earthquake rupture and slip scenarios for Ecuador-Colombia subduction zone*.</div>
+<div id="ref-7">
+7. Poveda, E. & Pulido, N. (2019). *Earthquake rupture and slip scenarios for Ecuador-Colombia subduction zone*.
+</div>
 
-<div id="ref-8">8. Sanchez, R., Otero, L., Guerrero, A.M., Puentes, M., Mas, E., Koshimura, S., Adriano, B., Urra, L. & Quintero, P. (2020). Tsunami hazard assessment for the central and southern pacific coast of Colombia. *Coastal Engineering Journal, 62*(4), 540–552.</div>
+<div id="ref-8">
+8. Sanchez, R., Otero, L., Guerrero, A.M., Puentes, M., Mas, E., Koshimura, S., Adriano, B., Urra, L. & Quintero, P. (2020). Tsunami hazard assessment for the central and southern pacific coast of Colombia. *Coastal Engineering Journal, 62*(4), 540–552.
+</div>
 
-<div id="ref-9">9. Imamura, F., Yalçiner, A. C., & Ozyurt, G. (2006). *Tsunami modelling manual (TUNAMI model)*</div>
+<div id="ref-9">
+9. Imamura, F., Yalçiner, A. C., & Ozyurt, G. (2006). *Tsunami modelling manual (TUNAMI model)*
+</div>
 
-<div id="ref-10">10. CCCP (Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico). (2010). Determinación del régimen medio y extremal del nivel del mar en la bahía de Guapi.</div>
+<div id="ref-10">
+10. CCCP (Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico). (2010). Determinación del régimen medio y extremal del nivel del mar en la bahía de Guapi.
+</div>
 
-<div id="ref-11">11. Álvarez Machuca, M.C., Pulido Nossa, D.A., Solano Trullo, L.J. & Oviedo Barrero F. (2018). Construcción de la superficie hidrográfica de referencia vertical para las bahías de Buenaventura y Málaga, Pacífico colombiano*. Boletín Científico CIOH,* (36):53–69.</div>
+<div id="ref-11">
+11. Álvarez Machuca, M.C., Pulido Nossa, D.A., Solano Trullo, L.J. & Oviedo Barrero F. (2018). Construcción de la superficie hidrográfica de referencia vertical para las bahías de Buenaventura y Málaga, Pacífico colombiano*. Boletín Científico CIOH,* (36):53–69.
+</div>
 
-<div id="ref-12">12. Okada, Y. (1985). Surface deformation due to shear and tensile faults in a half-space. *Bulletin of the Seismological Society of America*, *75*(4), 1135–1154.</div>
+<div id="ref-12">
+12. Okada, Y. (1985). Surface deformation due to shear and tensile faults in a half-space. *Bulletin of the Seismological Society of America*, *75*(4), 1135–1154.
+</div>
 
-<div id="ref-13">13. Okada, Y. (1992). Internal deformation due to shear and tensile faults in a half-space. *Bulletin of the Seismological Society of America, 82*(2), 1018–1040.</div>
+<div id="ref-13">
+13. Okada, Y. (1992). Internal deformation due to shear and tensile faults in a half-space. *Bulletin of the Seismological Society of America, 82*(2), 1018–1040.
+</div>
 
-<div id="ref-14">14. Castrillón, C., Martínez, M., Puentes, M., Sánchez, R. & Tocancipá Falla, J. (2015). *Conocimiento local y riesgo por tsunami en Guapi, Cauca*. Editorial Universidad del Cauca</div>
+<div id="ref-14">
+14. Castrillón, C., Martínez, M., Puentes, M., Sánchez, R. & Tocancipá Falla, J. (2015). *Conocimiento local y riesgo por tsunami en Guapi, Cauca*. Editorial Universidad del Cauca
+</div>
 
-<div id="ref-15">15. Ulutas, E. (2013). Comparison of the seafloor displacement from uniform and  non-uniform slip models on tsunami simulation of the 2011 Tohoku-Oki earthquake. *Journal of Asian Earth Sciences*, 62, 568–585.</div>
+<div id="ref-15">
+15. Ulutas, E. (2013). Comparison of the seafloor displacement from uniform and  non-uniform slip models on tsunami simulation of the 2011 Tohoku-Oki earthquake. *Journal of Asian Earth Sciences*, 62, 568–585.
+</div>

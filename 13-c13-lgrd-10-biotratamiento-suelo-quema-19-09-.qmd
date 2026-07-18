@@ -222,43 +222,81 @@ Luis Augusto Lara Valencia
 
 ## 13.17 Wright, H. A.; Bailey, A. W. (1982). *Fire ecology.* United States and southern Canada. New York: John Wiley and Sons.
 
-<div id="ref-1">1. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2015).  *Estudio nacional de la degradación de suelos en Colombia*. Bogotá.</div>
+<div id="ref-1">
+1. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2015).  *Estudio nacional de la degradación de suelos en Colombia*. Bogotá.
+</div>
 
-<div id="ref-2">2. Valencia, Y., Patiño J., Álvarez, M., Ortega, D., Echeverri, O. (2018). Cambio en las propiedades geotécnicas de un suelo sometido a ignición en laboratorio*. Revista Ingenierías Universidad de Medellín*, *17(*32), 85–107.</div>
+<div id="ref-2">
+2. Valencia, Y., Patiño J., Álvarez, M., Ortega, D., Echeverri, O. (2018). Cambio en las propiedades geotécnicas de un suelo sometido a ignición en laboratorio*. Revista Ingenierías Universidad de Medellín*, *17(*32), 85–107.
+</div>
 
-<div id="ref-3">3. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Terminología sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes*. Comité Nacional para el Conocimiento del Riesgo.</div>
+<div id="ref-3">
+3. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Terminología sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes*. Comité Nacional para el Conocimiento del Riesgo.
+</div>
 
-<div id="ref-4">4. Karol, R. H. (2003). *Revised and Expanded (Civil and Environmental Engineering)* (2a ed). Marcel Dekker, New York.</div>
+<div id="ref-4">
+4. Karol, R. H. (2003). *Revised and Expanded (Civil and Environmental Engineering)* (2a ed). Marcel Dekker, New York.
+</div>
 
-<div id="ref-5">5. Valencia, Y. (2009). *Influência da biomineralização nas propriedades físico - mecânicas de um perfil de solo tropical afetado por processos erosivos*. [Tese de Doutorado, Universidade de Brasília. Faculdade de Tecnologia, Departamento de engenharia civil e ambiental, Brasília, DF]</div>
+<div id="ref-5">
+5. Valencia, Y. (2009). *Influência da biomineralização nas propriedades físico - mecânicas de um perfil de solo tropical afetado por processos erosivos*. [Tese de Doutorado, Universidade de Brasília. Faculdade de Tecnologia, Departamento de engenharia civil e ambiental, Brasília, DF]
+</div>
 
-<div id="ref-6">6. Achal, V. (2015). Production of bacteria for structural concrete. En F. Pacheco Torgal, J. A. Labrincha, M. V. Diamanti, C. P. Yu, & Lee, H. K. (Eds.). *Biotechnologies and biomimetics for civil engineering*. Dordrecht: Springer, pp. 309–324.</div>
+<div id="ref-6">
+6. Achal, V. (2015). Production of bacteria for structural concrete. En F. Pacheco Torgal, J. A. Labrincha, M. V. Diamanti, C. P. Yu, & Lee, H. K. (Eds.). *Biotechnologies and biomimetics for civil engineering*. Dordrecht: Springer, pp. 309–324.
+</div>
 
-<div id="ref-7">7. Alcañiz, M., Outeiro, L., Francos, M., Úbeda, X. (2018). Effects of prescribed fires on soil properties: A review. *Science of the Total Environment*, 613–614, 944–957.</div>
+<div id="ref-7">
+7. Alcañiz, M., Outeiro, L., Francos, M., Úbeda, X. (2018). Effects of prescribed fires on soil properties: A review. *Science of the Total Environment*, 613–614, 944–957.
+</div>
 
-<div id="ref-8">8. Roseno, J. L., Camapum de Carvalho, J. (2007). *Avaliação granulométrica de um perfil de solo tropical usando o granulômetro a laser.* III Simpósio sobre Solos Tropicais e Processos Erosivos no Centro-Oeste, Cuiabá. KCM Editora & Distribuidora, v. 1, pp. 1-11.</div>
+<div id="ref-8">
+8. Roseno, J. L., Camapum de Carvalho, J. (2007). *Avaliação granulométrica de um perfil de solo tropical usando o granulômetro a laser.* III Simpósio sobre Solos Tropicais e Processos Erosivos no Centro-Oeste, Cuiabá. KCM Editora & Distribuidora, v. 1, pp. 1-11.
+</div>
 
-<div id="ref-9">9. Lee, Y. (2003). Calcite Production by Bacillus amyloliquefaciens CMB01. *Journal of Microbiology*, *41*(4), 345–348</div>
+<div id="ref-9">
+9. Lee, Y. (2003). Calcite Production by Bacillus amyloliquefaciens CMB01. *Journal of Microbiology*, *41*(4), 345–348
+</div>
 
-<div id="ref-10">10. Herrera, M. A., Gil, V. R., Hincapié, J. E., Cáceres, R. A., Vásquez, J. L., y Castaño, R. A. (2011*). Plan de manejo del parque natural regional metropolitano Cerro el Volador*.  Reporte técnico, Área Metropolitana del Valle de Aburrá</div>
+<div id="ref-10">
+10. Herrera, M. A., Gil, V. R., Hincapié, J. E., Cáceres, R. A., Vásquez, J. L., y Castaño, R. A. (2011*). Plan de manejo del parque natural regional metropolitano Cerro el Volador*.  Reporte técnico, Área Metropolitana del Valle de Aburrá
+</div>
 
-<div id="ref-11">11. ASTM (American Society for Testing and Materials). (2010). *Standard Test Method for Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass*. ASTM Work Item D2216</div>
+<div id="ref-11">
+11. ASTM (American Society for Testing and Materials). (2010). *Standard Test Method for Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass*. ASTM Work Item D2216
+</div>
 
-<div id="ref-12">12. ASTM (American Society for Testing and Materials). (2021). *Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/ft3 (600 kN-m/m3))*. ASTM Work Item D698</div>
+<div id="ref-12">
+12. ASTM (American Society for Testing and Materials). (2021). *Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/ft3 (600 kN-m/m3))*. ASTM Work Item D698
+</div>
 
-<div id="ref-13">13. Ortega, D. (2018*). Efectos de las altas temperaturas producto de los incendios en los procesos erosivos superficiales de un suelo residual*. [Tesis de Maestría en geotecnia. Universidad Nacional de Colombia]</div>
+<div id="ref-13">
+13. Ortega, D. (2018*). Efectos de las altas temperaturas producto de los incendios en los procesos erosivos superficiales de un suelo residual*. [Tesis de Maestría en geotecnia. Universidad Nacional de Colombia]
+</div>
 
-<div id="ref-14">14. Madigan, M.T., Martinko, J. M., Dunlap, P.V. & Clark, D.P. (2009). *Brock Biología de los microorganismos* (12a ed.). Pearson Addison Wesley, Madrid.</div>
+<div id="ref-14">
+14. Madigan, M.T., Martinko, J. M., Dunlap, P.V. & Clark, D.P. (2009). *Brock Biología de los microorganismos* (12a ed.). Pearson Addison Wesley, Madrid.
+</div>
 
-<div id="ref-15">15. Hammes, F., Verstraete, W. (2002). Key roles and calcium metabolism in microbial carbonate precipitation. Environmental Science & Bio/Technology, n. 1, pp. 3–7.</div>
+<div id="ref-15">
+15. Hammes, F., Verstraete, W. (2002). Key roles and calcium metabolism in microbial carbonate precipitation. Environmental Science & Bio/Technology, n. 1, pp. 3–7.
+</div>
 
-<div id="ref-16">16. Arrieta, M., Valencia, Y., Echeverri, O. (2012). Aplicación de la biomineralización en suelos de la ciudad de Medellín para mitigar procesos erosivos.  *Revista boletín ciencias de la tierra,* *32*, 35–46.</div>
+<div id="ref-16">
+16. Arrieta, M., Valencia, Y., Echeverri, O. (2012). Aplicación de la biomineralización en suelos de la ciudad de Medellín para mitigar procesos erosivos.  *Revista boletín ciencias de la tierra,* *32*, 35–46.
+</div>
 
-<div id="ref-17">17. Gómez, C. (2013). *Avaliação geotécnica de um perfil de solo tratado biotecnologicamente para fins de pavimentação*. [Tese de Doutorado, Universidade de Brasília, Brasil]</div>
+<div id="ref-17">
+17. Gómez, C. (2013). *Avaliação geotécnica de um perfil de solo tratado biotecnologicamente para fins de pavimentação*. [Tese de Doutorado, Universidade de Brasília, Brasil]
+</div>
 
-<div id="ref-18">18. ASTM. (2010). *Standard test methods for specific gravity of soil solids by water pycnometer*. (The American Society for Testing and Materials). ASTM Work Item D854</div>
+<div id="ref-18">
+18. ASTM. (2010). *Standard test methods for specific gravity of soil solids by water pycnometer*. (The American Society for Testing and Materials). ASTM Work Item D854
+</div>
 
-<div id="ref-19">19. ASTM. (2017). *Standard test methods for liquid limit, plastic limit, and plasticity index of soils’*. (The American Society for Testing and Materials). ASTM Work Item D4318</div>
+<div id="ref-19">
+19. ASTM. (2017). *Standard test methods for liquid limit, plastic limit, and plasticity index of soils’*. (The American Society for Testing and Materials). ASTM Work Item D4318
+</div>
 
 ## 13.18 ASTM (American Society for Testing and Materials). (2007). *Standard Test Method for Particle Size Analysis of Soils*. ASTM Work Item D422
 
@@ -288,6 +326,8 @@ Luis Augusto Lara Valencia
 
 ## 13.31 Lavorenti, A., & Alves, M. (2005). Point of zero salt effect: Relationships with Clay Mineralogy of representative Soils of the Sao Paulo State, Brazil. *Pedosphere*, *15* (5), 545–553.
 
-<div id="ref-20">20. Valencia, Y., Camapum de Carvalho, J., Lara, L. (2015). Influence of biomineralization on a profile of a tropical soil affected by erosive processes. *DYNA*, *82*(192), 221–229.</div>
+<div id="ref-20">
+20. Valencia, Y., Camapum de Carvalho, J., Lara, L. (2015). Influence of biomineralization on a profile of a tropical soil affected by erosive processes. *DYNA*, *82*(192), 221–229.
+</div>
 
 ## 13.32 Jennings, J. E. & Knight, K. (1975*). A guide to construction on or with materials exhibiting additional settlement due to “collapse of grain structure*”. Regional Conference for African on Soil Mechanics and Foundation Engineering, Durban, pp. 99 105.

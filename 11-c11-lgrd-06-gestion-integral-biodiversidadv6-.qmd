@@ -287,64 +287,126 @@ Dorotea Cardona Hernández
 
 ## 11.8 BIBLIOGRAFÍA
 
-<div id="ref-1">1. MADS (Ministerio de ambiente y desarrollo sostenible). (2012). *Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos.* https://www.minambiente.gov.co/wp-content/uploads/2021/10/Poli%CC%81tica-Nacional-de-Gestio%CC%81n-Integral-de-la-Biodiver.pdf</div>
+<div id="ref-1">
+1. MADS (Ministerio de ambiente y desarrollo sostenible). (2012). *Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos.* https://www.minambiente.gov.co/wp-content/uploads/2021/10/Poli%CC%81tica-Nacional-de-Gestio%CC%81n-Integral-de-la-Biodiver.pdf
+</div>
 
-<div id="ref-2">2. IPCC (Grupo Intergubernamental de Expertos sobre el Cambio Climático). (2021).  *Comunicado de prensa del IPCC: El cambio climático es generalizado, rápido y se está intensificando.*</div>
+<div id="ref-2">
+2. IPCC (Grupo Intergubernamental de Expertos sobre el Cambio Climático). (2021).  *Comunicado de prensa del IPCC: El cambio climático es generalizado, rápido y se está intensificando.*
+</div>
 
-<div id="ref-3">3. Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Congreso de Colombia. Abril 24 de 2012. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47141</div>
+<div id="ref-3">
+3. Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Congreso de Colombia. Abril 24 de 2012. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47141
+</div>
 
-<div id="ref-4">4. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2021). ¿*Qué es el Cambio Climático?.* http://www.ideam.gov.co/web/atencion-y-participacion-ciudadana/cambio-climatico</div>
+<div id="ref-4">
+4. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2021). ¿*Qué es el Cambio Climático?.* http://www.ideam.gov.co/web/atencion-y-participacion-ciudadana/cambio-climatico
+</div>
 
-<div id="ref-5">5. IUCN (Unión Internacional para la Conservación de la Naturaleza). (2020).  *¿Qué son las Soluciones Basadas en la Naturaleza?.*  https://www.iucn.org/node/28778.</div>
+<div id="ref-5">
+5. IUCN (Unión Internacional para la Conservación de la Naturaleza). (2020).  *¿Qué son las Soluciones Basadas en la Naturaleza?.*  https://www.iucn.org/node/28778.
+</div>
 
-<div id="ref-6">6. CDB (Convenido de Diversidad Biológica). (2004). *Decenio de las Naciones Unidas sobre la biodiversidad.*  Https://www.cbd.int/undb/media/factsheets/undb-factsheets-es-web.pdf</div>
+<div id="ref-6">
+6. CDB (Convenido de Diversidad Biológica). (2004). *Decenio de las Naciones Unidas sobre la biodiversidad.*  Https://www.cbd.int/undb/media/factsheets/undb-factsheets-es-web.pdf
+</div>
 
-<div id="ref-7">7. ONU (Organización para las Naciones Unidas). (2015). *Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030*.  Japón.  https://www.unisdr.org/files/43291_spanishsendaiframeworkfordisasterri.pdf</div>
+<div id="ref-7">
+7. ONU (Organización para las Naciones Unidas). (2015). *Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030*.  Japón.  https://www.unisdr.org/files/43291_spanishsendaiframeworkfordisasterri.pdf
+</div>
 
-<div id="ref-8">8. ONU (Organización para las Naciones Unidas). (1992). *Convenio marco de las naciones unidas sobre el cambio climático.* Brasil.  https://unfccc.int/resource/docs/convkp/convsp.pdf</div>
+<div id="ref-8">
+8. ONU (Organización para las Naciones Unidas). (1992). *Convenio marco de las naciones unidas sobre el cambio climático.* Brasil.  https://unfccc.int/resource/docs/convkp/convsp.pdf
+</div>
 
-<div id="ref-9">9. *Ley 1931 de 2018.* Por la cual se establecen directrices para la gestión del cambio climático. Congreso de Colombia. Julio 27 de 2028.  https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=87765</div>
+<div id="ref-9">
+9. *Ley 1931 de 2018.* Por la cual se establecen directrices para la gestión del cambio climático. Congreso de Colombia. Julio 27 de 2028.  https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=87765
+</div>
 
-<div id="ref-10">10. Cohen-Shacham, E., Walters, G., Janzen, C. & Maginnins, S. (2016). *Nature-based solutions to address societal challenges*. Gland, Switzerland.</div>
+<div id="ref-10">
+10. Cohen-Shacham, E., Walters, G., Janzen, C. & Maginnins, S. (2016). *Nature-based solutions to address societal challenges*. Gland, Switzerland.
+</div>
 
-<div id="ref-11">11. Villa, C. M. & Didier, G. (2020). *Plan Institucional Cuatrienal de Investigación Ambiental 2019-2022. Conocimiento para un cambio transformativo. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.* Bogotá D.C., Colombia. http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35461/picia-2019-2022%20%281%29.pdf?sequence=4&isAllowed=y</div>
+<div id="ref-11">
+11. Villa, C. M. & Didier, G. (2020). *Plan Institucional Cuatrienal de Investigación Ambiental 2019-2022. Conocimiento para un cambio transformativo. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.* Bogotá D.C., Colombia. http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35461/picia-2019-2022%20%281%29.pdf?sequence=4&isAllowed=y
+</div>
 
-<div id="ref-12">12. Lozano, O., Cardona, D., Pineda, R. y D. Rivera. (2018). *Guía para la integración de la variabilidad climática con la gestión del riesgo de desastres a nivel territorial*. UNGRD. Bogotá. file:///C:/Users/dorotea.cardona/Downloads/cambio_clima%CC%81tico%20(1).pdf</div>
+<div id="ref-12">
+12. Lozano, O., Cardona, D., Pineda, R. y D. Rivera. (2018). *Guía para la integración de la variabilidad climática con la gestión del riesgo de desastres a nivel territorial*. UNGRD. Bogotá. file:///C:/Users/dorotea.cardona/Downloads/cambio_clima%CC%81tico%20(1).pdf
+</div>
 
-<div id="ref-13">13. OMM & PNUMA. (2014). *Cambio climático 2014*. *Impactos, Adaptación y Vulnerabilidad.* https://www.ipcc.ch/site/assets/uploads/2018/03/WGIIAR5-IntegrationBrochure_es-1.pdf</div>
+<div id="ref-13">
+13. OMM & PNUMA. (2014). *Cambio climático 2014*. *Impactos, Adaptación y Vulnerabilidad.* https://www.ipcc.ch/site/assets/uploads/2018/03/WGIIAR5-IntegrationBrochure_es-1.pdf
+</div>
 
-<div id="ref-14">14. IDEAM, PNUD, MADS, DNP, CANCILLERÍA. (2017). *Tercera Comunicación Nacional De Colombia a La Convención Marco De Las Naciones Unidas Sobre Cambio Climático (CMNUCC).*</div>
+<div id="ref-14">
+14. IDEAM, PNUD, MADS, DNP, CANCILLERÍA. (2017). *Tercera Comunicación Nacional De Colombia a La Convención Marco De Las Naciones Unidas Sobre Cambio Climático (CMNUCC).*
+</div>
 
-<div id="ref-15">15. Cardona, O.D. (2005) *Gestión integral de riesgos y desastres. Universidad Nacional de Colombia* Manizales, Colombia.</div>
+<div id="ref-15">
+15. Cardona, O.D. (2005) *Gestión integral de riesgos y desastres. Universidad Nacional de Colombia* Manizales, Colombia.
+</div>
 
-<div id="ref-16">16. Canyon, D.V., Burkle, F.M. & Speare, R. (2015). *Managing Community Resilience to Climate Extremes, Rapid Unsustainable Urbanization, Emergencies of Scarcity, and Biodiversity Crises by Use of a Disaster Risk Reduction Bank*.</div>
+<div id="ref-16">
+16. Canyon, D.V., Burkle, F.M. & Speare, R. (2015). *Managing Community Resilience to Climate Extremes, Rapid Unsustainable Urbanization, Emergencies of Scarcity, and Biodiversity Crises by Use of a Disaster Risk Reduction Bank*.
+</div>
 
-<div id="ref-17">17. Instituto Humboldt (Instituto de investigación de recursos biológicos Alexander von Humboldt). (2021). *Expedición Cangrejo negro.* http://intranet.humboldt.org.co/documentos/informeprovidencia.pdf</div>
+<div id="ref-17">
+17. Instituto Humboldt (Instituto de investigación de recursos biológicos Alexander von Humboldt). (2021). *Expedición Cangrejo negro.* http://intranet.humboldt.org.co/documentos/informeprovidencia.pdf
+</div>
 
-<div id="ref-18">18. Vásquez, D., Olmos, V., Sandoval, N., Muñoz, M.D., Valdovinos, C. (2010). Desastres naturales y biodiversidad: El caso del humedal costero Tubul-Raqui. *Sociedad Hoy, (19)*, 33-51. https://www.redalyc.org/articulo.oa?id=90223044004</div>
+<div id="ref-18">
+18. Vásquez, D., Olmos, V., Sandoval, N., Muñoz, M.D., Valdovinos, C. (2010). Desastres naturales y biodiversidad: El caso del humedal costero Tubul-Raqui. *Sociedad Hoy, (19)*, 33-51. https://www.redalyc.org/articulo.oa?id=90223044004
+</div>
 
-<div id="ref-19">19. Renaud, F., Sudmeier-Rieux, K., Estrella, M. & Nehren, U. (2016). *Ecosystem-Based Disaster Risk Reduction and Adaptation in Practice-Advances in Natural and Technological Hazards Research.*</div>
+<div id="ref-19">
+19. Renaud, F., Sudmeier-Rieux, K., Estrella, M. & Nehren, U. (2016). *Ecosystem-Based Disaster Risk Reduction and Adaptation in Practice-Advances in Natural and Technological Hazards Research.*
+</div>
 
-<div id="ref-20">20. MADS (Ministerio de ambiente y desarrollo sostenible). (2017). *Política Nacional de cambio climático.*</div>
+<div id="ref-20">
+20. MADS (Ministerio de ambiente y desarrollo sostenible). (2017). *Política Nacional de cambio climático.*
+</div>
 
-<div id="ref-21">21. UNFCCC. (2021). *United Nations Climate Change*. https://unfccc.int/es/topics/adaptation-and-resilience/the-big-picture/que-significa-adaptacion-al-cambio-climatico-y-resiliencia-al-clima</div>
+<div id="ref-21">
+21. UNFCCC. (2021). *United Nations Climate Change*. https://unfccc.int/es/topics/adaptation-and-resilience/the-big-picture/que-significa-adaptacion-al-cambio-climatico-y-resiliencia-al-clima
+</div>
 
-<div id="ref-22">22. Munang, R., Thiaw, I., Alverson, K., Liu, J. & Han, Z. (2013). *The role of ecosystem services in climate change adaptation and disaster risk reduction.* https://www.sciencedirect.com/science/article/abs/pii/S1877343513000080?via%3Dihub</div>
+<div id="ref-22">
+22. Munang, R., Thiaw, I., Alverson, K., Liu, J. & Han, Z. (2013). *The role of ecosystem services in climate change adaptation and disaster risk reduction.* https://www.sciencedirect.com/science/article/abs/pii/S1877343513000080?via%3Dihub
+</div>
 
-<div id="ref-23">23. Peña, L. (2012). *Evaluación de los ecosistemas del milenio y geodiversidad*. Obtenido de II Jornada sobre geodiversidad del país Vasco, Bilbao: http://catalog.ipbes.net/system/assessment/6/references/files/725/original/n_9.pdf?1424262265</div>
+<div id="ref-23">
+23. Peña, L. (2012). *Evaluación de los ecosistemas del milenio y geodiversidad*. Obtenido de II Jornada sobre geodiversidad del país Vasco, Bilbao: http://catalog.ipbes.net/system/assessment/6/references/files/725/original/n_9.pdf?1424262265
+</div>
 
-<div id="ref-24">24. Morales, M., Rodríguez, N., Ramos, L., Rozo, C., Cardona, D., Cruz, S. & Gómez, C. (2012). *Proceso metodológico y aplicación para la definición de la Estructura Ecológica Nacional: Énfasis en servicios ecosistémicos - Escala 1:500.000.* Instituto de Hidrología, Meteorología y Estudios Ambientales –IDEAM-. https://www.siac.gov.co/documentos/EstructuraEcologica500_informeIDEAM_ago2012-2.pdf</div>
+<div id="ref-24">
+24. Morales, M., Rodríguez, N., Ramos, L., Rozo, C., Cardona, D., Cruz, S. & Gómez, C. (2012). *Proceso metodológico y aplicación para la definición de la Estructura Ecológica Nacional: Énfasis en servicios ecosistémicos - Escala 1:500.000.* Instituto de Hidrología, Meteorología y Estudios Ambientales –IDEAM-. https://www.siac.gov.co/documentos/EstructuraEcologica500_informeIDEAM_ago2012-2.pdf
+</div>
 
-<div id="ref-25">25. De Groot, R. S., Alkemade, R., Braat, L., Hein, L. & Willemen, L. (2010). *Ecological complexity.* https://www.elsevier.com/locate/ecocom</div>
+<div id="ref-25">
+25. De Groot, R. S., Alkemade, R., Braat, L., Hein, L. & Willemen, L. (2010). *Ecological complexity.* https://www.elsevier.com/locate/ecocom
+</div>
 
-<div id="ref-26">26. UNDRR. (2019). *Informe de Evaluación Global sobre la Reducción del Riesgo de desastres-GAR19.* https://www.eird.org/americas/docs/gar-sintesis-2019.pdf</div>
+<div id="ref-26">
+26. UNDRR. (2019). *Informe de Evaluación Global sobre la Reducción del Riesgo de desastres-GAR19.* https://www.eird.org/americas/docs/gar-sintesis-2019.pdf
+</div>
 
-<div id="ref-27">27. World Bank. (2019). *Forces of Nature: Assessment and Economic Valuation of Coastal Protection Services Provided by Mangroves in Jamaica.* https://documents1.worldbank.org/curated/en/357921613108097096/pdf/Forces-of-Nature-Assessment-and-Economic-Valuation-of-Coastal-Protection-Services-Provided-by-Mangroves-in-Jamaica.pdf</div>
+<div id="ref-27">
+27. World Bank. (2019). *Forces of Nature: Assessment and Economic Valuation of Coastal Protection Services Provided by Mangroves in Jamaica.* https://documents1.worldbank.org/curated/en/357921613108097096/pdf/Forces-of-Nature-Assessment-and-Economic-Valuation-of-Coastal-Protection-Services-Provided-by-Mangroves-in-Jamaica.pdf
+</div>
 
-<div id="ref-28">28. Secretaria de Medio Ambiente y Recursos Naturales, Xalapa H. Ayuntamiento, Fondo Golfo de México, Wageningen University & Research, ONU Medio Ambiente & GEF. (2020). *Construcción de la resiliencia climática en sistemas urbanos mediante la adaptación basada en ecosistemas AbE, en América Latina y El Caribe.* México. https://cityadapt.com/wp-content/uploads/2020/04/191027-Ana%CC%81lisis-de-Vulnerabildiad-Xalapa.pdf</div>
+<div id="ref-28">
+28. Secretaria de Medio Ambiente y Recursos Naturales, Xalapa H. Ayuntamiento, Fondo Golfo de México, Wageningen University & Research, ONU Medio Ambiente & GEF. (2020). *Construcción de la resiliencia climática en sistemas urbanos mediante la adaptación basada en ecosistemas AbE, en América Latina y El Caribe.* México. https://cityadapt.com/wp-content/uploads/2020/04/191027-Ana%CC%81lisis-de-Vulnerabildiad-Xalapa.pdf
+</div>
 
-<div id="ref-29">29. Baptiste, B. & Rinaudo, M.E. (2018). *Soluciones basadas en la naturaleza- Herramientas para fortalecer las TSS. Biodiversidad: Ficha 407.* http://reporte.humboldt.org.co/assets/docs/2019/4/407/biodiversidad-2019-407-ficha.pdf.</div>
+<div id="ref-29">
+29. Baptiste, B. & Rinaudo, M.E. (2018). *Soluciones basadas en la naturaleza- Herramientas para fortalecer las TSS. Biodiversidad: Ficha 407.* http://reporte.humboldt.org.co/assets/docs/2019/4/407/biodiversidad-2019-407-ficha.pdf.
+</div>
 
-<div id="ref-30">30. Faivre, N., Sgobbi, A., Happaerts, S., Raynal , J. & Schmidt, I. (2018.). *Translating the Sendai Framework into action: The EU approach to ecosystem based disaster risk reduction, international journal of risk reduction.* Sendai, Japón.</div>
+<div id="ref-30">
+30. Faivre, N., Sgobbi, A., Happaerts, S., Raynal , J. & Schmidt, I. (2018.). *Translating the Sendai Framework into action: The EU approach to ecosystem based disaster risk reduction, international journal of risk reduction.* Sendai, Japón.
+</div>
 
-<div id="ref-31">31. Ospina-Arango, O.L., Vanegas-Pinzón, S., Escobar-Niño, G. A., Ramírez, W. & Sánchez, J.J. (2015). *Plan Nacional de Restauración: Restauración ecológica, rehabilitación y recuperación de áreas disturbadas*. Ministerio de Ambiente y Desarrollo Sostenible.  Bogotá, D.C. Colombia.</div>
+<div id="ref-31">
+31. Ospina-Arango, O.L., Vanegas-Pinzón, S., Escobar-Niño, G. A., Ramírez, W. & Sánchez, J.J. (2015). *Plan Nacional de Restauración: Restauración ecológica, rehabilitación y recuperación de áreas disturbadas*. Ministerio de Ambiente y Desarrollo Sostenible.  Bogotá, D.C. Colombia.
+</div>

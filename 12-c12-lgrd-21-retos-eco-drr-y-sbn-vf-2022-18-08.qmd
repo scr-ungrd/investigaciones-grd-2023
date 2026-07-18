@@ -266,160 +266,318 @@ Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. E
 
 ## 12.19 BIBLIOGRAFÍA
 
-<div id="ref-1">1. UICN (2020). *Estándar Global de la UICN para soluciones basadas en la naturaleza. Un marco sencillo para la verificación, el diseño y la extensión de SbN.* Primera edición. Gland, Suiza: UICN.</div>
-
-<div id="ref-2">2. MacKinnon K, Sobrevila C, Hickey V et al. (2008) Biodiversity, climate change and adaptation: nature-based solutions from the Word Bank portfolio. World Bank, Washington, DC.</div>
-
-<div id="ref-3">3. IUCN. (2009). No time to lose–Make full use of nature‐based solutions in the post‐2012 climate change regime. In *Position Paper on the Fifteenth Session of the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP 15)* (pp. 1-5). Gland, Switzerland: International Union for Conservation of Nature.</div>
-
-<div id="ref-4">4. Kabisch, N., Korn, H., Stadler, J. & Bonn, A. (Eds.) (2017). *Nature based Solutions to Climate Change Adaptation in Urban Areas, Theory and Practice of Urban Sustainability Transitions*. Springer.</div>
-
-<div id="ref-5">5. CBD (2009). *Connecting Biodiversity and Climate Change Mitigation and Adaptation: Report of the Second Ad Hoc Technical Expert Group on Biodiversity and Climate Change*. Technical Series No. 41, Montreal: Secretariat of the Convention on Biological Diversity.</div>
-
-<div id="ref-6">6. Estrella, M. & Saalismaa, N. (2013). Ecosystem-based disaster risk reduction (Eco-DRR): an overview. En F.G. Renaud, K. Sudmeier-Rieux & M. Estrella (Eds), *The role of ecosystems in disaster risk reduction*. Tokyo: United Nations University Press.</div>
-
-<div id="ref-7">7. MEA (Millennium Ecosystem Assessment), 2005. *Ecosystems and Human Well-being: Synthesis*. Island Press, Washington, D.C.</div>
-
-<div id="ref-8">8. Cohen-Shacham, E., Walters, G., Janzen, C. and Maginnis, S. (Eds.) (2016). Nature-based Solutions to address global societal challenges. Gland, Switzerland: IUCN. xiii + 97pp,</div>
-
-<div id="ref-9">9. Nehren, U., Sudmeier-Rieux, K., Sandholz, S., Estrella, M., Lomarda, M. & T. Guillén. (Eds.) (2014). *The Ecosystem-Based Disaster Risk Reduction Case Study and Exercise Source Book*. Partnership for Environment and Disaster Risk Reduction and Center for Natural Resources and Development.</div>
-
-<div id="ref-10">10. Griscom. B. et al. (2017) Natural climate solutions. Earth, Atmospheric, and Planetary Sciences. Octubre 16, 2017: 114 (44) 11645-11650. https://doi.org/10.1073/pnas.1710465114</div>
-
-<div id="ref-11">11. UNDRR (United Nations Office for Disaster Risk Reduction) (2021). *Words into action: Nature-based solutions for disaster risk reduction*.</div>
-
-<div id="ref-12">12. Sudmeier-Rieux, K., Nehren, U., Sandholz, S. & Doswald, N. (2019). *Disasters and Ecosystems: Resilience in a Changing Climate - Source Book*. Geneva: United Nations Environment Programme.</div>
-
-<div id="ref-13">13. IPBES (2019). *Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services*. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (Eds.). IPBES secretariat, Bonn, Germany. 1148 pages.</div>
-
-<div id="ref-14">14. WWF. 2020. I*nforme Planeta Vivo 2020: Revertir la curva de la pérdida de biodiversidad*. Resumen. Almond, R.E.A., Grooten M. & Petersen, T. (Eds.). WWF, Gland, Suiza. https://wwfar.awsassets.panda.org/downloads/informe_planeta_vivo_2020_resumen_ejecutivo.pdf</div>
-
-<div id="ref-15">15. Tilman, D., Isbell, F., & Cowles, J. M. 2014. Biodiversity and Ecosystem Functioning. *Annual Review of Ecology, Evolution, and Systematics,* *45*(1), 471–493.</div>
-
-<div id="ref-16">16. Etter, A., Andrade, A., Saavedra, K. & Cortés, J. (2018). Actualización de la Lista Roja de los Ecosistemas Terrestres de Colombia: Herramienta para la gestión de los ecosistemas. En L.A. Moreno, C. Rueda & G.I. Andrade (Eds.). *Biodiversidad 2017. Estado y tendencias de la biodiversidad continental de Colombia*. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, D. C., Colombia.</div>
-
-<div id="ref-17">17. El Planeta Pide la Palabra. Unidad Nacional para la Gestión del Riesgo de Desastres (2020, 9 de septiembre). *Soluciones basadas en la naturaleza para la reducción del riesgo de desastres* [Video]. YouTube.</div>
-
-<div id="ref-18">18. Figueroa-Arango C. (2020). *Guía para la integración de las Soluciones Basadas en la Naturaleza en la planificación urbana. Primera aproximación para Colombia*. Berlín: Alexander von Humboldt Stiftung, Ecologic Institute, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</div>
-
-<div id="ref-19">19. Pandeya B., Buytaert W. & Potter C. (2021). Designing citizen science for water and ecosystem services management in data-poor regions: Challenges and opportunities. *Current Research in Environmental Sustainability*, 3, 100059,</div>
-
-<div id="ref-20">20. Diaz, Sandra & Pascual, Unai & Stenseke, Marie & Martín-López, Berta & Watson, Robert & Molnár, Zsolt & Hill, Rosemary & Chan, Kai & Baste, Ivar & Brauman, Kate & Polasky, Stephen & Church, Andrew & Lonsdale, Mark & Larigauderie, Anne & Leadley, Paul & van Oudenhoven, Alexander & Plaat, Felice & Schröter, Matthias & Lavorel, Sandra & Shirayama, Yoshihisa. (2018) Assessing nature's contributions to people: Recognizing culture, and diverse sources of knowledge, can improve assessments. *Science*, 359. 270-272. 10.1126/science.aap8826.</div>
-
-<div id="ref-21">21. Reyers, B., Nel, J.L., O’Farrell, P.J., Sitas N., & Nel D.C. (2015). Navigating complexity through knowledge coproduction: Mainstreaming ecosystem services into disaster risk reduction. *Proceedings of the National Academy of Sciences,* *112*(24): 7362–7368,</div>
-
-<div id="ref-22">22. Rincón-Ruíz, A., Echeverry-Duque, M., Piñeros, A. M., Tapia, C. H., … Zuluaga, P. A. (2014). Valoración integral de la biodiversidad y los servicios ecosistémicos: Aspectos conceptuales y metodológicos. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D. C. Colombia, 151 pp,</div>
-
-<div id="ref-23">23. Guerry A.D., Polasky S., Lubchenco J., Chaplin-Kramer R., … Vira B. (2015). Natural capital and ecosystem services informing decisions: From promise to practice. *Proceedings of the National Academy of Sciences*, *112*(24): 7348–7355.</div>
-
-<div id="ref-24">24. The IGNITION Project. (2020, 27 de agosto). *Nature-based solutions for the climate emergency: The benefits to business and society*.</div>
-
-<div id="ref-25">25. Forbes, K. & Broadhead, J. (2007). *The role of coastal forests in the mitigation of tsunami impacts*. FAO, Regional Office for Asia and the Pacific, Bangkok, 39p.</div>
-
-<div id="ref-26">26. Rawat, A., Vasistha, H. B., Soni, P. (2012). Ecological Approach to Landslide Risk Remediation. En A.K. Gupta & S.S. Nair, *Ecosystem Approach to Disaster Risk Reduction* (pp. 96-101). National Institute of Disaster Management, New Delhi.</div>
-
-<div id="ref-27">27. McVittie, A., Cole LJ., Wreford A., Sgobbi A. & Yordi, B. (2017). Ecosystem-based solutions for disaster risk reduction: lessons from European applications of ecosystem-based adaptation measures. *International Journal of Disaster Risk Reduction,* *32*, 42–54.</div>
-
-<div id="ref-28">28. Raza Rizvi, A., van Riel, K. & Zakowski, E. Ecosystem based adaptation monitoring & evaluation – indicators: A compilation and review of literature. IUCN EbA Knowledge Series–Working Paper.</div>
-
-<div id="ref-29">29. CMCC (Convención Marco sobre el Cambio Climático). (2017).  *Planificación, ejecución y evaluación de las medidas de adaptación que se ocupan de los ecosistemas y de esferas como los recursos hídricos - Informe de síntesis de la secretaría*. FCCC/SBSTA/2017/3</div>
-
-<div id="ref-30">30. GIZ, Eurac Research & UNU-EHS (United Nations University – Institute for Environment and Human Security). (2020). *Adaptation – A guidebook for planners and practitioners*. Bonn: GIZ. 120 p.</div>
-
-<div id="ref-31">31. Baig, S.P., Rizvi, A., Josella, M. & Palanca-Tan, R. (2015). *Cost and Benefits of Ecosystem Based Adaptation: The Case of the Philippines*. Gland, Switzerland: IUCN. viii + 32pp.</div>
-
-<div id="ref-32">32. Rao, N.S., Carruthers, T.J.B., Anderson, P., Sivo, L., Saxby, T., Durbin, T., Jungblut, V., Hills, T. & Chape, S. (2013). *An economic analysis of ecosystem-based adaptation and engineering options for climate change adaptation in Lami Town, Republic of the Fiji Islands. A technical report by the Secretariat of the Pacific Regional Environment Programme*. – Apia, Samoa: SPREP 2013.</div>
-
-<div id="ref-33">33. Zucchetti, A., Ramos, V., Alegre, M., Aguilar, Z., Arroyo, R., & Tribut, E. (2008). *Guía metodológica para el ordenamiento territorial y la gestión de riesgos*. PNUD-UN-Habitat, Perú.</div>
-
-<div id="ref-34">34. Ministerio  de Vivienda y Desarrollo Sostenible. (2018, 12 de enero). *En los últimos 30 años ciudades y municipios de Colombia han crecido de manera informal*.</div>
-
-<div id="ref-35">35. ISVIMED (Instituto Social de Vivienda y Hábitat de Medellín). (2011). *Plan estratégico habitacional de Medellín, PEHMED 2020.*</div>
-
-<div id="ref-36">36. RIMISP (Centro Latinoamericano para el Desarrollo Rural). (2016, 30 de septiembre). *Un ordenamiento territorial incluyente con las zonas rurales en Colombia*.</div>
-
-<div id="ref-37">37. CEPAL (Comisión Económica para América Latina y el Caribe). (2019). *Planificación para el desarrollo territorial sostenible en América Latina y el Caribe* (LC/CRP.17/3), Santiago.</div>
-
-<div id="ref-38">38. IEU (Instituto de Estudios Urbanos, Universidad Nacional de Colombia). (2020, 6 de septiembre) *El 88% de los municipios de Colombia tienen el POT desactualizado: Ministerio de Vivienda, Ciudad y Territorio*. Disponible en:</div>
-
-<div id="ref-39">39. Urbano Montilla, J.F., Trigueros Sabogal, D. & Grijalba Ibarra, V. (2019) *¿Por qué las obras en Colombia tardan más de lo que son planeadas?*, EIEI ACOFI, ago. 2019.</div>
-
-<div id="ref-40">40. Caicedo Ferrer, J.M. (2021, 17 de septiembre) *¡Obras inconclusas!* Cámara Colombiana de la Infraestructura.</div>
-
-<div id="ref-41">41. Revista Semana. (2017, 15 de septiembre). *La obra de la UNGRD que costó 6.000 millones y no sirve para nada.*</div>
-
-<div id="ref-42">42. Ozment, S., Watson, G., Marsters L. & Oliver, E. (2021, 12 de octubre). *3 Ways to Scale Up Nature-Based Solutions in Latin America and the Caribbean*. Insights - World Resources Institute.</div>
-
-<div id="ref-43">43. CNRD-PEDRR. (2019). *Disasters, Environment and Risk Reduction – Eco-DRR Master’s Module, Instructor’s Manual*. Cologne and Geneva: Center for Natural Resources and Development, Partnership on Environment and Disaster Risk Reduction.</div>
-
-<div id="ref-44">44. Iriin, R., & Stansbury, J. (2004). Citizen Participation in Decision Making: Is It Worth the Effort? *Public Administration Review,* *64*, 55–65</div>
-
-<div id="ref-45">45. Gómez, E. y Castillo, L. A. (2003). Actividad de la falla la saliana a partir de instrumentación sismológica. *Geofisica Colombiana, 7,* 5–12.</div>
-
-<div id="ref-46">46. Dobbs, C., Escobedo, F., Clerici, N., de la Barrera, F., … Hernández, J., (2019). Urban ecosystem Services in Latin America: mismatch between global concepts and regional realities?. *Urban Ecosystems*, *22*, 173–187.</div>
-
-<div id="ref-47">47. Revista Semana (2011, abril 24). *Ruptura de jarillón inunda U. de la Sabana.*</div>
-
-<div id="ref-48">48. Andersen, I. (2021, junio 30). *Nature in our cities.* UNEP.</div>
-
-<div id="ref-49">49. Montoya Restrepo, J.I., Cuesta Gómez, O, Flecha Quintanilla, O., Viadé Andavert, D., Gallegos, A. & Morató Farreras, J. (2011). Moravia como ejemplo de transformación de áreas urbanas degradadas: tecnologías apropiadas para la restauración integral de cuencas hidrográficas. *NOVA - Publicación científica en ciencias biomédicas*, *9*(15), 41–52.</div>
-
-<div id="ref-50">50. Sandholz, S., Lange, W. & Nehren, U. (2018). Governing green change: Ecosystem-based measures for reducing landslide risk in Rio de Janeiro. *International Journal of Disaster Risk Reduction*, *32*, 75-86.</div>
-
-<div id="ref-51">51. Rodríguez Tobo, P.A. (2008). *Presupuesto Público: Programa Administración Pública Territorial*. Escuela Superior de Administración Pública – ESAP. 119 p.</div>
-
-<div id="ref-52">52. DNP (Departamento Nacional de Planeación). (2021, 15 de noviembre). *Estrategia Nacional de Financiamiento Climático*.</div>
-
-<div id="ref-53">53. CDC (Corporación para el Desarrollo de Caldas) (2006). *Guardianas de la Ladera:  un programa de cultura ciudadana  en la prevención del riesgo*.</div>
-
-<div id="ref-54">54. Universidad de los Andes & Alcaldía Mayor de Bogotá (2016). Investigación de las tipologías y/o tecnologías de Sistemas  Urbanos de Drenaje Sostenible (SUDS) que más se  adapten a las condiciones de la ciudad de Bogotá D.C. Producto 3 – Guía técnica de diseño y construcción de  Sistemas Urbanos de Drenaje Sostenible (SUDS). https://ambientebogota.gov.co/sistemas-urbanos-de-drenaje-sostenible</div>
-
-<div id="ref-55">55. UGR (Unidad de Gestión del Riesgo). (2021, 9 de marzo). *Guardianas de la Ladera continúa labores de prevención en este 2021, el programa ya no se cobra a los manizaleños*.</div>
-
-<div id="ref-56">56. La Patria (2020, 6 de diciembre). *La ciudad reclama las Guardianas de la Ladera para Manizales*.</div>
-
-<div id="ref-57">57. Méndez, C. (2017, 6 de abril). Chiparo, el árbol que salvó a un barrio de la tragedia en Mocoa. *Mongabay Latam*.</div>
-
-<div id="ref-58">58. El Espectador (2017, 1 de abril). *Causas y recomendaciones tras la avalancha en Mocoa*. https://bit.ly/3fOb4gU</div>
-
-<div id="ref-59">59. Ospina Zapata, G. (2021). Millonarios proyectos para frenar erosión costera incluyen a Urabá. *El Colombiano*. Abril 30 de 2021.https://bit.ly/3nLGNUq</div>
-
-<div id="ref-60">60. Guzman, W., Posada, B., Guzman, G. y Morales, D. 2008. *Programa nacional de investigación para la prevención, mitigación y control de la erosión costera en Colombia - PNIEC: Plan de Acción 2009-2019*. INVEMAR 72p.</div>
-
-<div id="ref-61">61. Baudoin, M.A., Henly-Shepard, S., Fernando, N.,  Sitat, A.i & Zommers, A. (2016). From Top-Down to “Community-Centric” Approaches to Early Warning Systems: Exploring Pathways to Improve Disaster Risk Reduction Through Community Participation. *International Journal of Disaster Risk Science*, *7*, 163–174. ​​</div>
-
-<div id="ref-62">62. Departamento Administrativo de la Función Pública. (2018). *Orientaciones para promover la participación ciudadana en los procesos de diagnóstico y planeación de la gestión pública*. Bogotá. 89 p.</div>
-
-<div id="ref-63">63. Lerma Carreño, C.A. (2017, 11 de julio) La participación: ¿Entre la apatía política y la conciencia ambiental y social?. *Revista Sur*. https://bit.ly/3nOeUuT</div>
-
-<div id="ref-64">64. Suarez Rubio, J.R. (2021). *La participación ciudadana, en la formulación de planes de gestión del riesgo y desastres en Colombia*. Tesis de Maestría en Planeación para el desarrollo. Universidad Santo Tómas.</div>
-
-<div id="ref-65">65. Milano, Flavia (2019). *Gobiernos y sociedad civil avanzando agendas climáticas*. I. Irazábal Briceño (Ed). Monografía del BID. 663 p.</div>
-
-<div id="ref-66">66. Corporación PBA. (2014). *Gestión del riesgo con participación ciudadana*. Primera edición, Bogotá.</div>
-
-<div id="ref-67">67. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Guía para la Participación Comunitaria en la gestión del riesgo de desastres*. 21 p.</div>
-
-<div id="ref-68">68. Izumi, T., Shaw, R., Djalante, R., Ishiwatari, M., & Komino, T. (2019). Disaster risk reduction and innovations. *Progress in Disaster Science, 2*, 100033.</div>
-
-<div id="ref-69">69. Depietri Y., McPhearson T. (2017) Integrating the Grey, Green, and Blue in Cities: Nature-Based Solutions for Climate Change Adaptation and Risk Reduction. En N. Kabisch, H. Korn, J. Stadler & A. Bonn (Eds) *Nature-Based Solutions to Climate Change Adaptation in Urban Areas. Theory and Practice of Urban Sustainability Transitions*. Springer, Cham.</div>
-
-<div id="ref-70">70. World Bank (2019, 21 de marzo). *Putting Nature to Work: Integrating Green and Gray Infrastructure for Water Security and Climate Resilience*.</div>
-
-<div id="ref-71">71. Watkins, G.G., Silva Zuniga, M.C., Rycerz, A., Dawkins, K. … Amal-Lee, A. (2019) *Nature-based Solutions: Scaling Private Sector Uptake for Climate Resilient Infrastructure in Latin America and the Caribbean*. Inter-American Development Bank.</div>
-
-<div id="ref-72">72. Romero-Torres, M.; Navas Calixto, A. & Mideros, M. (2021). ¿Dónde está el dinero? *Estrategias de búsqueda de financiación internacional para proyectos de investigación*. Red colombiana de gestores de investigación. Documento de trabajo No.1.</div>
-
-<div id="ref-73">73. Karremans, J., Brugger, S., Castillo, A., Argüello, C., & Dascal, G. (2017). *Financiamiento climático y NDCs en América Latina: guía para facilitar el acceso a fuentes internacionales*. Serie de Estudios Temáticos No 10. Programa EUROCLIMA. Dirección General de Desarrollo y Cooperación – EuropeAid, Comisión Europea. Bruselas, Bélgica. 174 p.</div>
-
-<div id="ref-74">74. El Hilo (2021, noviembre). COP26: *¿Puede una cumbre ayudar a resolver la crisis climática?*.</div>
-
-<div id="ref-75">75. Ramírez-González, A. (2016). Inter y transdisciplinariedad en investigaciones ambientales. Una sinopsis. *Gestión y Ambiente*, *19*(2), 318–331.</div>
-
-<div id="ref-76">76. Público. (2016, julio 24). *Las ciudades más verdes se vuelven más injustas*.</div>
-
-<div id="ref-77">77. Suárez, D.C. & Cardona, O.D. (2016). *Mejora y protección de ecosistemas para la gestión del riesgo de desastres y el fortalecimiento de la resiliencia de las comunidades: el caso de estudio de la región de La Mojana, Colombia*. INGENIAR CAD/CAE</div>
-
-<div id="ref-78">78. Echeverry-Galvis, M.A., Unda, M., Bravo, M.P., García, N., Rubiano-Pinzón, G., & Palomino, J.V. (2019). Plan de Acción en Biodiversidad de la PNGIBSE, Metas Aichi y los Objetivos de Desarrollo Sostenible en Colombia: análisis y concordancia en el discurso entre metas propuestas para 2020. *Gestión y Ambiente,* *22*(2), 207-234.</div>
-
-<div id="ref-79">79. Inostroza, L., Garay Sarasti, H. & Andrade Pérez, G. (2020). *Servicios ecosistémicos urbanos en Latinoamérica. Oportunidades para el desarrollo urbano sostenible, la acción climática y la gestión de la biodiversidad urbana*. CODS. No. 4.</div>
+<div id="ref-1">
+1. UICN (2020). *Estándar Global de la UICN para soluciones basadas en la naturaleza. Un marco sencillo para la verificación, el diseño y la extensión de SbN.* Primera edición. Gland, Suiza: UICN.
+</div>
+
+<div id="ref-2">
+2. MacKinnon K, Sobrevila C, Hickey V et al. (2008) Biodiversity, climate change and adaptation: nature-based solutions from the Word Bank portfolio. World Bank, Washington, DC.
+</div>
+
+<div id="ref-3">
+3. IUCN. (2009). No time to lose–Make full use of nature‐based solutions in the post‐2012 climate change regime. In *Position Paper on the Fifteenth Session of the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP 15)* (pp. 1-5). Gland, Switzerland: International Union for Conservation of Nature.
+</div>
+
+<div id="ref-4">
+4. Kabisch, N., Korn, H., Stadler, J. & Bonn, A. (Eds.) (2017). *Nature based Solutions to Climate Change Adaptation in Urban Areas, Theory and Practice of Urban Sustainability Transitions*. Springer.
+</div>
+
+<div id="ref-5">
+5. CBD (2009). *Connecting Biodiversity and Climate Change Mitigation and Adaptation: Report of the Second Ad Hoc Technical Expert Group on Biodiversity and Climate Change*. Technical Series No. 41, Montreal: Secretariat of the Convention on Biological Diversity.
+</div>
+
+<div id="ref-6">
+6. Estrella, M. & Saalismaa, N. (2013). Ecosystem-based disaster risk reduction (Eco-DRR): an overview. En F.G. Renaud, K. Sudmeier-Rieux & M. Estrella (Eds), *The role of ecosystems in disaster risk reduction*. Tokyo: United Nations University Press.
+</div>
+
+<div id="ref-7">
+7. MEA (Millennium Ecosystem Assessment), 2005. *Ecosystems and Human Well-being: Synthesis*. Island Press, Washington, D.C.
+</div>
+
+<div id="ref-8">
+8. Cohen-Shacham, E., Walters, G., Janzen, C. and Maginnis, S. (Eds.) (2016). Nature-based Solutions to address global societal challenges. Gland, Switzerland: IUCN. xiii + 97pp,
+</div>
+
+<div id="ref-9">
+9. Nehren, U., Sudmeier-Rieux, K., Sandholz, S., Estrella, M., Lomarda, M. & T. Guillén. (Eds.) (2014). *The Ecosystem-Based Disaster Risk Reduction Case Study and Exercise Source Book*. Partnership for Environment and Disaster Risk Reduction and Center for Natural Resources and Development.
+</div>
+
+<div id="ref-10">
+10. Griscom. B. et al. (2017) Natural climate solutions. Earth, Atmospheric, and Planetary Sciences. Octubre 16, 2017: 114 (44) 11645-11650. https://doi.org/10.1073/pnas.1710465114
+</div>
+
+<div id="ref-11">
+11. UNDRR (United Nations Office for Disaster Risk Reduction) (2021). *Words into action: Nature-based solutions for disaster risk reduction*.
+</div>
+
+<div id="ref-12">
+12. Sudmeier-Rieux, K., Nehren, U., Sandholz, S. & Doswald, N. (2019). *Disasters and Ecosystems: Resilience in a Changing Climate - Source Book*. Geneva: United Nations Environment Programme.
+</div>
+
+<div id="ref-13">
+13. IPBES (2019). *Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services*. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (Eds.). IPBES secretariat, Bonn, Germany. 1148 pages.
+</div>
+
+<div id="ref-14">
+14. WWF. 2020. I*nforme Planeta Vivo 2020: Revertir la curva de la pérdida de biodiversidad*. Resumen. Almond, R.E.A., Grooten M. & Petersen, T. (Eds.). WWF, Gland, Suiza. https://wwfar.awsassets.panda.org/downloads/informe_planeta_vivo_2020_resumen_ejecutivo.pdf
+</div>
+
+<div id="ref-15">
+15. Tilman, D., Isbell, F., & Cowles, J. M. 2014. Biodiversity and Ecosystem Functioning. *Annual Review of Ecology, Evolution, and Systematics,* *45*(1), 471–493.
+</div>
+
+<div id="ref-16">
+16. Etter, A., Andrade, A., Saavedra, K. & Cortés, J. (2018). Actualización de la Lista Roja de los Ecosistemas Terrestres de Colombia: Herramienta para la gestión de los ecosistemas. En L.A. Moreno, C. Rueda & G.I. Andrade (Eds.). *Biodiversidad 2017. Estado y tendencias de la biodiversidad continental de Colombia*. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, D. C., Colombia.
+</div>
+
+<div id="ref-17">
+17. El Planeta Pide la Palabra. Unidad Nacional para la Gestión del Riesgo de Desastres (2020, 9 de septiembre). *Soluciones basadas en la naturaleza para la reducción del riesgo de desastres* [Video]. YouTube.
+</div>
+
+<div id="ref-18">
+18. Figueroa-Arango C. (2020). *Guía para la integración de las Soluciones Basadas en la Naturaleza en la planificación urbana. Primera aproximación para Colombia*. Berlín: Alexander von Humboldt Stiftung, Ecologic Institute, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.
+</div>
+
+<div id="ref-19">
+19. Pandeya B., Buytaert W. & Potter C. (2021). Designing citizen science for water and ecosystem services management in data-poor regions: Challenges and opportunities. *Current Research in Environmental Sustainability*, 3, 100059,
+</div>
+
+<div id="ref-20">
+20. Diaz, Sandra & Pascual, Unai & Stenseke, Marie & Martín-López, Berta & Watson, Robert & Molnár, Zsolt & Hill, Rosemary & Chan, Kai & Baste, Ivar & Brauman, Kate & Polasky, Stephen & Church, Andrew & Lonsdale, Mark & Larigauderie, Anne & Leadley, Paul & van Oudenhoven, Alexander & Plaat, Felice & Schröter, Matthias & Lavorel, Sandra & Shirayama, Yoshihisa. (2018) Assessing nature's contributions to people: Recognizing culture, and diverse sources of knowledge, can improve assessments. *Science*, 359. 270-272. 10.1126/science.aap8826.
+</div>
+
+<div id="ref-21">
+21. Reyers, B., Nel, J.L., O’Farrell, P.J., Sitas N., & Nel D.C. (2015). Navigating complexity through knowledge coproduction: Mainstreaming ecosystem services into disaster risk reduction. *Proceedings of the National Academy of Sciences,* *112*(24): 7362–7368,
+</div>
+
+<div id="ref-22">
+22. Rincón-Ruíz, A., Echeverry-Duque, M., Piñeros, A. M., Tapia, C. H., … Zuluaga, P. A. (2014). Valoración integral de la biodiversidad y los servicios ecosistémicos: Aspectos conceptuales y metodológicos. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D. C. Colombia, 151 pp,
+</div>
+
+<div id="ref-23">
+23. Guerry A.D., Polasky S., Lubchenco J., Chaplin-Kramer R., … Vira B. (2015). Natural capital and ecosystem services informing decisions: From promise to practice. *Proceedings of the National Academy of Sciences*, *112*(24): 7348–7355.
+</div>
+
+<div id="ref-24">
+24. The IGNITION Project. (2020, 27 de agosto). *Nature-based solutions for the climate emergency: The benefits to business and society*.
+</div>
+
+<div id="ref-25">
+25. Forbes, K. & Broadhead, J. (2007). *The role of coastal forests in the mitigation of tsunami impacts*. FAO, Regional Office for Asia and the Pacific, Bangkok, 39p.
+</div>
+
+<div id="ref-26">
+26. Rawat, A., Vasistha, H. B., Soni, P. (2012). Ecological Approach to Landslide Risk Remediation. En A.K. Gupta & S.S. Nair, *Ecosystem Approach to Disaster Risk Reduction* (pp. 96-101). National Institute of Disaster Management, New Delhi.
+</div>
+
+<div id="ref-27">
+27. McVittie, A., Cole LJ., Wreford A., Sgobbi A. & Yordi, B. (2017). Ecosystem-based solutions for disaster risk reduction: lessons from European applications of ecosystem-based adaptation measures. *International Journal of Disaster Risk Reduction,* *32*, 42–54.
+</div>
+
+<div id="ref-28">
+28. Raza Rizvi, A., van Riel, K. & Zakowski, E. Ecosystem based adaptation monitoring & evaluation – indicators: A compilation and review of literature. IUCN EbA Knowledge Series–Working Paper.
+</div>
+
+<div id="ref-29">
+29. CMCC (Convención Marco sobre el Cambio Climático). (2017).  *Planificación, ejecución y evaluación de las medidas de adaptación que se ocupan de los ecosistemas y de esferas como los recursos hídricos - Informe de síntesis de la secretaría*. FCCC/SBSTA/2017/3
+</div>
+
+<div id="ref-30">
+30. GIZ, Eurac Research & UNU-EHS (United Nations University – Institute for Environment and Human Security). (2020). *Adaptation – A guidebook for planners and practitioners*. Bonn: GIZ. 120 p.
+</div>
+
+<div id="ref-31">
+31. Baig, S.P., Rizvi, A., Josella, M. & Palanca-Tan, R. (2015). *Cost and Benefits of Ecosystem Based Adaptation: The Case of the Philippines*. Gland, Switzerland: IUCN. viii + 32pp.
+</div>
+
+<div id="ref-32">
+32. Rao, N.S., Carruthers, T.J.B., Anderson, P., Sivo, L., Saxby, T., Durbin, T., Jungblut, V., Hills, T. & Chape, S. (2013). *An economic analysis of ecosystem-based adaptation and engineering options for climate change adaptation in Lami Town, Republic of the Fiji Islands. A technical report by the Secretariat of the Pacific Regional Environment Programme*. – Apia, Samoa: SPREP 2013.
+</div>
+
+<div id="ref-33">
+33. Zucchetti, A., Ramos, V., Alegre, M., Aguilar, Z., Arroyo, R., & Tribut, E. (2008). *Guía metodológica para el ordenamiento territorial y la gestión de riesgos*. PNUD-UN-Habitat, Perú.
+</div>
+
+<div id="ref-34">
+34. Ministerio  de Vivienda y Desarrollo Sostenible. (2018, 12 de enero). *En los últimos 30 años ciudades y municipios de Colombia han crecido de manera informal*.
+</div>
+
+<div id="ref-35">
+35. ISVIMED (Instituto Social de Vivienda y Hábitat de Medellín). (2011). *Plan estratégico habitacional de Medellín, PEHMED 2020.*
+</div>
+
+<div id="ref-36">
+36. RIMISP (Centro Latinoamericano para el Desarrollo Rural). (2016, 30 de septiembre). *Un ordenamiento territorial incluyente con las zonas rurales en Colombia*.
+</div>
+
+<div id="ref-37">
+37. CEPAL (Comisión Económica para América Latina y el Caribe). (2019). *Planificación para el desarrollo territorial sostenible en América Latina y el Caribe* (LC/CRP.17/3), Santiago.
+</div>
+
+<div id="ref-38">
+38. IEU (Instituto de Estudios Urbanos, Universidad Nacional de Colombia). (2020, 6 de septiembre) *El 88% de los municipios de Colombia tienen el POT desactualizado: Ministerio de Vivienda, Ciudad y Territorio*. Disponible en:
+</div>
+
+<div id="ref-39">
+39. Urbano Montilla, J.F., Trigueros Sabogal, D. & Grijalba Ibarra, V. (2019) *¿Por qué las obras en Colombia tardan más de lo que son planeadas?*, EIEI ACOFI, ago. 2019.
+</div>
+
+<div id="ref-40">
+40. Caicedo Ferrer, J.M. (2021, 17 de septiembre) *¡Obras inconclusas!* Cámara Colombiana de la Infraestructura.
+</div>
+
+<div id="ref-41">
+41. Revista Semana. (2017, 15 de septiembre). *La obra de la UNGRD que costó 6.000 millones y no sirve para nada.*
+</div>
+
+<div id="ref-42">
+42. Ozment, S., Watson, G., Marsters L. & Oliver, E. (2021, 12 de octubre). *3 Ways to Scale Up Nature-Based Solutions in Latin America and the Caribbean*. Insights - World Resources Institute.
+</div>
+
+<div id="ref-43">
+43. CNRD-PEDRR. (2019). *Disasters, Environment and Risk Reduction – Eco-DRR Master’s Module, Instructor’s Manual*. Cologne and Geneva: Center for Natural Resources and Development, Partnership on Environment and Disaster Risk Reduction.
+</div>
+
+<div id="ref-44">
+44. Iriin, R., & Stansbury, J. (2004). Citizen Participation in Decision Making: Is It Worth the Effort? *Public Administration Review,* *64*, 55–65
+</div>
+
+<div id="ref-45">
+45. Gómez, E. y Castillo, L. A. (2003). Actividad de la falla la saliana a partir de instrumentación sismológica. *Geofisica Colombiana, 7,* 5–12.
+</div>
+
+<div id="ref-46">
+46. Dobbs, C., Escobedo, F., Clerici, N., de la Barrera, F., … Hernández, J., (2019). Urban ecosystem Services in Latin America: mismatch between global concepts and regional realities?. *Urban Ecosystems*, *22*, 173–187.
+</div>
+
+<div id="ref-47">
+47. Revista Semana (2011, abril 24). *Ruptura de jarillón inunda U. de la Sabana.*
+</div>
+
+<div id="ref-48">
+48. Andersen, I. (2021, junio 30). *Nature in our cities.* UNEP.
+</div>
+
+<div id="ref-49">
+49. Montoya Restrepo, J.I., Cuesta Gómez, O, Flecha Quintanilla, O., Viadé Andavert, D., Gallegos, A. & Morató Farreras, J. (2011). Moravia como ejemplo de transformación de áreas urbanas degradadas: tecnologías apropiadas para la restauración integral de cuencas hidrográficas. *NOVA - Publicación científica en ciencias biomédicas*, *9*(15), 41–52.
+</div>
+
+<div id="ref-50">
+50. Sandholz, S., Lange, W. & Nehren, U. (2018). Governing green change: Ecosystem-based measures for reducing landslide risk in Rio de Janeiro. *International Journal of Disaster Risk Reduction*, *32*, 75-86.
+</div>
+
+<div id="ref-51">
+51. Rodríguez Tobo, P.A. (2008). *Presupuesto Público: Programa Administración Pública Territorial*. Escuela Superior de Administración Pública – ESAP. 119 p.
+</div>
+
+<div id="ref-52">
+52. DNP (Departamento Nacional de Planeación). (2021, 15 de noviembre). *Estrategia Nacional de Financiamiento Climático*.
+</div>
+
+<div id="ref-53">
+53. CDC (Corporación para el Desarrollo de Caldas) (2006). *Guardianas de la Ladera:  un programa de cultura ciudadana  en la prevención del riesgo*.
+</div>
+
+<div id="ref-54">
+54. Universidad de los Andes & Alcaldía Mayor de Bogotá (2016). Investigación de las tipologías y/o tecnologías de Sistemas  Urbanos de Drenaje Sostenible (SUDS) que más se  adapten a las condiciones de la ciudad de Bogotá D.C. Producto 3 – Guía técnica de diseño y construcción de  Sistemas Urbanos de Drenaje Sostenible (SUDS). https://ambientebogota.gov.co/sistemas-urbanos-de-drenaje-sostenible
+</div>
+
+<div id="ref-55">
+55. UGR (Unidad de Gestión del Riesgo). (2021, 9 de marzo). *Guardianas de la Ladera continúa labores de prevención en este 2021, el programa ya no se cobra a los manizaleños*.
+</div>
+
+<div id="ref-56">
+56. La Patria (2020, 6 de diciembre). *La ciudad reclama las Guardianas de la Ladera para Manizales*.
+</div>
+
+<div id="ref-57">
+57. Méndez, C. (2017, 6 de abril). Chiparo, el árbol que salvó a un barrio de la tragedia en Mocoa. *Mongabay Latam*.
+</div>
+
+<div id="ref-58">
+58. El Espectador (2017, 1 de abril). *Causas y recomendaciones tras la avalancha en Mocoa*. https://bit.ly/3fOb4gU
+</div>
+
+<div id="ref-59">
+59. Ospina Zapata, G. (2021). Millonarios proyectos para frenar erosión costera incluyen a Urabá. *El Colombiano*. Abril 30 de 2021.https://bit.ly/3nLGNUq
+</div>
+
+<div id="ref-60">
+60. Guzman, W., Posada, B., Guzman, G. y Morales, D. 2008. *Programa nacional de investigación para la prevención, mitigación y control de la erosión costera en Colombia - PNIEC: Plan de Acción 2009-2019*. INVEMAR 72p.
+</div>
+
+<div id="ref-61">
+61. Baudoin, M.A., Henly-Shepard, S., Fernando, N.,  Sitat, A.i & Zommers, A. (2016). From Top-Down to “Community-Centric” Approaches to Early Warning Systems: Exploring Pathways to Improve Disaster Risk Reduction Through Community Participation. *International Journal of Disaster Risk Science*, *7*, 163–174. ​​
+</div>
+
+<div id="ref-62">
+62. Departamento Administrativo de la Función Pública. (2018). *Orientaciones para promover la participación ciudadana en los procesos de diagnóstico y planeación de la gestión pública*. Bogotá. 89 p.
+</div>
+
+<div id="ref-63">
+63. Lerma Carreño, C.A. (2017, 11 de julio) La participación: ¿Entre la apatía política y la conciencia ambiental y social?. *Revista Sur*. https://bit.ly/3nOeUuT
+</div>
+
+<div id="ref-64">
+64. Suarez Rubio, J.R. (2021). *La participación ciudadana, en la formulación de planes de gestión del riesgo y desastres en Colombia*. Tesis de Maestría en Planeación para el desarrollo. Universidad Santo Tómas.
+</div>
+
+<div id="ref-65">
+65. Milano, Flavia (2019). *Gobiernos y sociedad civil avanzando agendas climáticas*. I. Irazábal Briceño (Ed). Monografía del BID. 663 p.
+</div>
+
+<div id="ref-66">
+66. Corporación PBA. (2014). *Gestión del riesgo con participación ciudadana*. Primera edición, Bogotá.
+</div>
+
+<div id="ref-67">
+67. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Guía para la Participación Comunitaria en la gestión del riesgo de desastres*. 21 p.
+</div>
+
+<div id="ref-68">
+68. Izumi, T., Shaw, R., Djalante, R., Ishiwatari, M., & Komino, T. (2019). Disaster risk reduction and innovations. *Progress in Disaster Science, 2*, 100033.
+</div>
+
+<div id="ref-69">
+69. Depietri Y., McPhearson T. (2017) Integrating the Grey, Green, and Blue in Cities: Nature-Based Solutions for Climate Change Adaptation and Risk Reduction. En N. Kabisch, H. Korn, J. Stadler & A. Bonn (Eds) *Nature-Based Solutions to Climate Change Adaptation in Urban Areas. Theory and Practice of Urban Sustainability Transitions*. Springer, Cham.
+</div>
+
+<div id="ref-70">
+70. World Bank (2019, 21 de marzo). *Putting Nature to Work: Integrating Green and Gray Infrastructure for Water Security and Climate Resilience*.
+</div>
+
+<div id="ref-71">
+71. Watkins, G.G., Silva Zuniga, M.C., Rycerz, A., Dawkins, K. … Amal-Lee, A. (2019) *Nature-based Solutions: Scaling Private Sector Uptake for Climate Resilient Infrastructure in Latin America and the Caribbean*. Inter-American Development Bank.
+</div>
+
+<div id="ref-72">
+72. Romero-Torres, M.; Navas Calixto, A. & Mideros, M. (2021). ¿Dónde está el dinero? *Estrategias de búsqueda de financiación internacional para proyectos de investigación*. Red colombiana de gestores de investigación. Documento de trabajo No.1.
+</div>
+
+<div id="ref-73">
+73. Karremans, J., Brugger, S., Castillo, A., Argüello, C., & Dascal, G. (2017). *Financiamiento climático y NDCs en América Latina: guía para facilitar el acceso a fuentes internacionales*. Serie de Estudios Temáticos No 10. Programa EUROCLIMA. Dirección General de Desarrollo y Cooperación – EuropeAid, Comisión Europea. Bruselas, Bélgica. 174 p.
+</div>
+
+<div id="ref-74">
+74. El Hilo (2021, noviembre). COP26: *¿Puede una cumbre ayudar a resolver la crisis climática?*.
+</div>
+
+<div id="ref-75">
+75. Ramírez-González, A. (2016). Inter y transdisciplinariedad en investigaciones ambientales. Una sinopsis. *Gestión y Ambiente*, *19*(2), 318–331.
+</div>
+
+<div id="ref-76">
+76. Público. (2016, julio 24). *Las ciudades más verdes se vuelven más injustas*.
+</div>
+
+<div id="ref-77">
+77. Suárez, D.C. & Cardona, O.D. (2016). *Mejora y protección de ecosistemas para la gestión del riesgo de desastres y el fortalecimiento de la resiliencia de las comunidades: el caso de estudio de la región de La Mojana, Colombia*. INGENIAR CAD/CAE
+</div>
+
+<div id="ref-78">
+78. Echeverry-Galvis, M.A., Unda, M., Bravo, M.P., García, N., Rubiano-Pinzón, G., & Palomino, J.V. (2019). Plan de Acción en Biodiversidad de la PNGIBSE, Metas Aichi y los Objetivos de Desarrollo Sostenible en Colombia: análisis y concordancia en el discurso entre metas propuestas para 2020. *Gestión y Ambiente,* *22*(2), 207-234.
+</div>
+
+<div id="ref-79">
+79. Inostroza, L., Garay Sarasti, H. & Andrade Pérez, G. (2020). *Servicios ecosistémicos urbanos en Latinoamérica. Oportunidades para el desarrollo urbano sostenible, la acción climática y la gestión de la biodiversidad urbana*. CODS. No. 4.
+</div>

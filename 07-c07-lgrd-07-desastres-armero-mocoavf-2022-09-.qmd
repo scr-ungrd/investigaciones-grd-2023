@@ -239,68 +239,134 @@ William J. Guerrero
 
 ## 7.16 BIBLIOGRAFÍA
 
-<div id="ref-1">1. Blaikie, P., Cannon, T., Davis, I., & Wisner, B. (1994). *At risk: Natural hazards, people’s vulnerability, and disasters*. Taylor & Francis.</div>
+<div id="ref-1">
+1. Blaikie, P., Cannon, T., Davis, I., & Wisner, B. (1994). *At risk: Natural hazards, people’s vulnerability, and disasters*. Taylor & Francis.
+</div>
 
-<div id="ref-2">2. Santha, S. D. (2009). A Malady amidst Chaos: Examining Population Vulnerability to the Chikungunya Epidemic in Kerala, India. *Loyola Journal of Social Sciences*, *XXIII*(2), 110–129</div>
+<div id="ref-2">
+2. Santha, S. D. (2009). A Malady amidst Chaos: Examining Population Vulnerability to the Chikungunya Epidemic in Kerala, India. *Loyola Journal of Social Sciences*, *XXIII*(2), 110–129
+</div>
 
-<div id="ref-3">3. Ndah, A. B., & Odihi, J. O. (2017). A Systematic Study of Disaster Risk in Brunei Darussalam and Options for Vulnerability-Based Disaster Risk Reduction. *International Journal of Disaster Risk Science*, *8*(2), 208–223.</div>
+<div id="ref-3">
+3. Ndah, A. B., & Odihi, J. O. (2017). A Systematic Study of Disaster Risk in Brunei Darussalam and Options for Vulnerability-Based Disaster Risk Reduction. *International Journal of Disaster Risk Science*, *8*(2), 208–223.
+</div>
 
-<div id="ref-4">4. Mustofa, I., & Cirella, G. T. (2022). *Understanding the Disaster Risk of Human Settlements: Case Research*. En Cirella, G.T. (Eds) Human Settlements. Advances in 21st Century Human Settlements (pp. 43–57). Springer, Singapore.</div>
+<div id="ref-4">
+4. Mustofa, I., & Cirella, G. T. (2022). *Understanding the Disaster Risk of Human Settlements: Case Research*. En Cirella, G.T. (Eds) Human Settlements. Advances in 21st Century Human Settlements (pp. 43–57). Springer, Singapore.
+</div>
 
-<div id="ref-5">5. Dilley, M., Chen, R. S., Deichmann, U., Lerner-Lam, A. L., & Arnold, M. (2005). *Natural Disaster Hotspots: A Global Risk Analysis*.</div>
+<div id="ref-5">
+5. Dilley, M., Chen, R. S., Deichmann, U., Lerner-Lam, A. L., & Arnold, M. (2005). *Natural Disaster Hotspots: A Global Risk Analysis*.
+</div>
 
-<div id="ref-6">6. Guha-Sapir, D., Below, R., & Hoyois, P. (2009). *EM-DAT: The CRED/OFDA International Disaster Database*.</div>
+<div id="ref-6">
+6. Guha-Sapir, D., Below, R., & Hoyois, P. (2009). *EM-DAT: The CRED/OFDA International Disaster Database*.
+</div>
 
-<div id="ref-7">7. DANE (Departamento Administrativo Nacional de Estadística). (2020). *Proyecciones de Población*.</div>
+<div id="ref-7">
+7. DANE (Departamento Administrativo Nacional de Estadística). (2020). *Proyecciones de Población*.
+</div>
 
-<div id="ref-8">8. BBC news. (1985). *Volcano kills thousands in Colombia*.</div>
+<div id="ref-8">
+8. BBC news. (1985). *Volcano kills thousands in Colombia*.
+</div>
 
-<div id="ref-9">9. Servicio Geológico Colombiano. (2021a). *Actividad histórica - ​Volcán Nevado del Ruíz*.</div>
+<div id="ref-9">
+9. Servicio Geológico Colombiano. (2021a). *Actividad histórica - ​Volcán Nevado del Ruíz*.
+</div>
 
-<div id="ref-10">10. Rueda Castaneda, R. (2010). Armero, la negligencia y la incomunicacion una tragedia colombiana en replica permanente. En *Conyuntura Politica* (Vol. 2013). El espectador.</div>
+<div id="ref-10">
+10. Rueda Castaneda, R. (2010). Armero, la negligencia y la incomunicacion una tragedia colombiana en replica permanente. En *Conyuntura Politica* (Vol. 2013). El espectador.
+</div>
 
-<div id="ref-11">11. Coppola, D. P. (2011). *Introduction to International Disaster Management, 2nd Edition*. Elsevier.</div>
+<div id="ref-11">
+11. Coppola, D. P. (2011). *Introduction to International Disaster Management, 2nd Edition*. Elsevier.
+</div>
 
-<div id="ref-12">12. Voight, B. (1990). The 1985 Nevado del Ruiz volcano catastrophe: anatomy and retrospection. *Journal of Volcanology and Geothermal Research*, *44*(3–4), 349–386.</div>
+<div id="ref-12">
+12. Voight, B. (1990). The 1985 Nevado del Ruiz volcano catastrophe: anatomy and retrospection. *Journal of Volcanology and Geothermal Research*, *44*(3–4), 349–386.
+</div>
 
-<div id="ref-13">13. Hall, M. L. (1990). Chronology of the principal scientific and governmental actions leading up to the November 13, 1985 eruption of Nevado del Ruiz, Colombia. *Journal of Volcanology and Geothermal Research*, *42*(1–2), 101–115.</div>
+<div id="ref-13">
+13. Hall, M. L. (1990). Chronology of the principal scientific and governmental actions leading up to the November 13, 1985 eruption of Nevado del Ruiz, Colombia. *Journal of Volcanology and Geothermal Research*, *42*(1–2), 101–115.
+</div>
 
-<div id="ref-14">14. Treaster, J. (1985). Rescue teams call for help to save thousands trapped in colombian volcano mud; “we need people.” *The New York Times*.</div>
+<div id="ref-14">
+14. Treaster, J. (1985). Rescue teams call for help to save thousands trapped in colombian volcano mud; “we need people.” *The New York Times*.
+</div>
 
-<div id="ref-15">15. Hannigan, J. (2012). *Disasters Without Borders*. Polity Press.</div>
+<div id="ref-15">
+15. Hannigan, J. (2012). *Disasters Without Borders*. Polity Press.
+</div>
 
-<div id="ref-16">16. Valladares, Gabriel Pablo. 2003. “Contribución Del Comité Internacional de La Cruz Roja (CICR) Al Proceso de Creación de La Corte Penal Internacional.” Agenda Internacional 9(18):121–44.</div>
+<div id="ref-16">
+16. Valladares, Gabriel Pablo. 2003. “Contribución Del Comité Internacional de La Cruz Roja (CICR) Al Proceso de Creación de La Corte Penal Internacional.” Agenda Internacional 9(18):121–44.
+</div>
 
-<div id="ref-17">17. Malagon Castro, D. (1986). *El flujo de lodo en la región de Armero (Tolima-Colombia) caracterización y manejo inicial*.</div>
+<div id="ref-17">
+17. Malagon Castro, D. (1986). *El flujo de lodo en la región de Armero (Tolima-Colombia) caracterización y manejo inicial*.
+</div>
 
-<div id="ref-18">18. Kelman, I., & Mather, T. A. (2008). Living with volcanoes: The sustainable livelihoods approach for volcano-related opportunities. *Journal of Volcanology and Geothermal Research*, *172*(3–4), 189–198.</div>
+<div id="ref-18">
+18. Kelman, I., & Mather, T. A. (2008). Living with volcanoes: The sustainable livelihoods approach for volcano-related opportunities. *Journal of Volcanology and Geothermal Research*, *172*(3–4), 189–198.
+</div>
 
-<div id="ref-19">19. Celis Teresita. (2015, 13 de noviembre). “La Tragedia de Armero Le Costó Al País 2,05% Del Producto Interno Bruto de 1985.” *La República*,</div>
+<div id="ref-19">
+19. Celis Teresita. (2015, 13 de noviembre). “La Tragedia de Armero Le Costó Al País 2,05% Del Producto Interno Bruto de 1985.” *La República*,
+</div>
 
-<div id="ref-20">20. Redacción El Tiempo (1997, 13 de noviembre), Lo que perdió el Tolima en Armero. *El Tiempo.*</div>
+<div id="ref-20">
+20. Redacción El Tiempo (1997, 13 de noviembre), Lo que perdió el Tolima en Armero. *El Tiempo.*
+</div>
 
-<div id="ref-21">21. Garibello, A. (2013, 5 de mayo). Se reabrirán los archivos para conocer qué pasó en Armero’: ICBF. *Editorial EL TIEMPO*. https://www.eltiempo.com/archivo/documento/CMS-12781202</div>
+<div id="ref-21">
+21. Garibello, A. (2013, 5 de mayo). Se reabrirán los archivos para conocer qué pasó en Armero’: ICBF. *Editorial EL TIEMPO*. https://www.eltiempo.com/archivo/documento/CMS-12781202
+</div>
 
-<div id="ref-22">22. Ávila Cortés Carolina, (2018, 13 de noviembre). *¿Qué está pasando con la reubicación de desplazados en Putumayo?  Editorial El Espectador,* https://www.elespectador.com/colombia-20/conflicto/que-esta-pasando-con-la-reubicacion-de-desplazados-en-putumayo-article/</div>
+<div id="ref-22">
+22. Ávila Cortés Carolina, (2018, 13 de noviembre). *¿Qué está pasando con la reubicación de desplazados en Putumayo?  Editorial El Espectador,* https://www.elespectador.com/colombia-20/conflicto/que-esta-pasando-con-la-reubicacion-de-desplazados-en-putumayo-article/
+</div>
 
-<div id="ref-23">23. Servicio Geológico Colombiano. (2021b). *Sistema de Información de Movimientos en Masa*. https://simma.sgc.gov.co/</div>
+<div id="ref-23">
+23. Servicio Geológico Colombiano. (2021b). *Sistema de Información de Movimientos en Masa*. https://simma.sgc.gov.co/
+</div>
 
-<div id="ref-24">24. Espejo-Díaz, J. A., & Guerrero, W. J. (2021). A multiagent approach to solving the dynamic postdisaster relief distribution problem. *Operations Management Research*.</div>
+<div id="ref-24">
+24. Espejo-Díaz, J. A., & Guerrero, W. J. (2021). A multiagent approach to solving the dynamic postdisaster relief distribution problem. *Operations Management Research*.
+</div>
 
-<div id="ref-25">25. Prada-Sarmiento, L. F., Cabrera, M. A., Camacho, R., Estrada, N., & Ramos-Cañón, A. M. (2019). The Mocoa Event on March 31 (2017): analysis of a series of mass movements in a tropical environment of the Andean-Amazonian Piedmont. *Landslides*, *16*(12), 2459–2468.</div>
+<div id="ref-25">
+25. Prada-Sarmiento, L. F., Cabrera, M. A., Camacho, R., Estrada, N., & Ramos-Cañón, A. M. (2019). The Mocoa Event on March 31 (2017): analysis of a series of mass movements in a tropical environment of the Andean-Amazonian Piedmont. *Landslides*, *16*(12), 2459–2468.
+</div>
 
-<div id="ref-26">26. Departamento Nacional de Planeación. (2017). *CONPES 3904*.</div>
+<div id="ref-26">
+26. Departamento Nacional de Planeación. (2017). *CONPES 3904*.
+</div>
 
-<div id="ref-27">27. Editorial EL TIEMPO. (2017, 2 de abril). *La avalancha que provocó la peor catástrofe en la historia de Mocoa*.</div>
+<div id="ref-27">
+27. Editorial EL TIEMPO. (2017, 2 de abril). *La avalancha que provocó la peor catástrofe en la historia de Mocoa*.
+</div>
 
-<div id="ref-28">28. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Atencion Av Torrencial Mocoa, Putumayo:Sobrevuelos*.</div>
+<div id="ref-28">
+28. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Atencion Av Torrencial Mocoa, Putumayo:Sobrevuelos*.
+</div>
 
-<div id="ref-29">29. Siddiqi, A., Peters, K., & Zulver, J. (2019). *‘Doble afectación’: living with disasters and conflict in Colombia*.</div>
+<div id="ref-29">
+29. Siddiqi, A., Peters, K., & Zulver, J. (2019). *‘Doble afectación’: living with disasters and conflict in Colombia*.
+</div>
 
-<div id="ref-30">30. Palomino, S., Lafuente J.,  (2016, 13 de noviembre ). *El Gobierno de Colombia y las FARC logran un nuevo acuerdo de paz*. *Periodico el País*</div>
+<div id="ref-30">
+30. Palomino, S., Lafuente J.,  (2016, 13 de noviembre ). *El Gobierno de Colombia y las FARC logran un nuevo acuerdo de paz*. *Periodico el País*
+</div>
 
-<div id="ref-31">31. Ávila Cortés, C. (2017, 23 de octubre), “Indígenas en Mocoa que lo perdieron todo”, Editorial El Especrtador, https://www.elespectador.com/colombia-20/conflicto/indigenas-en-mocoa-que-lo-perdieron-todo-article/</div>
+<div id="ref-31">
+31. Ávila Cortés, C. (2017, 23 de octubre), “Indígenas en Mocoa que lo perdieron todo”, Editorial El Especrtador, https://www.elespectador.com/colombia-20/conflicto/indigenas-en-mocoa-que-lo-perdieron-todo-article/
+</div>
 
-<div id="ref-32">32. Kuipers, E. H. C., Desportes, I., & Hordijk, M. (2019). Of locals and insiders. *Disaster Prevention and Management: An International Journal*, *29*(3), 352–364.</div>
+<div id="ref-32">
+32. Kuipers, E. H. C., Desportes, I., & Hordijk, M. (2019). Of locals and insiders. *Disaster Prevention and Management: An International Journal*, *29*(3), 352–364.
+</div>
 
-<div id="ref-33">33. Prasanna, S. R., & Haavisto, I. (2018). Collaboration in humanitarian supply chains: an organisational culture framework. *International Journal of Production Research*, *56*(17), 5611–5625.</div>
+<div id="ref-33">
+33. Prasanna, S. R., & Haavisto, I. (2018). Collaboration in humanitarian supply chains: an organisational culture framework. *International Journal of Production Research*, *56*(17), 5611–5625.
+</div>
