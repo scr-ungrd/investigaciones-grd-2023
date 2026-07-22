@@ -661,23 +661,31 @@ nav[role="doc-toc"] .nav-link.active {
 }
 
 /* =======================================================
-   Estilos UX/UI unificados para la cuadrícula del Índice 
+   Estilos UX/UI unificados para la cuadrícula del Índice
+   (paleta UNGRD: azul oscuro #223764 / amarillo #FAC718,
+   alineado con el diseño de cards de la serie)
    ======================================================= */
 .indice-grid .card {
-  transition: all 0.3s ease;
-  border: 1px solid #e5e7eb;
+  transition: transform 0.3s ease, border-color 0.3s ease, border-top-color 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  border: 1px solid rgba(34, 55, 100, 0.15);
+  border-top: 5px solid #223764;
+  /* Azul oscuro UNGRD */
   border-radius: 10px;
   background-color: #ffffff;
 }
 
 .indice-grid .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08) !important;
+  border-color: #FAC718;
+  border-top-color: #FAC718;
+  /* Amarillo UNGRD */
+  box-shadow: 0 12px 20px rgba(250, 199, 24, 0.25) !important;
+  background-color: #fafbfc;
 }
 
 /* 1. Ajuste del título: Más aire arriba, pegado abajo */
 .indice-grid .card-header {
-  background-color: transparent;
+  background-color: rgba(34, 55, 100, 0.02);
   border-bottom: none;
   padding-top: 1.8rem !important;
   /* Más espacio en la parte superior del título */
@@ -685,21 +693,29 @@ nav[role="doc-toc"] .nav-link.active {
   padding-right: 1.5rem;
   padding-bottom: 0.1rem !important;
   /* Pega el título hacia abajo */
+  transition: background-color 0.3s ease;
+}
+
+.indice-grid .card:hover .card-header {
+  background-color: #223764;
+  /* El fondo de la cabecera cambia a azul oscuro UNGRD al hacer hover */
 }
 
 .indice-grid .card-header a {
-  color: #151550;
-  /* Azul principal UNGRD */
+  color: #223764;
+  /* Azul oscuro UNGRD */
   text-decoration: none;
   font-size: 1.10rem;
   /* Un toque más pequeño para que no estire la card */
   font-weight: 700;
   line-height: 1.3;
   display: block;
+  transition: color 0.3s ease;
 }
 
-.indice-grid .card-header a:hover {
-  color: #2c7bb6;
+.indice-grid .card:hover .card-header a {
+  color: #FAC718 !important;
+  /* El título cambia a amarillo UNGRD al hacer hover sobre la card */
 }
 
 /* 2. Ajuste del cuerpo: Pegar la imagen al título */
@@ -725,6 +741,11 @@ nav[role="doc-toc"] .nav-link.active {
   margin-bottom: 0.6rem !important;
   /* Menor espacio entre imagen y autores */
   border: 1px solid #f3f4f6;
+  transition: transform 0.3s ease;
+}
+
+.indice-grid .card:hover .card-body img {
+  transform: scale(1.02);
 }
 
 .indice-grid .autores-text {
@@ -733,4 +754,33 @@ nav[role="doc-toc"] .nav-link.active {
   margin-top: auto;
   /* Mantiene a los autores alineados abajo */
   line-height: 1.4;
+}
+
+/* --- ESTILOS DE LA TABLA DE CONTENIDO (TOC DERECHO) --- */
+#TOC {
+  background-color: #223764;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Título del TOC */
+#TOC>ul::before,
+#TOC h2 {
+  color: #FAC718 !important;
+  /* Toque amarillo para el título del índice */
+  font-weight: bold;
+}
+
+/* Enlaces del TOC */
+#TOC ul li a {
+  color: #ffffff !important;
+  transition: color 0.2s ease;
+}
+
+#TOC ul li a:hover,
+#TOC ul li a.active {
+  color: #FAC718 !important;
+  /* El enlace activo o en hover se pone amarillo */
+  text-decoration: none;
 }
