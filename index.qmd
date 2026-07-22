@@ -5,7 +5,7 @@ title: "Investigaciones en Gestión del Riesgo de Desastres 2023"
 Bienvenido a la colección de la serie de libros de Investigaciones en Gestión del Riesgo de Desastres para Colombia. A continuación, puede explorar los diferentes capítulos de este volúmen:
 
 ::: {.d-flex .justify-content-start .mb-3}
-[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.btn .btn-outline-secondary .btn-sm}
+[← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
 :::
 
 ::: {.grid .indice-grid}
