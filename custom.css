@@ -590,16 +590,6 @@ div.cell[data-language="ojs"] {
   background-color: transparent !important;
 }
 
-/* Right TOC: active section with blue ocean background */
-#quarto-document-toc .nav-link.active,
-nav[role="doc-toc"] .nav-link.active {
-  background-color: #d2fafc !important;
-  color: #000000;
-  border-radius: 4px;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
 /* =========================================
    Estilos UX/UI para la cuadrícula del Índice 
    ========================================= */
@@ -783,4 +773,29 @@ nav[role="doc-toc"] .nav-link.active {
   color: #FAC718 !important;
   /* El enlace activo o en hover se pone amarillo */
   text-decoration: none;
+}
+
+/* --- BOTÓN DE COLECCIÓN ESTILO UNGRD --- */
+.ungrd-btn {
+  display: inline-block;
+  background-color: #223764; /* Azul oscuro UNGRD */
+  color: #ffffff !important;
+  font-weight: bold;
+  padding: 8px 18px;
+  border-radius: 6px;
+  border: 1px solid #223764;
+  text-decoration: none !important;
+  transition: transform 0.3s ease, border-color 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  font-size: 0.95rem;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.ungrd-btn:hover {
+  background-color: #FAC718; /* Amarillo UNGRD */
+  color: #223764 !important; /* Azul oscuro */
+  border-color: #FAC718;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px rgba(250, 199, 24, 0.35);
 }
