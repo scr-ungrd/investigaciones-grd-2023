@@ -529,7 +529,7 @@ figcaption>p:last-child:only-child {
 .quarto-figure,
 .quarto-float-fig {
   margin-top: 0.25rem !important;
-  margin-bottom: 0.25rem !important;
+  margin-bottom: 1rem !important;
 }
 
 /* Reduce padding inside OJS figure containers */
