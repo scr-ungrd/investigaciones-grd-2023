@@ -4,6 +4,8 @@ project:
 
 book:
   title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2023"
+  repo-url: https://github.com/scr-ungrd/investigaciones-grd-2023
+  repo-actions: [source, issue]
   sidebar:
     logo: media/Logo-UNGRD-Horizontal-removebg-preview.png
   chapters:
