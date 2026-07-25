@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -15,10 +15,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -44,10 +47,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3b017f11206725e9605cab75ef81dced.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-aa330890788ef691bf631ea05e2171b6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -126,7 +129,7 @@ background-size: cover;
             </p>
         </div>
       <div class="quarto-title-meta-contents">
-      <p class="author">José Camapum de Carvalho <sup>2</sup> <a href="https://orcid.org/http://lattes.cnpq.br/2245433059787601" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">José Camapum de Carvalho <sup>2</sup> <a href="https://orcid.org/http://lattes.cnpq.br/2245433059787601" class="quarto-title-author-orcid" aria-label="ORCID profile for José Camapum de Carvalho <sup>2</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -348,6 +351,7 @@ background-size: cover;
 </section>
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">13.1 INTRODUCCIÓN</h2>
+<hr>
 <p>En las regiones tropicales, los incendios forestales son un tema que gana relevancia debido a las fuertes temporadas cálidas que se han experimentado en los últimos años, que perjudican la diversidad y estabilidad de los ecosistemas forestales <a href="#ref-1">[1]</a>. Colombia no es ajena a ello, pues las temporadas cálidas que se presentan de forma intensa a lo largo del año han aumentado la probabilidad de ocurrencia de este tipo de fenómenos, tanto que aproximadamente el 29% de las tierras del país son altamente susceptibles a incendios forestales <a href="#ref-2">[2]</a>. Los suelos como componente fundamental de los ecosistemas terrestres, al exponerse a altas temperaturas pueden llegar a sufrir variaciones importantes en sus propiedades químicas, mineralógicas y físicas, y finalmente afectar el comportamiento hidromecánico <a href="#ref-3">[3]</a>. La gran mayoría de los estudios relacionados con el tema, abordan principalmente las alteraciones que presenta la cobertura vegetal, pero son escasas las investigaciones orientadas a analizar la influencia de los incendios forestales sobre las propiedades y comportamiento geotécnico de las capas de suelo, y en especial sobre la posibilidad de reducir los riesgos asociados a la degradación del material, a partir del uso de biotecnología como técnica de recuperación o estabilización de los materiales <a href="#ref-4">[4]</a>.</p>
 <p>La biotecnología se torna entonces en una alternativa menos invasiva con el medio ambiente <a href="#ref-5">[5]</a>, y mucho más si se emplean las bacterias nativas del suelo <a href="#ref-6">[6]</a> bajo la técnica de “biomineralización”, en la cual los microrganismos generan productos metabólicos que reaccionan con iones o compuestos del medio, propiciando la floculación y/o aglomeración de las partículas de suelo <a href="#ref-7">[7]</a>. Dichas floculaciones y/o aglomeración podrían disminuir los efectos negativos causados por las quemas en las propiedades físicas, químicas y estructurales de los suelos <a href="#ref-8">[8]</a>, <a href="#ref-9">[9]</a>.</p>
 <p>El actual capítulo tiene como objetivo presentar una propuesta para restablecer la estabilidad de los agregados después de un incendio forestal, al aplicar un medio que induce en las bacterias nativas del suelo la precipitación de carbonato de calcio. Si bien, esta técnica se ha empleado comúnmente en la restauración de monumentos <a href="#ref-10">[10]</a>, su uso es incipiente en la regeneración de suelos afectados por altas temperaturas.</p>
@@ -364,6 +368,7 @@ background-size: cover;
 </section>
 <section id="métodos" class="level2">
 <h2 class="anchored" data-anchor-id="métodos">13.2 MÉTODOS</h2>
+<hr>
 <p>Para el caso de estudio, la extracción del material se efectuó en la ciudad de Medellín-Antioquia (Colombia), en el Cerro el Volador con coordenadas 6◦16’6.62” N y 75◦34’ 51.19” O, con 1598 m de elevación, a una profundidad de 0.5 m de la superficie de un talud. La geología de la zona se compone de rocas metamórficas, tipo anfibolitas de la margen occidental del río Medellín, las cuales se constituyen esencialmente por hornblenda y plagioclasa <a href="#ref-11">[11]</a>. Se tomaron aproximadamente 10 kg de suelo alterado y se distribuyeron en igual proporción en dos bolsas plásticas, las cuales se sellaron bien para posteriormente determinar en laboratorio el contenido de humedad de las muestras <a href="#ref-12">[12]</a> y realizar pruebas de compactación Proctor estándar <a href="#ref-13">[13]</a>. Éstos ensayos se ejecutaron tres veces para garantizar la repetibilidad de los mismos.</p>
 <p>Las pruebas de Proctor estándar arrojaron como resultado una densidad seca máxima aproximada de 13 kN/m3 y una humedad óptima del 33 %. La idea de trabajar con muestras compactadas, se basa en lograr una disminución del efecto por variación en la estructura, que se puede presentar en el suelo en su condición natural de un punto para otro. De esta forma, los cuerpos de prueba se compactaron en un cilindro con el martillo de Proctor estándar, agregando la cantidad de suelo necesaria para conseguir especímenes con 5 cm de diámetro y 2 cm de altura, a la densidad seca máxima de 13 kN/m3, bajo la humedad óptima de 33%.</p>
 <p>A continuación, las muestras se llevaron al horno a una temperatura equivalente a la máxima experimentada por un suelo ubicado debajo de un incendio forestal de plantas bajas, según experimentos de simulación de incendios en campo realizados por Ortega <a href="#ref-14">[14]</a>. En dicha investigación, el suelo de un talud se sometió en superficie a un incendio controlado, con toma de temperatura desde 0.2 m a 1.2 m por debajo de la capa vegetal, registrando valores máximos de temperatura de 60°C. Las muestras se dejaron en el horno a esta temperatura por 3 h (asumiendo este tiempo como el tiempo de duración de un incendio). Según Madigan et al.&nbsp;<a href="#ref-15">[15]</a> las bacterias pueden presentar crecimiento microbiano hasta los 95°C; por consiguiente, a 60 °C no se tiene muerte total o muerte excesiva en la población bacteriana encargada del proceso de biotratamiento en el suelo <a href="#ref-16">[16]</a>.</p>
@@ -384,10 +389,12 @@ Figura&nbsp;1: Proceso de adición del medio B4 en la mitad de las muestras de s
 </section>
 <section id="discusión" class="level2">
 <h2 class="anchored" data-anchor-id="discusión">13.3 DISCUSIÓN</h2>
+<hr>
 <p>A continuación, se presentan los resultados y análisis referentes a las caracterizaciones físicas, mineralógicas, químicas y mecánicas de las muestras quemadas y quemadas-tratadas, haciendo en algunos casos, una comparación con el suelo en estado natural (suelo compactado sin ser sometido a quema y a tratamiento) <a href="#ref-29">[29]</a>. Los resultados se estudian en conjunto para verificar si hubo cambios significativos en el comportamiento del material producto del tratamiento.</p>
 </section>
 <section id="caracterización-física" class="level2">
 <h2 class="anchored" data-anchor-id="caracterización-física">13.4 Caracterización física</h2>
+<hr>
 <p>En la <a href="#tbl-c13-1" class="quarto-xref">Tabla&nbsp;<span>1</span></a> se presentan los valores promedio de algunas propiedades físicas del suelo quemado y del suelo quemado-tratado, y se comparan con los resultados de Díaz et al.&nbsp;<a href="#ref-29">[29]</a>, donde el material estaba compactado en estado natural. Se aclara que el límite líquido y el límite plástico se relacionan con el comportamiento hidromecánico del suelo, en especial con la succión osmótica y las fuerzas de adsorción.</p>
 <p>Se observa entonces que la plasticidad disminuye para el suelo quemado y quemado tratado, debido probablemente a intercambios catiónicos producto de la presencia de la Albita detectada en el DRX, afectando así la succión osmótica y las fuerzas de adsorción. El intercambio de sodio por el calcio hace que se genere una menor o mayor adsorción de agua por las partículas de suelo, afectando propiedades como los límites de Atterberg al depender de la mineralogía <a href="#ref-5">[5]</a>, <a href="#ref-30">[30]</a>. Santos <a href="#ref-31">[31]</a> presenta ejemplos de reducción en la plasticidad, cuando el intercambio catiónico envuelve calcio. En el presente estudio, estas disminuciones provocan que la clasificación MCT pase en el estado natural de una arcilla laterítica (LG’) para una arcilla no laterítica con la quema (NG’) y para una arena no laterítica (NA’) con el tratamiento.</p>
 <p>Tales resultados indican desde el punto de vista mecánico, que la quema del suelo tiende a empeorarlo <a href="#ref-3">[3]</a> y el tratamiento al propiciar su agregación como se analizará más adelante, transforma el material en textura arena, modificando su capacidad de drenaje. En el caso de los suelos lateríticos, estos presentan un mejor comportamiento mecánico que los suelos no lateríticos; por lo cual, los resultados de clasificación MCT contrastan con los resultados obtenidos para los límites de Atterberg, pues comúnmente el comportamiento mecánico tiende a mejorar con la disminución de la plasticidad del suelo. No obstante, si se considera el estado saturado del suelo, o sea sin la intervención de la succión matricial, es posible orientar el entendimiento en lo referente a la resistencia; donde, la resistencia a la compresión aumenta con el aumento del límite líquido, pues en el límite liquido el suelo presenta la misma resistencia cuando aumenta la humedad. Bajo esta misma perspectiva, y considerando que en el límite de plasticidad la resistencia a la tracción aumenta con el aumento de este parámetro, pues para la misma resistencia se tiene un suelo con mayor humedad, es posible concluir que los resultados obtenidos por las dos técnicas de valoración son convergentes.</p>
@@ -493,6 +500,7 @@ Figura&nbsp;3: Curvas granulométricas del suelo natural, quemado y quemado-trat
 </section>
 <section id="análisis-del-ph-y-el-punto-de-carga-cero-pzc" class="level2">
 <h2 class="anchored" data-anchor-id="análisis-del-ph-y-el-punto-de-carga-cero-pzc">13.5 Análisis del pH y el punto de carga cero (PZC)</h2>
+<hr>
 <p>Según Camapum de Carvalho et al.&nbsp;<a href="#ref-33">[33]</a>, si bien existen diferentes definiciones para el punto de carga cero (PZC) que es la más común y adoptada por los autores, se indica que el PZC representa el pH del suelo en el cual la carga eléctrica líquida del conjunto de las partículas es nula (igualándose las cargas negativas y las positivas). Esta propiedad no solo influencia los fenómenos electroquímicos que ocurren en el suelo, sino también el grado de floculación de los mismos <a href="#ref-34">[34]</a>. Como los valores del pH en agua están por encima de los valores de PZC, sin pasar por éste al tratar el material, en principio el suelo no sufre desagregación por efecto del tratamiento (<a href="#tbl-c13-2" class="quarto-xref">Tabla&nbsp;<span>2</span></a>). Cuando se alcanza el PZC de determinados compuestos, eventualmente presentes en el suelo, como los óxidos e hidróxidos de hierro y aluminio, los mismos pueden solubilizarse inestabilizando la estructura del suelo como un todo <a href="#ref-34">[34]</a>.</p>
 <div id="tbl-c13-2" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
@@ -532,6 +540,7 @@ Tabla&nbsp;2: pH en H2O y en KCl y determinación del punto de carga cero (PZC) 
 </section>
 <section id="caracterización-mineralógica" class="level2">
 <h2 class="anchored" data-anchor-id="caracterización-mineralógica">13.6 Caracterización mineralógica</h2>
+<hr>
 <p>Con relación a la mineralogía a partir de la difracción de rayos X (DRX), se encontraron minerales de hematita, caolinita, cuarzo y albita en proporciones similares tanto para el suelo quemado, como para el suelo quemado-tratado (<a href="#fig-c13-4" class="quarto-xref">Figura&nbsp;<span>4</span></a>), indicando que no se presentaron precipitaciones de nuevos minerales por la acción del tratamiento, o que son trazos imperceptibles en el ensayo, y que por tanto las variaciones han sido más de carácter químico <a href="#ref-6">[6]</a>.</p>
 <div id="fig-c13-4" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -557,6 +566,7 @@ Figura&nbsp;5: Fotografía del estado de las muestras trabajadas. (A) Suelo desp
 </section>
 <section id="curva-característica-de-retención-de-agua" class="level2">
 <h2 class="anchored" data-anchor-id="curva-característica-de-retención-de-agua">13.7 Curva característica de retención de agua</h2>
+<hr>
 <p>La <a href="#fig-c13-6" class="quarto-xref">Figura&nbsp;<span>6</span></a> presenta las curvas características de retención de agua para el suelo quemado y para el suelo quemado-tratado en términos de succión matricial y porcentaje de saturación (Sr). En esta figura se observa que las curvas son relativamente similares; sin embargo, la menor presión de entrada de aire registrada en el suelo quemado-tratado (24 kPa), comparada con la presión de entrada de aire en el suelo quemado (41 kPa), apunta a un cierto aumento en la macroporosidad del suelo quemado-tratado. Dicho aumento se daría como resultado de la agregación que le confiere a las muestras el tratamiento, tal como ocurrió en la investigación de Muñoz en un suelo natural tratado con B4 <a href="#ref-32">[32]</a>.</p>
 <div id="fig-c13-6" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -571,10 +581,12 @@ Figura&nbsp;6: Curva característica de retención de agua del suelo quemado y d
 </section>
 <section id="propiedades-mecánicas" class="level2">
 <h2 class="anchored" data-anchor-id="propiedades-mecánicas">13.8 Propiedades mecánicas</h2>
+<hr>
 <p>A continuación, se presenta el análisis de algunas propiedades mecánicas del suelo quemado y quemado tratado.</p>
 </section>
 <section id="corte-directo-consolidado-drenado" class="level2">
 <h2 class="anchored" data-anchor-id="corte-directo-consolidado-drenado">13.9 Corte directo consolidado-drenado</h2>
+<hr>
 <p>Los parámetros de resistencia obtenidos a partir del ensayo de corte directo en condiciones saturadas drenadas son presentados en la <a href="#tbl-c13-3" class="quarto-xref">Tabla&nbsp;<span>3</span></a>. Las variaciones observadas en las cohesiones se explicarían por el aparecimiento de los filamentos identificados en la <a href="#fig-c13-5" class="quarto-xref">Figura&nbsp;<span>5</span></a> B.</p>
 <p>Si se comparan las curvas de fluidez del suelo quemado y quemado-tratado (<a href="#fig-c13-7" class="quarto-xref">Figura&nbsp;<span>7</span></a>) desde el punto de vista químico se observa que cuando intervienen la succión osmótica y las fuerzas de adsorción para la misma humedad, la cohesión tendería a ser menor en el suelo quemado-tratado, conforme se deduce de las curvas de fluidez (menor índice de fluidez 0.4101), apuntando así para la efectiva contribución de los filamentos en el aumento de la cohesión cuando se trata el material (<a href="#tbl-c13-3" class="quarto-xref">Tabla&nbsp;<span>3</span></a>). Estas curvas de fluidez explican la reducción del ángulo de fricción con el tratamiento, no obstante, la resistencia al corte se evalúa apenas en función de las tensiones externas aplicadas al suelo, las fuerzas de la naturaleza electroquímica también interfieren en el comportamiento, ya que, para una humedad igual, el tratamiento disminuye la resistencia del suelo en el ensayo de límite líquido. Este mismo comportamiento ocurre en el ensayo de corte directo, solo que interfiriendo directamente en las fuerzas de contacto interpartículas y por tanto en la fricción.</p>
 <div id="tbl-c13-3" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -620,6 +632,7 @@ Figura&nbsp;7: Curvas de fluidez del suelo quemado y del suelo quemado-tratado.
 </section>
 <section id="consolidación-duplo-edométrica" class="level2">
 <h2 class="anchored" data-anchor-id="consolidación-duplo-edométrica">13.10 Consolidación duplo-edométrica</h2>
+<hr>
 <p>En la <a href="#fig-c13-8" class="quarto-xref">Figura&nbsp;<span>8</span></a> se muestran los resultados del ensayo de consolidación con las muestras en su humedad inicial o estado no saturado (NSAT) y con inundación de la cámara o estado saturado (SAT). Los índices de vacíos (e) se dividieron por el índice de vacíos inicial (e0) presente al momento de comenzar el ensayo para un mejor efecto comparativo de las curvas. En la figura se observa que el tratamiento le confiere una mayor estabilidad estructural a la muestra al presentar menores deformaciones que en el suelo quemado.</p>
 <p>Adicionalmente, en la <a href="#tbl-c13-4" class="quarto-xref">Tabla&nbsp;<span>4</span></a> se muestra que el tratamiento al conferir al suelo mayor estabilidad estructural, lo lleva a presentar menores índices de colapso (I). Estos resultados corroboran los análisis de resistencia en los cuales se atribuía la mejoría en la cohesión actuante en el suelo a los pequeños filamentos originados por el tratamiento, filamentos que dificultan el movimiento de las partículas, haciendo que el suelo se torne menos compresible, como lo registra Valencia et al.&nbsp;<a href="#ref-35">[35]</a>.</p>
 <div id="fig-c13-8" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -692,6 +705,7 @@ Figura&nbsp;9: Curva Carga hidráulica promedio <em>vs</em> Caudal promedio para
 </section>
 <section id="desagregación" class="level2">
 <h2 class="anchored" data-anchor-id="desagregación">13.11 Desagregación</h2>
+<hr>
 <p>Con relación al ensayo de desagregación, se observa en la <a href="#fig-c13-10" class="quarto-xref">Figura&nbsp;<span>10</span></a> que el suelo quemado se desagrega totalmente al sumergir las muestras durante 24 h. Por el contrario, el suelo quemado-tratado muestra claramente que hubo una mejoría en la estabilidad del suelo, semejante a lo ocurrido en la investigación de Valencia et al.&nbsp;<a href="#ref-35">[35]</a>.</p>
 <div id="fig-c13-10" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -706,6 +720,7 @@ Figura&nbsp;10: Ensayo de desagregación en muestra de suelo quemado y quemado-t
 </section>
 <section id="conclusiones" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiones">13.12 CONCLUSIONES</h2>
+<hr>
 <p>En el presente estudio se observó el efecto físico-químico de adicionar un medio inductor de biomineralización sobre las propiedades geotécnicas de suelos quemados por incendios forestales, brindándole a los granos estabilidad estructural, principalmente en los casos en que se desee reducir la entrada de agua y la deformabilidad del suelo expuesto a altas temperaturas. Para la muestra quemada-tratada se presentó agregación de las partículas y una mayor estabilidad del material al sumergirlo en agua, así como una reducción del 13% en los límites de consistencia, una disminución hasta en un 8% en la defloculación y/o desagregación por granulometría, la reducción en un 86% en el índice de colapso y la disminución en un 22% en el caudal por actuación de la carga hidráulica registrada en el <em>pinhole test</em>. Adicionalmente, se debe considerar la formación de los filamentos como una contribución para la mejoría de las propiedades y comportamiento del suelo tratado.</p>
 <p>En conclusión, la técnica de biomineralización, se muestra como una herramienta promisoria en el tratamiento de suelos quemados, específicamente en la mejoría de sus propiedades y comportamiento geotécnico, de una forma ambientalmente amigable.</p>
 <div id="puntos-clave" class="callout callout-style-simple callout-important no-icon" style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;">
@@ -737,22 +752,26 @@ Recomendaciones para tomar decisiones
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">13.13 CONFLICTO DE INTERESES</h2>
+<hr>
 <p>Los autores no declaran conflicto de intereses</p>
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">13.14 AGRADECIMIENTOS</h2>
+<hr>
 <p>Los Autores agradecen a la Universidad Nacional de Colombia, Sede Medellín y a la Universidad de Brasilia, Brasil.</p>
 <p><strong>CONTRIBUCIÓN DE AUTORÍA CRediT</strong></p>
 <p>Conceptualización: YVG. Metodología: YVG. Redacción de primera versión: YVG, JCC, LAL. Revisión y edición de segunda versión: YVG, JCC, LAL. Figuras y tablas: YVG, JCC. Administración de proyecto: YVG. Búsqueda de evidencia: YVG, JCC, LAL.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">13.15 IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <p>Yamile Valencia González</p>
 <p>José Camapum de Carvalho</p>
 <p>Luis Augusto Lara Valencia</p>
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">13.16 BIBLIOGRAFÍA</h2>
+<hr>
 </section>
 <section id="wright-h.-a.-bailey-a.-w.-1982.-fire-ecology.-united-states-and-southern-canada.-new-york-john-wiley-and-sons." class="level2">
 <h2 class="anchored" data-anchor-id="wright-h.-a.-bailey-a.-w.-1982.-fire-ecology.-united-states-and-southern-canada.-new-york-john-wiley-and-sons.">13.17 Wright, H. A.; Bailey, A. W. (1982). <em>Fire ecology.</em> United States and southern Canada. New York: John Wiley and Sons.</h2>

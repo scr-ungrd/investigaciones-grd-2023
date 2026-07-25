@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -14,10 +14,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3b017f11206725e9605cab75ef81dced.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-aa330890788ef691bf631ea05e2171b6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -125,7 +128,7 @@ background-size: cover;
             </p>
         </div>
       <div class="quarto-title-meta-contents">
-      <p class="author">Óscar E. Navarro Carrascal <sup>2</sup> <a href="https://orcid.org/https://scholar.google.com/citations?user=gtgnoXkAAAAJ" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">Óscar E. Navarro Carrascal <sup>2</sup> <a href="https://orcid.org/https://scholar.google.com/citations?user=gtgnoXkAAAAJ" class="quarto-title-author-orcid" aria-label="ORCID profile for Óscar E. Navarro Carrascal <sup>2</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -314,6 +317,7 @@ background-size: cover;
 </section>
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">8.1 INTRODUCCIÓN</h2>
+<hr>
 <p>Un acontecimiento deviene amenaza en función de sus características, como también de la forma en que se percibe por los individuos. En este orden de ideas, la peligrosidad de un evento es susceptible de evaluarse cuando el individuo o la población están realmente expuestos a este, y tal exposición, que depende de las condiciones sociales y ecológicas de existencia, se asocia con la variabilidad de la percepción del riesgo. Un riesgo puede considerarse como tal a partir de la evaluación que los individuos hacen de él, la cual involucra las características físicas del fenómeno de referencia y elementos disposicionales de las personas, tanto como aspectos sociales y culturales. En este sentido, se trata de una evaluación que obedece a una confluencia de condiciones e informaciones disponibles, conducente a juicios sobre la peligrosidad del evento.</p>
 <p>El estudio de la percepción del riesgo se ha centrado en los juicios de las personas acerca de los riesgos relacionados con su valoración de la peligrosidad de actividades consideradas como amenazantes, riesgos naturales o derivados del uso de tecnologías <a href="#ref-1">[1]</a>. Estas percepciones pueden impactar significativamente las decisiones que las personas toman, y determinar su nivel de preparación para hacer frente a los peligros de manera efectiva y, en consecuencia, las respuestas que puedan dar ante un problema ambiental real <a href="#ref-2">[2]</a>, <a href="#ref-3">[3]</a>. En este sentido, la percepción del riesgo no está influenciada únicamente por factores de naturaleza técnica (estimaciones de probabilidad y magnitud del riesgo), sino por otros aspectos, como si se percibe justo o no que ciertos grupos estén sujetos al riesgo, si este es o no voluntario, si es visto por las personas como artificial o natural, como predecible, controlable, familiar <a href="#ref-1">[1]</a>, <a href="#ref-4">[4]</a>.</p>
 <p>Los conocimientos sociales respecto de las amenazas y la percepción del riesgo han sido objeto de interés de la psicología, ámbito desde el que varias teorías han sido útiles para estudiar y entender la manera como las personas evalúan (cogniciones), sienten (afectos) y experimentan las situaciones riesgosas, así como su comportamiento frente a estas. El paradigma psicométrico de la percepción del riesgo ha sido considerado como un enfoque dominante al respeto, el cual asume que el riesgo se define subjetivamente por los individuos a partir de un amplio conjunto de factores psicológicos, sociales, institucionales y culturales, y que por medio de estudios adecuadamente diseñados estos factores y sus relaciones pueden medirse en función de comprender las respuestas de los individuos y sus sociedades a los riesgos a los que se enfrentan <a href="#ref-3">[3]</a>. Desde esta lógica se han intentado identificar y formalizar los factores que explican la variabilidad interindividual de la percepción del riesgo, esto es, los aspectos y mecanismos que subyacen a la aversión, la indiferencia, la aceptación de ciertos individuos hacia ciertos riesgos. Esta perspectiva también se ha interesado por las diferencias entre las opiniones expertas y no expertas respecto de una misma situación peligrosa, esto es, por la influencia de las características y la forma de los conocimientos en la percepción del riesgo.</p>
@@ -335,6 +339,7 @@ background-size: cover;
 </section>
 <section id="aspectos-influyentes-en-la-percepción-del-riesgo" class="level2">
 <h2 class="anchored" data-anchor-id="aspectos-influyentes-en-la-percepción-del-riesgo">8.2 ASPECTOS INFLUYENTES EN LA PERCEPCIÓN DEL RIESGO</h2>
+<hr>
 <p>La revisión de antecedentes investigativos, tanto como los estudios realizados en nuestro país, a propósito de la percepción del riesgo de desastres, nos permiten resaltar algunos aspectos psicosociales que, en interacción con diversos fenómenos riesgosos, posibilitan ampliar la comprensión de la manera como las personas nos relacionamos con los riesgos ambientales. Así, la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos (<a href="#fig-c8-1" class="quarto-xref">Figura&nbsp;<span>1</span></a>).</p>
 <div id="fig-c8-1" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -385,6 +390,7 @@ Figura&nbsp;1: Aspectos influyentes en la percepción del riesgo.
 </section>
 <section id="consideraciones-finales" class="level2">
 <h2 class="anchored" data-anchor-id="consideraciones-finales">8.3 CONSIDERACIONES FINALES</h2>
+<hr>
 <p>La percepción del riesgo varía en función de la evaluación que las personas hacen de la posibilidad de impacto sobre su bienestar <a href="#ref-47">[47]</a>; así también, las capacidades para protegerse de un riesgo difieren entre las sociedades, y el uso y efectividad de las estrategias individuales y colectivas de protección no dependen tanto de la decisión de personas y grupos, como de otros aspectos psicosociales y de las condiciones socialmente desiguales en las sociedades <a href="#ref-8">[8]</a>. Incluso los autores del enfoque psicométrico de la percepción del riesgo han planteado la idea de la construcción social de la percepción, acercándose a perspectivas sociológicas y culturales. La percepción del riesgo, los juicios sobre la peligrosidad de un fenómeno y su control, son también el resultado de creencias, conocimientos y actitudes de los grupos sociales, de su relación histórica y material con el fenómeno del que se trate, considerado como un riesgo por grupos como las autoridades. En esta vía, planteamos la necesidad de un análisis de la evaluación del riesgo ambiental que integre varios niveles y enfoques teórico-metodológicos, que permitan aprehender la complejidad del fenómeno.</p>
 <p>La literatura sobre el tema, complementada con aproximaciones investigativas propias, nos ha permitido identificar aspectos que probablemente estén asociados a las acciones cotidianas de gestión del riesgo. Estos elementos son de distinta naturaleza y nivel: sociales, culturales, individuales y contextuales-situacionales, y nos permiten comprender mejor la relación de las personas con un riesgo ambiental. De esta forma, aspectos socioculturales, tales como los arreglos sociales que llevan a una distribución desigual de los riesgos y de los recursos para hacerles frente, así como las relaciones con las instituciones encargadas de su gestión, determinan las características de la vulnerabilidad de las personas y grupos. Estos asuntos remiten a las condiciones sociohistóricas de exposición y relación con los riesgos, su definición, evaluación y gestión.</p>
 <p>No se trata de desestimar los aspectos individuales, psicológicos o disposicionales, referidos a la experiencia de las personas en relación con los riesgos, y ampliamente abordados en la literatura. Más bien, planteamos la relevancia de pensar estos elementos en interacción o vinculación dinámica con las características del fenómeno riesgoso y con la dimensión sociocultural a la que hemos hecho referencia. Concurso de elementos que dan lugar a unas determinadas formas de evaluar las situaciones y a unas ciertas respuestas individuales y colectivas frente al riesgo.</p>
@@ -419,21 +425,25 @@ Puntos Clave
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">8.4 AGRADECIMIENTOS</h2>
+<hr>
 <p>A todos los participantes de nuestras investigaciones, habitantes de zonas de riesgo, que dedicaron su tiempo a responder a nuestras cuestiones.</p>
 <p><strong>CONTRIBUCIÓN DE AUTORÍA CRediT</strong></p>
 <p>Conceptualización: LAMD, OENC. Redacción de primera versión: LAMD, OENC. Escritura, revisión y edición de segunda versión: LAMD, OENC. Búsqueda de literatura: LAMD, OENC.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">8.5 IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <p>Luz Adriana Muñoz Duque</p>
 <p>Óscar E. Navarro Carrascal</p>
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">8.6 CONFLICTO DE INTERESES</h2>
+<hr>
 <p>Los autores no declaran conflicto de intereses</p>
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">8.7 BIBLIOGRAFÍA</h2>
+<hr>
 <div id="ref-1">
 <ol type="1">
 <li>Weber, J. M., Hair, J. F., &amp; Fowler, C. R. (2000). Developing a measure of perceived environmental risk. <em>Journal of Environmental Education</em>, <em>32</em>(1), 28–35.</li>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,10 +17,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -46,10 +49,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3b017f11206725e9605cab75ef81dced.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-aa330890788ef691bf631ea05e2171b6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -357,6 +360,7 @@ background-size: cover;
 </section>
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">3.1 INTRODUCCIÓN</h2>
+<hr>
 <p>Algunos fenómenos naturales, y eventos antrópicos no intencionales y sociales causan daños materiales en la infraestructura vial. Priorizar las intervenciones tendientes a minimizar el impacto de estos daños requiere identificar adecuadamente la amenaza y vulnerabilidad para estimar el riesgo, a través del desarrollo de metodologías de recolección de datos, evaluación, análisis y reporte. La mayoría de los estudios de riesgo abordan los factores amenazantes de forma individual, originando pocos estudios de riesgo con valoración de multiamenaza.</p>
 <div id="box1" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; padding:20px; border: none !important;">
 <div class="callout-body d-flex">
@@ -385,6 +389,7 @@ Figura&nbsp;1: Ejemplos de información según ámbitos: a) Regional imagen índ
 </section>
 <section id="conceptos-generales" class="level2">
 <h2 class="anchored" data-anchor-id="conceptos-generales">3.2 CONCEPTOS GENERALES</h2>
+<hr>
 <p>La Política Nacional de Gestión del Riesgo de Desastres (Ley 1523 de 2012) establece los lineamientos y procesos a seguir para avanzar en el conocimiento y reducción del riesgo y en el manejo de los desastres <a href="#ref-4">[4]</a>, constituyendo el marco de referencia para las instituciones públicas, privadas y las personas en general (ver <strong>Caja 2</strong>).</p>
 <p>En el marco de esta normativa, para realizar una adecuada recolección y caracterización de los datos, es fundamental precisar cuáles son las mejores fuentes de información primarias o secundarias. Esto garantiza generar evaluaciones y análisis con mejores recomendaciones para la reducción del riesgo y manejo de desastres a implementar por los tomadores de decisiones.</p>
 <div id="box2" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; padding:20px; border: none !important;">
@@ -430,6 +435,7 @@ Figura&nbsp;3: Estructuras de drenaje y de estabilización de taludes utilizadas
 </section>
 <section id="propuesta-metodológica-para-el-desarrollo-de-la-aplicación" class="level2">
 <h2 class="anchored" data-anchor-id="propuesta-metodológica-para-el-desarrollo-de-la-aplicación">3.3 PROPUESTA METODOLÓGICA PARA EL DESARROLLO DE LA APLICACIÓN</h2>
+<hr>
 <p>El instrumento de recolección de datos de la infraestructura vial debe aportar a unificar los criterios y parámetros a registrar, a su correcta georreferenciación y análisis espacial. Para lograrlo se desarrolló una propuesta metodológica de ocho etapas.</p>
 <p><strong>Primera etapa</strong>: se identificaron diferentes variables con su respectiva escala de valor y/o métrica de medición. Para la integración de la información se tomó como referente la unidad base de análisis para corredores viales definida por el Servicio Geológico Colombiano (SCG) <a href="#ref-4">[4]</a>, denominada <em>corredor geotécnico</em>, la cual fue adaptada y mejorada dentro del convenio de cooperación 736 de 2020 <a href="#ref-5">[5]</a>. En este proyecto se definieron tres dominios (<a href="#fig-c3-4" class="quarto-xref">Figura&nbsp;<span>4</span></a>), que permiten diferenciar las zonas con las que la infraestructura vial se interrelaciona. La combinación de estos tres dominios define variables regionales como el clima y la geología, aspectos de alcance zonal como es la interacción con las actividades socioeconómicas y detalles de escala local como el estado de conservación de la infraestructura y las dimensiones de las obras de drenaje.</p>
 <div id="fig-c3-4" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -473,6 +479,7 @@ Figura&nbsp;6: Variables para valoración de amenaza y vulnerabilidad en infraes
 </section>
 <section id="amenaza-por-movimientos-en-masa" class="level2">
 <h2 class="anchored" data-anchor-id="amenaza-por-movimientos-en-masa">3.4 AMENAZA POR MOVIMIENTOS EN MASA</h2>
+<hr>
 <p>El fundamento conceptual de la aproximación metodológica para la determinación de la amenaza por movimientos en masa se basa en desarrollos previos generados a nivel internacional y que han sido apropiados y traídos a la realidad del contexto nacional por las guías metodológicas propuestas por el SCG <a href="#ref-13">[13]</a>–<a href="#ref-15">[15]</a>. Los métodos definidos para la evaluación de la amenaza a diferentes escalas y para diferentes elementos de infraestructura se seleccionaron con la colaboración de la comunidad académica y actores relevantes en el contexto nacional en el área de la gestión del riesgo. Así pues, en el sentido de no redundar en lo ya tratado ampliamente en estos estupendos documentos en lo referente a la determinación de amenaza por movimientos en masa, omitiremos las definiciones básicas. Sin embargo, se invita al lector a revisarlas con detalle si es de su interés en las referencias antes mencionadas, lo anterior nos permite presentar de una forma más eficaz los planteamientos y mejoras realizados dentro de esta investigación. Así pues, en lo referente a movimientos en masa solo se retoman de forma algunos conceptos claves para permitir entender la propuesta metodológica desarrollada.</p>
 <p>Siguiendo el marco referencial definido por SGC (2017) <a href="#ref-4">[4]</a> para determinar la amenaza por movimiento en masa a escala 1:2,500, se estructuró a partir de tres ejes principales o etapas: la caracterización geo ambiental, un análisis de susceptibilidad y la caracterización de la amenaza. Para cada una de estas etapas se definieron factores y temáticas para poder realizar la zonificación del territorio. La metodología para determinar la amenaza por movimientos en masa se fundamenta en las guías metodológicas del Servicio Geológico Colombiano (SCG) <a href="#ref-8">[8]</a>–<a href="#ref-10">[10]</a>. Los métodos para evaluar la amenaza en diferentes escalas y para diferentes elementos de infraestructura se seleccionaron colaborativamente con la academia y actores nacionales de la gestión del riesgo de desastres.</p>
 <p>En general, para estudios de amenaza la información se ha obtenido predominantemente desde el nivel regional, complementándola con algunos datos de orden local. El proceso se orienta principalmente hacia el establecimiento de un inventario de procesos que se considera como el insumo principal para la zonificación de la amenaza <a href="#ref-4">[4]</a>. La información regional resulta clave para determinar la amenaza de un área con una extensión significativa, como por ejemplo un municipio. Pero cuando se trata de una obra lineal como es una vía, este aspecto deja de ser un <em>sine qua non</em>, pues muchas variables que se producen a nivel regional no logran incorporarse mientras que variables a nivel local permiten valorar de forma más precisa la amenaza, en específico mejorando la determinación de la susceptibilidad y generando datos más asertivos y confiables a la escala de análisis de la vía. Por otra parte, existe otra debilidad en el proceso cuando se aplica a una vía y corresponde al momento de asignación de la actividad histórica debido a la baja frecuencia de eventos que se obtienen debido a que los inventarios históricos de movimientos en masa, tales como el sistema de información de movimientos en masa SIMMA del Servicio Geológico Colombiano, para muchos de los tramos de las vías nacionales presenta un subregistro. Muestra de ello, en la <a href="#fig-c3-7" class="quarto-xref">Figura&nbsp;<span>7</span></a> se evidencia para la vía Tunja - Páez (Departamento de Boyacá), que a pesar de ser una vía con alta frecuencia de eventos por kilómetro, especialmente en el tramo entre Ramiriquí-Miraflores-Páez; al revisar no se observa ningún evento registrado en el inventario de movimientos en masa.</p>
@@ -535,6 +542,7 @@ Figura&nbsp;9: Formato para levantamiento de elementos viales que aportan a la v
 </section>
 <section id="amenaza-por-inundación" class="level2">
 <h2 class="anchored" data-anchor-id="amenaza-por-inundación">3.5 AMENAZA POR INUNDACIÓN</h2>
+<hr>
 <p>La diversidad climática del país en combinación con paisajes contrastantes como son las cordilleras, las planicies aluviales, altiplanos y llanuras, implica que algunas zonas se exponen a inundaciones asociadas a lluvias cortas e intensas que dan lugar a eventos torrenciales. También se exponen a inundaciones prolongadas y de baja velocidad asociadas a lluvias persistentes y generalizadas sobre grandes áreas tributarias. Aunado a ello, la incidencia de fenómenos de variabilidad climática en la escala interanual, según su severidad pueden inhibir o fortalecer las precipitaciones acordes a la intensidad del Fenómeno de Niño o Niña, especialmente en las regiones Andina, Caribe y Pacífica.</p>
 <p>La UNGRD <a href="#ref-2">[2]</a> considera clave en caso de inundación: “Prepararse, Actuar, y Recuperarse”, para lo cual resulta indispensable conocer el tipo de evento al cual se está expuesto, las áreas potencialmente afectadas con mayor frecuencia e intensidad, y la temporada del año en que es más probable su ocurrencia.</p>
 <div id="box4" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; padding:20px; border: none !important;">
@@ -628,6 +636,7 @@ Figura&nbsp;11: Rúbrica para valoración de susceptibilidad a inundación de ob
 </section>
 <section id="vulnerabilidad-física" class="level2">
 <h2 class="anchored" data-anchor-id="vulnerabilidad-física">3.6 VULNERABILIDAD FÍSICA</h2>
+<hr>
 <p>Para implementar la aplicación de captura de datos, el registro de los puntos críticos, y establecer el nivel de vulnerabilidad del sector o corredor vial objeto de estudio, se desarrolló una metodología que permitiera identificar adecuadamente los elementos expuestos, y su registro en la Geodatabase para analizarse (<a href="#fig-c3-12" class="quarto-xref">Figura&nbsp;<span>12</span></a>).</p>
 <div id="fig-c3-12" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -784,6 +793,7 @@ Tabla&nbsp;2: Valoración de vulnerabilidad física de una estructura de drenaje
 </section>
 <section id="implementación-tecnológica-instrumento-móvil-de-captura-de-datos-en-campo" class="level2">
 <h2 class="anchored" data-anchor-id="implementación-tecnológica-instrumento-móvil-de-captura-de-datos-en-campo">3.7 IMPLEMENTACIÓN TECNOLÓGICA: INSTRUMENTO MÓVIL DE CAPTURA DE DATOS EN CAMPO</h2>
+<hr>
 <p>La captura de datos o hechos del mundo real se muestra como uno de los procesos o requerimientos más exigentes que tienen las organizaciones para recopilar información valiosa y relacionada con sus proyectos en campo. Los datos son la naturaleza para cualquier proyecto de investigación. Estos datos deben recolectarse, crearse y observarse para posteriormente analizarse y de esta manera producir unos resultados fiables y originales, producto de la investigación.</p>
 <p>Un dato es la representación física de la información de una manera adecuada para su comunicación, interpretación o procesamiento por parte de seres humanos o por medios automáticos <a href="#ref-23">[23]</a>. Los datos en sí reflejan un hecho o un grupo de hechos del mundo real, siendo capturados de diferentes formas y almacenados en varios formatos dependiendo de su utilidad y eficiencia <a href="#ref-24">[24]</a>.</p>
 <p>Este es el caso de los datos espaciales, describen características y recursos de la tierra. Se capturan para la resolución de problemas y apoyar la toma de decisiones asociadas con la localización, distribución y relación espacial dentro de un entorno geográfico <a href="#ref-24">[24]</a>. Esta clase de datos es la base de todo SIG, un sistema espacial que crea, administra, analiza y mapea todo tipo de datos (pendientes, vegetación, tipo de suelo, movimientos en masa, inundación, población y cualquier otro fenómeno localizado sobre la superficie de la Tierra) <a href="#ref-25">[25]</a>.</p>
@@ -914,6 +924,7 @@ Figura&nbsp;21: Ejemplo de la visualización de resultados y análisis estadíst
 </section>
 <section id="conclusiones" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiones">3.8 CONCLUSIONES</h2>
+<hr>
 <p>De acuerdo con las experiencias y resultados obtenidos en el proceso de formulación desarrollo e implementación de esta metodología para la captura de datos en estudios de Valoración Cualitativa Multiamenaza en Corredores Viales apoyado en TICs se concluye los siguiente.</p>
 <p>Para alcanzar un adecuado desarrollo de este tipo de instrumentos para captura de datos se requiere de una sinergia de los especialistas con los potenciales usuarios finales del instrumento. Para este estudio, se contó con el acompañamiento, aporte y validación por parte de los administradores viales, quienes son profesionales contratados por el INVIAS para realizar labores de seguimiento, gestión, inventario físico, la atención de emergencias, mantenimiento de la infraestructura. lo que permitió un ajuste de los instrumentos a partir de sus experiencias y el conocimiento detallado de la historia de cada corredor vial, incluyendo puntos críticos, eventos amenazantes y condiciones físicas.</p>
 <p>En el proceso para determinar el nivel de riesgo multiamenaza por movimiento de masas e inundaciones, se estableció que el elemento expuesto es el corredor vial, conformado por su estructura física, obras de drenaje, estabilización y protección. Como resultado, del proceso planteado se logró la actualización del instrumento de captura a una versión móvil mejorada, posibilitando que los profesionales hicieran toma de datos de forma simultánea. Adicionalmente, se logró desarrollar un instrumento mejorado para la inspección visual de obras de drenaje, obras de estabilización y puntos críticos.</p>
@@ -947,18 +958,22 @@ Recomendaciones para tomar decisiones
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">3.9 CONFLICTO DE INTERESES</h2>
+<hr>
 <p>Los autores no declaran conflicto de intereses.</p>
 </section>
 <section id="contribución-de-autoría-credit" class="level2">
 <h2 class="anchored" data-anchor-id="contribución-de-autoría-credit">3.10 CONTRIBUCIÓN DE AUTORÍA CREDIT</h2>
+<hr>
 <p>Conceptualización: AFR, ORA, JPLL. Metodología: AFR, ORA, SYVF, ARP. Redacción de primera versión: AFR, ORA, SYVF, ARP. Escritura. Revisión y edición de segunda versión: AFR, ORA. Figuras y tablas: AFR, ORA, SYVF, ARP. Administración de proyecto: JPLL. Búsqueda de evidencia: AFR, ORA, SYVF, ARP.</p>
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">3.11 AGRADECIMIENTOS</h2>
+<hr>
 <p>Agradecemos al INVIAS y particularmente a los administradores viales por su continuo aporte en las etapas de identificación de variables y validación del formulario inteligente, como muestra de la necesidad de crear sinergias entre el conocimiento experto acuñado por las instituciones de educación superior y las entidades públicas.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">3.12 IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <p>Alejandro Franco</p>
 <p>Orlando Rincón</p>
 <p>Álvaro Rodríguez</p>
@@ -967,6 +982,7 @@ Recomendaciones para tomar decisiones
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">3.13 BIBLIOGRAFÍA</h2>
+<hr>
 <div id="ref-1">
 <ol type="1">
 <li>Silva, D. (2020) <em>Indicadores de ciencia y tecnología 2019</em>. Observatorio Colombiano de Ciencia y Tecnología, Bogotá.</li>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -14,10 +14,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3b017f11206725e9605cab75ef81dced.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-aa330890788ef691bf631ea05e2171b6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -83,7 +86,7 @@ background-size: cover;
 </style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -146,7 +149,7 @@ window.Quarto = {
     <div class="quarto-title-meta-heading">Afiliaciones</div>
     
       <div class="quarto-title-meta-contents">
-      <p class="author">Carlos Mario Piscal Arevalo <sup>1</sup> <a href="https://orcid.org/0000-0003-1271-3406" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">Carlos Mario Piscal Arevalo <sup>1</sup> <a href="https://orcid.org/0000-0003-1271-3406" class="quarto-title-author-orcid" aria-label="ORCID profile for Carlos Mario Piscal Arevalo <sup>1</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -154,7 +157,7 @@ window.Quarto = {
             </p>
         </div>
       <div class="quarto-title-meta-contents">
-      <p class="author">Juan Andrés Oviedo Amezquita <sup>2</sup> <a href="https://orcid.org/0000-0001-9973-2823" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">Juan Andrés Oviedo Amezquita <sup>2</sup> <a href="https://orcid.org/0000-0001-9973-2823" class="quarto-title-author-orcid" aria-label="ORCID profile for Juan Andrés Oviedo Amezquita <sup>2</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -349,6 +352,7 @@ window.Quarto = {
 </section>
 <section id="introduccion" class="level2">
 <h2 class="anchored" data-anchor-id="introduccion">10.1 INTRODUCCION</h2>
+<hr>
 <p>Es evidente el importante papel que tiene la infraestructura en el desarrollo de los países. También se ha hecho evidente que su diseño, construcción, mantenimiento y reciclaje, no solo debe obedecer a criterios únicos, como posiblemente son los económicos, sino que debe ser incluyente de otros que aporten a un desarrollo que garantice entre otras cosas: a) una vida digna y una adecuada protección de la misma y b) un uso de los recursos dentro de los límites que tiene el planeta. Es decir, que desde la gestión de la infraestructura de un país se debe aportar al desarrollo sostenible.</p>
 <p>Con el incremento de población mundial ha crecido también la demanda de infraestructura necesaria para educación, salud, vivienda, transporte y demás servicios sociales, esenciales y de atención a la comunidad. Por ende, en la actualidad existe una mayor infraestructura expuesta a amenazas geológicas como los sismos y sobre todo una mayor cantidad de vidas humanas por proteger.</p>
 <p>Teniendo en cuenta todo lo anteriormente mencionado y reconociendo que a nivel mundial la ingeniería, en constante evolución, se adapta a los desafíos, necesidades y oportunidades de mejora que requiere el mundo actual, es de relevancia generar opciones, que al implementarse reduzcan (mitiguen) los impactos negativos (o riesgos) generados por los sismos. A la vez dichas opciones deben orientarse hacia un desarrollo económico y bienestar humano sostenible.</p>
@@ -357,6 +361,7 @@ window.Quarto = {
 </section>
 <section id="sistemas-de-control-de-respuesta-estructural" class="level2">
 <h2 class="anchored" data-anchor-id="sistemas-de-control-de-respuesta-estructural">10.2 SISTEMAS DE CONTROL DE RESPUESTA ESTRUCTURAL</h2>
+<hr>
 <div id="box1" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; padding:20px; border: none !important;">
 <div class="callout-body d-flex">
 <div class="callout-icon-container">
@@ -370,6 +375,7 @@ window.Quarto = {
 </section>
 <section id="aisladores-de-base" class="level2">
 <h2 class="anchored" data-anchor-id="aisladores-de-base">10.3 Aisladores de base</h2>
+<hr>
 <p>Son dispositivos con una alta capacidad de carga vertical y cuya flexibilidad en las direcciones horizontales es alta cuando se compara con la de una estructura convencional. Los aisladores se ubican primordialmente en la base de la estructura principal de edificaciones o las superestructuras en puentes, y en la actualidad pueden generalmente clasificarse dentro de dos grandes grupos, estos son aisladores de fricción y aisladores elastómericos. Esta clasificación obedece principalmente a las características de los materiales de los dispositivos, acero y goma respectivamente y a sus mecanismos de disipación de energía, fricción y deformación de materiales, respectivamente. Sin embargo, vale aclarar que su comportamiento especifico depende también de características adicionales determinadas por variables como los componentes que incluyen (núcleo de plomo, goma de alto amortiguamiento) y la geometría que poseen (altura de las capas de goma, radio de curvatura de la superficie de fricción). Imágenes de los dispositivos y una clasificación más extensa de los mismos pueden encontrarse en los trabajos en la temática desarrollados por Piscal et al.&nbsp;<a href="#ref-1">[1]</a>–<a href="#ref-6">[6]</a>.</p>
 <p>El beneficio que estos dispositivos aportan a las estructuras proviene de la flexibilización del sistema o elongación del periodo estructural y del incremento del amortiguamiento respecto al 5% del amortiguamiento crítico, presente en estructuras convencionales <a href="#ref-7">[7]</a>, <a href="#ref-8">[8]</a>. Lo anterior induce en la infraestructura una reducción de aceleraciones, fuerzas y desplazamientos, lo cual conlleva a una disminución del posible daño estructural, no estructural y en contenidos a presentarse en eventos sísmicos extremos.</p>
 <p><strong>Disipadores de energía o amortiguadores</strong></p>
@@ -386,6 +392,7 @@ window.Quarto = {
 </section>
 <section id="necesidad-de-una-normativa-local-para-scre" class="level2">
 <h2 class="anchored" data-anchor-id="necesidad-de-una-normativa-local-para-scre">10.4 NECESIDAD DE UNA NORMATIVA LOCAL PARA SCRE</h2>
+<hr>
 <p><strong>Alta amenaza sísmica en Colombia</strong></p>
 <p>Colombia se ubica en una de las zonas sísmicamente más activas de la tierra. Dentro del país, la mayoría de la población (87%) se encuentra en zonas de amenaza sísmica alta e intermedia <a href="#ref-18">[18]</a>. Lo anterior indica que la mayor parte de la infraestructura nacional se expone a una importante amenaza sísmica, la cual se define en términos de intensidad y probabilidad de ocurrencia de eventos sísmicos.</p>
 <p>Aspectos relacionados con la amenaza como el contenido frecuencial característico de los movimientos sísmicos y las amplificaciones de las intensidades debido a los efectos de sitio, son relevantes en el diseño de los SCRE, por lo cual, a pesar de que las normativas internacionales permiten el uso de los espectros de diseño prescritos, se recomienda emplear estudios sísmicos particulares de sitio.</p>
@@ -611,6 +618,7 @@ Figura&nbsp;3: Comparación de factores de amortiguamiento derivados para Colomb
 </section>
 <section id="fabricación-local-de-dispositivos-como-scre" class="level2">
 <h2 class="anchored" data-anchor-id="fabricación-local-de-dispositivos-como-scre">10.5 FABRICACIÓN LOCAL DE DISPOSITIVOS COMO SCRE</h2>
+<hr>
 <p>Como se mencionó en el Numeral 2, los sistemas de control de respuesta estructural (SCRE) consisten básicamente en un conjunto o serie de dispositivos que se incorporan en las estructuras. Dichos dispositivos en la mayoría de los proyectos actuales en Colombia, han sido importados de países como EE.UU., Italia, Chile, o Canadá, donde se encuentran empresas que los fabrican con una gran trayectoria en el mercado mundial. Algunas de estas empresas tienen oficinas en Colombia.</p>
 <p>Sin embargo, el hecho de carecer de dispositivos locales, encarece los proyectos, por lo cual ciertas empresas del país han empezado a desarrollarlos y fabricarlos localmente. Algunos de ellos continúan dentro de la etapa de investigación y validación en universidades, mientras que unos pocos se encuentran disponibles comercialmente. A la luz del conocimiento de los autores, los dispositivos que están disponibles comercialmente son un tipo de aisladores sísmicos y un disipador tipo riostra BRB.</p>
 <p>En cuanto a los aisladores sísmicos, se encuentran el desarrollado por la empresa E&amp;M SA, empresa reconocida en el país por su fabricación de apoyos de neopreno para puentes. E&amp;M ofrece aisladores de caucho con núcleo de plomo.</p>
@@ -639,6 +647,7 @@ Figura&nbsp;4: Primer ensayo en Colombia de prototipos de Riostra efe-Prima-ce -
 </section>
 <section id="conclusiones" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiones">10.6 CONCLUSIONES</h2>
+<hr>
 <p>Es de relevancia para el país concientizar a entidades gubernamentales, sector privado y población en general acerca del nivel de daño que tendrá la infraestructura diseñada y construida con sistemas convencionales (sin sistemas de control) después de un evento sísmico fuerte. Es importante también hacer notar las repercusiones políticas, económicas y sociales que la anterior situación conlleva.</p>
 <p>Los sistemas de control de respuesta estructural son la mejor alternativa para que en el país se alcance infraestructura menos susceptible a daño por eventos sísmicos fuertes, se permita que infraestructura esencial, como hospitales, siga funcionando tanto durante como después del evento sísmico y se pueda pensar en obtener ciudades resilientes a través de su infraestructura.</p>
 <p>Es esencial para Colombia implementar políticas de reducción de riesgo por sismo, que incentiven el incremento en el país de infraestructura menos susceptible a daño por eventos sísmicos fuertes, es decir que incentiven la infraestructura que incorpore sistemas de control.</p>
@@ -668,6 +677,7 @@ Puntos Clave
 </section>
 <section id="materiales-y-métodos" class="level2">
 <h2 class="anchored" data-anchor-id="materiales-y-métodos">10.7 MATERIALES Y MÉTODOS</h2>
+<hr>
 <p>Todo lo aquí presentado es el resultado del:</p>
 <p>Trabajo conjunto del comité AIS-700.</p>
 <p>Búsqueda, recopilación, y análisis de información científica llevada a cabo por los autores del trabajo.</p>
@@ -676,21 +686,25 @@ Puntos Clave
 </section>
 <section id="conflicto-de-intereses" class="level2">
 <h2 class="anchored" data-anchor-id="conflicto-de-intereses">10.8 CONFLICTO DE INTERESES</h2>
+<hr>
 <p>Los autores no declaran conflicto de intereses</p>
 </section>
 <section id="agradecimientos" class="level2">
 <h2 class="anchored" data-anchor-id="agradecimientos">10.9 AGRADECIMIENTOS</h2>
+<hr>
 <p>A la Asociación de Ingeniería Sísmica, por el apoyo para el desarrollo de la primera norma de la temática en el país, a los miembros del comité AIS-700 por todo su apoyo y trabajo, a la Universidad de La Salle y a la Universidad EIA por los espacios brindados para la investigación en estas temáticas.</p>
 <p><strong>CONTRIBUCIÓN DE AUTORÍA CRediT</strong></p>
 <p>Todos los autores contribuyeron a la conceptualización y desarrollo de este proyecto.</p>
 </section>
 <section id="identificación-de-autores" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-de-autores">10.10 IDENTIFICACIÓN DE AUTORES</h2>
+<hr>
 <p>Carlos Mario Piscal Arevalo</p>
 <p>Juan Andrés Oviedo Amézquita</p>
 </section>
 <section id="bibliografía" class="level2">
 <h2 class="anchored" data-anchor-id="bibliografía">10.11 BIBLIOGRAFÍA</h2>
+<hr>
 <div id="ref-1">
 <ol type="1">
 <li>Ángel Giraldo, D. C. &amp; Rincón Chuscano C. A. (2019). <em>Análisis del comportamiento estructural de una tribuna en concreto reforzado para un estadio con y sin aisladores de base</em> [Trabajo de grado - Pregrado]. Universidad de la Salle.</li>
