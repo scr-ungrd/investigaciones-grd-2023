@@ -37,6 +37,8 @@ Energy dissipation, seismic isolation, seismic risk mitigation, structural respo
 
 ## 10.1 INTRODUCCION
 
+------------------------------------------------------------------------
+
 Es evidente el importante papel que tiene la infraestructura en el desarrollo de los países. También se ha hecho evidente que su diseño, construcción, mantenimiento y reciclaje, no solo debe obedecer a criterios únicos, como posiblemente son los económicos, sino que debe ser incluyente de otros que aporten a un desarrollo que garantice entre otras cosas: a) una vida digna y una adecuada protección de la misma y b) un uso de los recursos dentro de los límites que tiene el planeta. Es decir, que desde la gestión de la infraestructura de un país se debe aportar al desarrollo sostenible.  
 
 Con el incremento de población mundial ha crecido también la demanda de infraestructura necesaria para educación, salud, vivienda, transporte y demás servicios sociales, esenciales y de atención a la comunidad. Por ende, en la actualidad existe una mayor infraestructura expuesta a amenazas geológicas como los sismos y sobre todo una mayor cantidad de vidas humanas por proteger. 
@@ -49,12 +51,15 @@ Sin embargo, en el país su implementación actual sigue requisitos dispuestos e
 
 ## 10.2 SISTEMAS DE CONTROL DE RESPUESTA ESTRUCTURAL
 
+------------------------------------------------------------------------
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Definición, tipos y ventajas de los sistemas control de respuesta estructural  Los sistemas de control de respuesta estructural (SCRE) consisten básicamente en un conjunto o serie de dispositivos que se incorporan en las estructuras. Dichos dispositivos pueden clasificarse inicialmente en términos de la variación temporal de su aporte al sistema estructural. Si las propiedades del sistema de control son constantes en el tiempo (no varían), se denomina un sistema de control pasivo. Por otro lado, si las propiedades del dispositivo varían con el tiempo, ante la acción de fuentes de energía externas, se denomina un sistema de control activo.  Aquellos sistemas que combinan, para su adecuado funcionamiento, sistemas de control estructural pasivo y activo, se denominan híbridos. Finalmente, los denominados sistemas de control semiactivos se diferencian de los activos en el hecho que en los primeros, se presenta solo alguna característica variable en el tiempo y ésta se controla mediante dispositivos o fuentes de energía externas correspondientes a dispositivos pasivos. Vale la pena mencionar que el hecho de que las propiedades de los sistemas activos varíen en el tiempo permite controlar la respuesta estructural en función de la naturaleza de la solicitación (demanda) que experimente el sistema y no solo obedece a una solicitación de diseño máxima como en los sistemas pasivos. Sin embargo, son estos últimos los sistemas más usados a nivel mundial en la actualidad, por lo cual son en los que se enfoca este trabajo. Los SCRE tienen como finalidad principal reducir los desplazamientos, aceleraciones y fuerzas que las estructuras experimentarían bajo eventos extremos como son los sismos. Para tal fin los dispositivos deben tener una o varias de las siguientes características: a) modificar las propiedades dinámicas de la estructura, b) disipar la energía que ingresa al sistema y c) ejercer fuerzas que contrarrestan las solicitaciones. Dentro de los SCRE pasivos, diferentes dispositivos han sido creados con alguna o algunas de las características anteriormente mencionadas, lo cual permite subdivirlos en tres grandes grupos principales: aisladores sísmicos, disipadores de energía y masas activas. Los aisladores sísmicos y los disipadores de energía son los sistemas pasivos con mayor desarrollo y aplicación en infraestructura a nivel mundial, y por lo tanto son los que actualmente se incorporan en las normativas internacionales para aplicación de sistemas de control de respuesta estructural, por ende, son los que aquí se estudian y presentan.
 :::
 
 ## 10.3 Aisladores de base
+
+------------------------------------------------------------------------
 
 Son dispositivos con una alta capacidad de carga vertical y cuya flexibilidad en las direcciones horizontales es alta cuando se compara con la de una estructura convencional. Los aisladores se ubican primordialmente en la base de la estructura principal de edificaciones o las superestructuras en puentes, y en la actualidad pueden generalmente clasificarse dentro de dos grandes grupos, estos son aisladores de fricción y aisladores elastómericos. Esta clasificación obedece principalmente a las características de los materiales de los dispositivos, acero y goma respectivamente y a sus mecanismos de disipación de energía, fricción y deformación de materiales, respectivamente. Sin embargo, vale aclarar que su comportamiento especifico depende también de características adicionales determinadas por variables como los componentes que incluyen (núcleo de plomo, goma de alto amortiguamiento) y la geometría que poseen (altura de las capas de goma, radio de curvatura de la superficie de fricción).  Imágenes de los dispositivos y una clasificación más extensa de los mismos pueden encontrarse en los trabajos en la temática desarrollados por Piscal et al. [[1]](#ref-1)–[[6]](#ref-6).
 
@@ -83,6 +88,8 @@ Las anteriores cifras, en constante crecimiento a nivel mundial, se deben entre 
 Vale anotar que adicionalmente se definió, mediante encuestas el estado de daño de aproximadamente 300 edificaciones aisladas, concluyendo que para ninguna se presentó daño estructural, en los elementos no estructurales o en los dispositivos. En cuanto a disipadores de energía, el mismo estudio reporta que para 11 edificaciones instrumentadas y sometidas al mismo sismo, con alturas entre 5 y 54 pisos, se obtuvo una deriva de piso promedio máxima de 0.4%, deriva que sugiere una tendencia hacia comportamiento elástico y por ende daños mínimos. Al igual que en el caso de las edificaciones aisladas, se definió, mediante encuestas, el estado de daño de aproximadamente 130 edificaciones con disipadores de energía, concluyendo que para ninguna se presentó daño estructural, en los elementos no estructurales o en los dispositivos. Con el fin de comparar los anteriores resultados, de acuerdo con los estudios de Pu y Kasai [[15]](#ref-15) y Motosaka y Mitsuji [[17]](#ref-17) , se concluye que algunas edificaciones convencionales (sin sistemas de control) expuestas al sismo de Tohoku, 2011, fueron seriamente dañadas; y en aquellas instrumentadas (3), se reportó un FAA promedio de 3.5, incremento de aceleración con tendencia a daño en la infraestructura. 
 
 ## 10.4 NECESIDAD DE UNA NORMATIVA LOCAL PARA SCRE
+
+------------------------------------------------------------------------
 
 **Alta amenaza sísmica en Colombia** 
 
@@ -262,6 +269,8 @@ De forma paralela a la elaboración de la primera propuesta normativa, el comit�
 
 ## 10.5 FABRICACIÓN LOCAL DE DISPOSITIVOS COMO SCRE
 
+------------------------------------------------------------------------
+
 Como se mencionó en el Numeral 2, los sistemas de control de respuesta estructural (SCRE) consisten básicamente en un conjunto o serie de dispositivos que se incorporan en las estructuras. Dichos dispositivos en la mayoría de los proyectos actuales en Colombia, han sido importados de países como EE.UU., Italia, Chile, o Canadá, donde se encuentran empresas que los fabrican con una gran trayectoria en el mercado mundial. Algunas de estas empresas tienen oficinas en Colombia.  
 
 Sin embargo, el hecho de carecer de dispositivos locales, encarece los proyectos, por lo cual ciertas empresas del país han empezado a desarrollarlos y fabricarlos localmente. Algunos de ellos continúan dentro de la etapa de investigación y validación en universidades, mientras que unos pocos se encuentran disponibles comercialmente. A la luz del conocimiento de los autores, los dispositivos que están disponibles comercialmente son un tipo de aisladores sísmicos y un disipador tipo riostra BRB. 
@@ -284,6 +293,8 @@ Primer ensayo en Colombia de prototipos de Riostra efe-Prima-ce -BRB- Universida
 
 ## 10.6 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Es de relevancia para el país concientizar a entidades gubernamentales, sector privado y población en general acerca del nivel de daño que tendrá la infraestructura diseñada y construida con sistemas convencionales (sin sistemas de control) después de un evento sísmico fuerte. Es importante también hacer notar las repercusiones políticas, económicas y sociales que la anterior situación conlleva. 
 
 Los sistemas de control de respuesta estructural son la mejor alternativa para que en el país se alcance infraestructura menos susceptible a daño por eventos sísmicos fuertes, se permita que infraestructura esencial, como hospitales, siga funcionando tanto durante como después del evento sísmico y se pueda pensar en obtener ciudades resilientes a través de su infraestructura. 
@@ -305,6 +316,8 @@ Colombia es un país cuya infraestructura se encuentra expuesta a una elevada am
 
 ## 10.7 MATERIALES Y MÉTODOS
 
+------------------------------------------------------------------------
+
 Todo lo aquí presentado es el resultado del: 
 
 Trabajo conjunto del comité AIS-700.
@@ -317,9 +330,13 @@ Aportes de cada uno de los autores.
 
 ## 10.8 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses
 
 ## 10.9 AGRADECIMIENTOS
+
+------------------------------------------------------------------------
 
 A la Asociación de Ingeniería Sísmica, por el apoyo para el desarrollo de la primera norma de la temática en el país, a los miembros del comité AIS-700 por todo su apoyo y trabajo, a la Universidad de La Salle y a la Universidad EIA por los espacios brindados para la investigación en estas temáticas.
 
@@ -329,11 +346,15 @@ Todos los autores contribuyeron a la conceptualización y desarrollo de este pro
 
 ## 10.10 IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 Carlos Mario Piscal Arevalo		
 
 Juan Andrés Oviedo Amézquita	
 
 ## 10.11 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. Ángel Giraldo, D. C. & Rincón Chuscano C. A.  (2019). *Análisis del comportamiento estructural de una tribuna en concreto reforzado para un estadio con y sin aisladores de base* [Trabajo de grado - Pregrado]. Universidad de la Salle.

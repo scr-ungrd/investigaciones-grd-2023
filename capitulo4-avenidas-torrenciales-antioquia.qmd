@@ -35,6 +35,8 @@ Las avenidas torrenciales son eventos altamente destructivos y frecuentes en amb
 
 ## 4.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Las avenidas torrenciales son fenómenos altamente destructivos y súbitos que representan una amenaza para la vida y la infraestructura localizada en zonas de abanicos aluviales, donde torrentes de montaña depositan su material transportado [[1]](#ref-1). La ocurrencia de avenidas torrenciales se asocia con lluvias intensas de corta duración, en cuencas de áreas pequeñas y relieve montañoso [[2]](#ref-2), que dan como resultado un reducido tiempo de evacuación que impide la toma de acciones para reducir las pérdidas de vidas humanas e infraestructura [[3]](#ref-3).
 
 En general, los flujos torrenciales se consideran como fenómenos de transporte de sedimentos compuestos por una mezcla de agua, materiales finos y gruesos, donde las fuerzas e interacciones sólidas y líquidas influyen en el movimiento [[4]](#ref-4), [[5]](#ref-5). Sin embargo, dependiendo de criterios como la concentración de sedimentos, la densidad y comportamiento del flujo y las características ambientales de la cuenca, estos eventos pueden variar de procesos gravitacionales a hidrológicos, con numerosas formas intermedias, incluso dentro del mismo evento. Si bien las avenidas torrenciales son un fenómeno global, no existe en la literatura un término en inglés directamente equivalente a este evento. Por el contrario, se han definido diferentes fenómenos en el continuo entre eventos hidrológicos y de ladera, incluyendo los términos *flash flood, debris flood, debris torrent* y *debris flow*. Para efectos de practicidad, se puede traducir las avenidas torrenciales como *debris flow processes,* para aclarar que se deben entender como un rango de procesos a nivel de cuenca, más que como un tipo de eventos específico. 
@@ -70,6 +72,8 @@ Este análisis corresponde al resultado del primer estudio a nivel departamental
 
 ## 4.2 ÁREA DE ESTUDIO
 
+------------------------------------------------------------------------
+
 Colombia se encuentra en el norte de la cordillera de los Andes en una región tectónicamente activa con un clima tropical, creando un escenario multi-amenaza donde fenómenos como deslizamientos, inundaciones y avenidas torrenciales son recurrentes. El 75% de su población se asienta sobre las cordilleras andinas, mientras que el 77% se concentra en centros urbanos [[20]](#ref-20).
 
 El ciclo de precipitación anual sobre la región andina presenta un carácter bimodal, con estaciones húmedas de marzo a mayo y de septiembre a noviembre; y estaciones secas de diciembre a febrero y de junio a agosto [[21]](#ref-21)-[[24]](#ref-24). La variabilidad anual de las precipitaciones está dada principalmente por el desplazamiento de la Zona de Convergencia Intertropical (ITCZ) [[24]](#ref-24), mientras que su variabilidad interanual está controlada por los efectos de las fases de El Niño-Oscilación del Sur (ENOS): El Niño, la fase cálida y La Niña, la fase fría [[25]](#ref-25)-[[28]](#ref-28). A escala local, los Andes influyen en la dinámica climática y de precipitaciones en la región. Las fuertes características topográficas inducen la circulación atmosférica local, la cual aumenta la convección profunda, creando tormentas intensas y localizadas, que desencadenan movimientos en masa y avenidas torrenciales [[29]](#ref-29), [[30]](#ref-30).
@@ -80,11 +84,15 @@ El estudio se implementó en el departamento de Antioquia, ubicado al norocciden
 
 ## 4.3 DATOS Y METODOLOGÍA
 
+------------------------------------------------------------------------
+
 El análisis se realiza en tres pasos principales: el primero es el análisis de susceptibilidad, donde se utiliza un método estadístico multivariado para clasificar las cuencas del departamento entre torrenciales y no torrenciales.  Posteriormente, a partir de la geología presente en la zona de estudio, se analiza cuál es el evento torrencial más destructivo que puede ocurrir en cada cuenca. El tercer paso es el análisis de la amenaza, donde entran en consideración los factores detonantes. En este análisis se tuvo en cuenta la precipitación como factor detonante, tanto de las avenidas torrenciales como de los deslizamientos que pueden alimentar los flujos. Así, la amenaza se divide en el análisis de la probabilidad temporal de ocurrencia de la lluvia y de los eventos de interés: movimientos en masa y avenidas torrenciales; y de la magnitud, establecida a partir del volumen potencial de sedimentos que puede aportar la cuenca en la ocurrencia de la avenida torrencial. La @fig-c4-2 muestra un esquema de la metodología implementada.
 
 ![Diagrama de la metodología empleada en el estudio.](images/capitulo_4/Fig_02.png){#fig-c4-2}
 
 ## 4.4 Susceptibilidad
+
+------------------------------------------------------------------------
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 2.** Susceptibilidad a avenida torrencial
@@ -113,6 +121,8 @@ Finalmente, cruzando los resultados de la clasificación de respuesta hidrológi
 Cuencas con regímenes torrenciales y presencia de regolitos grueso granulares son susceptibles a presentar todos los eventos torrenciales, siendo el más crítico el tipo flujo de escombros canalizados. Así mismo, las cuencas con regímenes torrenciales y presencia predominante de regolitos fino-granulares son susceptibles a presentar tanto crecientes súbitas como inundaciones de escombros, siendo éstos últimos los más críticos. Por otra parte, las cuencas clasificadas como no torrenciales en el análisis morfométrico son consideradas no susceptibles a ningún tipo de avenida torrencial. 
 
 ## 4.5 Amenaza: magnitud y probabilidad temporal
+
+------------------------------------------------------------------------
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 3.** Amenaza por avenida torrencial 
@@ -166,6 +176,8 @@ De esta forma, para cada cuenca analizada, el modelo SHALSTAB estima las celdas 
 
 ## 4.6 Cálculo de la amenaza
 
+------------------------------------------------------------------------
+
 Para la estimación de la amenaza se utiliza un análisis de matrices categóricas. Para esto, los valores de probabilidad temporal y magnitud son divididos en categorías y su cruce da como resultado un nivel de amenaza. El nombre de las categorías (p. ej. muy baja, baja, media, alta, muy alta, etc.), y los valores límites entre ellas es un criterio que se debe adaptar a las necesidades del análisis, su audiencia, y los niveles de aceptación de la amenaza y el riesgo propios de cada zona. Dado que el objetivo para la zona de Antioquia era conocer zonas de amenaza relativa alta, la separación entre las categorías se realizó en base a los quiebres naturales del histograma de distribución de cada variable. De esta forma, el análisis muestra el nivel de probabilidad temporal, magnitud y amenaza de cada cuenca, en relación con las demás del departamento. También, para la zona de estudio, se evitó utilizar la categoría baja, para no brindar una falsa sensación de seguridad ante un fenómeno de capacidad destructiva tan alta como las avenidas torrenciales. 
 
 Finalmente, la probabilidad temporal y la magnitud son cruzadas categóricamente a partir de la matriz de decisión presentada en la @tbl-c4-1. Este análisis solo se realiza para las cuencas definidas como susceptibles a avenidas torrenciales. Se podría decir, por tanto, que la categoría de amenaza baja por avenidas torrenciales la tendrían las cuencas clasificadas como no torrenciales.
@@ -180,6 +192,8 @@ Finalmente, la probabilidad temporal y la magnitud son cruzadas categóricamente
 | Probabilidad temporal | Media | Muy alta | Alta | Media |
 
 ## 4.7 RESULTADOS
+
+------------------------------------------------------------------------
 
 El departamento fue primero subdividido en cuencas siguiendo el criterio de áreas entre 8 y 40 km2, resultando en 3039 cuencas objeto de estudio. 
 
@@ -245,6 +259,8 @@ Finalmente, se puede calcular la probabilidad temporal de ocurrencia para cada f
 
 ## 4.8 DISCUSIÓN Y CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Las avenidas torrenciales representan una de las amenazas de origen natural con mayor capacidad de destrucción, especialmente en ambientes tropicales y zonas de montaña como es el caso de Colombia. Dadas las grandes pérdidas económicas y humanas causadas por estos eventos en el país en años recientes, es imperativo la necesidad de compilar y analizar las avenidas torrenciales, y de incorporar su conocimiento en estrategias y planes que en el futuro reduzcan su ocurrencia como desastres. 
 
 El reconocimiento de las avenidas torrenciales como eventos multi-amenaza marca una gran diferencia ya que elimina la discusión si corresponden a fenómenos de inundación o movimientos en masa. Ahora se entienden estos fenómenos como eventos concatenados de procesos de ladera e hidrológicos, que se relacionan espacial y temporalmente a escala de cuenca. 
@@ -270,15 +286,21 @@ La susceptibilidad por avenidas torrenciales es definida a partir de las caracte
 
 ## 4.9 MATERIALES Y MÉTODOS
 
+------------------------------------------------------------------------
+
 Este estudio se realiza en dos grandes partes: primeramente, para el análisis de la susceptibilidad, se toman cuencas con registros claros de avenidas torrenciales y cuencas carentes de todo indicativo de torrencialidad en la zona andina colombiana y 28 índices morfométricos extraídos a partir de los modelos digitales de elevación satelitales de ALOS PALSAR y a través del Análisis Discriminante de Fisher [[38]](#ref-38) se obtienen ecuaciones que clasifican las cuencas de Antioquia entre torrenciales o no torrenciales. Posteriormente, a partir de la geología presente en la zona de estudio –tomada de la cartografía geológica del Servicio Geológico Colombiano—, se analiza cuál es el evento torrencial más destructivo que puede ocurrir en cada cuenca, subcategorizando las cuencas torrenciales en dos eventos máximos probables: flujos de escombros canalizados o inundación de escombros, dependiendo si se presentan suelos de granulometría gruesa o fina, respectivamente.
 
 La segunda parte es el análisis de la amenaza, donde entra en consideración la precipitación como factor detonante, tanto de las avenidas torrenciales como de los deslizamientos que pueden alimentar los flujos. La amenaza se divide en el análisis de la probabilidad temporal de ocurrencia de la lluvia y de los eventos de interés: movimientos en masa y avenidas torrenciales; y de la magnitud, establecida a partir del volumen potencial de sedimentos que puede aportar la cuenca en la ocurrencia de la avenida torrencial. Para esto, se construyó un inventario de 504 avenidas torrenciales y 8046 movimientos en masa en Antioquia, a partir de la recopilación y filtrado de las bases de datos DESINVENTAR (https://www.desinventar.org) y SIMMA (https://simma.sgc.gov.co) y se correlacionan utilizando los datos de precipitación de 249 estaciones del Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). La magnitud se analiza a partir de la zonificación de la estabilidad de laderas se obtuvo a partir del modelo con base física SHALSTAB (SHAllow Landslide STABility), un modelo acoplado hidrológico-geotécnico propuesto por Montgomery y Dietrich [[49]](#ref-49) que utiliza la precipitación en estado estacionario para generar patrones espaciales de humedad y estimar el potencial de falla a través de un análisis de talud infinito según la ley de Mohr-Coulomb.
 
 ## 4.10 MATERIAL SUPLEMENTARIO
 
+------------------------------------------------------------------------
+
 Los datos, detalles de métodos adicionales y código de análisis estadístico están disponibles bajo requerimiento al correo geohazards_med@unal.edu.co.
 
 ## 4.11 CONFLICTO DE INTERESES
+
+------------------------------------------------------------------------
 
 Los autores no declaran conflicto de intereses.
 
@@ -288,9 +310,13 @@ Conceptualización: EAG, FGC, MIAC. Curación de datos: FGC, MIAC. Análisis for
 
 ## 4.12 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Los autores desean agradecer al Departamento Administrativo de Gestión de Riesgos de Antioquia (DAGRAN), en especial al ingeniero Jafed Naranjo, El presente estudio fue sólo posible gracias a esta entidad quienes aportaron los recursos necesarios para los estudios de amenaza, vulnerabilidad y riesgo, que permitieron establecer el escenario de riesgo por avenidas torrenciales en el departamento de Antioquia. Los análisis realizados sobre este estudio fueron esenciales para constituir la metodología propuesta en el presente artículo.
 
 ## 4.13 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Edier Aristizábal Giraldo      https://orcid.org/0000-0002-2648-2197
 
@@ -299,6 +325,8 @@ Federico Gómez Cardona      https://orcid.org/0000-0002-8525-4354
 María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 
 ## 4.14 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. Banihabib, M.E. & Forghani, A. (2017). An assessment framework for the mitigation effects of check dams on debris flow. *Catena, 1*(152), 277–84. https://doi.org/10.1016/j.catena.2017.01.018

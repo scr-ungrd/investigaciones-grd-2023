@@ -53,6 +53,8 @@ Los sistemas de acueducto cumplen el papel fundamental de asegurar las condicion
 
 ## 1.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 El acceso al agua potable es un derecho fundamental que se ha catalogado como uno de los Objetivos de Desarrollo Sostenible por las Naciones Unidas [\[1\]](#ref-1). Según esta misma institución, en la actualidad 3 de cada 10 personas no tiene acceso a agua potable, convirtiendo el objetivo del acceso al agua potable como fundamental para el desarrollo de las comunidades y el bienestar de la población por su relevancia en el fomento, la protección y la restauración de la salud. Garantizar la calidad del agua suministrada es otro desafío igual de importante considerando factores como la continua presión de las fuentes de abastecimiento, el cambio global ambiental, la complejidad de los sistemas de producción y distribución [\[2\]](#ref-2), y en muchos casos, las precarias condiciones de tratamiento y distribución.
 
 Los sistemas integrales de potabilización deben buscar la remoción de contaminantes y como consecuencia, la reducción del riesgo químico y microbiológico presente en la fuente y en todo el proceso de producción [\[3\]](#ref-3), [\[4\]](#ref-4), [\[5\]](#ref-5), [\[6\]](#ref-6), [\[7\]](#ref-7). Así mismo, se debe controlar el ingreso de sustancias tóxicas o microorganismos patógenos después de la potabilización. Para alcanzar estos objetivos, además de una gestión integral desde un manejo adecuado de la fuente, sistemas óptimos de potabilización, una correcta distribución y utilización por el usuario, deben estructurarse, desarrollarse y actualizarse planes para la gestión del riesgo de desastres (en adelante riesgo) que tengan en cuenta todas las amenazas y vulnerabilidades sobre el sistema desde la fuente hasta el usuario, que puedan afectar la calidad del agua.
@@ -82,6 +84,8 @@ Con relación a los estudios descritos anteriormente, es posible identificar que
 Teniendo esto en cuenta, en el presente estudio se abordan estas problemáticas de manera espacial con el objetivo de identificar estos puntos críticos y de evaluar el riesgo con respecto al usuario final, incorporando las capacidades de tratamiento de contaminantes de cada uno de los componentes del sistema. Así mismo, se analizan las posibles afectaciones aguas abajo de las plantas de tratamiento y los riesgos asociados a posibles contaminantes no tratados y su incidencia en la calidad del agua hacia el usuario final. De esta forma, los resultados finales se pueden interpretar con una perspectiva integral multi-amenaza consistente para todos los sistemas de acueducto, que sirva para priorizar riesgos y posteriormente realizar estudios de detalle enfocados en la mitigación. Por último, es importante resaltar que dada la relativa facilidad y sencillez de la metodología, la posibilidad de actualizar y recalcular los indicadores de riesgo periódicamente, o cuando se tenga acceso a nueva información de la red, facilita a las empresas de servicios públicos la renovación y mejoramiento continuo de las estrategias de gestión del riesgo planteadas a partir de este modelo.
 
 ## 1.2 METODOLOGÍA
+
+------------------------------------------------------------------------
 
 Teniendo en cuenta lo anterior, la metodología propuesta se basa en un enfoque de gestión del riesgo, entendiendo el riesgo como la integración de los componentes de exposición, amenaza y vulnerabilidad. Está metodología se articula con los desarrollos y procedimientos indicados por la OMS y aplicados anteriormente por la EAAB-ESP. A continuación, se presenta cada uno de estos componentes y finalmente la metodología para la cuantificación del riesgo ante eventos naturales y antrópicos.
 
@@ -193,6 +197,8 @@ Este indicador de riesgo puede utilizarse para priorizar los eventos y los compo
 :::
 
 ## 1.3 CASO DE ESTUDIO: BOGOTÁ
+
+------------------------------------------------------------------------
 
 ### 1.3.1 Generalidades
 
@@ -550,6 +556,8 @@ A partir de esta información, es posible priorizar las combinaciones de tipo de
 
 ## 1.4 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 En este capítulo se presenta una metodología para la evaluación del riesgo a la calidad del agua en sistemas de acueducto urbanos. En esta metodología se muestran ventajas frente a metodologías existentes como la incorporación de la frecuencia en el módulo de amenaza, o la incorporación de afectación a la calidad desde la afectación física de los componentes. Así mismo, esta metodología presenta la oportunidad de analizar diferentes tipos de amenazas, tanto naturales como antrópicas. El marco metodológico es suficientemente flexible para incluir amenazas adicionales a las presentada en este capítulo, o por el contrario, reducir y analizar sólo un subconjunto de estas. Los resultados obtenidos a partir de la aplicación de la metodología propuesta sirven para identificar los diferentes riesgos críticos a los cuales está expuesto los sistemas de acueducto de agua potable y a partir de esto realizar una priorización basada en la combinación del tipo de amenaza y de elemento expuesto. Esta metodología se aplica como caso de estudio en el sistema de acueducto de la ciudad de Bogotá, Colombia.
 
 En esta aplicación se consideran diferentes amenazas naturales como lo son la amenaza sísmica, precipitaciones, sequía, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Por otro lado, las amenazas antrópicas consideradas son terrorismo y atentados, terrorismo virtual, tecnológicos domésticos, tecnológicos industriales, accidentes viales y derrames, agropecuario, minería y aspectos relacionados con la gestión institucional del talento humano, de los recursos físicos, de procedimientos y financieros.
@@ -580,17 +588,25 @@ Al aplicar la metodología presentada en este capítulo son las siguientes:
 
 ## 1.5 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores declaran que los desarrollos y resultados presentados se realizaron en el marco del proyecto *Elaboración y Formulación Del Plan Maestro De La Calidad De Agua Potable - Contrato 2-2-26200-1334-2019* financiado por la Empresa de Acueducto y Alcantarillado (EAAB-ESP). Todos los autores participaron en el proyecto por parte de la Universidad de los Andes o de la EAAB-ESP.
 
 ## 1.6 CONTRIBUCIÓN DE AUTORÍA CRediT
+
+------------------------------------------------------------------------
 
 Conceptualización: RF, MRS, ML, JSE, JCR. Curación de datos: RF, JSE, CS, IAG, LP, JM. Análisis formal: RF, JSE, CO, IAG, LP, JM. Adquisición de fondos: MRS. Investigación: RF, ML, JSE, CS. Metodología: RF, MRS, ML, JSE, JCR. Administración del proyecto: RF, MRS, ML, JSE, NL, DG. Recursos: MRS, NL, DG. Software: CO. Supervisión: MRS, JCR. Validación: MRS, JCR. Visualización: RF, CO. Redacción – borrador original: RF, JSE. Redacción – revisión y edición: MRS, JCR, ML, IAG
 
 ## 1.7 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Los autores agradecen en primer lugar a la Empresa de Acueducto y Alcantarillado (EAAB-ESP) por impulsar iniciativas de reducción del riesgo en el sector. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Ingeniería Ambiental (CIIA) y al Centro de Investigación en Materiales y Obras Civiles (CIMOC) de la Universidad de los Andes y a sus integrantes que participaron en el desarrollo del proyecto presentado en este capítulo. Así mismo, se hace una mención especial al Profesor Luis E. Yamin, director del CIMOC en la Universidad de los Andes por más de 30 años, quien participó activamente en la estructuración y definición metodológica del presente proyecto.
 
 ## 1.8 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Rafael Fernández <https://orcid.org/0000-0002-2585-1958>
 
@@ -615,6 +631,8 @@ Nubia León <https://orcid.org/0000-0002-1448-5825>
 Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
 
 ## 1.9 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 ::: {#ref-1}
 1.  United Nations. (2021, 3 de junio). *We can end poverty. Millenium development goals and beyond 2015.* https://www.un.org/millenniumgoals/environ.shtml

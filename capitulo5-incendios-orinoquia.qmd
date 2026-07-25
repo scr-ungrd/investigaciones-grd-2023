@@ -34,6 +34,8 @@ La información sobre la cobertura del suelo que se logra a partir del uso de in
 
 ## 5.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Más del 90% de los incendios forestales que ocurren en el mundo son causados de forma directa o indirecta por intervención humana [[1]](#ref-1). Estos eventos generan una alteración de la biodiversidad al ciclo de nutrientes, un impacto directo al suelo, e incluso puede ocasionar procesos erosivos hasta la desertificación [[2]](#ref-2) dada la reducción del número de ejemplares arbóreos disponibles [[3]](#ref-3). Adicionalmente, las emisiones de partículas por quema de biomasa vegetal, se convierten en una fuente importante de aerosoles atmosféricos y gases de efecto invernadero, contribuyendo a las alteraciones climáticas actuales, afectando las tasas fotosintéticas de los ecosistemas y modificando las propiedades de coberturas nubosas [[4]](#ref-4).
 
 En Colombia, los incendios forestales se asocian estrechamente a factores socioeconómicos como la expansión de la frontera agrícola y pecuaria [[5]](#ref-5), [[6]](#ref-6), aunque existen otras causas antrópicas indirectas (la cacería de animales, encendido de fogatas y la quema de pólvora) y causas accidentales (la interacción abrupta o creciente de árboles con líneas para la conducción de energía, o atentados terroristas) [[7]](#ref-7).
@@ -57,6 +59,8 @@ Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso 
 :::
 
 ## 5.2 DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA
+
+------------------------------------------------------------------------
 
 La Orinoquía (@fig-c5-1), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino [[16]](#ref-16). La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo [[17]](#ref-17). Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm [[16]](#ref-16), [[18]](#ref-18). 
 
@@ -174,6 +178,8 @@ Además, sostienen que estos eventos de quema de biomasa, se deben principalment
 
 ## 5.3 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Los resultados obtenidos en el presente trabajo permiten generar por medio de una comparación de técnicas de teledetección pasiva, una aproximación metodológica para la detección de incendios con información libre, la cual puede usarse no solo en la zona de la Orinoquia sino también en otras regiones del territorio colombiano. Esto es importante ya que contribuye en el proceso de identificación de tendencias en los eventos de incendios y por ende fortalece la toma de decisiones en la gestión del riesgo. No obstante, se debe tener presente que esta aproximación puede derivar en la detección de falsos incendios, por lo que se hace necesario formular a futuro, un protocolo que permita identificar los errores de comisión, errores de omisión, acuerdos de áreas quemadas y no quemadas, para obtener datos más fieles a la realidad. 
 
 Por otro lado, se observan variaciones en los resultados de detección de incendios obtenidos por MODIS y Sentinel-2. Si se define como referencia la detección de áreas quemadas por MODIS, se encuentra que para el año 2020, las áreas quemadas obtenidas con Sentienel-2 son superiores en un 16.6%, mientras que para el año 2021, estos valores cambian en un 3,8%. Por lo anterior, es importante profundizar en las técnicas de cuantificación y validación de áreas quemadas de la mano de plataformas de uso libre como Google Earth Engine que permite el análisis de grandes volúmenes de datos a escala planetaria y definir un protocolo que permita realizar estimaciones cada vez más ajustadas a la realidad. 
@@ -196,6 +202,8 @@ Los incendios históricamente se asocian con dinámicas socio-económicas princi
 :::
 
 ## 5.4 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 ### 5.4.1 A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel 2.
 
@@ -270,17 +278,25 @@ El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas co
 
 ## 5.5 CONTRIBUCIÓN DE AUTORÍA CRediT
 
+------------------------------------------------------------------------
+
 Conceptualización: Daniela Torinjano, Adriana Osorio. Metodología: Daniela Torinjano, Adriana Osorio. Redacción de primera versión: Daniela Torinjano, Adriana Osorio, Alejandro Marulanda. Figuras y tablas: Daniela Torinjano, Adriana Osorio. Administración de proyecto: Adriana Osorio, Alejandro Marulanda. Búsqueda de evidencia: Daniela Torinjano, Adriana Osorio.
 
 ## 5.6 CONFLICTO DE INTERESES
+
+------------------------------------------------------------------------
 
 Los autores no declaran algún tipo de conflicto de intereses.
 
 ## 5.7 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Al Tecnológico de Antioquia I.U. principal financiador del proyecto bajo la modalidad de proyectos de investigación interna y a la Universidad EAFIT quien fue el cofinanciador.
 
 ## 5.8 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Daniela Torinjano Jiménez     
 
@@ -289,6 +305,8 @@ Adriana Osorio Mosquera
 Alejandro Marulanda Tobón   
 
 ## 5.9 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. Robinne, F-N., Burns, J., Kant, P., Groot, B., Flannigan M.D., Kleine M., Wotton D. M (2018). *Global Fire Challenges in a Warming World.* International Union of Forest Research Organizations, Occasional Paper No. 32. https://pure.iiasa.ac.at/id/eprint/15707/1/op32.pdf

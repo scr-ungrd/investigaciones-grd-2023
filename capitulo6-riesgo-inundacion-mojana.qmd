@@ -53,6 +53,8 @@ En la Gestión del Riesgo de Desastre (GRD), la definición de medidas de reducc
 
 ## 6.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 La resiliencia de una comunidad ante desastres derivados de eventos naturales puede definirse como su habilidad para anticiparse, absorber, recuperarse y mantener su funcionalidad ante la ocurrencia de eventos desastrosos, así como su capacidad para aprender, adaptarse y transformarse con el fin de reducir daños potenciales y garantizar su bienestar y seguridad ante eventos futuros [[1]](#ref-1), [[2]](#ref-2).
 
 Para fortalecer tales capacidades, es recomendable ejecutar medidas de intervención basadas en el conocimiento de la comunidad y de las posibles consecuencias por eventos desastrosos. Tal conocimiento puede enfocarse en diferentes componentes de la GRD: en el control/gestión de las amenazas, en el reforzamiento de la infraestructura, o en la respuesta a emergencias y en procesos educativos, entre otros.
@@ -77,6 +79,8 @@ Con ello se pretende aportar a la planificación de medidas de reducción del ri
 :::
 
 ## 6.2 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 La definición de evaluación del riesgo del Decreto 1807 de 2014 relaciona la zonificación detallada de amenaza con la evaluación de la vulnerabilidad (ver Caja 1). Así, como resultado final de la metodología, el riesgo se categorizó en alto, medio y bajo en función del nivel de afectación esperada. Para apoyar técnicamente a los entes territoriales a incorporar la GRD a sus instrumentos de planificación territorial, la metodología se planteó con un enfoque probabilista en la modelación de la amenaza, vulnerabilidad física y cálculo de riesgo. Adicionalmente se planteó el diagnóstico y evaluación de la vulnerabilidad social siguiendo la metodología de UNGRD-IEMP [[7]](#ref-7). En este capítulo se resumen los componentes principales de la metodología apropiados para la escala de trabajo reglamentada por el Decreto 1807 de 2014. Todos los detalles metodológicos se pueden encontrar en UNGRD (2018) [[8]](#ref-8).
 
@@ -262,6 +266,8 @@ Los parámetros en orden de relevancia en la evaluación de vulnerabilidad de ed
 
 ## 6.3 Evaluación y análisis de la vulnerabilidad social
 
+------------------------------------------------------------------------
+
 En los últimos años el país ha tenido notables avances en la evaluación del riesgo y específicamente en el análisis de la vulnerabilidad. La Ley 1523 de 2012 afirma que “La gestión del riesgo de desastres es un proceso social orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas, regulaciones, instrumentos, medidas y acciones permanentes para el conocimiento y la reducción del riesgo y para el manejo de desastres, con el propósito explícito de contribuir a la seguridad, el bienestar, la calidad de vida de las personas y al desarrollo sostenible” [[3]](#ref-3). En este contexto, se evidencia la necesidad de incorporar el análisis de la vulnerabilidad social a la evaluación de riesgo para construir un enfoque integral que considere elementos relacionados con la seguridad, el bienestar y la calidad de vida de la población.
 
 Para la evaluación de la vulnerabilidad existen varias aproximaciones [[28]](#ref-28)–[[35]](#ref-35), que tienen en cuenta aspectos tales como: el económico, institucional, físico, ambiental, ecológico, tecnológico, científico, material, cultural, sanitario y epidemiológico [[36]](#ref-36).
@@ -313,6 +319,8 @@ Para obtener el resultado de la pérdida del primer evento de análisis (*FDPev*
 
 ## 6.4 RESULTADOS ESTUDIO DE CASO: MONTELÍBANO (CÓRDOBA)
 
+------------------------------------------------------------------------
+
 ### 6.4.1 Zona de estudio
 
 Como caso de estudio para la aplicación de la metodología propuesta se seleccionó la región de La Mojana. Esta región es un delta hídrico que comprende 11 municipios de 4 departamentos de Colombia, por la cual transitan los ríos Magdalena, Cauca y San Jorge hacia su desembocadura en el mar Caribe. Por su topografía plana, la región presenta las condiciones ideales para la ocurrencia de eventos de inundación lenta de diferentes tipologías como (i) por desbordamiento de ríos y/o canales, y (ii) inundación pluvial. Por estas dos condiciones, en conjunto con la disponibilidad de modelos digitales de terreno detallados (tecnología LiDAR), La Mojana fue seleccionada como zona de estudio. En particular, cuatro cabeceras municipales se priorizaron para los casos de estudio: Magangué y Mompox (Bolívar), San Marcos (Sucre) y Montelíbano (Córdoba). En este artículo, se presentan en detalle los resultados para la cabecera municipal de Montelíbano (Córdoba).
@@ -324,6 +332,8 @@ El Municipio de Montelíbano se localiza al sur del departamento de Córdoba. Li
 ![Localización general de la cabecera municipal de Montelíbano (Córdoba).](images/capitulo_6/Figura_11.png){#fig-c6-11}
 
 ## 6.5 Evaluación de la amenaza Montelíbano
+
+------------------------------------------------------------------------
 
 **Información gráfica de un evento histórico**
 
@@ -439,6 +449,8 @@ Cerca del 6 % de la población del municipio y alrededor del 3% de las construcc
 
 ## 6.6 Evaluación y análisis de la vulnerabilidad física Montelíbano
 
+------------------------------------------------------------------------
+
 Esta sección presenta los resultados de funciones de vulnerabilidad para las tipologías de edificaciones identificadas en Montelíbano para los rubros de contenidos y edificaciones. Las funciones desarrolladas para contenidos relacionan el tirante hídrico con el valor esperado de la pérdida, expresada como un porcentaje de los costos de reposición. Se consideran dos condiciones de distribución de contenidos dentro de la edificación. La primera, llamada condición no adaptada, la cual representa la distribución cotidiana de contenidos, y la segunda, llamada condición adaptada, considera una distribución de contenidos en la cual los habitantes modifican su localización con el fin de proteger sus enseres del evento de inundación.
 
 Se generan funciones de vulnerabilidad para contenidos en edificaciones de 1 a 3 pisos de usos residenciales de los estratos socioeconómicos 1 a 3, y para edificaciones de salud, educación, institucional y comercial de estrato socioeconómico único. 
@@ -469,6 +481,8 @@ Para usos educativo, institucional y salud, la información recopilada clasifica
 
 ## 6.7 Funciones de daño para rubro de edificaciones
 
+------------------------------------------------------------------------
+
 La metodología plantea la generación de un número de edificaciones hipotéticas sobre las cuales se evalúa el daño de elementos estructurales y no estructurales. La @tbl-c6-6 presenta una ficha de vulnerabilidad de edificaciones de la tipología de mampostería de concreto de 1 piso y cubierta liviana. El parámetro más relevante en la evaluación de vulnerabilidad por contenidos es el uso de la edificación y el número de pisos. Los datos recopilados en el trabajo de campo no permitieron concluir que existe una variación clara de la vulnerabilidad en relación con los estratos socioeconómicos en términos de elementos estructurales. Según los resultados, y considerando las bajas velocidades de flujo en los eventos de inundación típicos de la zona, se espera que las pérdidas se concentren en los contenidos. Para niveles bajos de velocidad no se espera daño estructural considerable en las edificaciones. En general, los daños esperados en las edificaciones se reducen a afectaciones de pinturas y acabados fácilmente reparables. 
 
 La totalidad de resultados de la evaluación de vulnerabilidad física se encuentran en el documento [[50]](#ref-50).
@@ -478,6 +492,8 @@ La totalidad de resultados de la evaluación de vulnerabilidad física se encuen
 
 
 ## 6.8 Evaluación y análisis de la vulnerabilidad social
+
+------------------------------------------------------------------------
 
 Esta sección incluye algunos de los resultados del análisis de la vulnerabilidad social, relacionados con el contexto de los hogares e individuos. Para esto, se llevaron a cabo encuestas a 160 hogares ubicados en zonas de amenaza alta por inundación y encuestas de percepción local del riesgo a 22 personas, donde se incluyeron minorías étnicas, personas con capacidades diferentes, personas de la tercera edad, entre otras. Para cada uno de los numerales, se presentan algunos de los resultados obtenidos acorde a la metodología utilizada [[7]](#ref-7).
 
@@ -499,6 +515,8 @@ Pregunta 2 Contexto Hogar Montelíbano (Izquierda). Pregunta 4 Percepción del r
 
 ## 6.9 Gestión del riesgo de desastres
 
+------------------------------------------------------------------------
+
 Las familias residentes en los sectores más deprimidos son vulnerables debido a factores ambientales como la erosión, las inundaciones y la falta de cobertura de calidad de algunos de los servicios públicos básicos. Los sectores más expuestos al riesgo son los barrios Mucha Jagua, la Pesquera, Villa Clemen, Campo alegre, algunas edificaciones viejas y la clínica Regional. Se observa en la @tbl-c6-7 cómo los miembros de la comunidad establecen diferentes medidas para la prevención del desastre o eventos de riesgo.
 
 : Trabajo de campo sobre medidas de prevención del riesgo. {#tbl-c6-7}
@@ -509,6 +527,8 @@ Las familias residentes en los sectores más deprimidos son vulnerables debido a
 | DRAGADO DE LAS FUENTES HÍDRICAS. (Ríos y Caños) Previene el rebosamiento y el fluir de las cuencas hídricas – Arrastre de la flora. Medida: corto y mediano plazo. Responsables: CAR, CVS, Municipios y Gobierno. | REUBICACIÓN Y PREVENCIÓN DE CONSTRUCCIONES EN ZONA DE ALTO RIESGO. Personal afectado y emergencias. Medida: corto y largo plazo. Responsables: Consejo Municipal de Gestión del Riesgo de Desastres, Planeación, Gobierno Nacional, Min. Vivienda, Fondo de adaptación. | ADAPTACIÓN Y DOTACIÓN DE SITIOS PÚBLICOS PARA ALBERGUES. Previene problemas de salud pública y sanitarios. Medida: Mediano y largo Plazo. Responsables: Municipio. |
 
 ## 6.10 Percepción del riesgo
+
+------------------------------------------------------------------------
 
 Se evidencia gran desconocimiento en factores importantes de la GRD en los habitantes de los diferentes barrios del municipio, siendo esto un factor que aumenta la vulnerabilidad de las familias. El 64% de los habitantes del municipio encuestados desconocen la ubicación y las funciones de la oficina de gestión del riesgo del municipio (@fig-c6-29).
 
@@ -522,6 +542,8 @@ Pregunta 20 percepción del riesgo Montelíbano (Izquierda). Pregunta 22 Encuest
 
 ## 6.11 Desarrollo de capacidades
 
+------------------------------------------------------------------------
+
 Con relación a la percepción, el 94% de la población afirma que no posee suficientes conocimientos y habilidades para la prevención de desastres. Además, 92% considera que no se han implementado acciones educativas para la GRD como se observa en la @fig-c6-30.
 
 ::: {#fig-c6-30 layout-ncol="2"}
@@ -533,6 +555,8 @@ Pregunta 18 contexto hogar Montelíbano (Izquierda). Pregunta 19 Contexto hogar 
 :::
 
 ## 6.12 Causas de la vulnerabilidad social
+
+------------------------------------------------------------------------
 
 En esta sección se hace una descripción de la situación actual de los activos naturales, sociales y una mirada general a cómo se desarrollan las relaciones al interior de los hogares. En el componente de enfoque diferencial y equidad de género, el 94% de la población encuestada afirma que si existe equidad entre hombres y mujeres. 
 
@@ -574,6 +598,8 @@ Zonificación de la vulnerabilidad social en el contexto hogar y comunidad en Mo
 :::
 
 ## 6.13 Evaluación y análisis del riesgo por inundación en Montelíbano
+
+------------------------------------------------------------------------
 
 Siguiendo la metodología de EPR por inundación propuesta (@fig-c6-10) [[8]](#ref-8), se calculan las pérdidas potenciales para edificaciones localizadas en la cabecera municipal de Montelíbano por efecto de inundaciones lentas. Los resultados del cálculo de riesgo se presentan en términos de CEP, PAE por rubros, PML, mapa de riesgo de PAE relativa, y mapa de clasificación de riesgo en niveles alto, medio y bajo. 
 
@@ -651,6 +677,8 @@ Las comunidades viven y comprenden las inundaciones desde su espacio territorial
 
 ## 6.14 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 El modelo de EPR por inundación con enfoque integral es un insumo técnico para la construcción de conocimiento del riesgo tanto a nivel de comunidades y actores locales, como de personal técnico en entidades privadas y públicas, y tomadores de decisión a escalas locales y regionales. A su vez, es un instrumento metodológico y práctico que pretende generar aportes en la integración de la GRD por inundación en los instrumentos de planificación territorial, impactando así en la construcción de comunidades más resilientes a los efectos de eventos de inundación e incrementando su conocimiento y capacidad de acción en los actores ya mencionados.
 
 Se destaca que, dada la escala de detalle para la cual fue propuesto el modelo y el fuerte componente de trabajo de campo propuesto, se genera una serie de ventajas, entre las que sobresalen:
@@ -680,11 +708,15 @@ Debido a la escala de detalle para la cual se plantea la metodología, para todo
 
 ## 6.15 MATERIAL SUPLEMENTARIO
 
+------------------------------------------------------------------------
+
 Las plantillas propuestas para trabajo de campo, datos, y detalles completos de la metodología propuesta se encuentran en el documento *Lineamientos técnicos para el desarrollo de estudios de riesgo por inundación lenta* [[8]](#ref-8). 
 
 La totalidad de resultados obtenidos para los casos de estudio seleccionados están en el documento *Evaluación Probabilista del Riesgto por inundación lenta en cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)* [[50]](#ref-50).
 
 ## 6.16 CONFLICTO DE INTERESES
+
+------------------------------------------------------------------------
 
 Los autores no declaran conflicto de intereses.
 
@@ -694,9 +726,13 @@ Conceptualización: JCO, PAV, JAV, JDA. Metodología: JCO, PAV, JAV, JDA. Redacc
 
 ## 6.17 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Los autores agradecen en primer lugar a la Subdirección para el Conocimiento del Riesgo de la UNGRD por servir como un gestor, patrocinador y garante de la ejecución del proyecto. A su directora Lina Dorado González, y a todo el equipo de trabajo que hizo posible la ejecución de todos los componentes del proyecto. Adicionalmente, los autores agradecen a las siguientes entidades y actores que prestaron un apoyo valioso al desarrollo del proyecto: Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), Instituto Geográfico Agustín Codazzi (IGAC), Departamento Administrativo Nacional de Estadística (DANE), Universidad de Cartagena, Comités Departamentales y Municipales de Gestión del Riesgo y Líderes de Juntas de Acción Comunal. 
 
 ## 6.18 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Juan Camilo Olaya González		
 
@@ -715,6 +751,8 @@ Lina Dorado González
 Juan Pablo Forero Acevedo		 
 
 ## 6.19 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. PreventionWeb. (2021). *Resilience*.

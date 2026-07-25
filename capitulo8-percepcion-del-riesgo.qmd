@@ -32,6 +32,8 @@ La evaluación que las personas hacen de un riesgo obedece a la confluencia de d
 
 ## 8.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Un acontecimiento deviene amenaza en función de sus características, como también de la forma en que se percibe por los individuos. En este orden de ideas, la peligrosidad de un evento es susceptible de evaluarse cuando el individuo o la población están realmente expuestos a este, y tal exposición, que depende de las condiciones sociales y ecológicas de existencia, se asocia con la variabilidad de la percepción del riesgo. Un riesgo puede considerarse como tal a partir de la evaluación que los individuos hacen de él, la cual involucra las características físicas del fenómeno de referencia y elementos disposicionales de las personas, tanto como aspectos sociales y culturales. En este sentido, se trata de una evaluación que obedece a una confluencia de condiciones e informaciones disponibles, conducente a juicios sobre la peligrosidad del evento.
 
 El estudio de la percepción del riesgo se ha centrado en los juicios de las personas acerca de los riesgos relacionados con su valoración de la peligrosidad de actividades consideradas como amenazantes, riesgos naturales o derivados del uso de tecnologías [[1]](#ref-1). Estas percepciones pueden impactar significativamente las decisiones que las personas toman, y determinar su nivel de preparación para hacer frente a los peligros de manera efectiva y, en consecuencia, las respuestas que puedan dar ante un problema ambiental real [[2]](#ref-2), [[3]](#ref-3). En este sentido, la percepción del riesgo no está influenciada únicamente por factores de naturaleza técnica (estimaciones de probabilidad y magnitud del riesgo), sino por otros aspectos, como si se percibe justo o no que ciertos grupos estén sujetos al riesgo, si este es o no voluntario, si es visto por las personas como artificial o natural, como predecible, controlable, familiar [[1]](#ref-1), [[4]](#ref-4). 
@@ -54,6 +56,8 @@ En esta pretensión de recoger algunas reflexiones suscitadas a partir de tales 
 :::
 
 ## 8.2 ASPECTOS INFLUYENTES EN LA PERCEPCIÓN DEL RIESGO
+
+------------------------------------------------------------------------
 
 La revisión de antecedentes investigativos, tanto como los estudios realizados en nuestro país, a propósito de la percepción del riesgo de desastres, nos permiten resaltar algunos aspectos psicosociales que, en interacción con diversos fenómenos riesgosos, posibilitan ampliar la comprensión de la manera como las personas nos relacionamos con los riesgos ambientales. Así, la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos (@fig-c8-1).
 
@@ -118,6 +122,8 @@ Cabe señalar que las desigualdades sociales y la precariedad de la presencia de
 
 ## 8.3 CONSIDERACIONES FINALES
 
+------------------------------------------------------------------------
+
 La percepción del riesgo varía en función de la evaluación que las personas hacen de la posibilidad de impacto sobre su bienestar [[47]](#ref-47); así también, las capacidades para protegerse de un riesgo difieren entre las sociedades, y el uso y efectividad de las estrategias individuales y colectivas de protección no dependen tanto de la decisión de personas y grupos, como de otros aspectos psicosociales y de las condiciones socialmente desiguales en las sociedades [[8]](#ref-8). Incluso los autores del enfoque psicométrico de la percepción del riesgo han planteado la idea de la construcción social de la percepción, acercándose a perspectivas sociológicas y culturales. La percepción del riesgo, los juicios sobre la peligrosidad de un fenómeno y su control, son también el resultado de creencias, conocimientos y actitudes de los grupos sociales, de su relación histórica y material con el fenómeno del que se trate, considerado como un riesgo por grupos como las autoridades. En esta vía, planteamos la necesidad de un análisis de la evaluación del riesgo ambiental que integre varios niveles y enfoques teórico-metodológicos, que permitan aprehender la complejidad del fenómeno.
 
 La literatura sobre el tema, complementada con aproximaciones investigativas propias, nos ha permitido identificar aspectos que probablemente estén asociados a las acciones cotidianas de gestión del riesgo. Estos elementos son de distinta naturaleza y nivel: sociales, culturales, individuales y contextuales-situacionales, y nos permiten comprender mejor la relación de las personas con un riesgo ambiental. De esta forma, aspectos socioculturales, tales como los arreglos sociales que llevan a una distribución desigual de los riesgos y de los recursos para hacerles frente, así como las relaciones con las instituciones encargadas de su gestión, determinan las características de la vulnerabilidad de las personas y grupos. Estos asuntos remiten a las condiciones sociohistóricas de exposición y relación con los riesgos, su definición, evaluación y gestión. 
@@ -137,6 +143,8 @@ El trabajo que presentamos, siguiendo las pistas de la literatura y de los estud
 
 ## 8.4 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 A todos los participantes de nuestras investigaciones, habitantes de zonas de riesgo, que dedicaron su tiempo a responder a nuestras cuestiones.
 
 **CONTRIBUCIÓN DE AUTORÍA CRediT**
@@ -145,15 +153,21 @@ Conceptualización: LAMD, OENC. Redacción de primera versión: LAMD, OENC. Escr
 
 ## 8.5 IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 Luz Adriana Muñoz Duque
 
 Óscar E. Navarro Carrascal
 
 ## 8.6 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses
 
 ## 8.7 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. Weber, J. M., Hair, J. F., & Fowler, C. R. (2000). Developing a measure of perceived environmental risk. *Journal of Environmental Education*, *32*(1), 28–35.

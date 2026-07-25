@@ -36,6 +36,8 @@ Disaster risk management is a social process that, in addition to the technical 
 
 ## 9.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 La mayor extensión del territorio colombiano corresponde a suelo rural [[1]](#ref-1). El 22.9% de la población nacional es rural, de la cual el 15.8% es población rural dispersa y el restante 7.1% habita en alguno de los 6,896 centros poblados rurales. El 30.22% de población rural dispersa vive con necesidades básicas insatisfechas (NBI) y el 10.51% viven en la miseria con deficiencias significativas de vivienda, prestación de servicios públicos, asistencia en salud y dependencia económica. Estos porcentajes aumentan a nivel regional porque el desarrollo regional ha sido desequilibrado, y las poblaciones rurales más alejadas de los centros urbanos de poder económico y político presentan cifras alarmantes en las condiciones de pobreza y marginalidad. Por ejemplo, en Antioquia el porcentaje de personas rurales con NBI es del 26.77%, en Chocó de 62.58%, y en Vaupés de 86.17%. Del mismo modo ocurre con los porcentajes de población rural en la miseria, que en Antioquia corresponden al 9.13% de la población, en Chocó al 30.35%, y en Vaupés al 58.27% [[1]](#ref-1). 
 
 Es necesario precisar, que la población campesina está inmersa tanto en la población de centros poblados rurales como en el área rural dispersa, representando la mayoría de dicha población. Al respecto, según la Encuesta Nacional de Calidad de Vida 2019 (ECV) [[2]](#ref-2), el 84.8% de la población de centros poblados y rural dispersa se reconoce como campesina, así como el 84.7% de los hogares. En cuanto a las NBI de esta población, el 35.4% de los hogares campesinos tiene incidencia de pobreza multidimensional y el 65.4% de los jefes de hogar campesino se perciben como pobres [[2]](#ref-2). Es importante anotar que dicha información se discrimina para los campesinos sólo a partir del año 2020, y no se tienen registros diferenciados de censos o encuestas de calidad de vida anteriores.
@@ -70,6 +72,8 @@ En este capítulo se pretende mostrar que incorporar una mirada diferenciadora e
 
 ## 9.2 LA GESTIÓN DEL RIESGO DE DESASTRES COMO PROCESO SOCIAL
 
+------------------------------------------------------------------------
+
 La categoría riesgo de desastres de origen natural y socio-natural se ha investigado ampliamente desde distintas áreas del conocimiento, especialmente desde la geología [[18]](#ref-18), la ingeniería [[10]](#ref-10), [[19]](#ref-19), y desde algunas ciencias sociales como la sociología [[20]](#ref-20), también desde las teorías del desarrollo [[14]](#ref-14), [[15]](#ref-15), [[21]](#ref-21) o la geografía [[10]](#ref-10), [[18]](#ref-18). En contraste, el derecho poco se ha ocupado del estudio del riesgo, más allá de la creación de legislación para regular los seguros o la conformación y funcionamiento de organismos de socorro. En Colombia, apenas desde 2012 se creó una política pública de gestión del riesgo de desastres que trasciende los aspectos de intervención en el desastre y post-desastre, para ocuparse de la reducción y mitigación de estos [[22]](#ref-22).
 
 La evolución teórica y conceptual de la gestión del riesgo de desastres ha sido globalmente muy dinámica y existe un consenso de la relación entre los desastres con las condiciones sociales de las poblaciones [[11]](#ref-11). Así mismo, que para establecer las características y la magnitud del riesgo es necesario considerar que las condiciones sociales son amplificadores del mismo [[23]](#ref-23).
@@ -90,6 +94,8 @@ Por consiguiente, la gestión del riesgo de desastres se configura como una estr
 
 ## 9.3 EL ENFOQUE DIFERENCIAL EN LA GESTIÓN DEL RIESGO DE DESASTRES
 
+------------------------------------------------------------------------
+
 El enfoque diferencial hace referencia a la necesidad de establecer un trato diferente a grupos de población que están en una situación de mayor vulnerabilidad en razón de sus condiciones propias como de etnia, género, edad, orientación sexual o discapacidad, lo cual requiere la adopción de medidas que permitan superar esa vulnerabilidad. Conceptualmente se entiende el enfoque diferencial como un proceso político en el que se afirman derechos identitarios y consiste en reivindicar y conceder derechos jurídicos, políticos, sociales y culturales a poblaciones históricamente marginadas [[27]](#ref-27).
 
 Para que la gestión del riesgo de desastres incorpore el enfoque diferencial y a partir de este implementar acciones diferenciadoras, es necesario revisar la forma en que se recolecta la información de los desastres y sus efectos, la cual además de dirigirse a entender las dinámicas de los desastres, debe permitir resolver preguntas técnicas como ¿qué factores inciden en la ocurrencia de los eventos?, ¿quiénes son los damnificados por los desastres? o ¿cuáles pérdidas se generan?, así como preguntas socio-culturales que posibiliten identificar elementos culturales que reducen o incrementan la vulnerabilidad. 
@@ -99,6 +105,8 @@ Otra característica de la problemática asociada a la recolección de la inform
 La Ley 1523 de 2012 está pensada para lo urbano, con fundamento en que las áreas urbanas tienen una mayor concentración de población, lo que potencia los impactos. Sin embargo, analizando los datos de DesInventar 2003, se determina que sólo el 30% de los desastres se localizan en ciudades [[28]](#ref-28). De esta manera, puede observarse que desde la política nacional no hay un enfoque específico para lo rural, tampoco para los campesinos a pesar de su vulnerabilidad. Por consiguiente, es necesaria una re-significación del concepto riesgo de desastre que incluya una mirada diferencial para las comunidades campesinas en el país. 
 
 ## 9.4 El CAMPESINO Y SU NECESARIO RECONOCIMIENTO COMO SUJETO DIFERENCIADO EN LA GESTIÓN DEL RIESGO DE DESASTRES
+
+------------------------------------------------------------------------
 
 A continuación, se desarrolla el concepto de *campesino* como un primer aporte a la configuración de este grupo poblacional, como un sujeto diferenciado a ser incorporado en la gestión del riesgo y se precisa que se entiende por enfoque diferencial. 
 
@@ -144,6 +152,8 @@ Un enfoque diferencial permitirá a la gestión del riesgo identificar las neces
 
 ## 9.5 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 La gestión del riesgo de desastres de origen natural y socio–natural debe entenderse como una política de desarrollo estrechamente vinculada con las políticas de protección social, que se constituye en un posibilitador de calidad de vida y bienestar para la población, por ende, para la concreción en la práctica del derecho a la vida digna. Sin embargo, para todos los grupos poblacionales, este derecho no se concreta de igual forma por lo que es necesario realizar acciones positivas frente a los grupos más vulnerables como los campesinos. Para ello se requiere inicialmente que la recolección de información se diferencie y que se realicen estudios que se enfoquen específicamente en este grupo poblacional. 
 
 La tarea propuesta no es sencilla, ya que si bien frente a grupos positivamente diferenciados, como por ejemplo las comunidades étnicas o las mujeres, existen niveles de aprobación frente a quienes los integran y la necesidad de brindarles una especial protección desde el derecho. En el caso de los campesinos aún no existe consenso en su conceptualización como categoría, ni sobre quiénes son los sujetos individuales que forman este grupo social y menos sobre su consideración como grupo sujeto especial de derecho. Por lo anterior, es indispensable considerar la relación riesgo/desarrollo sostenible desde la implementación de la política de gestión del riesgo de desastres dirigida a los campesinos que dé respuesta anticipada a los impactos negativos que los desastres socio-naturales tienen sobre el bienestar de estas poblaciones, y cómo las políticas públicas de protección social pueden generar soluciones acordes a las características y condiciones propias de los campesinos. 
@@ -161,6 +171,8 @@ Asimismo, si se logra que las medidas adoptadas sean más acordes a las caracter
 En igual medida, se considera importante señalar que el enfoque diferencial permite a la gestión del riesgo de desastres entender que los derechos humanos son una integralidad y que su concreción en la práctica contribuye a superar las condiciones de invisibilización de los campesinos partiendo del reconocimiento identitario de los campesinos, lo cual implica que la planificación del territorio y la gestión del riesgo de desastres se realice con la participación de los mismos, de forma que posibilite la protección de sus derechos, sobre todo, el derecho a disfrutar de una vida en condiciones óptimas y dignas. 
 
 ## 9.6 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 El método implementado es cualitativo y el enfoque que orientó la investigación es el hermenéutico [[39]](#ref-39), que comprende tres pasos o momentos, el acercamiento interpretativo a los textos, el acercamiento a las comunidades campesinas en cuanto sujetos–objetos de investigación y la síntesis que conjuga la interpretación textual, con la interpretación que el investigador realiza de lo expresado por los sujetos. En este artículo se presentan los resultados del primer momento en el cual, en la búsqueda de una creación, de un aporte al saber jurídico, se desenvuelve una experiencia que es el momento del pensamiento, del cuestionamiento, de la reflexión sobre la pregunta de investigación que nos llevó a cuestionarnos sobre las propuestas que desde el derecho, contribuyen al mejoramiento de la calidad de vida de las poblaciones, para el caso de estudio indagar sobre cómo desde la gestión del riesgo de desastres socio-naturales se puede posibilitar el derecho a la vida digna de los campesinos en Colombia. 
 
@@ -187,6 +199,8 @@ La gestión del riesgo de desastres debe considerarse como una política públic
 
 ## 9.7 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Las autoras no declaran conflicto de intereses 
 
 **CONTRIBUCIÓN DE AUTORÍA CRediT**
@@ -195,11 +209,15 @@ Conceptualización: SEAV, SPDQ. Metodología: SEAV, SPDQ. Redacción de primera 
 
 ## 9.8 IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 Sandra Eliana Alzate Vargas 
 
 Sandra Patricia Duque Quintero 
 
 ## 9.9 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. DANE (Departamento Administrativo Nacional de Estadística). (2019). *Manual de Conceptos Censo Nacional de Población y Vivienda-Cnpv 2018.*

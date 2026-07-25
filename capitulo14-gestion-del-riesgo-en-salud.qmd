@@ -26,7 +26,11 @@ El 25 de enero de 1999 ocurrió un terremoto de magnitud 6.2 que generó un desa
 
 ## 14.1 MARCO CONCEPTUAL SOBRE LA GESTIÓN DEL RIESGO EN SALUD
 
+------------------------------------------------------------------------
+
 ## 14.2 La gestión del riesgo en salud, varias aproximaciones
+
+------------------------------------------------------------------------
 
 **El riesgo en salud.** El interés por los riesgos en salud ha existido siempre pero cada vez más incluye nuevas perspectivas para el análisis de riesgos y tiene como punto de partida la definición, identificación, cuantificación y caracterización de amenazas para la salud humana y el medio ambiente. Desde esta perspectiva el concepto de riesgo puede denotar una adversidad o amenaza potencial, una consecuencia o un factor que puede aumentar el efecto adverso; en este sentido el concepto de riesgo en salud se ha transformado en distintos contextos, tales como [\[1\]](#ref-1):
 
@@ -125,6 +129,8 @@ Los principios para la atención de las personas con condiciones mentales, neuro
 
 ## 14.3 EL MANEJO EN SALUD PÚBLICA EN ARMENIA DURANTE EL TERREMOTO DE 1999
 
+------------------------------------------------------------------------
+
 A continuación, se describe la situación y manejo de salud pública durante el terremoto del eje cafetero en el año 1999 con base en tres informes de la Secretaría de Salud del Municipio de Armenia: la atención de la emergencia durante el mes de enero, la estrategia de Atención Primaria en Salud en los seis primeros meses y el resumen de la gestión en el año 1999.
 
 ::: {#fig-armenia layout-nrow="2"}
@@ -137,6 +143,8 @@ Fotografía de Armenia post terremoto en 1999 (izquierda) y en pandemia Covid 20
 
 ## 14.4 Perfil epidemiológico de la emergencia de enero de 1999
 
+------------------------------------------------------------------------
+
 La Secretaría de Salud elaboró un informe sobre las personas atendidas el 25 y 26 de enero de 1999 según el cual se atendieron 6,407 personas, 42.8% hombres y 57.2% mujeres y el grupo etáreo más afectado fue 15–44 años. Se obtuvo información detallada de 4,667 afectados y se identificaron como causas de atención: otros traumatismos, otra herida en la cabeza, herida del codo, antebrazo y muñeca, contusión, fractura de húmero, herida de varios dedos de la mano, traumatismo intracraneal, herida de rodilla, pierna y tobillo y fractura de clavícula [\[22\]](#ref-22).
 
 Se registraron 1,109 muertes, 921 en el municipio de Armenia (83%), 51.3% hombres y 48.7% mujeres, con predominio en el grupo 15–44 años y sus causas de muerte fueron: trauma craneoencefálico, politraumatismo, aplastamiento, sofocación, shock hipovolémico, trauma cerrado, insuficiencia respiratoria, shock traumático, anoxia e infarto agudo de miocardio [\[22\]](#ref-22).
@@ -146,6 +154,8 @@ El manejo de los cadáveres se llevó a cabo por el Cuerpo Técnico de la Fiscal
 La Secretaría de Salud manifestó que la principal causa de morbilidad y mortalidad fueron los traumas craneoencefálicos y politraumatismos, que afectaron principalmente a la población económicamente activa, lo que significa una importante pérdida en años de vida potencialmente perdidos (AVPP) y considera que se requiere mejorar la preparación institucional organizada para dar respuesta a ese tipo de traumas porque hace falta una red de urgencias en el municipio de Armenia como elemento integrador en el manejo de la fase post-desastre. La Secretaría contó con la red nacional de urgencias para el traslado y manejo de pacientes y se organizó una red de apoyo por parte de instituciones externas al municipio [\[22\]](#ref-22).
 
 ## 14.5 La estrategia de Atención Primaria en Salud (APS)
+
+------------------------------------------------------------------------
 
 Según este informe con el fin de responder a las necesidades de la población damnificada en el municipio de Armenia ante el terremoto del 25 de enero de 1999, la Secretaría de Salud determinó la adopción de un modelo de Atención Primaria en Salud que se denominó Gestión del Riesgo, la cual tuvo los siguientes componentes: atención a las personas, atención al ambiente, vigilancia en salud pública y educación básica en situación de desastre en el contexto de ciudad educadora [\[23\]](#ref-23).
 
@@ -178,6 +188,8 @@ Con respecto a la participación comunitaria se identificaron los diferentes lí
 En informe remitido al Ministerio de Salud el 8 de junio de 1999 la Secretaría de Salud precisa que ha trabajado con la estrategia es la gestión cotidiana del riesgo; es decir; que identifico los riesgos tanto en atención a las personas, como en atención al ambiente, se analizó y se buscaron alternativas de solución diariamente. Sobre los asentamientos informa que existen 35 alojamientos temporales y persisten asentamientos espontáneos; existen también asentamientos invasivos que aparecieron al siguiente mes post terremoto por personas procedentes de fuera de Armenia como Urabá, Valle o Chocó. Estos sitios permanecían como de alto riesgo sanitario porque no era posible para el municipio instalar servicios de agua potable y saneamiento básico, lo cual estaría avalando la invasión de esos lotes. La Secretaría de salud facilitó la instalación de baños portátiles (al principio) y luego coordinó con algunas ONG la instalación de agua y baños en los límites de los asentamientos, pero persistía el problema de aguas servidas [\[23\]](#ref-23).
 
 ## 14.6 Informe de gestión y resultados 1999
+
+------------------------------------------------------------------------
 
 Según el informe de gestión y resultados de la Secretaría de Salud de Armenia durante el año 1999 se llevó a cabo el Plan Local de Salud “Armenia Municipio Saludable por la Paz” cuyas cinco áreas se ajustaron en el contexto post-desastre como se describe en cada una de ellas [\[24\]](#ref-24).
 
@@ -225,6 +237,8 @@ Se logró la estrategia de pares en adolescentes escolarizados y líderes de alo
 
 ## 14.7 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 La Secretaría de Salud del Municipio de Armenia ante el terremoto del 25 de enero de 1999 adoptó un modelo de Atención Primaria en Salud al cual denominó Gestión del Riesgo que tenía los componentes de atención a las personas, atención al ambiente, vigilancia en salud pública y educación básica en situación de desastre en el contexto de ciudad educadora. El enfoque de la estrategia fue la gestión cotidiana del riesgo; es decir, el riesgo se identificó tanto en atención a las personas como en atención al ambiente, para analizarlo y buscar alternativas de solución diariamente. Se puede afirmar que al revisar los informes se hacía un análisis de las amenazas y se buscaban alternativas de solución de manera cotidiana, y que se atendieron prioridades en salud pública en cuanto a la salud física y mental de las personas y su convivencia social, así como las prioridades en el ambiente, en agua potable y saneamiento básico.
 
 La fecha del terremoto del eje cafetero antecede a los marcos de referencia vigentes y es posible que los aprendizajes de ese desastre hayan aportado a la actual construcción conceptual y normativa, confirmando que el desastre es siempre una dolorosa oportunidad de aprendizaje y que ese aprendizaje es casi una obligación social para la gestión del riesgo; es por esto que en la conclusión se revisan las lecciones aprendidas en Armenia en el contexto de las prioridades del Protocolo de Sendai.
@@ -253,21 +267,31 @@ En este espacio es importante preguntarse si los aprendizajes que dejó el terre
 
 ## 14.8 MATERIALES Y MÉTODOS
 
+------------------------------------------------------------------------
+
 Estudio descriptivo de corte, con base en la información generada por la Secretaría de Salud del Municipio de Armenia durante el desastre generado por el terremoto de 1999.
 
 ## 14.9 CONFLICTO DE INTERESES
+
+------------------------------------------------------------------------
 
 La autora manifiesta no tener conflicto de intereses
 
 ## 14.10 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 A la Secretaría de Salud de Armenia, que permitió la revisión de los informes generados durante el Desastre posterior al terremoto de 1999. A la Organización Panamericana de la Salud (OPS), por su autorización para citar el material de la OPS en el presente documento.
 
 ## 14.11 IDENTIFICACIÓN DE AUTOR
 
+------------------------------------------------------------------------
+
 Olga Alicia Nieto-Cárdenas
 
 ## 14.12 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 ::::::::::::::::::::::::::: {#ref-1}
 1.  Organización Mundial de la Salud. (2002). *Riesgos para la salud. Informe de la salud en el mundo*. OMS Ginebra.

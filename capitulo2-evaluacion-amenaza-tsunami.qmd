@@ -41,6 +41,8 @@ Los tsunamis son eventos naturales que históricamente han afectado áreas coste
 
 ## 2.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 La gestión del riesgo de desastres parte del conocimiento de la amenaza y la compresión del entorno físico y socio-cultural. Para los eventos de tsunami especialmente, es necesario entender los fenómenos que los pueden desencadenar y la configuración morfológica en el área de estudio. La presente investigación se enfocó en el casco urbano de Guapi, situado paralelamente al río con su mismo nombre al interior de la Bahía de Guapi ubicada sobre el Litoral Pacífico Colombiano (LPC) (@fig-c2-1). Esta zona corresponde a una planicie costera deltaica compuesta por ríos principales con dirección N40°W y ríos tributarios, formando valles relativamente amplios y sinuosos y terrazas aluviales de hasta 2 km de amplitud. Esta red densa de drenaje es producto de las altas precipitaciones y la baja permeabilidad del suelo, además, es importante resaltar la influencia del régimen mareal, el cual se prolonga hasta unos 15 km adentro del continente [[1]](#ref-1). 
 
 Históricamente, el LPC ha sido afectado por eventos sísmicos precursores de tsunami, en el año 1906, 1942, 1958 y 1979 con magnitudes de 8.8 Mw, 7.9 Ms, 7.8 Ms y 8.1 Mw, respectivamente [[2]](#ref-2), se reportan alturas de tsunami basado en relatos históricos de 5m y 1m, y de 3m y 2m para Tumaco y Guapi en los eventos de 1906 y 1979 respectivamente [[3]](#ref-3), [[4]](#ref-4). 
@@ -64,6 +66,8 @@ Teniendo en cuenta la ubicación geográfica, las condiciones físicas del entor
 :::
 
 ## 2.2 MÉTODO PARA LA EVALUACIÓN DE LA AMENAZA POR TSUNAMI EN EL LPC
+
+------------------------------------------------------------------------
 
 **Escenarios sísmicos fuentes de tsunami**
 
@@ -108,6 +112,8 @@ En cada dominio computacional se efectúa inicialmente la deformación del fondo
 Por último, se establecieron 13 puntos de observación con el fin de registrar la evolución de la onda de tsunami desde su propagación en aguas abiertas en la Bahía de Guapi hasta aguas interiores en el canal del río Guapi, propuestos por Castrillón et al. [[14]](#ref-14) (@fig-c2-4).
 
 ## 2.3 RESULTADOS DE EVALUACIÓN DE LA AMENAZA
+
+------------------------------------------------------------------------
 
 **Deformación vertical del lecho marino**
 
@@ -165,6 +171,8 @@ Las casas de palafitos (casas sobre el agua sostenidas por pilotes de madera) en
 
 ## 2.4 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 En el análisis para determinar la amenaza por tsunami se identificó que el escenario más desfavorable para el casco urbano de Guapi es el escenario denominado “peor escenario” del modelo de deslizamiento interplaca, en comparación de los escenarios 1906 y 1979. Además, es coherente con lo reportado en otras ciudades como el casco urbano de San Andrés de Tumaco e Isla Cascajal en Buenaventura [[8]](#ref-8).
 
 Con base en este escenario, se determinó la profundidad de inundación máxima para la población de Guapi, estableciendo la zona intermareal inundada donde se presenta altura del tsunami, y desde este punto se define las áreas de profundidad de inundación por tsunami con su respectivo rango de profundidad de inundación. Este mapa es un insumo base para definir zonas de menor exposición, estimar los daños potenciales causados por un tsunami y crear planes de mitigación ante tsunamis en el casco urbano de Guapi.
@@ -185,6 +193,8 @@ El presente estudio se enfoca en la evaluación de la amenaza por tsunami exacta
 
 ## 2.5 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses
 
 **CONTRIBUCIÓN DE AUTORÍA CRediT**
@@ -193,9 +203,13 @@ Conceptualización: Ronald Sánchez, Paola Quintero. Metodología: Fabio Realpe,
 
 ## 2.6 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Los autores agradecen en primer lugar al Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico (CCCP) y a la Dirección General Marítima (DIMAR) por impulsar, apoyar y financiar iniciativas para gestión del riesgo por tsunamis en las costas colombianas, con el fin de aportar a la seguridad integral marítima. También al Servicio Geológico Colombiano (SGC) y a JICA por su contribución científica en el marco del proyecto SATREPS.
 
 ## 2.7 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Ronald Efrén Sánchez Escobar
 
@@ -208,6 +222,8 @@ Daniel Ruiz Figueroa            https://orcid.org/0000-0003-1304-1875
 Jhonatan Cristian Paz Quintero  https://orcid.org/0000-0002-4916-5063
 
 ## 2.8 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. Mejía, Isabel. & Parra, E. (2002). *Mapa preliminar de unidades geomorfológicas Plancha 340 Guapi.Memoria Explicativa*.

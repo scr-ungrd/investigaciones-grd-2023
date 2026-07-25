@@ -38,6 +38,8 @@ Los estudios de amenaza y riesgo son escasos en los entornos rurales y en la inf
 
 ## 3.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Algunos fenómenos naturales, y eventos antrópicos no intencionales y sociales causan daños materiales en la infraestructura vial. Priorizar las intervenciones tendientes a minimizar el impacto de estos daños requiere identificar adecuadamente la amenaza y vulnerabilidad para estimar el riesgo, a través del desarrollo de metodologías de recolección de datos, evaluación, análisis y reporte. La mayoría de los estudios de riesgo abordan los factores amenazantes de forma individual, originando pocos estudios de riesgo con valoración de multiamenaza.
 
 
@@ -56,6 +58,8 @@ El considerar una aproximación combinada entre remoción e inundación no obede
 El objetivo del presente capitulo es presentar el avance y resultados obtenidos en el desarrollo de una metodología para la estimación cualitativa de multiamenaza (movimientos en masa, e inundación) soportada en herramientas TICs para corredores viales a cargo del Instituto Nacional de Vías.
 
 ## 3.2 CONCEPTOS GENERALES
+
+------------------------------------------------------------------------
 
 La Política Nacional de Gestión del Riesgo de Desastres (Ley 1523 de 2012) establece los lineamientos y procesos a seguir para avanzar en el conocimiento y reducción del riesgo y en el manejo de los desastres [[4]](#ref-4), constituyendo el marco de referencia para las instituciones públicas, privadas y las personas en general (ver **Caja 2**).
 
@@ -90,6 +94,8 @@ Una vez establecida la exposición del elemento, se seleccionan los fenómenos a
 
 ## 3.3 PROPUESTA METODOLÓGICA PARA EL DESARROLLO DE LA APLICACIÓN
 
+------------------------------------------------------------------------
+
 El instrumento de recolección de datos de la infraestructura vial debe aportar a unificar los criterios y parámetros a registrar, a su correcta georreferenciación y análisis espacial. Para lograrlo se desarrolló una propuesta metodológica de ocho etapas. 
 
 **Primera etapa**: se identificaron diferentes variables con su respectiva escala de valor y/o métrica de medición. Para la integración de la información se tomó como referente la unidad base de análisis para corredores viales definida por el Servicio Geológico Colombiano (SCG) [[4]](#ref-4), denominada *corredor geotécnico*, la cual fue adaptada y mejorada dentro del convenio de cooperación 736 de 2020 [[5]](#ref-5). En este proyecto se definieron tres dominios (@fig-c3-4), que permiten diferenciar las zonas con las que la infraestructura vial se interrelaciona. La combinación de estos tres dominios define variables regionales como el clima y la geología, aspectos de alcance zonal como es la interacción con las actividades socioeconómicas y detalles de escala local como el estado de conservación de la infraestructura y las dimensiones de las obras de drenaje.
@@ -121,6 +127,8 @@ Una característica transversal en todo el proceso de construcción de una metod
 **Octava etapa:** una vez se contó con el instrumento refinado fue posible realizar la captura sistemática de información en campo en 635 km de corredores viales de la territorial Boyacá (Zipaquirá-Barbosa, Páez-Puerto Boyacá y Sogamoso-Pajarito) de los cuales se presentarán algunos resultados a lo largo del documento a manera de ejemplo, para su posterior evaluación y análisis de datos para la presentación de resultados a través de mapas georreferenciados y estadísticas que dan cuenta de las condiciones de cada corredor vial en términos de amenaza y vulnerabilidad. 
 
 ## 3.4 AMENAZA POR MOVIMIENTOS EN MASA
+
+------------------------------------------------------------------------
 
 El fundamento conceptual de la aproximación metodológica para la determinación de la amenaza por movimientos en masa se basa en desarrollos previos generados a nivel internacional y que han sido apropiados y traídos a la realidad del contexto nacional por las guías metodológicas propuestas por el SCG [[13]](#ref-13)–[[15]](#ref-15). Los métodos definidos para la evaluación de la amenaza a diferentes escalas y para diferentes elementos de infraestructura se seleccionaron con la colaboración de la comunidad académica y actores relevantes en el contexto nacional en el área de la gestión del riesgo. Así pues, en el sentido de no redundar en lo ya tratado ampliamente en estos estupendos documentos en lo referente a la determinación de amenaza por movimientos en masa, omitiremos las definiciones básicas. Sin embargo, se invita al lector a revisarlas con detalle si es de su interés en las referencias antes mencionadas, lo anterior nos permite presentar de una forma más eficaz los planteamientos y mejoras realizados dentro de esta investigación. Así pues, en lo referente a movimientos en masa solo se retoman de forma algunos conceptos claves para permitir entender la propuesta metodológica desarrollada.
 
@@ -159,6 +167,8 @@ El formato original para levantamiento de información se desarrolló en Excel (
 
 ## 3.5 AMENAZA POR INUNDACIÓN
 
+------------------------------------------------------------------------
+
 La diversidad climática del país en combinación con paisajes contrastantes como son las cordilleras, las planicies aluviales, altiplanos y llanuras, implica que algunas zonas se exponen a inundaciones asociadas a lluvias cortas e intensas que dan lugar a eventos torrenciales. También se exponen a inundaciones prolongadas y de baja velocidad asociadas a lluvias persistentes y generalizadas sobre grandes áreas tributarias. Aunado a ello, la incidencia de fenómenos de variabilidad climática en la escala interanual, según su severidad pueden inhibir o fortalecer las precipitaciones acordes a la intensidad del Fenómeno de Niño o Niña, especialmente en las regiones Andina, Caribe y Pacífica.
 
 La UNGRD [[2]](#ref-2) considera clave en caso de inundación: “Prepararse, Actuar, y Recuperarse”, para lo cual resulta indispensable conocer el tipo de evento al cual se está expuesto, las áreas potencialmente afectadas con mayor frecuencia e intensidad, y la temporada del año en que es más probable su ocurrencia.
@@ -196,6 +206,8 @@ Para garantizar una adecuada aplicación de la metodología es necesario conside
 
 ## 3.6 VULNERABILIDAD FÍSICA
 
+------------------------------------------------------------------------
+
 Para implementar la aplicación de captura de datos, el registro de los puntos críticos, y establecer el nivel de vulnerabilidad del sector o corredor vial objeto de estudio, se desarrolló una metodología que permitiera identificar adecuadamente los elementos expuestos, y su registro en la Geodatabase para analizarse (@fig-c3-12).
 
 ![Esquema metodológico para definir vulnerabilidad física.](images/capitulo_3/Figura 12 Esquema Vulnerabilidad.png){#fig-c3-12}
@@ -225,6 +237,8 @@ Como resultado de la aplicación de las preguntas referentes a exposición, frag
 | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | 0.51 |
 
 ## 3.7 IMPLEMENTACIÓN TECNOLÓGICA: INSTRUMENTO MÓVIL DE CAPTURA DE DATOS EN CAMPO
+
+------------------------------------------------------------------------
 
 La captura de datos o hechos del mundo real se muestra como uno de los procesos o requerimientos más exigentes que tienen las organizaciones para recopilar información valiosa y relacionada con sus proyectos en campo. Los datos son la naturaleza para cualquier proyecto de investigación. Estos datos deben recolectarse, crearse y observarse para posteriormente analizarse y de esta manera producir unos resultados fiables y originales, producto de la investigación.
 
@@ -301,6 +315,8 @@ Así las cosas, el aplicativo permite generar análisis estadísticos, visualiza
 
 ## 3.8 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 De acuerdo con las experiencias y resultados obtenidos en el proceso de formulación desarrollo e implementación de esta metodología para la captura de datos en estudios de Valoración Cualitativa Multiamenaza en Corredores Viales apoyado en TICs se concluye los siguiente.
 
 Para alcanzar un adecuado desarrollo de este tipo de instrumentos para captura de datos se requiere de una sinergia de los especialistas con los potenciales usuarios finales del instrumento. Para este estudio, se contó con el acompañamiento, aporte y validación por parte de los administradores viales, quienes son profesionales contratados por el INVIAS para realizar labores de seguimiento, gestión, inventario físico, la atención de emergencias, mantenimiento de la infraestructura. lo que permitió un ajuste de los instrumentos a partir de sus experiencias y el conocimiento detallado de la historia de cada corredor vial, incluyendo puntos críticos, eventos amenazantes y condiciones físicas.
@@ -322,17 +338,25 @@ Para futuros tomadores de decisiones sugerimos se fomente la investigación y tr
 :::
 ## 3.9 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 ## 3.10 CONTRIBUCIÓN DE AUTORÍA CREDIT
+
+------------------------------------------------------------------------
 
 Conceptualización: AFR, ORA, JPLL. Metodología: AFR, ORA, SYVF, ARP. Redacción de primera versión: AFR, ORA, SYVF, ARP. Escritura. Revisión y edición de segunda versión: AFR, ORA. Figuras y tablas: AFR, ORA, SYVF, ARP. Administración de proyecto: JPLL. Búsqueda de evidencia: AFR, ORA, SYVF, ARP.
 
 ## 3.11 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Agradecemos al INVIAS y particularmente a los administradores viales por su continuo aporte en las etapas de identificación de variables y validación del formulario inteligente, como muestra de la necesidad de crear sinergias entre el conocimiento experto acuñado por las instituciones de educación superior y las entidades públicas.
 
 ## 3.12 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Alejandro Franco 		  
 
@@ -345,6 +369,8 @@ Sandra Velazco 		 0000-0003-3764-0557
 Juan Pablo Londoño 		  
 
 ## 3.13 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. Silva, D. (2020) *Indicadores de ciencia y tecnología 2019*. Observatorio Colombiano de Ciencia y Tecnología, Bogotá.

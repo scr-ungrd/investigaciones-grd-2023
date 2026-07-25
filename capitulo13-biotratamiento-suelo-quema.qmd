@@ -34,6 +34,8 @@ Los suelos de la región del trópico, al experimentar una variabilidad climáti
 
 ## 13.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 En las regiones tropicales, los incendios forestales son un tema que gana relevancia debido a las fuertes temporadas cálidas que se han experimentado en los últimos años, que perjudican la diversidad y estabilidad de los ecosistemas forestales [[1]](#ref-1). Colombia no es ajena a ello, pues las temporadas cálidas que se presentan de forma intensa a lo largo del año han aumentado la probabilidad de ocurrencia de este tipo de fenómenos, tanto que aproximadamente el 29% de las tierras del país son altamente susceptibles a incendios forestales [[2]](#ref-2). Los suelos como componente fundamental de los ecosistemas terrestres, al exponerse a altas temperaturas pueden llegar a sufrir variaciones importantes en sus propiedades químicas, mineralógicas y físicas, y finalmente afectar el comportamiento hidromecánico [[3]](#ref-3). La gran mayoría de los estudios relacionados con el tema, abordan principalmente las alteraciones que presenta la cobertura vegetal, pero son escasas las investigaciones orientadas a analizar la influencia de los incendios forestales sobre las propiedades y comportamiento geotécnico de las capas de suelo, y en especial sobre la posibilidad de reducir los riesgos asociados a la degradación del material, a partir del uso de biotecnología como técnica de recuperación o estabilización de los materiales [[4]](#ref-4).  
 
 La biotecnología se torna entonces en una alternativa menos invasiva con el medio ambiente [[5]](#ref-5), y mucho más si se emplean las bacterias nativas del suelo [[6]](#ref-6) bajo la técnica de “biomineralización”, en la cual los microrganismos generan productos metabólicos que reaccionan con iones o compuestos del medio, propiciando la floculación y/o aglomeración de las partículas de suelo [[7]](#ref-7). Dichas floculaciones y/o aglomeración podrían disminuir los efectos negativos causados por las quemas en las propiedades físicas, químicas y estructurales de los suelos [[8]](#ref-8), [[9]](#ref-9).
@@ -46,6 +48,8 @@ El actual capítulo tiene como objetivo presentar una propuesta para restablecer
 :::
 
 ## 13.2 MÉTODOS
+
+------------------------------------------------------------------------
 
 Para el caso de estudio, la extracción del material se efectuó en la ciudad de Medellín-Antioquia (Colombia), en el Cerro el Volador con coordenadas 6◦16’6.62” N y 75◦34’ 51.19” O, con 1598 m de elevación, a una profundidad de 0.5 m de la superficie de un talud. La geología de la zona se compone de rocas metamórficas, tipo anfibolitas de la margen occidental del río Medellín, las cuales se constituyen esencialmente por hornblenda y plagioclasa [[11]](#ref-11). Se tomaron aproximadamente 10 kg de suelo alterado y se distribuyeron en igual proporción en dos bolsas plásticas, las cuales se sellaron bien para posteriormente determinar en laboratorio el contenido de humedad de las muestras [[12]](#ref-12) y realizar pruebas de compactación Proctor estándar [[13]](#ref-13). Éstos ensayos se ejecutaron tres veces para garantizar la repetibilidad de los mismos. 
 
@@ -67,9 +71,13 @@ En el suelo denominado “quemado” que corresponde a aquel expuesto únicament
 
 ## 13.3 DISCUSIÓN
 
+------------------------------------------------------------------------
+
 A continuación, se presentan los resultados y análisis referentes a las caracterizaciones físicas, mineralógicas, químicas y mecánicas de las muestras quemadas y quemadas-tratadas, haciendo en algunos casos, una comparación con el suelo en estado natural (suelo compactado sin ser sometido a quema y a tratamiento) [[29]](#ref-29). Los resultados se estudian en conjunto para verificar si hubo cambios significativos en el comportamiento del material producto del tratamiento.
 
 ## 13.4 Caracterización física
+
+------------------------------------------------------------------------
 
 En la @tbl-c13-1 se presentan los valores promedio de algunas propiedades físicas del suelo quemado y del suelo quemado-tratado, y se comparan con los resultados de Díaz et al. [[29]](#ref-29), donde el material estaba compactado en estado natural. Se aclara que el límite líquido y el límite plástico se relacionan con el comportamiento hidromecánico del suelo, en especial con la succión osmótica y las fuerzas de adsorción.
 
@@ -104,6 +112,8 @@ Se observa en la figura que la quema del suelo facilita su degradación como lo 
 
 ## 13.5 Análisis del pH y el punto de carga cero (PZC)
 
+------------------------------------------------------------------------
+
 Según Camapum de Carvalho et al. [[33]](#ref-33), si bien existen diferentes definiciones para el punto de carga cero (PZC) que es la más común y adoptada por los autores, se indica que el PZC representa el pH del suelo en el cual la carga eléctrica líquida del conjunto de las partículas es nula (igualándose las cargas negativas y las positivas). Esta propiedad no solo influencia los fenómenos electroquímicos que ocurren en el suelo, sino también el grado de floculación de los mismos [[34]](#ref-34). Como los valores del pH en agua están por encima de los valores de PZC, sin pasar por éste al tratar el material, en principio el suelo no sufre desagregación por efecto del tratamiento (@tbl-c13-2). Cuando se alcanza el PZC de determinados compuestos, eventualmente presentes en el suelo, como los óxidos e hidróxidos de hierro y aluminio, los mismos pueden solubilizarse inestabilizando la estructura del suelo como un todo [[34]](#ref-34).
 
 : pH en H2O y en KCl y determinación del punto de carga cero (PZC) para las muestras analizadas. {#tbl-c13-2}
@@ -115,6 +125,8 @@ Según Camapum de Carvalho et al. [[33]](#ref-33), si bien existen diferentes de
 | PZC | 3.43 | 3.84 |
 
 ## 13.6 Caracterización mineralógica
+
+------------------------------------------------------------------------
 
 Con relación a la mineralogía a partir de la difracción de rayos X (DRX), se encontraron minerales de hematita, caolinita, cuarzo y albita en proporciones similares tanto para el suelo quemado, como para el suelo quemado-tratado (@fig-c13-4), indicando que no se presentaron precipitaciones de nuevos minerales por la acción del tratamiento, o que son trazos imperceptibles en el ensayo, y que por tanto las variaciones han sido más de carácter químico [[6]](#ref-6).
 
@@ -128,15 +140,21 @@ De igual forma, en la @fig-c13-5 se aprecia que al tratar las muestras aparecen 
 
 ## 13.7 Curva característica de retención de agua
 
+------------------------------------------------------------------------
+
 La @fig-c13-6 presenta las curvas características de retención de agua para el suelo quemado y para el suelo quemado-tratado en términos de succión matricial y porcentaje de saturación (Sr). En esta figura se observa que las curvas son relativamente similares; sin embargo, la menor presión de entrada de aire registrada en el suelo quemado-tratado (24 kPa), comparada con la presión de entrada de aire en el suelo quemado (41 kPa), apunta a un cierto aumento en la macroporosidad del suelo quemado-tratado. Dicho aumento se daría como resultado de la agregación que le confiere a las muestras el tratamiento, tal como ocurrió en la investigación de Muñoz en un suelo natural tratado con B4 [[32]](#ref-32).
 
 ![Curva característica de retención de agua del suelo quemado y del suelo quemado-tratado.](images/capitulo_13/Figura 6..jpg){#fig-c13-6}
 
 ## 13.8 Propiedades mecánicas
 
+------------------------------------------------------------------------
+
 A continuación, se presenta el análisis de algunas propiedades mecánicas del suelo quemado y quemado tratado.
 
 ## 13.9 Corte directo consolidado-drenado
+
+------------------------------------------------------------------------
 
 Los parámetros de resistencia obtenidos a partir del ensayo de corte directo en condiciones saturadas drenadas son presentados en la @tbl-c13-3. Las variaciones observadas en las cohesiones se explicarían por el aparecimiento de los filamentos identificados en la @fig-c13-5 B.
 
@@ -152,6 +170,8 @@ Si se comparan las curvas de fluidez del suelo quemado y quemado-tratado (@fig-c
 ![Curvas de fluidez del suelo quemado y del suelo quemado-tratado.](images/capitulo_13/Figura 7..jpg){#fig-c13-7}
 
 ## 13.10 Consolidación duplo-edométrica
+
+------------------------------------------------------------------------
 
 En la @fig-c13-8 se muestran los resultados del ensayo de consolidación con las muestras en su humedad inicial o estado no saturado (NSAT) y con inundación de la cámara o estado saturado (SAT). Los índices de vacíos (e) se dividieron por el índice de vacíos inicial (e0) presente al momento de comenzar el ensayo para un mejor efecto comparativo de las curvas. En la figura se observa que el tratamiento le confiere una mayor estabilidad estructural a la muestra al presentar menores deformaciones que en el suelo quemado.
 
@@ -177,11 +197,15 @@ Si bien en la @fig-c13-9 la proximidad de las curvas de carga y descarga apuntan
 
 ## 13.11 Desagregación
 
+------------------------------------------------------------------------
+
 Con relación al ensayo de desagregación, se observa en la @fig-c13-10 que el suelo quemado se desagrega totalmente al sumergir las muestras durante 24 h. Por el contrario, el suelo quemado-tratado muestra claramente que hubo una mejoría en la estabilidad del suelo, semejante a lo ocurrido en la investigación de Valencia et al. [[35]](#ref-35).
 
 ![Ensayo de desagregación en muestra de suelo quemado y quemado-tratado: tiempo cero (izquierda), después de 24 horas sumergidas en agua (derecha).](images/capitulo_13/Figura 10..jpg){#fig-c13-10}
 
 ## 13.12 CONCLUSIONES
+
+------------------------------------------------------------------------
 
 En el presente estudio se observó el efecto físico-químico de adicionar un medio inductor de biomineralización sobre las propiedades geotécnicas de suelos quemados por incendios forestales, brindándole a los granos estabilidad estructural, principalmente en los casos en que se desee reducir la entrada de agua y la deformabilidad del suelo expuesto a altas temperaturas. Para la muestra quemada-tratada se presentó agregación de las partículas y una mayor estabilidad del material al sumergirlo en agua, así como una reducción del 13% en los límites de consistencia, una disminución hasta en un 8% en la defloculación y/o desagregación por granulometría, la reducción en un 86% en el índice de colapso y la disminución en un 22% en el caudal por actuación de la carga hidráulica registrada en el *pinhole test*. Adicionalmente, se debe considerar la formación de los filamentos como una contribución para la mejoría de las propiedades y comportamiento del suelo tratado.
 
@@ -200,9 +224,13 @@ Se recomienda realizar una mayor cantidad de ensayos en diferentes tipos de suel
 :::
 ## 13.13 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses
 
 ## 13.14 AGRADECIMIENTOS
+
+------------------------------------------------------------------------
 
 Los Autores agradecen a la Universidad Nacional de Colombia, Sede Medellín y a la Universidad de Brasilia, Brasil. 
 
@@ -212,6 +240,8 @@ Conceptualización: YVG. Metodología: YVG. Redacción de primera versión: YVG,
 
 ## 13.15 IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 Yamile Valencia González     	
 
 José Camapum de Carvalho  		
@@ -219,6 +249,8 @@ José Camapum de Carvalho
 Luis Augusto Lara Valencia 		
 
 ## 13.16 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 ## 13.17 Wright, H. A.; Bailey, A. W. (1982). *Fire ecology.* United States and southern Canada. New York: John Wiley and Sons.
 

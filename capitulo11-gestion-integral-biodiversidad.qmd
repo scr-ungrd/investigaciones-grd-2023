@@ -30,6 +30,8 @@ Los riesgos de desastre y en especial aquellos exacerbados por el cambio climát
 
 ## 11.1 EL PAPEL TRIPLE PROPÓSITO DE LAS SOLUCIONES BASADAS EN LA NATURALEZA
 
+------------------------------------------------------------------------
+
 La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres en escenarios exacerbados por el cambio climático es aún incipiente y son escasos los análisis de la relación entre estos [[1]](#ref-1).
 
 Los riesgos de desastre asociados al cambio climático han aumentado sin precedentes en las últimas décadas y la biodiversidad y sus servicios ecosistémicos se impactan de manera directa [[2]](#ref-2); aunque por otro lado, la biodiversidad ofrece soluciones que pueden reducir y dar cierta resiliencia a los riesgos derivados del cambio climático desde el enfoque de las SbN.
@@ -61,6 +63,8 @@ Se resalta el cuidado del ambiente, el cual representa la base natural y donde l
 ![Esquema de articulación de políticas públicas colombianas y marcos internacionales relacionados con la biodiversidad y sus servicios ecosistémicos, riesgo de desastres y el cambio climático; donde el bienestar humano, la resiliencia y el cuidado del ambiente se perfilan como elementos emergentes que consolidan la sostenibilidad del territorio, resaltando del cuidado del ambiente la biodiversidad como eje para el desarrollo del enfoque de SbN. Fuente: Elaboración propia.](images/capitulo_11/LGRD-06-FIGURA_1.png){#fig-c11-1}
 
 ## 11.2 RUTAS ESTRATÉGICAS PARA GESTIONAR EL RIESGO DE DESASTRES Y EL CAMBIO CLIMÁTICO DESDE LA GESTIÓN INTEGRAL DE LA BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS
+
+------------------------------------------------------------------------
 
 La biodiversidad y sus servicios ecosistémicos como expresión concreta en el territorio (ecosistemas, especies e individuos) consolidan el soporte de desarrollo social, cultural y económico, y a todo esto se denomina socioecosistema [[11]](#ref-11). Como resultado de la interacción de las partes del socioecosistema, se evidencian los conflictos socioecológicos, que para el presente capítulo se enmarcan en los escenarios de riesgo de desastre y algunos de ellos exacerbados por el cambio climático.
 
@@ -242,6 +246,8 @@ A continuación, la @fig-c11-5 muestra una aproximación conceptual desde la ges
 
 ## 11.3 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Las políticas de biodiversidad y servicios ecosistémicos, de riesgo de desastres, y de cambio climático coinciden en buscar a través de su gestión la sostenibilidad del territorio, el bienestar del ser humano y el aumento de la resiliencia, a la vez que responden a compromisos internacionales y precisan su articulación desde la base natural a través de las SbN.
 
 La biodiversidad y sus servicios ecosistémicos aportan a la gestión del riesgo de desastres y el cambio climático a través de dos rutas: i) mediante la identificación de la BDSE como conjunto vulnerable susceptible de ser impactado negativamente, y ii) mediante el reconocimiento de la naturaleza como atenuador de riesgos e impactos.
@@ -265,6 +271,8 @@ Desarrollar estrategias bajo el enfoque de SbN ya que estas acciones articulan p
 :::
 ## 11.4 MATERIALES Y MÉTODOS
 
+------------------------------------------------------------------------
+
 Se revisaron sesenta y nueve documentos relacionados con: marcos internacionales, políticas públicas colombianas, estudios de caso, publicaciones científicas relacionadas con los temas de biodiversidad y servicios ecosistémicos, gestión del riesgo de desastres y cambio climático.  
 
 La estrategia de búsqueda se realizó mediante la consulta de palabras clave relacionadas con los temas objeto de estudio, en los motores de búsqueda de Google, Google Académico, Redalyc, Elsevier, Springer, y documentos físicos.  
@@ -275,17 +283,25 @@ Para el análisis de información se estructuraron las sinergias de los temas y 
 
 ## 11.5 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 La autora no declara conflicto de intereses.
 
 ## 11.6 AGRADECIMIENTOS
+
+------------------------------------------------------------------------
 
 Agradecimiento a Paola Morales, Carolina Osorio, Elkin Noguera, Wilson Ramírez (del Instituto Humboldt), Lizardo Narváez (Banco Mundial) y Gustavo Aristizábal por sus revisiones y sugerencias para consolidar este capítulo. 
 
 ## 11.7 IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 Dorotea Cardona Hernández	 
 
 ## 11.8 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. MADS (Ministerio de ambiente y desarrollo sostenible). (2012). *Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos.* https://www.minambiente.gov.co/wp-content/uploads/2021/10/Poli%CC%81tica-Nacional-de-Gestio%CC%81n-Integral-de-la-Biodiver.pdf

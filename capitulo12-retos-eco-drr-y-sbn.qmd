@@ -41,6 +41,8 @@ Dentro de las soluciones basadas en la naturaleza (SbN) se incluyen las acciones
 
 ## 12.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Los desastres no son naturales y sus causas son cada vez más complejas, inciertas y dinámicas. Para reducir el riesgo de desastres, la sociedad necesita generar soluciones integrales a los problemas que causan la degradación de los ecosistemas, el cambio climático, y la pérdida de biodiversidad, problemas que impactan la seguridad alimentaria, la salud humana, y el desarrollo socioeconómico [[1]](#ref-1). Una de estas respuestas son las soluciones basadas en la naturaleza (SbN), un concepto sombrilla que surgió hace más de una década con el Banco Mundial [[2]](#ref-2) y la UICN [[3]](#ref-3), que ha evolucionado a partir de principios y enfoques como la restauración ecológica, la restauración forestal, la ingeniería ecológica, la conservación de la biodiversidad y de las áreas protegidas, los servicios de adaptación climática, la adaptación basada en ecosistemas (AbE), la mitigación basada en ecosistemas (MbE), la reducción del riesgo de desastres basada en ecosistemas (Eco-DRR), la infraestructura natural y la infraestructura verde (ver definición en **Caja 1**) [[4]](#ref-4).
 
 
@@ -64,7 +66,11 @@ Los retos se inspiran en la charla *Soluciones basadas en la Naturaleza para la 
 
 ## 12.2 RETOS
 
+------------------------------------------------------------------------
+
 ## 12.3 Reto 1. Aumentar el conocimiento sobre los servicios ecosistémicos para la reducción del riesgo de desastres, visibilizando que las propuestas EcoDRR van más allá de acciones de restauración ambiental
+
+------------------------------------------------------------------------
 
 Desde la primera Evaluación de los Ecosistemas del Milenio [[7]](#ref-7), los servicios ecosistémicos se resaltan como un elemento clave en el entendimiento de la interacción entre humanos y naturaleza. Sin embargo, el conocimiento en Colombia y en toda la región sobre los servicios ecosistémicos, especialmente de aquellos relacionados con la reducción del riesgo es limitado y afectado por condicionantes de desarrollo socioeconómico como la regulación normativa, económica y capacidades de investigación. Además, estos servicios se ven afectados por la degradación ambiental y la reducción de la capacidad adaptativa de las sociedades para hacer frente al riesgo de desastres y al cambio climático [[9]](#ref-9).
 
@@ -82,6 +88,8 @@ Existen ejemplos que ilustran cómo los aspectos físicos de los ecosistemas act
 
 ## 12.4 Reto 2. Generar indicadores para medir los avances y aportes de las medidas Eco DRR incluyendo análisis costo beneficio, especialmente en el sector público
 
+------------------------------------------------------------------------
+
 Para aumentar proyectos con enfoque Eco-DRR y demás SbN se requiere mostrar sus ventajas integrales implementando indicadores de amplio espectro que integren atributos cualitativos, cuantitativos y monetarios. Sin embargo, medir los costos y beneficios de las Eco-DRR tiene alguna dificultad por la incertidumbre de los impactos climáticos futuros y sus efectos sobre los bienes y servicios de los ecosistemas, así como por el desarrollo socioeconómico que generen.
 
 La academia y entidades internacionales han avanzado en propuestas de metodologías e indicadores para medir los avances y aportes de las medidas Eco-DRR y de otras SbN (Caja 2). Se destaca el estándar global de la Unión Internacional de Conservación de la Naturaleza para SbN que presenta indicadores y criterios para clasificar un proyecto con enfoque SbN [[1]](#ref-1), los indicadores para AbE [[29]](#ref-29), y el sistema de contabilidad ambiental-económica de las Naciones Unidas (SEEA,) que es una herramienta de gestión de datos para guiar la integración de datos económicos, ambientales y sociales. Otras propuestas para medir los aportes de las SbN para la adaptación al cambio climático del sector público y privado incluyen la de la Convención Marco sobre el Cambio Climático [[29]](#ref-29), así como la propuesta de GIZ, EURAC & UNU-EHS [[30]](#ref-30) quienes sugieren implementar métodos de monitoreo y evaluación que muestren explícitamente la probabilidad de fenómenos climáticos amenazantes y su incertidumbre asociada, para lo cual crearon una guía para planificadores. Estos procesos de monitoreo y evaluación pueden verse beneficiados desde la visión participativa, donde las comunidades apoyan la escogencia y generación de indicadores. En Colombia se destaca el trabajo de Figueroa-Arango [[18]](#ref-18) donde compilan propuestas de evaluación y monitoreo de las SbN para sectores urbanos. 
@@ -94,6 +102,8 @@ La academia y entidades internacionales han avanzado en propuestas de metodolog�
 Cada proyecto de Eco-DRR y demás SbN debe incluir un análisis costo-beneficio de las medidas ecosistémicas, preferiblemente comparativo, donde se muestren los beneficios directos e indirectos de utilizarlas y los costos de no utilizarlas. Existen buenos ejemplos como el de Baig et al. [[31]](#ref-31), quienes comparan los costos entre SbN y soluciones tradicionales en Filipinas, mostrando como la protección del manglar tiene un balance positivo con el doble de beneficio que la construcción de un dique o un rompeolas. Otro ejemplo se desarrolló en el área urbana de Lami, Fiji [[32]](#ref-32), con un análisis comparativo de costo-beneficio entre medidas de soluciones ecosistémicas, mostró que el costo de las medidas SbN fue drásticamente menor que las de ingeniería tradicional, con beneficios equivalentes cuando se plantaron manglares y replantar amortiguadores naturales de quebradas con medidas de ingeniería tradicionales como la construcción de malecones y aumentar el sistema de alcantarillado [[12]](#ref-12).
 
 ## 12.5 Reto 3. Transformar el ordenamiento territorial hacia una visión integral e incluyente
+
+------------------------------------------------------------------------
 
 El ordenamiento territorial es la asignación planificada y regulada de determinados usos del suelo, ya sea urbano, rural o área natural, considerando el uso actual y futuro del suelo, así como el interés colectivo para asignar sus diferentes usos [[33]](#ref-33). En Colombia la definición del ordenamiento territorial se consigna en el Artículo 2 de la Ley 1454 de 2011 (Caja 3). Dentro del ordenamiento se destacan los Determinantes Ambientales, los cuales son normas de superior jerarquía que buscan garantizar la inclusión de los aspectos ambientales y la reglamentación de uso y ocupación del territorio dentro los instrumentos de Ordenamiento Municipal. Los Determinantes Ambientales incluyen, entre otros, las normas “relacionadas con la conservación y protección del medio ambiente, los recursos naturales, la prevención de amenazas y riesgos naturales”, Artículo 10 de la Ley 388 de 1997.
 
@@ -110,6 +120,8 @@ Además de cumplir con los determinantes ambientales, los nuevos planes de orden
 
 ## 12.6 Reto 4. Cambiar el paradigma que la única opción es la obtención de resultados a corto plazo, aceptando que la eficacia de las Eco DRR no es inmediata
 
+------------------------------------------------------------------------
+
 Por presiones políticas y sociales, los alcaldes y gobernadores priorizan las obras de mitigación del riesgo a corto plazo (menos de 4 años) que tengan alta visibilidad y que presenten resultados de mitigación inmediatos. De ahí que muchos gobernantes y tomadores de decisiones desestiman las SbN, y en particular las Eco-DRR porque sus beneficios tienden a no ser inmediatos, aun cuando sean más integrales que las medidas tradicionales.
 
 Las medidas de mitigación tradicional tienen el potencial de generar beneficios inmediatos. Sin embargo, estas medidas en algunos casos no funcionan en el país por fallas en los términos de referencia, diseños, materiales deficientes, o atrasos en las obras que generan sobrecostos. Incluso, estas medidas pueden aumentar los riesgos que se pretendieron mitigar. Algunas de las causas de esto se asocian con deficiencias durante la negociación y mediación con la comunidad, con inconvenientes judiciales en la adquisición de predios, con problemas en la negociación entre entidades, o con problemas internos en las empresas contratistas [[40]](#ref-40), aspectos y dificultades no necesariamente inherentes al tipo de acciones de mitigación, sino a la estructura organizativa y de gobernanza de las instituciones contratantes y empresas ejecutoras. También se asocia con deficiencias en la planeación de las obras, diferencias entre el ciclo de vida de los proyectos y los ciclos políticos y, finalmente a la corrupción [[41]](#ref-41). Uno de los tantos ejemplos de lo anterior es el dique de contención del río Putumayo entregado en 2014, que quedó inservible tras su entrega, por lo cual la Contraloría determinó un presunto detrimento patrimonial por más de 5,700 millones de pesos [[42]](#ref-42).
@@ -119,6 +131,8 @@ La eficacia de las obras con enfoque ecosistémico o infraestructura verde tiene
 Una alternativa es integrar pequeñas y medianas SbN, incluyendo algunas Eco-DRR, en sistemas de infraestructura tradicionales, tales como presas, carreteras o sistemas de energía, a menudo denominados infraestructura verde-gris o soluciones híbridas. Esto puede hacer que estas estructuras sean más resistentes y menos costosas, de beneficios más rápido y bajo mantenimiento [[43]](#ref-43). Adicionalmente, estos beneficios se extienden más allá de la vida útil de la infraestructura, al aportar a mejorar los medios de vida locales.
 
 ## 12.7 Reto 5. Fomentar la toma de decisiones basadas en evidencia
+
+------------------------------------------------------------------------
 
 Otra barrera para los proyectos Eco-DRR es la estructura vertical de toma de decisiones donde no siempre priman los argumentos técnicos y ambientales. Lo anterior sucede a pesar que el país posee una alta capacidad técnica en temas de ingeniería y ambiente (77 grupos en ingeniería ambiental reconocidos en MinCiencias, 66 en gestión ambiental, 2 en estructuras verdes, 27 en ecología). Sin embargo, los procesos denominados como Eco-DRR y demás acciones de SbN muchas veces no se soportan en evidencia científica, sino que emplean la información económica y de ingeniería civil existente [[44]](#ref-44). Hay incluso una gran carencia de información básica sobre los riesgos presentes en cada municipio (ver Reto 3). La ausencia de evidencia de soporte representa una dificultad para que lo técnico permee lo político, y para que la participación ciudadana se refleje y se atienda [[45]](#ref-45).
 
@@ -130,6 +144,8 @@ A menor escala, observamos la situación en la Sabana de Bogotá, la cual presen
 
 ## 12.8 Reto 6. Reducir el desarrollo de asentamientos urbanos altamente vulnerables en zonas con mayor amenaza
 
+------------------------------------------------------------------------
+
 Las ciudades son territorios especialmente vulnerables a la triple crisis planetaria por el cambio climático, la pérdida de biodiversidad, y el aumento de contaminación y residuos [[49]](#ref-49). Las amenazas asociadas a fenómenos naturales en las ciudades son potencialmente las mismas. Lo que las diferencia es la alta vulnerabilidad de algunos de los habitantes e infraestructura [[44]](#ref-44). En parte esto es consecuencia de una alta densidad poblacional de las ciudades que tiende a marginalizar los grupos poblacionales menos privilegiados que se ubican en zonas con mayor amenaza originando altos niveles de riesgo. En 2017, el DANE en su análisis sobre crecimiento urbano en Colombia, resaltó que entre 1997–2017 la población en las cabeceras municipales aumentó en 37.2%. De acuerdo con Minvivienda [[35]](#ref-35), más del 50% del crecimiento de las ciudades y municipios del país es de origen informal con alta vulnerabilidad.
 
 No podemos evitar que las ciudades sigan creciendo. La diferencia está en cómo lo van a hacer. Es necesario asumir un enfoque preventivo basado en el conocimiento de los riesgos, trabajando con la naturaleza y no en contra de ella [[49]](#ref-49). Para esto debemos incluir los ecosistemas dentro de la planificación territorial de las ciudades. Por ello los planes de ordenamiento de nueva generación deben priorizar la creación de zonas verdes en espacio público, la restauración de drenajes urbanos, y el revestimiento de calles y techos con árboles para controlar las islas de calor y proteger contra las inundaciones y deslizamientos; también reducir los materiales impermeables en suelos. Sin embargo, realizar cualquier tipo de ordenamiento territorial en zonas de origen informal presenta dificultades adicionales asociadas a la complejidad social de estas zonas, su alta densidad poblacional y ausencia de zonas para generar espacio público. 
@@ -137,6 +153,8 @@ No podemos evitar que las ciudades sigan creciendo. La diferencia está en cómo
 Dos ejemplos de SbN realizadas en zonas de alto riesgo incluyen la recuperación del Cerro de Moravia en Medellín. Este “cerro” se constituyó antrópicamente por la acumulación de residuos y fue habitado progresivamente por población desplazada. El proceso incluyó el reasentamiento de la población en riesgo y trabajos de recuperación ambiental para reducir el riesgo asociado a los gases y lixiviados [[50]](#ref-50). Otro es el trabajo de recuperación de laderas con alta amenaza por deslizamiento en algunas favelas de Río de Janeiro [[51]](#ref-51). Si bien ambos ejemplos fueron exitosos, faltó el apoyo constante de los actores locales y una gobernanza inclusiva lo que ha reducido su eficacia.
 
 ## 12.9 Reto 7. Incluir proyectos Eco DRR dentro de los pliegos para contratación estatal y garantizar su continuidad aún en cambios de gobierno
+
+------------------------------------------------------------------------
 
 El desconocimiento sobre Eco-DRR en algunas instituciones públicas hace que no se incluyan como una opción dentro de los pliegos de contratación. Esto se debe en parte a que los funcionarios y gestores que trabajan en las administraciones municipales no tienen claridad de la relación costo-beneficio positiva en función del tiempo de estas opciones. Según nuestra experiencia, en muchos casos donde los funcionarios de instituciones públicas sí conocen las opciones Eco-DRR, buscan incluirlos como alternativas de reducción del riesgo, pero encuentran como obstáculo los tiempos de planificación de corto plazo. 
 
@@ -157,6 +175,8 @@ Un caso exitoso con un enfoque integral de riesgos extensible a Eco-DRR es el pr
 
 ## 12.10 Reto 8. Evitar otorgar licencias a proyectos que deterioren los ecosistemas mejor conservados
 
+------------------------------------------------------------------------
+
 En las licencias ambientales es importante realizar evaluaciones de impacto ambiental que consideren tanto las acciones a compensar, como los costos económicos y ambientales esperados de la afectación de bienes y servicios, partiendo de análisis independientes y con verificación objetiva. La Autoridad Nacional de Licencias (ANLA) es el actor clave para controlar y vigilar la toma de decisiones. Idealmente la ANLA debe velar por el cumplimiento del manejo del ambiente en línea con el bienestar humano a corto, mediano y largo plazo, manteniendo las dinámicas ecológicas que proveen soluciones para mitigar o evitar el riesgo a futuro. 
 
 Ejemplos de la relevancia de incorporar la visión ecosistémica en las licencias ambientales son la avenida torrencial de Mocoa-Putumayo en 2017, y los efectos de la erosión costera. En el caso de Mocoa, un bosque maduro y en buen estado de conservación cuya comunidad cercana evitó que se talara, tuvo la capacidad de retener y regular parte de la avalancha e inundación, salvaguardando algunos barrios de la ciudad [[57]](#ref-57), mientras que aquellos puntos de mayor impacto coinciden donde el bosque se taló para construir infraestructura [[58]](#ref-58). Por otro lado, se observa una constante construcción en la línea de costa Caribe con avales institucionales que no consideran la creciente erosión costera y aumentan la vulnerabilidad de las personas [[59]](#ref-59) a pesar que está documentado el proceso de erosión costera de tiempo atrás y se cuenta con un plan de investigación a cargo de INVEMAR [[60]](#ref-60). 
@@ -164,6 +184,8 @@ Ejemplos de la relevancia de incorporar la visión ecosistémica en las licencia
 Es rescatable la iniciativa del ANLA “Eureka” (), que recopila en una plataforma documentos jurídicos y técnicos. Sin embargo, esta iniciativa requiere incluir información sobre especies y ecosistemas en riesgo. En estos ejemplos, la información técnica y local integrada puede ofrecer SbN que aportaran al bienestar humano y conservación. En el marco de este reto, es necesario la inclusión y análisis de fuentes y variables confiables, inclusión que no se logra a partir de estructuras verticales en la toma de decisiones, sino de procesos participativos y en red [[61]](#ref-61).
 
 ## 12.11 Reto 9. Generar procesos de gobernanza inclusivos, participativos, transparentes y empoderadores que aseguren el éxito de las Eco DRR
+
+------------------------------------------------------------------------
 
 Entendemos la gobernanza como el conjunto de interacciones entre estructuras, procesos, tradiciones y reglas que determinan cómo se ejerce el poder y las responsabilidades, cómo se toman las decisiones y cómo intervienen los ciudadanos u otros actores. Los procesos de gobernanza participativos son esenciales en los procesos de Eco-DRR porque aumentan las posibilidades de sostenibilidad de una intervención, y mejoran la licencia social para operar [[1]](#ref-1). La gobernanza participativa incluye a ciudadanos, organizaciones de la sociedad civil, academia, sector privado y demás actores de la gestión del riesgo de desastres y cambio climático. Colombia tiene un marco legal extenso que promueve la participación ciudadana, consignado desde la Constitución Política de 1991. A pesar de estas oportunidades, las experiencias de planeación participativa han tenido un enfoque centralizado en expertos y técnicos institucionales que definen los planes y proyectos, para posteriormente abrirlos a procesos de consulta y opinión ciudadana, previo a la adopción de los planes o ejecución de proyectos [[62]](#ref-62). 
 
@@ -182,6 +204,8 @@ Finalmente, es necesario aceptar que la gobernanza participativa no siempre gene
 
 ## 12.12 Reto 10. Promover la innovación en EcoDRR, incluyendo la implementación de soluciones híbridas
 
+------------------------------------------------------------------------
+
 Existe una necesidad de una mayor aplicación de la ciencia, la tecnología y la innovación (CTeI) para generar mejores y nuevos métodos de reducción de riesgos [[68]](#ref-68). Estos nuevos enfoques incluyen la implementación de soluciones híbridas entre naturales y grises (@fig-c12-2). Particularmente en contextos urbanos, el enfoque híbrido combina las ventajas y desventajas de mezclar estructuras naturales y artificiales [[69]](#ref-69), siendo necesaria la vinculación de grupos interdisciplinarios los cuales tienen en muchos casos mejores oportunidades de obtener financiación como recomiendan recientemente las Convocatorias de Asignación Ambiental, las convocatorias de CTeI del Sistema General de Regalías, así como las de innovación a través de innpulsa Colombia (ver Reto 11 y Caja S1 en Material Suplementario). 
 
 
@@ -193,6 +217,8 @@ El avance en el conocimiento y las aplicaciones de SbN depende de las capacidade
 En Colombia existen crecientes capacidades físicas, humanas y financieras para innovar tales como los laboratorios de investigación e innovación, y los parques de innovación. Sin embargo, la innovación en SbN debe ser formal o explícita en las estructuras organizacionales para emplear estos ecosistemas de innovación e integrar infraestructura, personas y entrenamiento. Además, los equipos de innovación necesitan habilidades y capacidades para incorporar SbN en proyectos de soluciones híbridas para infraestructura [[71]](#ref-71). Las innovaciones no son solo productos de alta tecnología, sino que puede ser innovación social que incorpore enfoques, ideas tradicionales y conocimientos que ofrecen opciones sin grandes presupuestos o tecnología avanzada [[72]](#ref-72). Cada región debe identificar las SbN más adecuadas en las cuales aplicar procesos de CTeI acorde a sus amenazas, condiciones geográficas, recursos financieros, recursos humanos, y disponibilidad de tecnología.
 
 ## 12.13 Reto 11. Fomentar la financiación de los proyectos EcoDRR
+
+------------------------------------------------------------------------
 
 Generar y promover acceso a financiación para proyectos en Eco-DRR incluyendo fondos públicos, privados, y de cooperación internacional es un componente clave. Sin embargo, las restricciones de financiación para los municipios son evidentes porque la gran mayoría (88%) de los municipios son de categoría 6 (según la Ley 126 de 1994). Esto implica que dichos municipios tienen menos de 10,000 habitantes e Ingresos Corrientes de Libre Destinación (ICLD) menores a 15 salarios mínimos mensuales. 
 
@@ -219,6 +245,8 @@ El BID está tomando medidas para continuar invirtiendo en SbN. Recientemente li
 
 ## 12.14 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 La academia, el Estado y los organismos de cooperación internacional han realizado aportes que resaltan la importancia y múltiples beneficios de las ECO-DRR y demás tipos de SbN. En Colombia, los limitantes para este enfoque se centran en aspectos administrativos, culturales y de formación de los funcionarios, desde los técnicos que elaboran los pliegos contractuales, hasta quienes toman las decisiones de enfoque institucional. Aunado a esto, la mayoría de los municipios carecen de capacidades institucionales para incorporar de manera integral y prospectiva la gestión de riesgos de desastres y del cambio climático. Si bien no hay soluciones perfectas, las SbN son una alternativa multipropósito, con soporte académico, técnico y conceptual sólido.
 
 Es importante reconocer que las presiones sobre los ecosistemas son múltiples y van en aumento, lo que inevitablemente afecta el bienestar humano. De ahí que en el marco de los procesos de gobernanza participativa se debe potenciar la planeación integral, donde se reduzcan las relaciones de verticalidad institucional y financiera, limitada a periodos de gobierno cortoplacistas, desconociendo la temporalidad necesaria para generar proyectos efectivos para la reducción de desastres en donde el trabajo con la naturaleza es una opción costo eficiente a largo plazo.
@@ -240,6 +268,8 @@ Se propone como estrategia la comunicación de experiencias exitosas con las cua
 :::
 ## 12.15 IDENTIFICACIÓN DE AUTORES
 
+------------------------------------------------------------------------
+
 Carolina García Londoño              	
 
 María Ángela Echeverry-Galvis    	 
@@ -252,11 +282,17 @@ Mauricio Romero-Torres
 
 ## 12.16 MATERIAL SUPLEMENTARIO
 
+------------------------------------------------------------------------
+
 ## 12.17 CONFLICTO DE INTERESES
+
+------------------------------------------------------------------------
 
 Los autores no declaran conflicto de intereses
 
 ## 12.18 AGRADECIMIENTOS
+
+------------------------------------------------------------------------
 
 Se agradece a todas las personas que contribuyeron a la generación de este capítulo. Mauricio Romero-Torres agradece al FNGRD PPAL001-637-2021. María Ángela Echeverry-Galvis agradece a Karen Sudmeier UN Eco-DRR.
 
@@ -265,6 +301,8 @@ Se agradece a todas las personas que contribuyeron a la generación de este cap�
 Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. Escritura, revisión y edición: CG, MR-T, LOO, MAEG, CR-V. Figuras, y tablas: CG, MR-T. Administración de proyecto: CG, MR-T.  Búsqueda de evidencia:  CG, MR-T, LOO, MAEG, CR-V.
 
 ## 12.19 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">
 1. UICN (2020). *Estándar Global de la UICN para soluciones basadas en la naturaleza. Un marco sencillo para la verificación, el diseño y la extensión de SbN.* Primera edición. Gland, Suiza: UICN.
