@@ -308,7 +308,7 @@ Los autores no declaran conflicto de intereses.
 
 Conceptualización: EAG, FGC, MIAC. Curación de datos: FGC, MIAC. Análisis formal: FGC, MIAC. Adquisición de fondos: DAGRAN. Investigación: EAG, FGC, MIAC. Metodología: EAG, FGC, MIAC. Administración del proyecto: EAG. Recursos: UNAL. Software: FGC, MIAC. Supervisión: EAG. Validación: EAG. Visualización: FGC, MIAC. Redacción – borrador original: EAG, FGC, MIAC. Redacción – revisión y edición: EAG, FGC, MIAC.
 
-## 4.12 AGRADECIMIENTOS
+## AGRADECIMIENTOS
 
 ------------------------------------------------------------------------
 

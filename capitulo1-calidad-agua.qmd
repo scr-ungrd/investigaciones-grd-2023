@@ -598,7 +598,7 @@ Los autores declaran que los desarrollos y resultados presentados se realizaron 
 
 Conceptualización: RF, MRS, ML, JSE, JCR. Curación de datos: RF, JSE, CS, IAG, LP, JM. Análisis formal: RF, JSE, CO, IAG, LP, JM. Adquisición de fondos: MRS. Investigación: RF, ML, JSE, CS. Metodología: RF, MRS, ML, JSE, JCR. Administración del proyecto: RF, MRS, ML, JSE, NL, DG. Recursos: MRS, NL, DG. Software: CO. Supervisión: MRS, JCR. Validación: MRS, JCR. Visualización: RF, CO. Redacción – borrador original: RF, JSE. Redacción – revisión y edición: MRS, JCR, ML, IAG
 
-## 1.7 AGRADECIMIENTOS
+## AGRADECIMIENTOS
 
 ------------------------------------------------------------------------
 

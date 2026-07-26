@@ -201,7 +201,7 @@ Los autores no declaran conflicto de intereses
 
 Conceptualización: Ronald Sánchez, Paola Quintero. Metodología: Fabio Realpe, Daniel Ruiz. Software: Fabio Realpe. Redacción de primera versión: Paola Quintero, Jhonatan Cristian Paz. Escritura. Revisión y edición de segunda versión: Ronald Sánchez, Paola Quintero, Daniel Ruiz, Jhonatan Cristian Paz. Figuras y tablas: Daniel Ruiz. Administración de proyecto: Ronald Sánchez.
 
-## 2.6 AGRADECIMIENTOS
+## AGRADECIMIENTOS
 
 ------------------------------------------------------------------------
 
