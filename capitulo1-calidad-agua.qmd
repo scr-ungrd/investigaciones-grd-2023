@@ -39,6 +39,7 @@ crossref:
 
 ::: {#resumen}
 ## Resumen {.unnumbered}
+
 Los sistemas de acueducto cumplen el papel fundamental de asegurar las condiciones de vida digna al suministrar y garantizar la disponibilidad y calidad del agua potable como recurso primario para la vida y la salud. Sin embargo por la complejidad y extensión de los sistemas de producción de agua, especialmente en grandes ciudades, sus componentes (i.e. captación, reservorios, tratamiento y distribución) se exponen a diversas condiciones amenazantes de origen natural (i.e. sismos, inundaciones o incendios forestales), o antrópico (i.e. terrorismo, actividades tecnológicas industriales- residenciales, gestión interna del sistema), que pueden afectar el proceso de producción y ocasionar cambios sobre los parámetros de calidad del agua de consumo. El objetivo principal de este capítulo es presentar un modelo para evaluar el riesgo en la calidad de agua potable. El método se aplica como caso de estudio en el sistema de acueducto de agua potable de la ciudad de Bogotá, Colombia, servicio prestado por la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB-ESP). Con el modelo se realiza una comparación cualitativa e indicativa de los efectos e impactos de estos eventos amenazantes externos sobre la calidad del agua en el sistema. A partir de los resultados se identificó la distribución geográfica de los riesgos, afectación sobre diferentes componentes del sistema, y alteración de parámetros de calidad del agua. Esta información sirve como base para entender y dimensionar las acciones y prioridades para mitigar este riesgo.
 
 **Palabras clave:** sistemas de acueducto, riesgo en la calidad del agua potable, amenazas naturales, amenazas antrópicas.
@@ -46,6 +47,7 @@ Los sistemas de acueducto cumplen el papel fundamental de asegurar las condicion
 
 ::: {#abstract}
 ## Abstract {.unnumbered}
+
 **Indicative water quality risk assessment due to natural and man-made disasters: the case of Bogotá.** Aqueduct systems play a fundamental role in ensuring decent living conditions and access to water as a primary resource for life, as well as guaranteeing its availability and safe conditions for public health. However, due to their complexity and extension in large cities, the drinking water components (i.e. collection, treatment, distribution) are exposed to various threatening natural hazards (i.e. earthquakes, floods, or wild fires) or anthropic events (i.e. terrorist acts, industrial technology impacts, or management decisions from utility operators), which can affect the process and can generate changes in the drinking water quality parameters. The main objective of this chapter is to present a model that allows risk assessment concerning drinking water quality. The proposed method is applied as a case study in the drinking-water aqueduct system of the city of Bogotá, Colombia, supplied by the Aqueduct and Sewerage Company of Bogotá (EAAB-ESP). The model allows a qualitative and indicative comparison of the effects and impacts of these external threatening events on the water quality in the system. The results allow the user to understand the geographical distribution of risks, impact on different system components, and alteration of water quality parameters. This information serves as a basis for understanding and measuring the actions and priorities to mitigate quality risk in aqueduct systems.
 
 **Keywords**: Aqueduct systems, water quality risk, natural hazards, anthropic hazards
@@ -221,11 +223,30 @@ Cada sistema puede subdividirse en diferentes componentes. Estos componentes pri
 El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. En las siguientes secciones se presenta el análisis de las amenazas incluidas en la evaluación del riesgo, tanto naturales como antrópicas.
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Tipos de amenazas incluidas
+**Caja 2. Tipos de amenazas incluidas.**
 
-| Amenazas de origen natural: | Amenazas de origen antrópico: |
-|------------------------------------|------------------------------------|
-| sísmica<br>precipitaciones<br>sequía<br>inundaciones<br>deslizamiento<br>descargas torrenciales<br>incendios forestales<br>volcanes<br>vendaval | terrorismo y atentados<br>terrorismo virtual<br>tecnológicos domésticos<br>tecnológicos industriales<br>accidentes viales y derrames<br>agropecuario<br>minería<br>gestión institucional |
+**Amenazas de origen natural:**
+
+- sísmica
+- precipitaciones
+- sequía
+- inundaciones
+- deslizamiento
+- descargas torrenciales
+- incendios forestales
+- volcanes
+- vendaval
+
+**Amenazas de origen antrópico**
+
+- terrorismo y atentados
+- terrorismo virtual
+- tecnológicos domésticos
+- tecnológicos industriales
+- accidentes viales y derrames
+- agropecuario
+- minería
+- gestión institucional
 :::
 
 **Amenazas naturales**
@@ -567,7 +588,11 @@ En este caso de estudio, es posible identificar que los incendios forestales, se
 En este sentido, las amenazas naturales más críticas son las sequías, las inundaciones y los incendios forestales. Por otro lado, las amenazas antrópicas más críticas son las relacionadas con terrorismo por atentados, las ocasionadas por actividades agropecuarias y de gestión institucional. Estos riesgo identificados deben ser priorizados con el objetivo de realizar estudios detallados que conlleven a una mitigación eficiente del riesgo.
 
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Puntos Clave
+
+</h2>
 
 - La evaluación y estimación del riesgo a la calidad del agua es una actividad fundamental para la apropiada gestión del riesgo de los sistemas de acueducto urbanos.
 - Esta evaluación debe actualizarse y complementarse periódicamente.
@@ -576,7 +601,11 @@ En este sentido, las amenazas naturales más críticas son las sequías, las inu
 :::
 
 ::: {#preguntas .callout-important style="background-color: #f3eaf8ff; border-left: 4px solid #efe3f7ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Preguntas por resolver</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">
+
+Preguntas por resolver
+
+</h2>
 
 Al aplicar la metodología presentada en este capítulo son las siguientes:
 
