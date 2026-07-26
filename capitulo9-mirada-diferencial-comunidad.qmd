@@ -260,7 +260,7 @@ Sandra Patricia Duque Quintero
 </div>
 
 <div id="ref-11">
-11. Blaikie, P., Terry, C., Davis, I., Wisner, B. (1994). *At risk. Natural Hazards, People´s Vulnerability, and Disasters*. Taylor & Francis e-Library. https://doi.org/10.4324/9780203714775
+11. Blaikie, P., Terry, C., Davis, I., Wisner, B. (1994). *At risk. Natural Hazards, People´s Vulnerability, and Disasters*. Taylor & Francis e-Library. <https://doi.org/10.4324/9780203714775>
 </div>
 
 <div id="ref-12">

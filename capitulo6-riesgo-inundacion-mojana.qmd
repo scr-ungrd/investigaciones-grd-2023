@@ -835,7 +835,7 @@ Juan Pablo Forero Acevedo
 </div>
 
 <div id="ref-21">
-21. DANE (Departamento Administrativo Nacional de Estadística). (2018, 17 de abril). *Sistema de consulta de información censal: Censo Básico. Ver: Sistema de consulta de información censal: Censo Básico*. http://systema59.dane.gov.co/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl
+21. DANE (Departamento Administrativo Nacional de Estadística). (2018, 17 de abril). *Sistema de consulta de información censal: Censo Básico. Ver: Sistema de consulta de información censal: Censo Básico*. <http://systema59.dane.gov.co/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl>
 </div>
 
 <div id="ref-22">
@@ -927,15 +927,15 @@ Juan Pablo Forero Acevedo
 </div>
 
 <div id="ref-44">
-44. Planet Explorer. Planet (2018, febrero). https://www.planet.com/explorer
+44. Planet Explorer. Planet (2018, febrero). <https://www.planet.com/explorer>
 </div>
 
 <div id="ref-45">
-45. Kolmogorov, A. (1931). Über die analytischen Methoden in der Wahrscheinlichkeitsrechnung. *Mathematische Annalen*, *104*(1), 415–458. Recuperado de https://doi.org/10.1007/BF01457949
+45. Kolmogorov, A. (1931). Über die analytischen Methoden in der Wahrscheinlichkeitsrechnung. *Mathematische Annalen*, *104*(1), 415–458. Recuperado de <https://doi.org/10.1007/BF01457949>
 </div>
 
 <div id="ref-46">
-46. Bendot, J. S., & Piersol, A. G. (2010). Random data: Analysis and Measurement Procedures. In *Wiley Series in Probabillity and Statistics*. Recuperado de https://doi.org/10.1002/9781118032428
+46. Bendot, J. S., & Piersol, A. G. (2010). Random data: Analysis and Measurement Procedures. In *Wiley Series in Probabillity and Statistics*. Recuperado de <https://doi.org/10.1002/9781118032428>
 </div>
 
 <div id="ref-47">
@@ -951,7 +951,7 @@ Juan Pablo Forero Acevedo
 </div>
 
 <div id="ref-50">
-50. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018a). *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)*. Subdirección para el Conocimiento del Riesgo (Ed.). Bogotá, D.C. http://hdl.handle.net/20.500.11762/27249
+50. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018a). *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)*. Subdirección para el Conocimiento del Riesgo (Ed.). Bogotá, D.C. <http://hdl.handle.net/20.500.11762/27249>
 </div>
 
 <div id="ref-51">

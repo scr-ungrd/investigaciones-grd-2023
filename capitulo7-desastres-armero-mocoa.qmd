@@ -352,15 +352,15 @@ William J. Guerrero
 </div>
 
 <div id="ref-21">
-21. Garibello, A. (2013, 5 de mayo). Se reabrirán los archivos para conocer qué pasó en Armero’: ICBF. *Editorial EL TIEMPO*. https://www.eltiempo.com/archivo/documento/CMS-12781202
+21. Garibello, A. (2013, 5 de mayo). Se reabrirán los archivos para conocer qué pasó en Armero’: ICBF. *Editorial EL TIEMPO*. <https://www.eltiempo.com/archivo/documento/CMS-12781202>
 </div>
 
 <div id="ref-22">
-22. Ávila Cortés Carolina, (2018, 13 de noviembre). *¿Qué está pasando con la reubicación de desplazados en Putumayo?  Editorial El Espectador,* https://www.elespectador.com/colombia-20/conflicto/que-esta-pasando-con-la-reubicacion-de-desplazados-en-putumayo-article/
+22. Ávila Cortés Carolina, (2018, 13 de noviembre). *¿Qué está pasando con la reubicación de desplazados en Putumayo?  Editorial El Espectador,* <https://www.elespectador.com/colombia-20/conflicto/que-esta-pasando-con-la-reubicacion-de-desplazados-en-putumayo-article/>
 </div>
 
 <div id="ref-23">
-23. Servicio Geológico Colombiano. (2021b). *Sistema de Información de Movimientos en Masa*. https://simma.sgc.gov.co/
+23. Servicio Geológico Colombiano. (2021b). *Sistema de Información de Movimientos en Masa*. <https://simma.sgc.gov.co/>
 </div>
 
 <div id="ref-24">
@@ -392,7 +392,7 @@ William J. Guerrero
 </div>
 
 <div id="ref-31">
-31. Ávila Cortés, C. (2017, 23 de octubre), “Indígenas en Mocoa que lo perdieron todo”, Editorial El Especrtador, https://www.elespectador.com/colombia-20/conflicto/indigenas-en-mocoa-que-lo-perdieron-todo-article/
+31. Ávila Cortés, C. (2017, 23 de octubre), “Indígenas en Mocoa que lo perdieron todo”, Editorial El Especrtador, <https://www.elespectador.com/colombia-20/conflicto/indigenas-en-mocoa-que-lo-perdieron-todo-article/>
 </div>
 
 <div id="ref-32">

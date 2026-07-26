@@ -224,7 +224,7 @@ Los autores no declaran conflicto de intereses
 18. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2020, 12 de agosto). Boletín de prensa 091. *¿Cuál es el riesgo por inundaciones en Colombia?*
 </div>
 <div id="ref-19">
-19. https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29910/Boletin_de_prensa_N_091.pdf?
+19. <https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29910/Boletin_de_prensa_N_091.pdf?>
 </div>
 <div id="ref-20">
 20. COSUDE (Agencia Suiza para el Desarrollo y Cooperación) / ALARN (Apoyo Local para el Análisis y Manejo de los Riesgos Naturales). (2002). *Instrumentos de apoyo para el análisis y la gestión de los riesgos naturales. Guía para el especialista*. Managua.
@@ -239,7 +239,7 @@ Los autores no declaran conflicto de intereses
 23. Spizzichino, D., Capriolo, A., & F., D. G. (2015). Climate change, flash flood risk assessment and adaptation policies: the urban area of Ancona municipality. *Engineering Geology for Society and Territory*, *5*, 1–7.
 </div>
 <div id="ref-24">
-24. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (s.f.). *Sequías*. http://gestiondelriesgo.gov.co/snigrd/pagina.aspx?id=148
+24. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (s.f.). *Sequías*. <http://gestiondelriesgo.gov.co/snigrd/pagina.aspx?id=148>
 </div>
 <div id="ref-25">
 25. Reser, J., & Swim, J. (2011). Adaptating to and coping with the threat and impacts of climate change. *The American Psychologist*, *66*(4), 277–289.

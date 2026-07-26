@@ -329,7 +329,7 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 ------------------------------------------------------------------------
 
 <div id="ref-1">
-1. Banihabib, M.E. & Forghani, A. (2017). An assessment framework for the mitigation effects of check dams on debris flow. *Catena, 1*(152), 277–84. https://doi.org/10.1016/j.catena.2017.01.018
+1. Banihabib, M.E. & Forghani, A. (2017). An assessment framework for the mitigation effects of check dams on debris flow. *Catena, 1*(152), 277–84. <https://doi.org/10.1016/j.catena.2017.01.018>
 </div>
 
 <div id="ref-2">
@@ -337,19 +337,19 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-3">
-3. Gan, B.R., Liu, X., Yang, X., Wang, X, & Zhou, J. (2018). The impact of human activities on the occurrence of mountain flood hazards: lessons from the 17 August 2015 flash flood/debris flow event in Xuyong County, south-western China. *Geomatics, Natural Hazards and Risk, 9*(1):816–40. https://doi.org/10.1080/19475705.2018.1480539
+3. Gan, B.R., Liu, X., Yang, X., Wang, X, & Zhou, J. (2018). The impact of human activities on the occurrence of mountain flood hazards: lessons from the 17 August 2015 flash flood/debris flow event in Xuyong County, south-western China. *Geomatics, Natural Hazards and Risk, 9*(1):816–40. <https://doi.org/10.1080/19475705.2018.1480539>
 </div>
 
 <div id="ref-4">
-4. Iverson, R.M. The physics of debris flows. (1997). *Reviews of Geophysics, 35*(3), 245–296. https://doi.org/10.1029/97RG00426
+4. Iverson, R.M. The physics of debris flows. (1997). *Reviews of Geophysics, 35*(3), 245–296. <https://doi.org/10.1029/97RG00426>
 </div>
 
 <div id="ref-5">
-5. Nettleton, I.M., Martin, S., Hencher, S. & Moore, R. Debris flow types and mechanisms. (2005). *Scottish Road Network Landslides Study*. http://www.scotland.gov.uk/Publications/2005/07/08131738/17395
+5. Nettleton, I.M., Martin, S., Hencher, S. & Moore, R. Debris flow types and mechanisms. (2005). *Scottish Road Network Landslides Study*. <http://www.scotland.gov.uk/Publications/2005/07/08131738/17395>
 </div>
 
 <div id="ref-6">
-6. Aristizábal, E., Carmona, M.I.A. & López, I.K.G. (2021). Definición y clasificación de las avenidas torrenciales y su impacto en los Andes colombianos. *Cuadernos de Geografía: Revista Colombiana de Geografía, 29*(1), 242–258. https://doi.org/10.15446/rcdg.v29n1.72612
+6. Aristizábal, E., Carmona, M.I.A. & López, I.K.G. (2021). Definición y clasificación de las avenidas torrenciales y su impacto en los Andes colombianos. *Cuadernos de Geografía: Revista Colombiana de Geografía, 29*(1), 242–258. <https://doi.org/10.15446/rcdg.v29n1.72612>
 </div>
 
 <div id="ref-7">
@@ -361,7 +361,7 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-9">
-9. Rozalis, S., Morin, E., Yair, Y. & Price, C. (2010). Flash flood prediction using an uncalibrated hydrological model and radar rainfall data in a Mediterranean watershed under changing hydrological conditions. *Journal of Hydrology, 394*(1–2), 245–55. https://doi.org/10.1016/j.jhydrol.2010.03.021
+9. Rozalis, S., Morin, E., Yair, Y. & Price, C. (2010). Flash flood prediction using an uncalibrated hydrological model and radar rainfall data in a Mediterranean watershed under changing hydrological conditions. *Journal of Hydrology, 394*(1–2), 245–55. <https://doi.org/10.1016/j.jhydrol.2010.03.021>
 </div>
 
 <div id="ref-10">
@@ -369,7 +369,7 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-11">
-11. Borga, M., Stoffel, M., Marra, F., Marchi, L., Marra, F. & Jakob, M. (2014). Hydrogeomorphic response to extreme rainfall in headwater systems: Flash floods and debris flows. *Journal of Hydrology, 518*(PB), 194–205. https://doi.org/10.1016/j.jhydrol.2014.05.022
+11. Borga, M., Stoffel, M., Marra, F., Marchi, L., Marra, F. & Jakob, M. (2014). Hydrogeomorphic response to extreme rainfall in headwater systems: Flash floods and debris flows. *Journal of Hydrology, 518*(PB), 194–205. <https://doi.org/10.1016/j.jhydrol.2014.05.022>
 </div>
 
 <div id="ref-12">
@@ -377,11 +377,11 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-13">
-13. Hungr, O., Evans, S.G., Bovis, M.J. & Hutchinson, J.N. (2001). A review of the classification of landslides of the flow type. *Environmental and Engineering Geoscience, 7*(3), 221–38. https://doi.org/10.2113/gseegeosci.7.3.221
+13. Hungr, O., Evans, S.G., Bovis, M.J. & Hutchinson, J.N. (2001). A review of the classification of landslides of the flow type. *Environmental and Engineering Geoscience, 7*(3), 221–38. <https://doi.org/10.2113/gseegeosci.7.3.221>
 </div>
 
 <div id="ref-14">
-14. Crozier, M.J. (2005). Multiple-occurrence regional landslide events in New Zealand: Hazard management issues. *Landslides, 2*(4), 247–56. https://doi.org/10.1007/s10346-005-0019-7
+14. Crozier, M.J. (2005). Multiple-occurrence regional landslide events in New Zealand: Hazard management issues. *Landslides, 2*(4), 247–56. <https://doi.org/10.1007/s10346-005-0019-7>
 </div>
 
 <div id="ref-15">
@@ -389,23 +389,23 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-16">
-16. Hungr, O., Leroueil, S. & Picarelli, L. (2014). The Varnes classification of landslide types, an update. *Landslides, 11*(2), 167–94. https://doi.org/10.1007/s10346-013-0436-y
+16. Hungr, O., Leroueil, S. & Picarelli, L. (2014). The Varnes classification of landslide types, an update. *Landslides, 11*(2), 167–94. <https://doi.org/10.1007/s10346-013-0436-y>
 </div>
 
 <div id="ref-17">
-17. Jakob, M., Holm, K., Lange, O. & Schwab, J.W. (2006) Hydrometeorological thresholds for landslide initiation and forest operation shutdowns on the north coast of British Columbia. *Landslides, 3*(3), 228–38. https://doi.org/10.1007/s10346-006-0044-1
+17. Jakob, M., Holm, K., Lange, O. & Schwab, J.W. (2006) Hydrometeorological thresholds for landslide initiation and forest operation shutdowns on the north coast of British Columbia. *Landslides, 3*(3), 228–38. <https://doi.org/10.1007/s10346-006-0044-1>
 </div>
 
 <div id="ref-18">
-18. Aristizábal, E., Carmona, M.I.A. & López, I.K.G. (2020). Definición y clasificación de las avenidas torrenciales y su impacto en los Andes colombianos. *Cuadernos de Geografia: Revista Colombiana de Geografia, 29*(1). https://doi.org/10.15446/rcdg.v29n1.72612
+18. Aristizábal, E., Carmona, M.I.A. & López, I.K.G. (2020). Definición y clasificación de las avenidas torrenciales y su impacto en los Andes colombianos. *Cuadernos de Geografia: Revista Colombiana de Geografia, 29*(1). <https://doi.org/10.15446/rcdg.v29n1.72612>
 </div>
 
 <div id="ref-19">
-19. Cañón, A.M.R., Merchán, A.A.R., Peña, M.A.M., Peña, G.L.R., Castellanos, S.V.M., Flórez, M.S.R, et al. (2021). *Guía metodológica para zonificación de amenaza por avenidas torrenciales*. Libros del Servicio Geológico Colombiano.  https://doi.org/10.32685/9789585313156
+19. Cañón, A.M.R., Merchán, A.A.R., Peña, M.A.M., Peña, G.L.R., Castellanos, S.V.M., Flórez, M.S.R, et al. (2021). *Guía metodológica para zonificación de amenaza por avenidas torrenciales*. Libros del Servicio Geológico Colombiano.  <https://doi.org/10.32685/9789585313156>
 </div>
 
 <div id="ref-20">
-20. DANE (Departamento Administrativo Nacional de Estadística). (2018). Reloj de población. http://www.dane.gov.co/reloj/
+20. DANE (Departamento Administrativo Nacional de Estadística). (2018). Reloj de población. <http://www.dane.gov.co/reloj/>
 </div>
 
 <div id="ref-21">
@@ -413,15 +413,15 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-22">
-22. Poveda, G., Salazar, L.F. (2004). Annual and interannual (ENSO) variability of spatial scaling properties of a vegetation index (NDVI) in Amazonia. *Remote Sensing of Environment, 93*(3), 391–401. https://doi.org/10.1016/j.rse.2004.08.001
+22. Poveda, G., Salazar, L.F. (2004). Annual and interannual (ENSO) variability of spatial scaling properties of a vegetation index (NDVI) in Amazonia. *Remote Sensing of Environment, 93*(3), 391–401. <https://doi.org/10.1016/j.rse.2004.08.001>
 </div>
 
 <div id="ref-23">
-23. Poveda, G. & Mesa, O.J. (1997). Feedbacks between hydrological processes in tropical South America and large-scale ocean-atmospheric phenomena. *Journal of Climate,10*(10), 2690–702. https://doi.org/10.1175/1520-0442(1997)010<2690:FBHPIT>2.0.CO;2
+23. Poveda, G. & Mesa, O.J. (1997). Feedbacks between hydrological processes in tropical South America and large-scale ocean-atmospheric phenomena. *Journal of Climate,10*(10), 2690–702. <https://doi.org/10.1175/1520-0442(1997>)010<2690:FBHPIT>2.0.CO;2
 </div>
 
 <div id="ref-24">
-24. Poveda, G., Waylen, P.R., Pulwarty, R.S. (2006). Annual and inter-annual variability of the present climate in northern South America and southern Mesoamerica. *Palaeogeography, Palaeoclimatology, Palaeoecology,234*(1), 3–27. https://doi.org/10.1016/j.palaeo.2005.10.031
+24. Poveda, G., Waylen, P.R., Pulwarty, R.S. (2006). Annual and inter-annual variability of the present climate in northern South America and southern Mesoamerica. *Palaeogeography, Palaeoclimatology, Palaeoecology,234*(1), 3–27. <https://doi.org/10.1016/j.palaeo.2005.10.031>
 </div>
 
 <div id="ref-25">
@@ -429,7 +429,7 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-26">
-26. Poveda, G., Vélez, J.I., Mesa, O.J., Cuartas, A., Barco, J., Mantilla, R.I., et al. (2007). Linking long-term water balances and statistical scaling to estimate river flows along the drainage network of Colombia. *Journal of Hydrologic Engineering,12*(1), 4–13. https://doi.org/10.1061/(ASCE)1084-0699(2007)12:1(4)
+26. Poveda, G., Vélez, J.I., Mesa, O.J., Cuartas, A., Barco, J., Mantilla, R.I., et al. (2007). Linking long-term water balances and statistical scaling to estimate river flows along the drainage network of Colombia. *Journal of Hydrologic Engineering,12*(1), 4–13. <https://doi.org/10.1061/(ASCE>)1084-0699(2007)12:1(4)
 </div>
 
 <div id="ref-27">
@@ -437,11 +437,11 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-28">
-28. Mesa, O., Poveda, G., Vélez, J.I., Mejía, J.F., Hoyos, C.D., Mantilla, R., et al. (2000) *Distribución espacial y ciclos anual y semianual de la precipitación en Colombia*. XIV Seminario de Hidráulica e Hidrología, Villa de Leyva, Boyacá. http://www.bdigital.unal.edu.co/9727/
+28. Mesa, O., Poveda, G., Vélez, J.I., Mejía, J.F., Hoyos, C.D., Mantilla, R., et al. (2000) *Distribución espacial y ciclos anual y semianual de la precipitación en Colombia*. XIV Seminario de Hidráulica e Hidrología, Villa de Leyva, Boyacá. <http://www.bdigital.unal.edu.co/9727/>
 </div>
 
 <div id="ref-29">
-29. Álvarez-Villa, O.D., Vélez, J.I. & Poveda, G. (2011). Improved long-term mean annual rainfall fields for Colombia. *International Journal of Climatology, 31*(14), 2194–212. https://doi.org/10.1002/joc.2232
+29. Álvarez-Villa, O.D., Vélez, J.I. & Poveda, G. (2011). Improved long-term mean annual rainfall fields for Colombia. *International Journal of Climatology, 31*(14), 2194–212. <https://doi.org/10.1002/joc.2232>
 </div>
 
 <div id="ref-30">
@@ -449,63 +449,63 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-31">
-31. Departamento Administrativo de Planeación de Antioquia. (2018). *Anuario Estadístico de Antioquia 2018*. https://www.antioquiadatos.gov.co/index.php/poblacion-2018
+31. Departamento Administrativo de Planeación de Antioquia. (2018). *Anuario Estadístico de Antioquia 2018*. <https://www.antioquiadatos.gov.co/index.php/poblacion-2018>
 </div>
 
 <div id="ref-32">
-32. Marchi, L., Borga, M., Preciso, E. & Gaume, E. (2010). Characterisation of selected extreme flash floods in Europe and implications for flood risk management. *Journal of Hydrology, 394*(1–2), 118–33. https://doi.org/10.1016/j.jhydrol.2010.07.017
+32. Marchi, L., Borga, M., Preciso, E. & Gaume, E. (2010). Characterisation of selected extreme flash floods in Europe and implications for flood risk management. *Journal of Hydrology, 394*(1–2), 118–33. <https://doi.org/10.1016/j.jhydrol.2010.07.017>
 </div>
 
 <div id="ref-33">
-33. Arango, M.I., Aristizábal, E. & Gómez, F. (2021). Morphometrical analysis of torrential flows-prone catchments in tropical and mountainous terrain of the Colombian Andes by machine learning techniques. *Natural Hazards,105*(1), 983–1012. https://doi.org/10.1007/s11069-020-04346-5
+33. Arango, M.I., Aristizábal, E. & Gómez, F. (2021). Morphometrical analysis of torrential flows-prone catchments in tropical and mountainous terrain of the Colombian Andes by machine learning techniques. *Natural Hazards,105*(1), 983–1012. <https://doi.org/10.1007/s11069-020-04346-5>
 </div>
 
 <div id="ref-34">
-34. El Bastawesy, M., White, K. & Nasr, A. (2009). Integration of remote sensing and GIS for modelling flash floods in Wadi Hudain catchment, Egypt. *Hydrological Process,23*(9), 359–368. https://doi.org/10.1002/hyp.7259
+34. El Bastawesy, M., White, K. & Nasr, A. (2009). Integration of remote sensing and GIS for modelling flash floods in Wadi Hudain catchment, Egypt. *Hydrological Process,23*(9), 359–368. <https://doi.org/10.1002/hyp.7259>
 </div>
 
 <div id="ref-35">
-35. Biswas, A., das Majumdar, D. & Banerjee, S. (2014) Morphometry Governs the Dynamics of a Drainage Basin: Analysis and Implications. *Geography Journal, 927176*. https://doi.org/10.1155/2014/927176
+35. Biswas, A., das Majumdar, D. & Banerjee, S. (2014) Morphometry Governs the Dynamics of a Drainage Basin: Analysis and Implications. *Geography Journal, 927176*. <https://doi.org/10.1155/2014/927176>
 </div>
 
 <div id="ref-36">
-36. Kostaschuk, R.A., MacDonald, G.M, Jackson Jr, L.E.J. (1987) Rocky Mountain Alluvial Fans. *The Canadian Geographer/Le Géographe canadien,31*(4), 366–368. https://doi.org/10.1111/j.1541-0064.1987.tb01664.x
+36. Kostaschuk, R.A., MacDonald, G.M, Jackson Jr, L.E.J. (1987) Rocky Mountain Alluvial Fans. *The Canadian Geographer/Le Géographe canadien,31*(4), 366–368. <https://doi.org/10.1111/j.1541-0064.1987.tb01664.x>
 </div>
 
 <div id="ref-37">
-37. Melton, M.A. (1957). *An Analysis of the Relations Among Elements of Climate, Surface Properties, and Geomorphology* Office of Naval Research Technical Report No. 11. Office of Naval Research, technical report.  http://www.dtic.mil/get-tr-doc/pdf?AD=AD0148373
+37. Melton, M.A. (1957). *An Analysis of the Relations Among Elements of Climate, Surface Properties, and Geomorphology* Office of Naval Research Technical Report No. 11. Office of Naval Research, technical report.  <http://www.dtic.mil/get-tr-doc/pdf?AD=AD0148373>
 </div>
 
 <div id="ref-38">
-38. Fisher, R.A. (1940). The Precision of Discriminant Functions. *Annals of Eugenics,10*(1), 422–429. https://doi.org/10.1111/j.1469-1809.1940.tb02264.x
+38. Fisher, R.A. (1940). The Precision of Discriminant Functions. *Annals of Eugenics,10*(1), 422–429. <https://doi.org/10.1111/j.1469-1809.1940.tb02264.x>
 </div>
 
 <div id="ref-39">
-39. Bertrand, M., Liébault, F. & Piégay, H. (2013). Debris-flow susceptibility of upland catchments. *Natural Hazards 67*(2), 497–511. https://doi.org/10.1007/s11069-013-0575-4
+39. Bertrand, M., Liébault, F. & Piégay, H. (2013). Debris-flow susceptibility of upland catchments. *Natural Hazards 67*(2), 497–511. <https://doi.org/10.1007/s11069-013-0575-4>
 </div>
 
 <div id="ref-40">
-40. Rahimi, A., Rahardjo, H. & Leong, E.C. (2010). Effect of hydraulic properties of soil on rainfall-induced slope failure. *Engineering Geology, 114*(3–4), 135–43. https://doi.org/10.1016/j.enggeo.2010.04.010 
+40. Rahimi, A., Rahardjo, H. & Leong, E.C. (2010). Effect of hydraulic properties of soil on rainfall-induced slope failure. *Engineering Geology, 114*(3–4), 135–43. <https://doi.org/10.1016/j.enggeo.2010.04.010> 
 </div>
 
 <div id="ref-41">
-41. Tsaparas, I., Rahardjo, H., Toll, D.G., & Leong, E.C. (2002). Controlling parameters for rainfall-induced landslides. *Computers and Geotechnics, 29*(1), 1–27. https://doi.org/10.1016/S0266-352X(01)00019-2
+41. Tsaparas, I., Rahardjo, H., Toll, D.G., & Leong, E.C. (2002). Controlling parameters for rainfall-induced landslides. *Computers and Geotechnics, 29*(1), 1–27. <https://doi.org/10.1016/S0266-352X(01>)00019-2
 </div>
 
 <div id="ref-42">
-42. Aristizábal, E., Garcia, E.F., Marin, R.J., Gómez, F., Guzmán-Martínez, J., Aristizábal, E., et al. (2020). Rainfall-intensity effect on landslide hazard assessment due to climate change in north-western Colombian Andes. *Revista Facultad de Ingeniería Universidad de Antioquia, 16*, (103): 51–66. https://doi.org/10.17533/udea.redin.20201215
+42. Aristizábal, E., Garcia, E.F., Marin, R.J., Gómez, F., Guzmán-Martínez, J., Aristizábal, E., et al. (2020). Rainfall-intensity effect on landslide hazard assessment due to climate change in north-western Colombian Andes. *Revista Facultad de Ingeniería Universidad de Antioquia, 16*, (103): 51–66. <https://doi.org/10.17533/udea.redin.20201215>
 </div>
 
 <div id="ref-43">
-43. Feng, W., Bai, H., Lan, B., Wu, Y., Wu, Z., Yan, L, et al. (2022). Spatial–temporal distribution and failure mechanism of group-occurring landslides in Mibei village, Longchuan County, Guangdong, China. *Landslides, 19*(1957), 1–14. https://doi.org/10.1007/s10346-022-01904-9
+43. Feng, W., Bai, H., Lan, B., Wu, Y., Wu, Z., Yan, L, et al. (2022). Spatial–temporal distribution and failure mechanism of group-occurring landslides in Mibei village, Longchuan County, Guangdong, China. *Landslides, 19*(1957), 1–14. <https://doi.org/10.1007/s10346-022-01904-9>
 </div>
 
 <div id="ref-44">
-44. Aristizábal, E., Arango Carmona, M.I., García López, I.K. (2020). Definition and classification of torrential avenues and their impact in the Colombian Andes. *Cuadernos de Geografia: Revista Colombiana de Geografia, 29*(1), 242–58. https://doi.org/10.15446/rcdg.v29n1.72612
+44. Aristizábal, E., Arango Carmona, M.I., García López, I.K. (2020). Definition and classification of torrential avenues and their impact in the Colombian Andes. *Cuadernos de Geografia: Revista Colombiana de Geografia, 29*(1), 242–58. <https://doi.org/10.15446/rcdg.v29n1.72612>
 </div>
 
 <div id="ref-45">
-45. Ruiz-Villanueva, V., Bodoque, J.M., Díez-Herrero, A., Calvo ,C. (2011). Triggering threshold precipitation and soil hydrological characteristics of shallow landslides in granitic landscapes. *Geomorphology, 133*(3–4), 178–189. https://doi.org/10.1016/j.geomorph.2011.05.018
+45. Ruiz-Villanueva, V., Bodoque, J.M., Díez-Herrero, A., Calvo ,C. (2011). Triggering threshold precipitation and soil hydrological characteristics of shallow landslides in granitic landscapes. *Geomorphology, 133*(3–4), 178–189. <https://doi.org/10.1016/j.geomorph.2011.05.018>
 </div>
 
 <div id="ref-46">
@@ -513,19 +513,19 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-47">
-47. Guzzetti, F., Carrara, A., Cardinali, M., Reichenbach, P.( 1999). Landslide hazard evaluation: A review of current techniques and their application in a multi-scale study, Central Italy. *Geomorphology, 31*(1–4), 181–216. https://doi.org/10.1016/S0169-555X(99)00078-1
+47. Guzzetti, F., Carrara, A., Cardinali, M., Reichenbach, P.( 1999). Landslide hazard evaluation: A review of current techniques and their application in a multi-scale study, Central Italy. *Geomorphology, 31*(1–4), 181–216. <https://doi.org/10.1016/S0169-555X(99>)00078-1
 </div>
 
 <div id="ref-48">
-48. Jaiswal, P. & van Westen, C.J. (2009). Estimating temporal probability for landslide initiation along transportation routes based on rainfall thresholds. *Geomorphology, 112*(1-2), 96–105. https://doi.org/10.1016/j.geomorph.2009.05.008
+48. Jaiswal, P. & van Westen, C.J. (2009). Estimating temporal probability for landslide initiation along transportation routes based on rainfall thresholds. *Geomorphology, 112*(1-2), 96–105. <https://doi.org/10.1016/j.geomorph.2009.05.008>
 </div>
 
 <div id="ref-49">
-49. Dietrich, W.E. & Montgomery, D.R. (1998). *SHALSTAB: a digital terrain model for mapping shallow landslide potential*. National Council of the Paper Industry for Air and Stream Improvement Technical Report. Vol. LVIII.  http://calm.geo.berkeley.edu/geomorph/shalstab/index.htm
+49. Dietrich, W.E. & Montgomery, D.R. (1998). *SHALSTAB: a digital terrain model for mapping shallow landslide potential*. National Council of the Paper Industry for Air and Stream Improvement Technical Report. Vol. LVIII.  <http://calm.geo.berkeley.edu/geomorph/shalstab/index.htm>
 </div>
 
 <div id="ref-50">
-50. Catani, F., Segoni, S. & Falorni, G. An empirical geomorphology-based approach to the spatial prediction of soil thickness at catchment scale. *Water Resources Research, 46*(5), 1–15. https://doi.org/10.1029/2008WR007450
+50. Catani, F., Segoni, S. & Falorni, G. An empirical geomorphology-based approach to the spatial prediction of soil thickness at catchment scale. *Water Resources Research, 46*(5), 1–15. <https://doi.org/10.1029/2008WR007450>
 </div>
 
 <div id="ref-51">
@@ -533,13 +533,13 @@ María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 </div>
 
 <div id="ref-52">
-52. Smart, J.S, Surkan, A.J. (1967). The relation between mainstream length and area in drainage basins. *Water Resources Research, 3*(4), 963–74. https://doi.org/10.1029/WR003i004p00963
+52. Smart, J.S, Surkan, A.J. (1967). The relation between mainstream length and area in drainage basins. *Water Resources Research, 3*(4), 963–74. <https://doi.org/10.1029/WR003i004p00963>
 </div>
 
 <div id="ref-53">
-53. Schumm, S.A. (1956). Evolution of drainage systems and slopes in badlands at Perth Amboy, New Jersey. *Geological Society of America Bulletin, 67*(5),597–646. https://doi.org/10.1130/0016-7606(1956)67[597:EODSAS]2.0.CO;2
+53. Schumm, S.A. (1956). Evolution of drainage systems and slopes in badlands at Perth Amboy, New Jersey. *Geological Society of America Bulletin, 67*(5),597–646. <https://doi.org/10.1130/0016-7606(1956>)67[597:EODSAS]2.0.CO;2
 </div>
 
 <div id="ref-54">
-54. Strahler, A.N. (1956). Hypsometric (area-altitude) analysis of erosional topography. *Geological Society of America Bulletin, 3*(11), 1117–1142. https://doi.org/10.1130/0016-7606(1952)63[1117:HAAOET]2.0.CO;2
+54. Strahler, A.N. (1956). Hypsometric (area-altitude) analysis of erosional topography. *Geological Society of America Bulletin, 3*(11), 1117–1142. <https://doi.org/10.1130/0016-7606(1952>)63[1117:HAAOET]2.0.CO;2
 </div>

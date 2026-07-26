@@ -341,7 +341,7 @@ Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. E
 </div>
 
 <div id="ref-10">
-10. Griscom. B. et al. (2017) Natural climate solutions. Earth, Atmospheric, and Planetary Sciences. Octubre 16, 2017: 114 (44) 11645-11650. https://doi.org/10.1073/pnas.1710465114
+10. Griscom. B. et al. (2017) Natural climate solutions. Earth, Atmospheric, and Planetary Sciences. Octubre 16, 2017: 114 (44) 11645-11650. <https://doi.org/10.1073/pnas.1710465114>
 </div>
 
 <div id="ref-11">
@@ -357,7 +357,7 @@ Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. E
 </div>
 
 <div id="ref-14">
-14. WWF. 2020. I*nforme Planeta Vivo 2020: Revertir la curva de la pérdida de biodiversidad*. Resumen. Almond, R.E.A., Grooten M. & Petersen, T. (Eds.). WWF, Gland, Suiza. https://wwfar.awsassets.panda.org/downloads/informe_planeta_vivo_2020_resumen_ejecutivo.pdf
+14. WWF. 2020. I*nforme Planeta Vivo 2020: Revertir la curva de la pérdida de biodiversidad*. Resumen. Almond, R.E.A., Grooten M. & Petersen, T. (Eds.). WWF, Gland, Suiza. <https://wwfar.awsassets.panda.org/downloads/informe_planeta_vivo_2020_resumen_ejecutivo.pdf>
 </div>
 
 <div id="ref-15">
@@ -517,7 +517,7 @@ Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. E
 </div>
 
 <div id="ref-54">
-54. Universidad de los Andes & Alcaldía Mayor de Bogotá (2016). Investigación de las tipologías y/o tecnologías de Sistemas  Urbanos de Drenaje Sostenible (SUDS) que más se  adapten a las condiciones de la ciudad de Bogotá D.C. Producto 3 – Guía técnica de diseño y construcción de  Sistemas Urbanos de Drenaje Sostenible (SUDS). https://ambientebogota.gov.co/sistemas-urbanos-de-drenaje-sostenible
+54. Universidad de los Andes & Alcaldía Mayor de Bogotá (2016). Investigación de las tipologías y/o tecnologías de Sistemas  Urbanos de Drenaje Sostenible (SUDS) que más se  adapten a las condiciones de la ciudad de Bogotá D.C. Producto 3 – Guía técnica de diseño y construcción de  Sistemas Urbanos de Drenaje Sostenible (SUDS). <https://ambientebogota.gov.co/sistemas-urbanos-de-drenaje-sostenible>
 </div>
 
 <div id="ref-55">
@@ -533,11 +533,11 @@ Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. E
 </div>
 
 <div id="ref-58">
-58. El Espectador (2017, 1 de abril). *Causas y recomendaciones tras la avalancha en Mocoa*. https://bit.ly/3fOb4gU
+58. El Espectador (2017, 1 de abril). *Causas y recomendaciones tras la avalancha en Mocoa*. <https://bit.ly/3fOb4gU>
 </div>
 
 <div id="ref-59">
-59. Ospina Zapata, G. (2021). Millonarios proyectos para frenar erosión costera incluyen a Urabá. *El Colombiano*. Abril 30 de 2021.https://bit.ly/3nLGNUq
+59. Ospina Zapata, G. (2021). Millonarios proyectos para frenar erosión costera incluyen a Urabá. *El Colombiano*. Abril 30 de 2021.<https://bit.ly/3nLGNUq>
 </div>
 
 <div id="ref-60">
@@ -553,7 +553,7 @@ Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. E
 </div>
 
 <div id="ref-63">
-63. Lerma Carreño, C.A. (2017, 11 de julio) La participación: ¿Entre la apatía política y la conciencia ambiental y social?. *Revista Sur*. https://bit.ly/3nOeUuT
+63. Lerma Carreño, C.A. (2017, 11 de julio) La participación: ¿Entre la apatía política y la conciencia ambiental y social?. *Revista Sur*. <https://bit.ly/3nOeUuT>
 </div>
 
 <div id="ref-64">

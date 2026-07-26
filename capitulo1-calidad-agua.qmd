@@ -635,12 +635,12 @@ Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
 ------------------------------------------------------------------------
 
 ::: {#ref-1}
-1.  United Nations. (2021, 3 de junio). *We can end poverty. Millenium development goals and beyond 2015.* https://www.un.org/millenniumgoals/environ.shtml
+1.  United Nations. (2021, 3 de junio). *We can end poverty. Millenium development goals and beyond 2015.* <https://www.un.org/millenniumgoals/environ.shtml>
 
     </div>
 
     ::: {#ref-2}
-    2.  Lemus, M., Cárdenas, J.A., Martínez, A.J., & Rodríguez-Susa, M. (2019). Changes on Eubacteria 338I, Gamma-, Betaproteobacteria in biofilms from drinking water systems according to operational conditions. *Environmental Processes, 6*, 85–106. https://doi.org/10.1007/s40710-019-00355-0
+    2.  Lemus, M., Cárdenas, J.A., Martínez, A.J., & Rodríguez-Susa, M. (2019). Changes on Eubacteria 338I, Gamma-, Betaproteobacteria in biofilms from drinking water systems according to operational conditions. *Environmental Processes, 6*, 85–106. <https://doi.org/10.1007/s40710-019-00355-0>
 
         </div>
 
@@ -655,7 +655,7 @@ Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
                 </div>
 
                 ::: {#ref-5}
-                5.  Hurtado-McCormick, S., Sánchez, L., Martínez, J., Calderón, J., Calvo, D., Narváez, D., Rodríguez-Susa, M. (2016). Fungi in biofilms of a drinking water network: occurrence, diversity and mycotoxins approach. *Water Science and Technology: Water Supply, 16*(4), 905-914. https://doi.org/10.2166/ws.2016.024
+                5.  Hurtado-McCormick, S., Sánchez, L., Martínez, J., Calderón, J., Calvo, D., Narváez, D., Rodríguez-Susa, M. (2016). Fungi in biofilms of a drinking water network: occurrence, diversity and mycotoxins approach. *Water Science and Technology: Water Supply, 16*(4), 905-914. <https://doi.org/10.2166/ws.2016.024>
 
                     </div>
 
@@ -680,22 +680,22 @@ Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
                                     </div>
 
                                     ::: {#ref-10}
-                                    10. Mora-Alvarado, D., Orozco-Gutiérrez, J., Solís-Castro, Y., Rivera-Navarro, P. C., Cambronero-Bolaños, D., Zuñiga-Zuñiga, L. A., & García-Aguilar, J. (Septiembre de 2018). Índice de Riesgo de la Calidad del Agua para Consumo Humano en Costa Rica. *Tecnología en marcha, 31*(3), 3-14. https://doi.org/10.18845/tm.v31i3.3897
+                                    10. Mora-Alvarado, D., Orozco-Gutiérrez, J., Solís-Castro, Y., Rivera-Navarro, P. C., Cambronero-Bolaños, D., Zuñiga-Zuñiga, L. A., & García-Aguilar, J. (Septiembre de 2018). Índice de Riesgo de la Calidad del Agua para Consumo Humano en Costa Rica. *Tecnología en marcha, 31*(3), 3-14. <https://doi.org/10.18845/tm.v31i3.3897>
 
                                         </div>
 
                                         ::: {#ref-11}
-                                        11. Shi, W., Xia, J., Gippel, C., Chen, J., & Hong, S. (2017). Influence of disaster risk, exposure and water quality on vulnerability of surface water resources under a changing climate in the Haihe River basin. *Water International, 42*(4), 462-485. https://doi.org/10.1080/02508060.2017.1301143
+                                        11. Shi, W., Xia, J., Gippel, C., Chen, J., & Hong, S. (2017). Influence of disaster risk, exposure and water quality on vulnerability of surface water resources under a changing climate in the Haihe River basin. *Water International, 42*(4), 462-485. <https://doi.org/10.1080/02508060.2017.1301143>
 
                                             </div>
 
                                             ::: {#ref-12}
-                                            12. Shamsuzzoha, M., Kormoker, T., & Ghosh, R. (2018). Implementation of Water Safety Plan Considering Climatic Disaster Risk Reduction in Bangladesh: A Study on Patuakhali Pourashava Water Supply System. *Procedia Engineering, 212*(2017), 583-590. https://doi.org/10.1016/j.proeng.2018.01.075
+                                            12. Shamsuzzoha, M., Kormoker, T., & Ghosh, R. (2018). Implementation of Water Safety Plan Considering Climatic Disaster Risk Reduction in Bangladesh: A Study on Patuakhali Pourashava Water Supply System. *Procedia Engineering, 212*(2017), 583-590. <https://doi.org/10.1016/j.proeng.2018.01.075>
 
                                                 </div>
 
                                                 ::: {#ref-13}
-                                                13. Gheuens, J., Nagabhatla, N., & Perera, E. (2019). Disaster-risk, water security challenges and strategies in Small Island Developing States (SIDS). *Water (Switzerland), 11*(4), 1-28. https://doi.org/10.3390/w11040637
+                                                13. Gheuens, J., Nagabhatla, N., & Perera, E. (2019). Disaster-risk, water security challenges and strategies in Small Island Developing States (SIDS). *Water (Switzerland), 11*(4), 1-28. <https://doi.org/10.3390/w11040637>
 
                                                     </div>
 
@@ -730,7 +730,7 @@ Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
                                                                             </div>
 
                                                                             ::: {#ref-20}
-                                                                            20. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). *Curvas Intensidad Duración Frecuencia IDF.* http://www.ideam.gov.co/curvas-idf
+                                                                            20. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). *Curvas Intensidad Duración Frecuencia IDF.* <http://www.ideam.gov.co/curvas-idf>
 
                                                                                 </div>
 
@@ -765,32 +765,32 @@ Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
                                                                                                         </div>
 
                                                                                                         ::: {#ref-27}
-                                                                                                        27. Fiscalía General de la Nación. (2020). Recuperado el 2020, de Datos abiertos de la fiscalía general de la Nación: https://www.fiscalia.gov.co/colombia/gestion/estadisticas/
+                                                                                                        27. Fiscalía General de la Nación. (2020). Recuperado el 2020, de Datos abiertos de la fiscalía general de la Nación: <https://www.fiscalia.gov.co/colombia/gestion/estadisticas/>
 
                                                                                                             </div>
 
                                                                                                             ::: {#ref-28}
-                                                                                                            28. Zhang, X., Mi, Z., Wang, Y., Liu, S., Niu, Z., Lu, P., . . . Chen, C. (2014). A red water occurrence in drinking water distribution systems caused by changes in water source in Beijing, China: mechanism analysis and control measures. *Frontiers of Environmental Science & Engineering, 8*(3), 417-426. https://doi.org/10.1007/s11783-013-0558-4
+                                                                                                            28. Zhang, X., Mi, Z., Wang, Y., Liu, S., Niu, Z., Lu, P., . . . Chen, C. (2014). A red water occurrence in drinking water distribution systems caused by changes in water source in Beijing, China: mechanism analysis and control measures. *Frontiers of Environmental Science & Engineering, 8*(3), 417-426. <https://doi.org/10.1007/s11783-013-0558-4>
 
                                                                                                                 </div>
 
                                                                                                                 ::: {#ref-29}
-                                                                                                                29. Pietrucha-Urbanik, K., Tchórzewska-Cie lak, B., Dorota Papciak, D., & Skrzypczak, I. (2017). Analysis of chemical stability of tap water in terms of required level of technological safety. *Archives of Environmental Protection, 43*(4), 3-12. https://doi.org/10.1515/aep-2017-0043
+                                                                                                                29. Pietrucha-Urbanik, K., Tchórzewska-Cie lak, B., Dorota Papciak, D., & Skrzypczak, I. (2017). Analysis of chemical stability of tap water in terms of required level of technological safety. *Archives of Environmental Protection, 43*(4), 3-12. <https://doi.org/10.1515/aep-2017-0043>
 
                                                                                                                     </div>
 
                                                                                                                     ::: {#ref-30}
-                                                                                                                    30. Lenntech. (2020). *Ryznar Stability Index*. https://www.lenntech.com/calculators/ryznar/index/ryznar.htm
+                                                                                                                    30. Lenntech. (2020). *Ryznar Stability Index*. <https://www.lenntech.com/calculators/ryznar/index/ryznar.htm>
 
                                                                                                                         </div>
 
                                                                                                                         ::: {#ref-31}
-                                                                                                                        31. Edwards, M., & Triantafyllidou, S. (2007). Chloride-to-sulfate mass ratio and lead leaching to water. *American Water Works Association, 99*(7), 96-106. https://doi.org/10.1002/j.1551-8833.2007.tb07984.x
+                                                                                                                        31. Edwards, M., & Triantafyllidou, S. (2007). Chloride-to-sulfate mass ratio and lead leaching to water. *American Water Works Association, 99*(7), 96-106. <https://doi.org/10.1002/j.1551-8833.2007.tb07984.x>
 
                                                                                                                             </div>
 
                                                                                                                             ::: {#ref-32}
-                                                                                                                            32. Nguyen, C., Stone, K., & Edwards, M. (2011). Chloride-to-sulfate mass ratio: Practical studies in galvanic corrosion of lead solder. *American Water Works Association, 103*(1). https://doi.org/10.1002/j.1551-8833.2011.tb11384.x
+                                                                                                                            32. Nguyen, C., Stone, K., & Edwards, M. (2011). Chloride-to-sulfate mass ratio: Practical studies in galvanic corrosion of lead solder. *American Water Works Association, 103*(1). <https://doi.org/10.1002/j.1551-8833.2011.tb11384.x>
 
                                                                                                                                 </div>
                                                                                                                             :::
