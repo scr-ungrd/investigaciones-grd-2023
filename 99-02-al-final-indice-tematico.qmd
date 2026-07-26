@@ -1,614 +1,344 @@
 # Índice temático {.unnumbered}
 
-A
-
-Adaptación	156
-
-Adaptación basada en ecosistemas	275, 286
-
-Adaptación frente al cambio climático	265, 275
-
-Afrontamiento	346
-
-estrategias de	347
-
-Agua potable	3, 332
-
-Aislamiento sísmico	242
-
-Albergues y alojamientos temporales	347
-
-Amenaza en corredores viales
-
-por inundación	70
-
-por movimientos en masa	66
-
-Amenaza por avenidas torrenciales	92
-
-Amenaza por inundación	56, 140, 144, 157, 183
-
-metodología de análisis	144
-
-Amenaza por tsunami	39
-
-Amenaza sísmica
-
-alta amenaza sísmica en Colombia	247
-
-comportamiento estructural de nueva infraestructura ante sismos	247
-
-visión normativa del comportamiento estructural esperado	247
-
-Amenazas antrópicas	2,16
-
-Análisis del riesgo por inundación	178
-
-Apego al lugar	209, 216
-
-Asentamientos urbanos vulnerables	293
-
-Atención a las personas	335
-
-Atención Primaria en Salud	335
-
-Avenidas torrenciales	92
-
-amenaza	100
-
-cálculo de la amenaza	104, 111
-
-definición	95
-
-inventario en Antioquía	103
-
-magnitud	100, 110
-
-necesidades futuras	114
-
-ordenamiento territorial	92
-
-probabilidad temporal	101, 108
-
-susceptibilidad	92, 98, 105
-
-tipos	92
-
-Valle de Aburrá	96
-
-B
-
-Biodiversidad y servicios ecosistémicos	265, 267
-
-Biomineralización	310
-
-Biotecnología	310
-
-Bomberos voluntarios	343
-
-normativa en Colombia	346
-
-C
-
-Calidad del agua	3
-
-Campesinos	224
-
-*c*omo concepto en la gestión del riesgo de desastres	231
-
-Capacidad adaptativa	277
-
-Captura de datos	56
-
-Captura de datos en campo	80
-
-Ciencia ciudadana	288
-
-Ciencia, tecnología e innovación	57
-
-Comportamiento estructural de nueva infraestructura ante sismos
-
-incoherencias normativas	253
-
-Confianza en las instituciones	209, 217
-
-Conflictos socioecológicos	267, 270
-
-Conocimiento de la biodiversidad	278
-
-Conocimientos sociales	211
-
-Construcción social del riesgo	156
-
-Corredores viales	59
-
-elemento expuesto	59
-
-fragilidad	59
-
-inundación	70
-
-movimientos en masa	66
-
-resiliencia	59
-
-vulnerabilidad	59
-
-vulnerabilidad física	75
-
-Creciente súbita
-
-definición	95
-
-Curva de Excedencia de Pérdidas	157, 159
-
-D
-
-Deformación vertical del lecho marino	47
-
-Desastre de Armero	191
-
-caracterización del desastre	195
-
-causas de raíz	197
-
-condiciones inseguras	198
-
-presiones dinámicas	197
-
-Desastre de Mocoa	191, 199
-
-causas raiz	201
-
-evolución de la tragedia	200
-
-presiones dinámicas	202
-
-Deslizamientos	213
-
-Dimensión sociocultural	215
-
-Disposición de excretas humanas	333
-
-E
-
-Ecosistemas costeros	276
-
-Elemento expuesto en corredores viales	56, 60
-
-Encuesta de calidad de vida	226
-
-Enfoque diferencial	224
-
-Enfoque diferencial en la gestión del riesgo de desastres	231
-
-Enfoque psicosocial del riesgo	211
-
-Escenarios de riesgo en pérdida de biodiversidad	272
-
-Evaluación probabilista de riesgo	140, 159
-
-Evolución de la tragedia de Armero	196
-
-Exposición en corredores viales
-
-calificación y evaluación	75
-
-F
-
-Flujo de escombros canalizado
-
-definición	95
-
-Fragilidad en corredores viales	59
-
-calificación y evaluación	76
-
-Función de vulnerabilidad	153
-
-G
-
-Gestión del riesgo en salud	327
-
-Gestión del riesgo por inundación	140
-
-Gobernanza del riesgo de desastres	156
-
-Guapi	40
-
-I
-
-Incendios forestales	120, 310
-
-área quemada	120, 127
-
-biomineralización	310
-
-biotecnología	310
-
-características físicas de los suelos	315
-
-descarga de datos	133
-
-distribución de las anomalías térmicas	127
-
-FIRMS	125
-
-focos de calor	125
-
-Google Earth Engine	125
-
-índice normalizado de área quemada	129
-
-MODIS	125
-
-pérdida de cobertura vegetal	122
-
-recuperación de suelos	310
-
-Sentinel-2	125
-
-suelos degradados	310
-
-transformación de bosques	122
-
-Indicadores de biodiversidad y servicios ecosistémicos	290
-
-Índice normalizado de área quemada	129
-
-cálculo	135
-
-mapa	131
-
-Índices de pobreza multidimensional	226
-
-Infraestructura sismo resistente
-
-cambio de paradigma	250
-
-hospital seguro	251
-
-Infraestructura vial
-
-instrumento de recolección de datos	62
-
-Instrumento móvil de captura de datos	78
-
-Inundación de escombros
-
-definición	95
-
-Inundación en corredores viales	58
-
-Inundación lenta	157–158, 178, 182
-
-Inundaciones	214
-
-Inundaciones costeras	215
-
-Inundaciones en ciudades	71
-
-Inundaciones lentas o en la llanura	71
-
-Inundaciones repentinas	71
-
-L
-
-Litoral Pacífico Colombiano	41
-
-M
-
-Manglares	276
-
-Máxima amplitud de tsunami	47
-
-Mitigación del cambio climático	265, 275
-
-Mitigación del riesgo sísmico	242
-
-búsqueda de alternativas	252
-
-normativa local	243
-
-normativa para edificaciones con aislamiento de base y disipación de energía para Colombia	255
-
-Modelación hidrológica	161
-
-Modelo de exposición	146, 166
-
-Modelo *Pressure and Release*	191
-
-metodología	193
-
-Motores de transformación y pérdida de la biodiversidad	272
-
-O
-
-Ordenamiento territorial	92, 291
-
-P
-
-Paradigma psicométrico	211
-
-Percepción del riesgo	176, 209, 213
-
-apego al lugar	216
-
-confianza en las instituciones	217
-
-dimensión sociocultural	215
-
-Pérdida Anual Esperada	157, 159, 180
-
-Pérdida Máxima Probable	157, 159
-
-Periodo de retorno	159
-
-Perfil epidemiológico	334
-
-Política Nacional de Cambio Climático	267
-
-Prima Pura de Riesgo	157, 159
-
-Prioridades en salud pública	331
-
-R
-
-Recuperación de suelos	310
-
-Reducción del riesgo de desastres basada en ecosistemas	275, 286
-
-Reforzamiento sísmico y estructural de edificaciones	
-
-de edificaciones indispensables	250
-
-Reglamento Colombiano de Construcciones Sismo Resistentes NSR-10	247
-
-Relación Media de Daño	153
-
-Remoción en masa en corredores viales	58
-
-Remoción en masa por inundación	56
-
-Resiliencia	156, 330, 346
-
-Resiliencia en corredores viales	59
-
-calificación y evaluación	76
-
-Respondedores de emergencias	343
-
-apoyo social	356	
-
-estrés postraumático	356
-
-resiliencia	347
-
-Restauración ecológica	279
-
-Retos
-
-definición	286
-
-Riesgo en epidemiología	329
-
-Riesgo en la calidad de agua potable	2, 3
-
-amenazas	3,7
-
-escenarios de análisis	3
-
-exposición	3,6,12
-
-metodologías	3,6
-
-vulnerabilidad	3,9
-
-Riesgo en sistemas de acueducto	29
-
-Riesgo sísmico	242
-
-amenaza sísmica	247
-
-disipación de energía	242
-
-nivel de desempeño	242
-
-Rubro de contenidos	149–151, 170–172, 184
-
-Rubro de edificaciones	150, 172
-
-S
-
-Salud ambiental	335
-
-Salud mental en situación de desastre	334
-
-Sequía	214
-
-Servicios culturales	286
-
-Servicios de aprovisionamiento	286
-
-Servicios de regulación	286
-
-Servicios de soporte	286
-
-Servicios ecosistémicos	265
-
-de regulación	275
-
-para la reducción del riesgo de desastres	288
-
-Sistema general de seguridad social	329
-
-Sistemas de acueducto	2
-
-amenaza	13
-
-exposición	12
-
-vulnerabilidad	18
-
-Sistemas de control de respuesta estructural	242
-
-activos, semiactivos, pasivos e híbridos	244
-
-aisladores de base	245
-
-aplicación	253
-
-contexto internacional	246
-
-definición	244
-
-disipadores de energía o amortiguadores	245
-
-fabricación local de dispositivos	257
-
-finalidad	244
-
-Sistemas de información geográfica	120
-
-Socioecosistema	267, 270
-
-Socioecositemas urbanos	277
-
-Soluciones basadas en la naturaleza	265, 267
-
-análisis costo-beneficio	289
-
-Asentamientos urbanos vulnerables	293
-
-Eco-DRR	286
-
-financiación de los proyectos	299
-
-participación ciudadana	297
-
-pliegos para contratación estatal	294
-
-procesos de gobernanza inclusivos	296
-
-soluciones híbridas	298
-
-Toma de decisiones basadas en evidencia	293
-
-Suelos degradados	310
-
-Suelos quemados
-
-agregación del suelo	314
-
-Consolidación duplo-edométrica	320
-
-corte directo	319
-
-curva de retención de agua	319
-
-*desagregación*	322
-
-mineralogía	318
-
-pH y punto de carga zero del suelo	317
-
-*pinhole test*	322
-
-curva granulométrica para suelos quemados	315
-
-T
-
-Taxonomía de categorías de estructuras de drenaje y estabilización de taludes en corredores viales	61
-
-Teledetección	120, 123
-
-optica	123
-
-Teledetección de áreas quemadas en la Orinoquía	123
-
-Tipologías constructivas	166
-
-Tipologías estructurales	146, 153
-
-Tipos de inundación lenta	146
-
-fluvial o por desbordamiento	146
-
-inundación	146
-
-pluvial o por encharcamiento	146
-
-Tsunami
-
-altura máxima	49
-
-altura máxima de inundación	42
-
-área de inundación	42
-
-distancia de inundación	42
-
-dominio computacional	46
-
-escenarios sísmicos fuentes	42
-
-fuente	42
-
-Guapi	40
-
-inundación	40
-
-litoral Pacífico Colombiano	41
-
-máxima profundidad	50
-
-método de simulación numérica y evaluación de la amenaza	44
-
-modelo	42
-
-modelo de deslizamiento interplaca	44
-
-produndidad de inundación	42, 49
-
-propagación	42, 48
-
-SATREPS	43
-
-simulación	40, 42
-
-V
-
-Valor económico y población expuesta	148
-
-Valor expuesto	167
-
-Valoración de la amenaza por inundación	71
-
-Velocidad media de flujo	153
-
-Vida digna	224
-
-Derecho a una	228
-
-Vigilancia en salud pública	335
-
-Vulnerabilidad de campesinos	224
-
-Vulnerabilidad psicologica	356
-
-Vulnerabilidad del rubro de edificaciones	151
-
-Vulnerabilidad en corredores viales	56, 79
-
-Vulnerabilidad física	140, 142, 144, 169, 182, 184
-
-Vulnerabilidad física en corredores viales	75, 149
-
-Vulnerabilidad frente al cambio climático	277
-
-Vulnerabilidad social	140, 142, 144, 153–156, 173–177, 182, 184
-
-Z
-
-Zoonosis	333
-
+Esta página contiene los términos clave utilizados a lo largo del libro con enlaces directos a donde aparecen.
+
+---
+
+## A
+
+- **Adaptación**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Adaptación basada en ecosistemas**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd), [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Adaptación frente al cambio climático**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Afrontamiento**: [Capítulo 15](capitulo15-preparacion-de-respondedores.qmd)
+  - Estrategias de afrontamiento
+- **Agua potable**: [Capítulo 1](capitulo1-calidad-agua.qmd), [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Aislamiento sísmico**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+- **Albergues y alojamientos temporales**: [Capítulo 15](capitulo15-preparacion-de-respondedores.qmd)
+- **Amenaza en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+  - Por inundación
+  - Por movimientos en masa
+- **Amenaza por avenidas torrenciales**: [Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd)
+- **Amenaza por inundación**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd), [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+  - Metodología de análisis
+- **Amenaza por tsunami**: [Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd)
+- **Amenaza sísmica**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - Alta amenaza sísmica en Colombia
+  - Comportamiento estructural de nueva infraestructura ante sismos
+  - Visión normativa del comportamiento estructural esperado
+- **Amenazas antrópicas**: [Capítulo 1](capitulo1-calidad-agua.qmd)
+- **Análisis del riesgo por inundación**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Apego al lugar**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Asentamientos urbanos vulnerables**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Atención a las personas**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Atención Primaria en Salud**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Avenidas torrenciales**: [Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd)
+  - Amenaza
+  - Cálculo de la amenaza
+  - Definición
+  - Inventario en Antioquia
+  - Magnitud
+  - Necesidades futuras
+  - Ordenamiento territorial
+  - Probabilidad temporal
+  - Susceptibilidad
+  - Tipos
+  - Valle de Aburrá
+
+## B
+
+- **Biodiversidad y servicios ecosistémicos**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Biomineralización**: [Capítulo 13](capitulo13-biotratamiento-suelo-quema.qmd)
+- **Biotecnología**: [Capítulo 13](capitulo13-biotratamiento-suelo-quema.qmd)
+- **Bomberos voluntarios**: [Capítulo 15](capitulo15-preparacion-de-respondedores.qmd)
+  - Normativa en Colombia
+
+## C
+
+- **Calidad del agua**: [Capítulo 1](capitulo1-calidad-agua.qmd)
+- **Campesinos**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+  - Como concepto en la gestión del riesgo de desastres
+- **Capacidad adaptativa**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Captura de datos**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Captura de datos en campo**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Ciencia ciudadana**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Ciencia, tecnología e innovación**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Comportamiento estructural de nueva infraestructura ante sismos**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - Incoherencias normativas
+- **Confianza en las instituciones**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Conflictos socioecológicos**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Conocimiento de la biodiversidad**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Conocimientos sociales**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Construcción social del riesgo**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+  - Elemento expuesto
+  - Fragilidad
+  - Inundación
+  - Movimientos en masa
+  - Resiliencia
+  - Vulnerabilidad
+  - Vulnerabilidad física
+- **Creciente súbita**: [Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd)
+  - Definición
+- **Curva de Excedencia de Pérdidas**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+
+## D
+
+- **Deformación vertical del lecho marino**: [Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd)
+- **Desastre de Armero**: [Capítulo 7](capitulo7-desastres-armero-mocoa.qmd)
+  - Caracterización del desastre
+  - Causas de raíz
+  - Condiciones inseguras
+  - Presiones dinámicas
+- **Desastre de Mocoa**: [Capítulo 7](capitulo7-desastres-armero-mocoa.qmd)
+  - Causas raíz
+  - Evolución de la tragedia
+  - Presiones dinámicas
+- **Deslizamientos**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Dimensión sociocultural**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Disposición de excretas humanas**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+
+## E
+
+- **Ecosistemas costeros**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Elemento expuesto en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Encuesta de calidad de vida**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+- **Enfoque diferencial**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+- **Enfoque diferencial en la gestión del riesgo de desastres**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+- **Enfoque psicosocial del riesgo**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Escenarios de riesgo en pérdida de biodiversidad**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Evaluación probabilista de riesgo**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Evolución de la tragedia de Armero**: [Capítulo 7](capitulo7-desastres-armero-mocoa.qmd)
+- **Exposición en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+  - Calificación y evaluación
+
+## F
+
+- **Flujo de escombros canalizado**: [Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd)
+  - Definición
+- **Fragilidad en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+  - Calificación y evaluación
+- **Función de vulnerabilidad**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+
+## G
+
+- **Gestión del riesgo en salud**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Gestión del riesgo por inundación**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Gobernanza del riesgo de desastres**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Guapi**: [Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd)
+
+## I
+
+- **Incendios forestales**: [Capítulo 5](capitulo5-incendios-orinoquia.qmd), [Capítulo 13](capitulo13-biotratamiento-suelo-quema.qmd)
+  - Área quemada
+  - Biomineralización
+  - Biotecnología
+  - Características físicas de los suelos
+  - Descarga de datos
+  - Distribución de las anomalías térmicas
+  - FIRMS
+  - Focos de calor
+  - Google Earth Engine
+  - Índice normalizado de área quemada
+  - MODIS
+  - Pérdida de cobertura vegetal
+  - Recuperación de suelos
+  - Sentinel-2
+  - Suelos degradados
+  - Transformación de bosques
+- **Indicadores de biodiversidad y servicios ecosistémicos**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Índice normalizado de área quemada**: [Capítulo 5](capitulo5-incendios-orinoquia.qmd)
+  - Cálculo
+  - Mapa
+- **Índices de pobreza multidimensional**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+- **Infraestructura sismo resistente**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - Cambio de paradigma
+  - Hospital seguro
+- **Infraestructura vial**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+  - Instrumento de recolección de datos
+- **Instrumento móvil de captura de datos**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Inundación de escombros**: [Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd)
+  - Definición
+- **Inundación en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Inundación lenta**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Inundaciones**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Inundaciones costeras**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Inundaciones en ciudades**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Inundaciones lentas o en la llanura**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Inundaciones repentinas**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+
+## L
+
+- **Litoral Pacífico Colombiano**: [Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd)
+
+## M
+
+- **Manglares**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Máxima amplitud de tsunami**: [Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd)
+- **Mitigación del cambio climático**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Mitigación del riesgo sísmico**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - Búsqueda de alternativas
+  - Normativa local
+  - Normativa para edificaciones con aislamiento de base y disipación de energía para Colombia
+- **Modelación hidrológica**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Modelo de exposición**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Modelo *Pressure and Release***: [Capítulo 7](capitulo7-desastres-armero-mocoa.qmd)
+  - Metodología
+- **Motores de transformación y pérdida de la biodiversidad**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+
+## O
+
+- **Ordenamiento territorial**: [Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd), [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+
+## P
+
+- **Paradigma psicométrico**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Percepción del riesgo**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd), [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+  - Apego al lugar
+  - Confianza en las instituciones
+  - Dimensión sociocultural
+- **Pérdida Anual Esperada**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Pérdida Máxima Probable**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Perfil epidemiológico**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Periodo de retorno**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Política Nacional de Cambio Climático**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Prima Pura de Riesgo**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Prioridades en salud pública**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+
+## R
+
+- **Recuperación de suelos**: [Capítulo 13](capitulo13-biotratamiento-suelo-quema.qmd)
+- **Reducción del riesgo de desastres basada en ecosistemas**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd), [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Reforzamiento sísmico y estructural de edificaciones**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - De edificaciones indispensables
+- **Reglamento Colombiano de Construcciones Sismo Resistentes NSR-10**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+- **Relación Media de Daño**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Remoción en masa en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Remoción en masa por inundación**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Resiliencia**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd), [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd), [Capítulo 15](capitulo15-preparacion-de-respondedores.qmd)
+- **Resiliencia en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+  - Calificación y evaluación
+- **Respondedores de emergencias**: [Capítulo 15](capitulo15-preparacion-de-respondedores.qmd)
+  - Apoyo social
+  - Estrés postraumático
+  - Resiliencia
+- **Restauración ecológica**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Retos**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+  - Definición
+- **Riesgo en epidemiología**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Riesgo en la calidad de agua potable**: [Capítulo 1](capitulo1-calidad-agua.qmd)
+  - Amenazas
+  - Escenarios de análisis
+  - Exposición
+  - Metodologías
+  - Vulnerabilidad
+- **Riesgo en sistemas de acueducto**: [Capítulo 1](capitulo1-calidad-agua.qmd)
+- **Riesgo sísmico**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - Amenaza sísmica
+  - Disipación de energía
+  - Nivel de desempeño
+- **Rubro de contenidos**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Rubro de edificaciones**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+
+## S
+
+- **Salud ambiental**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Salud mental en situación de desastre**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Sequía**: [Capítulo 8](capitulo8-percepcion-del-riesgo.qmd)
+- **Servicios culturales**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Servicios de aprovisionamiento**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Servicios de regulación**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Servicios de soporte**: [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+- **Servicios ecosistémicos**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd), [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+  - De regulación
+  - Para la reducción del riesgo de desastres
+- **Sistema general de seguridad social**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Sistemas de acueducto**: [Capítulo 1](capitulo1-calidad-agua.qmd)
+  - Amenaza
+  - Exposición
+  - Vulnerabilidad
+- **Sistemas de control de respuesta estructural**: [Capítulo 10](capitulo10-sistema-control-riesgo-sismico.qmd)
+  - Activos, semiactivos, pasivos e híbridos
+  - Aisladores de base
+  - Aplicación
+  - Contexto internacional
+  - Definición
+  - Disipadores de energía o amortiguadores
+  - Fabricación local de dispositivos
+  - Finalidad
+- **Sistemas de información geográfica**: [Capítulo 5](capitulo5-incendios-orinoquia.qmd)
+- **Socioecosistema**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Socioecosistemas urbanos**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Soluciones basadas en la naturaleza**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd), [Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd)
+  - Análisis costo-beneficio
+  - Asentamientos urbanos vulnerables
+  - Eco-DRR
+  - Financiación de los proyectos
+  - Participación ciudadana
+  - Pliegos para contratación estatal
+  - Procesos de gobernanza inclusivos
+  - Soluciones híbridas
+  - Toma de decisiones basadas en evidencia
+- **Suelos degradados**: [Capítulo 13](capitulo13-biotratamiento-suelo-quema.qmd)
+- **Suelos quemados**: [Capítulo 13](capitulo13-biotratamiento-suelo-quema.qmd)
+  - Agregación del suelo
+  - Consolidación duplo-edométrica
+  - Corte directo
+  - Curva de retención de agua
+  - Curva granulométrica para suelos quemados
+  - Desagregación
+  - Mineralogía
+  - pH y punto de carga zero del suelo
+  - Pinhole test
+
+## T
+
+- **Taxonomía de categorías de estructuras de drenaje y estabilización de taludes en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Teledetección**: [Capítulo 5](capitulo5-incendios-orinoquia.qmd)
+- **Teledetección de áreas quemadas en la Orinoquía**: [Capítulo 5](capitulo5-incendios-orinoquia.qmd)
+- **Tipologías constructivas**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Tipologías estructurales**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Tipos de inundación lenta**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+  - Fluvial o por desbordamiento
+  - Pluvial o por encharcamiento
+- **Tsunami**: [Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd)
+  - Altura máxima
+  - Altura máxima de inundación
+  - Área de inundación
+  - Distancia de inundación
+  - Dominio computacional
+  - Escenarios sísmicos fuentes
+  - Fuente
+  - Máxima profundidad
+  - Método de simulación numérica y evaluación de la amenaza
+  - Modelo
+  - Modelo de deslizamiento interplaca
+  - Profundidad de inundación
+  - Propagación
+  - SATREPS
+  - Simulación
+
+## V
+
+- **Valor económico y población expuesta**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Valor expuesto**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Valoración de la amenaza por inundación**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Velocidad media de flujo**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Vida digna**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+  - Derecho a una vida digna
+- **Vigilancia en salud pública**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+- **Vulnerabilidad de campesinos**: [Capítulo 9](capitulo9-mirada-diferencial-comunidad.qmd)
+- **Vulnerabilidad del rubro de edificaciones**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Vulnerabilidad en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd)
+- **Vulnerabilidad física**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Vulnerabilidad física en corredores viales**: [Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd), [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+- **Vulnerabilidad frente al cambio climático**: [Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd)
+- **Vulnerabilidad psicológica**: [Capítulo 15](capitulo15-preparacion-de-respondedores.qmd)
+- **Vulnerabilidad social**: [Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd)
+
+## Z
+
+- **Zoonosis**: [Capítulo 14](capitulo14-gestion-del-riesgo-en-salud.qmd)
+
+---
+
+**Nota**: En la versión PDF del libro encontrará un índice temático completo con números de página al final del documento.

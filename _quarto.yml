@@ -13,21 +13,36 @@ book:
     - 00-01-presentacion.qmd
     - 00-02-pagina-legal.qmd
     - 00-03-4-prologo-del-libro-grd-2022.qmd
-    - capitulo1-calidad-agua.qmd
-    - capitulo2-evaluacion-amenaza-tsunami.qmd
-    - capitulo3-multiamenaza-corredores-viales.qmd
-    - capitulo4-avenidas-torrenciales-antioquia.qmd
-    - capitulo5-incendios-orinoquia.qmd
-    - capitulo6-riesgo-inundacion-mojana.qmd
-    - capitulo7-desastres-armero-mocoa.qmd
-    - capitulo8-percepcion-del-riesgo.qmd
-    - capitulo9-mirada-diferencial-comunidad.qmd
-    - capitulo10-sistema-control-riesgo-sismico.qmd
-    - capitulo11-gestion-integral-biodiversidad.qmd
-    - capitulo12-retos-eco-drr-y-sbn.qmd
-    - capitulo13-biotratamiento-suelo-quema.qmd
-    - capitulo14-gestion-del-riesgo-en-salud.qmd
-    - capitulo15-preparacion-de-respondedores.qmd
+    - text: "1: Riesgo a la calidad del agua en Bogotá"
+      href: capitulo1-calidad-agua.qmd
+    - text: "2: Amenaza por tsunami en el Pacífico colombiano"
+      href: capitulo2-evaluacion-amenaza-tsunami.qmd
+    - text: "3: Multiamenaza en corredores viales"
+      href: capitulo3-multiamenaza-corredores-viales.qmd
+    - text: "4: Avenidas torrenciales en Antioquia"
+      href: capitulo4-avenidas-torrenciales-antioquia.qmd
+    - text: "5: Incendios forestales en la Orinoquía"
+      href: capitulo5-incendios-orinoquia.qmd
+    - text: "6: Riesgo por inundación en la Mojana"
+      href: capitulo6-riesgo-inundacion-mojana.qmd
+    - text: "7: Desastres de Armero y Mocoa"
+      href: capitulo7-desastres-armero-mocoa.qmd
+    - text: "8: Percepción del riesgo de desastres"
+      href: capitulo8-percepcion-del-riesgo.qmd
+    - text: "9: Mirada diferencial para campesinos"
+      href: capitulo9-mirada-diferencial-comunidad.qmd
+    - text: "10: Control de respuesta estructural sísmica"
+      href: capitulo10-sistema-control-riesgo-sismico.qmd
+    - text: "11: Gestión integral de la biodiversidad"
+      href: capitulo11-gestion-integral-biodiversidad.qmd
+    - text: "12: Soluciones basadas en la naturaleza y DRR"
+      href: capitulo12-retos-eco-drr-y-sbn.qmd
+    - text: "13: Biomineralización de suelos residuales"
+      href: capitulo13-biotratamiento-suelo-quema.qmd
+    - text: "14: Gestión del riesgo en salud en Armenia"
+      href: capitulo14-gestion-del-riesgo-en-salud.qmd
+    - text: "15: Preparación de respondedores en el Quindío"
+      href: capitulo15-preparacion-de-respondedores.qmd
     - 99-01-7-lista-pares-revisores-lgrd-2022.qmd
     - 99-02-al-final-indice-tematico.qmd
 
