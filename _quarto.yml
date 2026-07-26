@@ -3,7 +3,8 @@ project:
   type: book
 
 book:
-  title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2023"
+  title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia. Contribuciones Locales, Regionales y Nacionales"
+  cover-image: images/libro-2023-portada.png
   repo-url: https://github.com/scr-ungrd/investigaciones-grd-2023
   repo-actions: [source, issue]
   sidebar:

@@ -1,12 +1,20 @@
 ---
-title: "Investigaciones en Gestión del Riesgo de Desastres 2023"
+title-block-banner-color: "#151550ff"
 ---
 
-Bienvenido a la colección de la serie de libros de Investigaciones en Gestión del Riesgo de Desastres para Colombia. A continuación, puede explorar los diferentes capítulos de este volúmen:
+# Inicio {.unnumbered}
 
 ::: {.d-flex .justify-content-start .mb-3}
 [← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
 :::
+
+Bienvenidos al segundo libro de la serie Investigaciones en Gestión del Riesgo de Desastres para Colombia. Este volumen reúne quince investigaciones que abordan el riesgo desde contribuciones locales, regionales y nacionales, con énfasis en la calidad del agua, las amenazas naturales y la gestión integral del riesgo en distintos territorios del país.
+
+Al igual que los demás volúmenes de la serie, este libro se publica en versión digital de acceso libre y gratuito, buscando fomentar la difusión del conocimiento y la colaboración entre investigadores, instituciones y comunidades.
+
+Sus capítulos abordan temas como amenaza por tsunami, avenidas torrenciales, incendios forestales, inundaciones en La Mojana, percepción del riesgo, biodiversidad y soluciones basadas en la naturaleza, entre otros. Agradecemos su labor en difundir este libro como espacio de reflexión y acción para la gestión del riesgo de desastres en Colombia.
+
+------------------------------------------------------------------------
 
 ::: {.grid .indice-grid}
 
