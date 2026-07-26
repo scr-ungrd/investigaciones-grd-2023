@@ -586,7 +586,7 @@ Al aplicar la metodología presentada en este capítulo son las siguientes:
 - ¿Qué tipos de obras de mitigación debería priorizar?
 :::
 
-## 1.5 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -604,7 +604,7 @@ Conceptualización: RF, MRS, ML, JSE, JCR. Curación de datos: RF, JSE, CS, IAG,
 
 Los autores agradecen en primer lugar a la Empresa de Acueducto y Alcantarillado (EAAB-ESP) por impulsar iniciativas de reducción del riesgo en el sector. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Ingeniería Ambiental (CIIA) y al Centro de Investigación en Materiales y Obras Civiles (CIMOC) de la Universidad de los Andes y a sus integrantes que participaron en el desarrollo del proyecto presentado en este capítulo. Así mismo, se hace una mención especial al Profesor Luis E. Yamin, director del CIMOC en la Universidad de los Andes por más de 30 años, quien participó activamente en la estructuración y definición metodológica del presente proyecto.
 
-## 1.8 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -630,7 +630,7 @@ Nubia León <https://orcid.org/0000-0002-1448-5825>
 
 Diego Gutiérrez <https://orcid.org/0000-0002-2716-2427>
 
-## 1.9 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

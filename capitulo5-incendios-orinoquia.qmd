@@ -282,7 +282,7 @@ El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas co
 
 Conceptualización: Daniela Torinjano, Adriana Osorio. Metodología: Daniela Torinjano, Adriana Osorio. Redacción de primera versión: Daniela Torinjano, Adriana Osorio, Alejandro Marulanda. Figuras y tablas: Daniela Torinjano, Adriana Osorio. Administración de proyecto: Adriana Osorio, Alejandro Marulanda. Búsqueda de evidencia: Daniela Torinjano, Adriana Osorio.
 
-## 5.6 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -294,7 +294,7 @@ Los autores no declaran algún tipo de conflicto de intereses.
 
 Al Tecnológico de Antioquia I.U. principal financiador del proyecto bajo la modalidad de proyectos de investigación interna y a la Universidad EAFIT quien fue el cofinanciador.
 
-## 5.8 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -304,7 +304,7 @@ Adriana Osorio Mosquera
 
 Alejandro Marulanda Tobón   
 
-## 5.9 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

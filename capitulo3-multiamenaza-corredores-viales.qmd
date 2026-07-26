@@ -336,7 +336,7 @@ Con el fin de establecer el nivel de amenaza y vulnerabilidad de los corredores 
 
 Para futuros tomadores de decisiones sugerimos se fomente la investigación y transferencia de tecnología en los siguientes campos: Estrategias para la apropiación de esta herramienta TIC por parte los usuarios, logrando el uso cotidiano en la gestión de la infraestructura vial. Es importante que los administradores viales participen desde etapas tempranas en la construcción y validación del formulario. Un proceso automatizado para cuantificar la amenaza y vulnerabilidad, que no requiera la supervisión de un experto, que permita actualizar las condiciones de entrada y cálculos de un sector previamente inspeccionado, que incluya los cambios asociados a mantenimiento y/o reposición vial, y cuyos resultados se encuentren disponibles para cualquier usuario. Ampliar el uso de la herramienta en otras regiones, para lograr identificar posibles ajustes (por ejemplo, en el vocabulario) acorde nuevos contextos físicos, ambientales y culturales. En el desarrollo de herramientas Tic tendientes a valorar amenaza y vulnerabilidad conviene: Que antes de seleccionar una herramienta tecnológica, se tenga claridad sobre las variables (cualitativas y cuantitativas), sus escalas, tipo (categóricas u ordinales), métricas y necesidad de georreferenciación, acorde con el elemento expuesto. Validar las herramientas Tic con datos reales en puntos o sectores de control, en los cuales se tenga una idea clara del resultado esperado o de la condición física del elemento expuesto y sus condiciones de amenaza y vulnerabilidad. Fortalecer la cooperación en Ciencia y Tecnología, entre instituciones de educación superior y entidades públicas, logrando reconocer por un lado el conocimiento experto que dan los años en una labor específica aun cuando esta provenga de personal sin un título profesional, así como, dar aplicación al conocimiento propio de las aulas que refleja la actualidad del estado del arte en temas complejos y emergentes.
 :::
-## 3.9 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -354,7 +354,7 @@ Conceptualización: AFR, ORA, JPLL. Metodología: AFR, ORA, SYVF, ARP. Redacció
 
 Agradecemos al INVIAS y particularmente a los administradores viales por su continuo aporte en las etapas de identificación de variables y validación del formulario inteligente, como muestra de la necesidad de crear sinergias entre el conocimiento experto acuñado por las instituciones de educación superior y las entidades públicas.
 
-## 3.12 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -368,7 +368,7 @@ Sandra Velazco 		 0000-0003-3764-0557
 
 Juan Pablo Londoño 		  
 
-## 3.13 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

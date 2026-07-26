@@ -714,7 +714,7 @@ Las plantillas propuestas para trabajo de campo, datos, y detalles completos de 
 
 La totalidad de resultados obtenidos para los casos de estudio seleccionados están en el documento *Evaluación Probabilista del Riesgto por inundación lenta en cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)* [[50]](#ref-50).
 
-## 6.16 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -730,7 +730,7 @@ Conceptualización: JCO, PAV, JAV, JDA. Metodología: JCO, PAV, JAV, JDA. Redacc
 
 Los autores agradecen en primer lugar a la Subdirección para el Conocimiento del Riesgo de la UNGRD por servir como un gestor, patrocinador y garante de la ejecución del proyecto. A su directora Lina Dorado González, y a todo el equipo de trabajo que hizo posible la ejecución de todos los componentes del proyecto. Adicionalmente, los autores agradecen a las siguientes entidades y actores que prestaron un apoyo valioso al desarrollo del proyecto: Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), Instituto Geográfico Agustín Codazzi (IGAC), Departamento Administrativo Nacional de Estadística (DANE), Universidad de Cartagena, Comités Departamentales y Municipales de Gestión del Riesgo y Líderes de Juntas de Acción Comunal. 
 
-## 6.18 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -750,7 +750,7 @@ Lina Dorado González
 
 Juan Pablo Forero Acevedo		 
 
-## 6.19 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

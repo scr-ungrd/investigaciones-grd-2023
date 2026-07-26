@@ -151,7 +151,7 @@ A todos los participantes de nuestras investigaciones, habitantes de zonas de ri
 
 Conceptualización: LAMD, OENC. Redacción de primera versión: LAMD, OENC. Escritura, revisión y edición de segunda versión: LAMD, OENC. Búsqueda de literatura: LAMD, OENC.
 
-## 8.5 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -159,13 +159,13 @@ Luz Adriana Muñoz Duque
 
 Óscar E. Navarro Carrascal
 
-## 8.6 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
 Los autores no declaran conflicto de intereses
 
-## 8.7 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

@@ -298,7 +298,7 @@ La segunda parte es el análisis de la amenaza, donde entra en consideración la
 
 Los datos, detalles de métodos adicionales y código de análisis estadístico están disponibles bajo requerimiento al correo geohazards_med@unal.edu.co.
 
-## 4.11 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -314,7 +314,7 @@ Conceptualización: EAG, FGC, MIAC. Curación de datos: FGC, MIAC. Análisis for
 
 Los autores desean agradecer al Departamento Administrativo de Gestión de Riesgos de Antioquia (DAGRAN), en especial al ingeniero Jafed Naranjo, El presente estudio fue sólo posible gracias a esta entidad quienes aportaron los recursos necesarios para los estudios de amenaza, vulnerabilidad y riesgo, que permitieron establecer el escenario de riesgo por avenidas torrenciales en el departamento de Antioquia. Los análisis realizados sobre este estudio fueron esenciales para constituir la metodología propuesta en el presente artículo.
 
-## 4.13 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -324,7 +324,7 @@ Federico Gómez Cardona      https://orcid.org/0000-0002-8525-4354
 
 María Isabel Arango Carmona https://orcid.org/0000-0001-8266-9186
 
-## 4.14 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

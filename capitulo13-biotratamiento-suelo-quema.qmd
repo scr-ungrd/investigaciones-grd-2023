@@ -222,7 +222,7 @@ La carbonatogénesis como técnica de biomineralización enfocada en el tratamie
 
 Se recomienda realizar una mayor cantidad de ensayos en diferentes tipos de suelos, que estadísticamente permita generalizar la metodología para cualquier tipo de material o mostrar posibles restricciones que puedan surgir según las características del mismo. La gran mayoría de las investigaciones actuales se asocian al estudio de los cambios en la cobertura vegetal, pero poco se ha avanzado en saberes dirigidos a analizar el impacto que pueden tener las diferentes coberturas vegetales y las diferentes intensidades de los incendios en las propiedades geotécnicas de las capas de suelo. Se aconseja profundizar en estos aspectos, buscando la reducción de los riesgos asociados a los cambios que sufre el material expuesto. Frente al desarrollo de una técnica a escala de laboratorio, se sugieren estudios que permitan a futuro reproducir a escala de campo las mismas condiciones de actuación del medio precipitador sobre el suelo afectado por incendios forestales, identificando las posibles alternativas biotecnológicas para su recuperación y mejoría de las propiedades geotécnicas del material.
 :::
-## 13.13 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -238,7 +238,7 @@ Los Autores agradecen a la Universidad Nacional de Colombia, Sede Medellín y a 
 
 Conceptualización: YVG. Metodología: YVG. Redacción de primera versión: YVG, JCC, LAL. Revisión y edición de segunda versión: YVG, JCC, LAL. Figuras y tablas: YVG, JCC. Administración de proyecto: YVG. Búsqueda de evidencia: YVG, JCC, LAL.
 
-## 13.15 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -248,7 +248,7 @@ José Camapum de Carvalho
 
 Luis Augusto Lara Valencia 		
 
-## 13.16 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

@@ -266,7 +266,7 @@ Proteger a los ecosistemas no beneficia “únicamente a la naturaleza sin seres
 
 Se propone como estrategia la comunicación de experiencias exitosas con las cuales se permee a los tomadores de decisiones y comunidad en general. Los proyectos de SbN, incluidos los de EcoDRR, deberán cumplir con estándares globales para que se les considere como una solución válida y deben adaptarse a cada realidad local-territorial (no copiando la misma SbN una y otra vez). Una opción para fomentar el desarrollo de acciones Eco-DRR y demás SbN es plantearlos como acciones adicionales en proyectos de infraestructura tradicionales. Las SbN deben verse de manera integral en el proceso de desarrollo y conservación de los sistemas sociales y naturales en todas las escalas desde el ciudadano hasta los gobernantes. La capacitación constante, directa y clara es vital para los funcionarios públicos, que generen memoria institucional en las entidades para la incorporación de aprendizajes.
 :::
-## 12.15 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -284,7 +284,7 @@ Mauricio Romero-Torres
 
 ------------------------------------------------------------------------
 
-## 12.17 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -300,7 +300,7 @@ Se agradece a todas las personas que contribuyeron a la generación de este cap�
 
 Conceptualización: CG, MR-T, LOO. Curación de datos: MAEG. Metodología: CG. Escritura, revisión y edición: CG, MR-T, LOO, MAEG, CR-V. Figuras, y tablas: CG, MR-T. Administración de proyecto: CG, MR-T.  Búsqueda de evidencia:  CG, MR-T, LOO, MAEG, CR-V.
 
-## 12.19 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

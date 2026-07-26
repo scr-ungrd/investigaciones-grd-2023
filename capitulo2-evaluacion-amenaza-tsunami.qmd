@@ -191,7 +191,7 @@ El presente estudio se enfoca en la evaluación de la amenaza por tsunami exacta
 | --- |
 | Con el fin de verificar una posible subestimación de la amenaza en Guapi, se debe considerar realizar estudios enfocados en el comportamiento de la ola de tsunami con morfología costera deltaica. El modelo de TUNAMI N2 ha sido aplicado en varios escenarios históricos a nivel mundial, sin embargo, es necesario realizar la calibración de los resultados con registros mareográficos. Para la evaluación de la amenaza por tsunami existen varios códigos de simulación, pero se recomienda utilizar la misma fuente sísmica generadora, con el fin de ser comparables los resultados. Se hace necesario la participación de las entidades gubernamentales para el desarrollo de planes de mitigación ante tsunami, con a base a los productos científicos desarrollados en este estudio.  Estudios probabilísticos para toda la costa y en detalle para cada localidad Modelos numéricos que involucren cambios topográficos por erosión y transporte de sedimentos. Estudios de recurrencia de tsunami a partir de estudios de paleotsunami. |
 
-## 2.5 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -207,7 +207,7 @@ Conceptualización: Ronald Sánchez, Paola Quintero. Metodología: Fabio Realpe,
 
 Los autores agradecen en primer lugar al Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico (CCCP) y a la Dirección General Marítima (DIMAR) por impulsar, apoyar y financiar iniciativas para gestión del riesgo por tsunamis en las costas colombianas, con el fin de aportar a la seguridad integral marítima. También al Servicio Geológico Colombiano (SGC) y a JICA por su contribución científica en el marco del proyecto SATREPS.
 
-## 2.7 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -221,7 +221,7 @@ Daniel Ruiz Figueroa            https://orcid.org/0000-0003-1304-1875
 
 Jhonatan Cristian Paz Quintero  https://orcid.org/0000-0002-4916-5063
 
-## 2.8 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

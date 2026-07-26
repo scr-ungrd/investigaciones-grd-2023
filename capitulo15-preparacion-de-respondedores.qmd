@@ -330,7 +330,7 @@ Los investigadores agradecen a los Bomberos Voluntarios del Departamento del Qui
 
 Administración del proyecto: Olga Liliana Pineda López. Supervisión: Joan Sebastián Arbeláez Caro. Conceptualización: Luz Stela Quintana Hernández. Investigación: Laura Vanessa Corrales Brand y Valentina Ospina Poveda. Redacción, revisión y edición: Carla María Zapata Rueda.
 
-## 15.11 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -346,7 +346,7 @@ Valentina Ospina Poveda
 
 Carla María Zapata Rueda 		
 
-## 15.12 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

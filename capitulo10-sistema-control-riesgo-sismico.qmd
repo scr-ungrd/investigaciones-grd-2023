@@ -328,7 +328,7 @@ Investigaciones científicas desarrolladas por los autores.
 
 Aportes de cada uno de los autores.
 
-## 10.8 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -344,7 +344,7 @@ A la Asociación de Ingeniería Sísmica, por el apoyo para el desarrollo de la 
 
 Todos los autores contribuyeron a la conceptualización y desarrollo de este proyecto.
 
-## 10.10 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -352,7 +352,7 @@ Carlos Mario Piscal Arevalo
 
 Juan Andrés Oviedo Amézquita	
 
-## 10.11 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

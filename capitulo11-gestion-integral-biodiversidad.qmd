@@ -281,7 +281,7 @@ Se seleccionaron veintisiete fuentes que brindaron conceptos para desarrollar la
 
 Para el análisis de información se estructuraron las sinergias de los temas y con base en ellos identificaron los elementos de enlace que permitían incorporar la biodiversidad y sus servicios ecosistémicos en los procesos de la gestión del riesgo (conocimiento del riesgo, reducción del riesgo y manejo de desastres) en escenarios exacerbados por cambio climático a partir del reconocimiento de resultados de los estudios de caso.
 
-## 11.5 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -293,13 +293,13 @@ La autora no declara conflicto de intereses.
 
 Agradecimiento a Paola Morales, Carolina Osorio, Elkin Noguera, Wilson Ramírez (del Instituto Humboldt), Lizardo Narváez (Banco Mundial) y Gustavo Aristizábal por sus revisiones y sugerencias para consolidar este capítulo. 
 
-## 11.7 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
 Dorotea Cardona Hernández	 
 
-## 11.8 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

@@ -197,7 +197,7 @@ La gestión del riesgo de desastres debe considerarse como una política públic
 | NECESIDADES FUTURAS Y RECOMENDACIONES Es necesario que la gestión del riesgo en Colombia incorpore un enfoque diferencial para las comunidades campesinas, con el objetivo de cumplir con el mandato constitucional del artículo 7, en virtud del cual se reconoce y protege la diversidad étnica y cultural. El primer paso a dar es la recolección de información discriminada para este grupo poblacional, que reflejé como los desastres los afectan realmente. En un segundo momento, es necesario revisar si los datos recopilados de forma discriminada frente a diferentes grupos poblacionales, inciden o no en la adopción de medidas igualmente diferenciadas. |
 | --- |
 
-## 9.7 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -207,7 +207,7 @@ Las autoras no declaran conflicto de intereses
 
 Conceptualización: SEAV, SPDQ. Metodología: SEAV, SPDQ. Redacción de primera versión: SEAV, SPDQ. Escritura. Revisión y edición de segunda versión: SEAV, SPDQ. Figuras y tablas: SEAV, SPDQ. Administración de proyecto: SEAV, SPDQ. Búsqueda de evidencia: SEAV.
 
-## 9.8 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -215,7 +215,7 @@ Sandra Eliana Alzate Vargas
 
 Sandra Patricia Duque Quintero 
 
-## 9.9 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

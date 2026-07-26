@@ -241,7 +241,7 @@ Se ha mejorado en Colombia en la política de gestión de riesgos de desastres. 
 | RECOMENDACIONES PARA LA TOMA DE DECISIONES En un país como Colombia que está expuesto a varias amenazas naturales, es importante realizar perfiles de cada uno de los riesgos, que incluyan los riesgos secundarios, como una primera etapa de mitigación. El fortalecimiento de las entidades locales, regionales y nacionales en el tema de administración de desastres es indispensable en Colombia. Sin embargo, es importante resaltar que se deben fortalecer en los cuatro componentes del ciclo de gestión de un desastre: mitigación, preparación, respuesta y recuperación. Es necesario establecer estructuras de mando que coordinen las organizaciones nacionales e internacionales, presentes después de un desastre, para facilitar las etapas de respuesta y recuperación. |
 | --- |
 
-## 7.13 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -257,7 +257,7 @@ Todos los autores contribuyeron a la conceptualización y desarrollo de este pro
 
 Agradecemos a la Universidad de La Sabana y a MINCIENCIAS por la financiación del proyecto con el código INGPHD-8-2018.
 
-## 7.15 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -267,7 +267,7 @@ Julián Alberto Espejo-Díaz
 
 William J. Guerrero			 
 
-## 7.16 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 
