@@ -8,7 +8,7 @@ author:
     affiliation: "^2^Profesor de Psicología Social y Ambiental, Universidad de Nîmes, Francia. Presidente de la Asociación Francesa de Psicología Ambiental, ARPEnv"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627294"
 crossref:
   chapters: false
 ---

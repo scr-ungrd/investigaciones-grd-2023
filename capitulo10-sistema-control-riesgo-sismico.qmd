@@ -9,7 +9,7 @@ author:
     affiliation: "^2^efe-Prima-ce Control y Diseño de estructuras SAS, Medellín, Colombia"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627330"
 crossref:
   chapters: false
 ---

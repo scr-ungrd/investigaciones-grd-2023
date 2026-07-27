@@ -18,7 +18,7 @@ author:
     affiliation: "^5^Unidad Nacional para la Gestión del Riesgo de Desastres, Subdirección para el Conocimiento del Riesgo, Bogotá, D.C., Colombia"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627380"
 crossref:
   chapters: false
 ---

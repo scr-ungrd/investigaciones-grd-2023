@@ -58,6 +58,8 @@ Guía básica de procesos editoriales, 2018, Editorial UNAL; APA 4a ed; SSF-CSE 
 
 **ISBN obra digital: 978-958-5509-27-6**
 
+DOI: <https://doi.org/10.5281/zenodo.21627192>
+
 Copyright: © Unidad Nacional para la Gestión del Riesgo de Desastres, abril de 2023. Bogotá, Colombia\
 Todos los derechos reservados. Excepto si se señala otra cosa, la licencia del ítem se describe como Atribución.
 

@@ -11,7 +11,7 @@ author:
     affiliation: ""
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627233"
 crossref:
   chapters: false
 ---

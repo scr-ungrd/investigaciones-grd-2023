@@ -10,7 +10,7 @@ author:
     affiliation: "Escuela de Ciencias, Departamento de Ciencias Físicas, Universidad EAFIT, Medellín, Colombia^2^"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627249"
 crossref:
   chapters: false
 ---

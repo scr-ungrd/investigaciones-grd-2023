@@ -29,7 +29,7 @@ author:
     affiliation: "^9^Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Bogotá, D.C., Colombia"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627275"
 crossref:
   chapters: false
 ---

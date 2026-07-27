@@ -6,7 +6,7 @@ author:
     affiliation: "^1^Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Programa de Gestión Territorial de la Biodiversidad, Bogotá, D.C, Colombia"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627338"
 crossref:
   chapters: false
 ---

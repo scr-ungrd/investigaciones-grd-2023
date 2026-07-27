@@ -14,7 +14,7 @@ La Salle."
     affiliation: ""
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627226"
 crossref:
   chapters: false
 ---

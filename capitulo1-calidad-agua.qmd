@@ -32,7 +32,7 @@ author:
     affiliation: "^7^Empresa de Acueducto y Alcantarillado de Bogotá EAAB-ESP, Dirección Ingeniería Especializada. Bogotá, D.C., Colombia"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627206"
 crossref:
   chapters: false
 ---

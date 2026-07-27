@@ -5,7 +5,7 @@ author:
     affiliation: "^1^Programa de Medicina. Facultad de Ciencias de la Salud. Universidad del Quindío, Armenia, Colombia"
 title-block-banner: "images/banner_2023.png"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627420"
 crossref:
   chapters: false
 ---
