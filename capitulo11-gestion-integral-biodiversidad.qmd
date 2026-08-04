@@ -38,7 +38,15 @@ Los riesgos de desastre asociados al cambio climático han aumentado sin precede
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Definiciones Biodiversidad y servicios ecosistémicos: definida como la variabilidad de organismos vivos de cualquier fuente (terrestres, acuáticos y marinos) y los complejos ecológicos de los que forman parte (composición, estructura y función). Comprenden la diversidad de cada especie, entre las especies y de los ecosistemas. En cuanto a los servicios ecosistémicos se refieren a los beneficios directos e indirectos que la humanidad recibe de la biodiversidad y que son el resultado de la interacción entre los diferentes componentes, estructuras y funciones que constituyen la biodiversidad [[1]](#ref-1). Riesgo de desastres: corresponde a los daños o pérdidas potenciales que pueden presentarse debido a los eventos físicos peligrosos de origen natural, socio-natural tecnológico, biosanitario o humano no intencional, en un período de tiempo específico y que son determinados por la vulnerabilidad de los elementos expuestos; por consiguiente, el riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad [[3]](#ref-3). Cambio climático: cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables [[4]](#ref-4). Soluciones basadas en la naturaleza: enfoque sombrilla que agrupa acciones estratégicas para proteger, gestionar y restaurar los ecosistemas naturales o modificados, con el fin de abordar los desafíos de la sociedad como (i) mitigación y adaptación al cambio climático, (ii) reducción del riesgo de desastres, (iii) desarrollo económico y social, (iv) salud humana,  (v) seguridad alimentaria, (vi) seguridad hídrica, y (vii) degradación ambiental y pérdida de la biodiversidad de manera eficiente y adaptativa en pro del bienestar humano y los beneficios para la biodiversidad [[5]](#ref-5).
+**Caja 1. Definiciones**
+
+**Biodiversidad y servicios ecosistémicos:** definida como la variabilidad de organismos vivos de cualquier fuente (terrestres, acuáticos y marinos) y los complejos ecológicos de los que forman parte (composición, estructura y función). Comprenden la diversidad de cada especie, entre las especies y de los ecosistemas. En cuanto a los servicios ecosistémicos se refieren a los beneficios directos e indirectos que la humanidad recibe de la biodiversidad y que son el resultado de la interacción entre los diferentes componentes, estructuras y funciones que constituyen la biodiversidad [[1]](#ref-1).
+
+**Riesgo de desastres:** corresponde a los daños o pérdidas potenciales que pueden presentarse debido a los eventos físicos peligrosos de origen natural, socio-natural tecnológico, biosanitario o humano no intencional, en un período de tiempo específico y que son determinados por la vulnerabilidad de los elementos expuestos; por consiguiente, el riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad [[3]](#ref-3).
+
+**Cambio climático:** cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables [[4]](#ref-4).
+
+**Soluciones basadas en la naturaleza:** enfoque sombrilla que agrupa acciones estratégicas para proteger, gestionar y restaurar los ecosistemas naturales o modificados, con el fin de abordar los desafíos de la sociedad como (i) mitigación y adaptación al cambio climático, (ii) reducción del riesgo de desastres, (iii) desarrollo económico y social, (iv) salud humana,  (v) seguridad alimentaria, (vi) seguridad hídrica, y (vii) degradación ambiental y pérdida de la biodiversidad de manera eficiente y adaptativa en pro del bienestar humano y los beneficios para la biodiversidad [[5]](#ref-5).
 :::
 
 Las SbN se apoyan en los ecosistemas naturales y transformados y los servicios que estos proveen para responder a diversas problemáticas como el riesgo de desastres, el cambio climático y la pérdida y deterioro de la biodiversidad [[5]](#ref-5); lo que conforma su papel triple propósito.
@@ -47,7 +55,13 @@ Para articular estos temas, se identifican elementos en común, partiendo de las
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Alcances de convenios internacionales  Convenio Marco de Diversidad Biológica: busca reducir las presiones directas sobre la diversidad biológica y salvaguardar los ecosistemas para aumentar los beneficios para la población, al mejorar su aplicación e incorporación en los hábitos gubernamentales [[6]](#ref-6).  Marco de Sendai: en ruta la reducción del riesgo y el aumento de la resiliencia de las naciones y las comunidades ante los desastres, resaltando la necesidad de comprender mejor el riesgo de desastres en todas sus dimensiones relativas a la exposición, vulnerabilidad y características de las amenazas [[7]](#ref-7).  Convenio Marco de Naciones Unidas sobre Cambio Climático: asiente que los ecosistemas se adapten naturalmente al cambio climático, asegurar que la producción de alimentos no se vea amenazada y permitir que el desarrollo económico prosiga de manera sostenible [[8]](#ref-8).
+**Caja 2. Alcances de convenios internacionales**
+
+**Convenio Marco de Diversidad Biológica:** busca reducir las presiones directas sobre la diversidad biológica y salvaguardar los ecosistemas para aumentar los beneficios para la población, al mejorar su aplicación e incorporación en los hábitos gubernamentales [[6]](#ref-6).
+
+**Marco de Sendai:** en ruta la reducción del riesgo y el aumento de la resiliencia de las naciones y las comunidades ante los desastres, resaltando la necesidad de comprender mejor el riesgo de desastres en todas sus dimensiones relativas a la exposición, vulnerabilidad y características de las amenazas [[7]](#ref-7).
+
+**Convenio Marco de Naciones Unidas sobre Cambio Climático:** asiente que los ecosistemas se adapten naturalmente al cambio climático, asegurar que la producción de alimentos no se vea amenazada y permitir que el desarrollo económico prosiga de manera sostenible [[8]](#ref-8).
 :::
 
 La Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos (PNGIBSE) busca maximizar el bienestar humano a través de la planificación, ejecución y monitoreo de las acciones para la conservación de la biodiversidad y sus servicios ecosistémicos tomando como base la resiliencia de los sistemas socio ecológicos a diferentes escalas [[1]](#ref-1). 
@@ -70,7 +84,11 @@ La biodiversidad y sus servicios ecosistémicos como expresión concreta en el t
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 3.** Socioecosistema y conflictos socioecológicos Socioecosistema: integración de la biodiversidad y sus servicios ecosistémicos como soporte del desarrollo social, cultural y económico [[1]](#ref-1).  Conflictos socioecológicos: también se conocen como conflictos socioambientales, y se refieren a las interacciones negativas que resultan de la apropiación social sobre la biodiversidad y sus servicios ecosistémicos generando su deterioro [[1]](#ref-1). Parte de estos conflictos socioecológicos son los escenarios de riesgo de desastre, que en algunos casos se exacerban por el cambio climático.
+**Caja 3. Socioecosistema y conflictos socioecológicos**
+
+**Socioecosistema:** integración de la biodiversidad y sus servicios ecosistémicos como soporte del desarrollo social, cultural y económico [[1]](#ref-1).
+
+**Conflictos socioecológicos:** también se conocen como conflictos socioambientales, y se refieren a las interacciones negativas que resultan de la apropiación social sobre la biodiversidad y sus servicios ecosistémicos generando su deterioro [[1]](#ref-1). Parte de estos conflictos socioecológicos son los escenarios de riesgo de desastre, que en algunos casos se exacerban por el cambio climático.
 :::
 
 Las diversas actividades humanas han generado la transformación de los ecosistemas, ocasionando pérdida de biodiversidad [[1]](#ref-1) y promoviendo nuevos escenarios de riesgo de desastres. Algunos de estos escenarios se asocian a condiciones hidroclimatológicas exacerbadas por el cambio climático que son cada vez más frecuentes e intensas, aumentando con ellas los conflictos socioecológicos [[12]](#ref-12).
@@ -97,7 +115,13 @@ La vulnerabilidad desde la dimensión ambiental se refiere a la explotación ina
 
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 4.** Motores de transformación y pérdida de la biodiversidad  Cambios de uso del territorio (continental o acuático). Sobreexplotación de ecosistemas nativos y agroecosistemas. Invasiones biológicas.  Contaminación.  Cambio climático.
+**Caja 4. Motores de transformación y pérdida de la biodiversidad**
+
+-   Cambios de uso del territorio (continental o acuático).
+-   Sobreexplotación de ecosistemas nativos y agroecosistemas.
+-   Invasiones biológicas.
+-   Contaminación.
+-   Cambio climático.
 :::
 
 Si bien algunos eventos naturales como las inundaciones y deslizamientos se identifican como disturbios inherentes a las dinámicas de transformación y precursores de adaptación de los socioecosistemas [[1]](#ref-1), las nuevas condiciones asociadas al cambio climático que influyen en la variación de la precipitación pueden afectar de manera puntual un ecosistema dado. También estas nuevas condiciones pueden afectar las capacidades de un ecosistema para soportar una perturbación y estabilizarse (resiliencia), mientras que otros son incapaces de resistir la severidad del disturbio, el cual transforma las características de los ecosistemas, cambiando su composición, estructura y función drásticamente [[16]](#ref-16).
@@ -156,7 +180,11 @@ Renaud et al. [[19]](#ref-19) refieren el papel de la biodiversidad y sus servic
 
 
 ::: {#box5 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 6.** Mitigación y adaptación frente al cambio climático Mitigación del cambio climático: se refiere a las acciones que buscan reducir las emisiones de gases efecto invernadero en la atmósfera [[20]](#ref-20).   Adaptación frente al cambio climático: relaciona los cambios en los procesos, prácticas y estructuras para moderar los daños potenciales o para beneficiarse de las oportunidades asociadas con el cambio climático en los sistemas ecológicos, sociales o económicos [[21]](#ref-21).
+**Caja 5. Mitigación y adaptación frente al cambio climático**
+
+**Mitigación del cambio climático:** se refiere a las acciones que buscan reducir las emisiones de gases efecto invernadero en la atmósfera [[20]](#ref-20).
+
+**Adaptación frente al cambio climático:** relaciona los cambios en los procesos, prácticas y estructuras para moderar los daños potenciales o para beneficiarse de las oportunidades asociadas con el cambio climático en los sistemas ecológicos, sociales o económicos [[21]](#ref-21).
 :::
 
 No obstante, los conceptos de reducción del riesgo de desastres basada en ecosistemas (EcoRRD) y adaptación basada en ecosistemas (AbE) se desarrollan de manera independiente para cada uno de sus objetivos. El primero frente al riesgo de desastres y el segundo frente a los impactos del cambio climático, pero se articulan en la búsqueda de soluciones desde gestión, conservación y restauración de los ecosistemas. 
@@ -167,7 +195,21 @@ Los escenarios de riesgo como las inundaciones, los deslizamientos o las sequía
 
 
 ::: {#box6 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 7.** Servicios ecosistémicos de regulación  Se relacionan con aquellas contribuciones indirectas al bienestar humano provenientes del funcionamiento de los ecosistemas [[23]](#ref-23), a las cuales rara vez en la sociedad se les reconoce un valor económico [[24]](#ref-24). Los autores [[25]](#ref-25) consideran que los SE de regulación disminuyen con el aumento de la intensidad de uso, debido al agotamiento de los ecosistemas que los proveen.  Los SE de regulación relacionados son: Regulación de la calidad del aire  Regulación climática (incluyendo la captura de carbono)  Regulación de riesgos naturales  Regulación de los flujos de agua  Tratamiento de desechos Prevención de la erosión  Mantenimiento de la fertilidad del suelo  Polinización  Control biológico
+**Caja 6. Servicios ecosistémicos de regulación**
+
+Se relacionan con aquellas contribuciones indirectas al bienestar humano provenientes del funcionamiento de los ecosistemas [[23]](#ref-23), a las cuales rara vez en la sociedad se les reconoce un valor económico [[24]](#ref-24). Los autores [[25]](#ref-25) consideran que los SE de regulación disminuyen con el aumento de la intensidad de uso, debido al agotamiento de los ecosistemas que los proveen.
+
+Los SE de regulación relacionados son:
+
+-   Regulación de la calidad del aire
+-   Regulación climática (incluyendo la captura de carbono)
+-   Regulación de riesgos naturales
+-   Regulación de los flujos de agua
+-   Tratamiento de desechos
+-   Prevención de la erosión
+-   Mantenimiento de la fertilidad del suelo
+-   Polinización
+-   Control biológico
 :::
 
 De los servicios ecosistémicos, se resalta el de regulación ya que actúan como controles estratégicos para reducir los escenarios de riesgo e impactos exacerbados por el cambio climático, incluidos los efectos colaterales que pueden consolidar riesgos de origen tecnológico. Esta relación se muestra en la @fig-c11-4.

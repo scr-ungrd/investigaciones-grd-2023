@@ -54,8 +54,11 @@ Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso 
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1. Conceptos clave.** * **Teledetección:** La Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material [[14]](#ref-14).
-* **Teledetección óptica:** También conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores [[14]](#ref-14). Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura [[15]](#ref-15).
+**Caja 1. Conceptos clave**
+
+**Teledetección:** La Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material [[14]](#ref-14).
+
+**Teledetección óptica:** También conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores [[14]](#ref-14). Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura [[15]](#ref-15).
 :::
 
 ## 5.2 DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA

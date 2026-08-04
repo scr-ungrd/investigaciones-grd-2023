@@ -44,7 +44,9 @@ El actual capítulo tiene como objetivo presentar una propuesta para restablecer
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Biomineralización   La biomineralización es un proceso común en la naturaleza, mediante el cual los organismos vivos forman precipitados minerales cristalinos o amorfos.  Dicho proceso ocurre por reacciones químicas entre iones específicos o compuestos como resultado de las actividades metabólicas de un organismo en ciertas condiciones ambientales. La carbonatogénesis es un ejemplo de biomineralización en el cual se produce la precipitación de carbonatos como se presenta en la ecuación 1: Ca+ 2 (cálcio) + CO3- 2 (carbonato) ↔ CaCO3 (carbonato de cálcio)		Ec. 1
+**Caja 1. Biomineralización**
+
+La biomineralización es un proceso común en la naturaleza, mediante el cual los organismos vivos forman precipitados minerales cristalinos o amorfos. Dicho proceso ocurre por reacciones químicas entre iones específicos o compuestos como resultado de las actividades metabólicas de un organismo en ciertas condiciones ambientales. La carbonatogénesis es un ejemplo de biomineralización en el cual se produce la precipitación de carbonatos como se presenta en la ecuación 1: Ca+ 2 (cálcio) + CO3- 2 (carbonato) ↔ CaCO3 (carbonato de cálcio)		Ec. 1
 :::
 
 ## 13.2 MÉTODOS

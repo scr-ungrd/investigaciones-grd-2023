@@ -44,7 +44,9 @@ Es necesario precisar, que la población campesina está inmersa tanto en la pob
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Encuesta de calidad de vida (ECV) La ECV es una operación estadística que el Departamento Administrativo Nacional de Estadística (DANE) realiza con el objeto de recoger información sobre diferentes aspectos y dimensiones del bienestar y las condiciones de vida de los hogares, incluyendo temas como el acceso a bienes y servicios públicos, privados o comunales, salud, educación, atención integral de niños y niñas menores de 5 años, entre otros. La consideración de estos aspectos hace posible realizar posteriores análisis a los factores que explican los diferentes niveles de vida existentes en la sociedad. La ECV es, además, la fuente de información del cálculo del Índice de Pobreza Multidimensional (IPM) [[3]](#ref-3).
+**Caja 1. Encuesta de calidad de vida (ECV)**
+
+La ECV es una operación estadística que el Departamento Administrativo Nacional de Estadística (DANE) realiza con el objeto de recoger información sobre diferentes aspectos y dimensiones del bienestar y las condiciones de vida de los hogares, incluyendo temas como el acceso a bienes y servicios públicos, privados o comunales, salud, educación, atención integral de niños y niñas menores de 5 años, entre otros. La consideración de estos aspectos hace posible realizar posteriores análisis a los factores que explican los diferentes niveles de vida existentes en la sociedad. La ECV es, además, la fuente de información del cálculo del Índice de Pobreza Multidimensional (IPM) [[3]](#ref-3).
 :::
 
 Los índices de pobreza multidimensional de los hogares campesinos encontrados por el DANE [[2]](#ref-2) como analfabetismo 18%, bajo logro educativo 70.4%, desempleo de larga duración 11.5%, trabajo informal 86.7%, y hacinamiento crítico 8.9% develan la existencia de condiciones de vulnerabilidad y de vulneración de los campesinos en Colombia. Los datos confirman que los campesinos en Colombia son una población poco abordada desde la mirada de la gestión del riesgo de desastres, siendo un grupo social que ocupa sectores rurales que los hacen vulnerables a mayores consecuencias en el momento de la ocurrencia de un desastre. Este desconocimiento hace que esta población pueda ser excluida y marginada cuando se realizan las políticas públicas [[4]](#ref-4) (ver @fig-c9-1).
@@ -55,7 +57,14 @@ Se reconoce que la situación de vulnerabilidad y exclusión de los campesinos h
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Derecho a una vida digna de los campesinos en Colombia desde una noción aspiracional  La dignidad de la vida es un concepto amplio que incluye elementos de dignidad humana como no sufrir tratos crueles o degradantes, de calidad de vida como tener acceso a una vivienda o al agua potable, y elementos aspiracionales propios de la capacidad de los seres humanos de soñar con un mundo mejor. La noción aspiracional de vida digna para los campesinos tiene cuatro elementos [[4]](#ref-4):  La aspiración al reconocimiento político de los campesinos y campesinas, que implica la aceptación de la validez de la economía campesina como modelo alternativo de desarrollo.  La aspiración a que se respete la vida y los derechos humanos.  La aspiración a formas de interacción social y económica solidarias centradas en la cooperación y el respeto, más que en la competencia.  La aspiración a un relacionamiento más armónico con la naturaleza.
+**Caja 2. Derecho a una vida digna de los campesinos en Colombia desde una noción aspiracional**
+
+La dignidad de la vida es un concepto amplio que incluye elementos de dignidad humana como no sufrir tratos crueles o degradantes, de calidad de vida como tener acceso a una vivienda o al agua potable, y elementos aspiracionales propios de la capacidad de los seres humanos de soñar con un mundo mejor. La noción aspiracional de vida digna para los campesinos tiene cuatro elementos [[4]](#ref-4):
+
+-   La aspiración al reconocimiento político de los campesinos y campesinas, que implica la aceptación de la validez de la economía campesina como modelo alternativo de desarrollo.
+-   La aspiración a que se respete la vida y los derechos humanos.
+-   La aspiración a formas de interacción social y económica solidarias centradas en la cooperación y el respeto, más que en la competencia.
+-   La aspiración a un relacionamiento más armónico con la naturaleza.
 :::
 
 En Colombia, el 84.7% de la población y el 86.6% de los activos, habitan o se localizan en áreas expuestas a dos o más amenazas naturales [[5]](#ref-5). Según datos del Sistema de Inventario de Desastres (DesInventar) [[7]](#ref-7), durante 2017 se presentaron 2,972 eventos, que reportaron 610 muertos, 1,234 heridos, 109 desaparecidos, 1,568 casas destruidas y 30,899 casas afectadas. Datos más recientes indican que entre el 16 de marzo y el 6 de abril de 2022, se produjeron 202 eventos meteorológicos en 131 municipios de 17 departamentos del país. En total 9,100 personas resultaron afectadas, 14 personas murieron y 28 resultaron heridas. En cuanto a los daños, 1,151 viviendas resultaron afectadas y 39 fueron destruidas. [[8]](#ref-8). Los datos indican altos índices de riesgo y amenaza [[9]](#ref-9), lo que asociado a las condiciones de alta marginalidad de los campesinos contribuye a incrementar su vulnerabilidad y la de sus bienes aumentando los impactos y el potencial destructor de estos eventos. 
@@ -120,7 +129,32 @@ El campesino hoy se nombra como un sujeto global que lucha por su identidad, por
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 3.** Elementos para la conceptualización del campesino El Instituto Colombiano de Antropología e Historia (ICANH) elaboró un documento técnico con los elementos para la conceptualización de lo campesino dirigido a su inclusión como sujetos diferenciados en el Censo del DANE. Dichos elementos son [[32]](#ref-32): Dimensión socio-territorial. - Relación estrecha con la tierra. - Formas de posesión de la tierra asociativas y vecinales. - Vinculación con la naturaleza. Dimensión socio-cultural. - Autoreconocimiento individual, familiar y comunitario como campesinos. - Formas de vida campesinas. Dimensión Político-productiva. - Trabajo con la tierra: recolectores, cultivadores, pescadores y criadores. - Productores de alimentos, de valores de uso y de materias primas. - Sujeto económicamente multiactivo. - Autoconsumo. Dimensión organizativo-política. - Sujeto participativo. - Autoafirmación como campesino.
+**Caja 3. Elementos para la conceptualización del campesino**
+
+El Instituto Colombiano de Antropología e Historia (ICANH) elaboró un documento técnico con los elementos para la conceptualización de lo campesino dirigido a su inclusión como sujetos diferenciados en el Censo del DANE. Dichos elementos son [[32]](#ref-32):
+
+**Dimensión socio-territorial.**
+
+-   Relación estrecha con la tierra.
+-   Formas de posesión de la tierra asociativas y vecinales.
+-   Vinculación con la naturaleza.
+
+**Dimensión socio-cultural.**
+
+-   Autoreconocimiento individual, familiar y comunitario como campesinos.
+-   Formas de vida campesinas.
+
+**Dimensión Político-productiva.**
+
+-   Trabajo con la tierra: recolectores, cultivadores, pescadores y criadores.
+-   Productores de alimentos, de valores de uso y de materias primas.
+-   Sujeto económicamente multiactivo.
+-   Autoconsumo.
+
+**Dimensión organizativo-política.**
+
+-   Sujeto participativo.
+-   Autoafirmación como campesino.
 :::
 
 Es importante reiterar que la población campesina ha estado sumida en unas condiciones de pobreza, desigualdad social, abandono del Estado y de la sociedad, que han llevado a que en muchas ocasiones el concepto campesino se asocie con el concepto de pobreza; es decir, que campesino-pobreza se consideren como sinónimos o incluso que la pobreza se perciba como una característica identificadora del campesino [[17]](#ref-17), [[33]](#ref-33), [[30]](#ref-30). 
@@ -133,7 +167,9 @@ Frente a los campesinos, la Constitución Política se limita a identificar la p
 
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 4.** Derechos económicos, sociales y culturales Los derechos económicos, sociales y culturales pueden definirse como los derechos que nacen de la dignidad humana y son, por ende, inherentes a la persona humana. Por tanto, son derechos directamente relacionados con la protección de las necesidades y capacidades que garantizan una calidad de vida [[35]](#ref-35). En la Constitución de 1991 se consagran principalmente en el Capítulo 2 del Título II, artículos 42 a 77.
+**Caja 4. Derechos económicos, sociales y culturales**
+
+Los derechos económicos, sociales y culturales pueden definirse como los derechos que nacen de la dignidad humana y son, por ende, inherentes a la persona humana. Por tanto, son derechos directamente relacionados con la protección de las necesidades y capacidades que garantizan una calidad de vida [[35]](#ref-35). En la Constitución de 1991 se consagran principalmente en el Capítulo 2 del Título II, artículos 42 a 77.
 :::
 
 A diferencia de los grupos étnicos, los sectores campesinos mestizos tienen que apelar a su inclusión en las lista de desplazados o su vinculación como guardabosques para acceder a los beneficios de las políticas sociales focalizadas [[36]](#ref-36), así que en un contexto de desmantelamiento de la política agraria, de pobreza y desempleo rural, el ingreso a la categoría de población vulnerable frente a la violencia es una nueva estrategia de rebusque económico y de inclusión política y social usada por los campesinos. Sin embargo, el uso de esta estrategia se puede objetar por cuanto está asociada a los fenómenos de violencia que ha sufrido el país, lo que se constituye en una forma de re-victimización [[37]](#ref-37). Además, esta estrategia no reconoce la identidad campesina, dejando por fuera a quienes no pueden hacer uso de la misma, por no tratarse de víctimas directas de la violencia, es decir un buen número de ellos. Si bien, la categoría campesino se invisibiliza permanentemente en las políticas públicas, ésta sigue siendo vigente como categoría cultural y como un referente de autodefinición [[38]](#ref-38).

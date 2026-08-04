@@ -1,0 +1,181 @@
+# Glosarios {.unnumbered}
+
+Esta página reúne, en orden alfabético, los términos y conceptos definidos en las cajas de glosario y definiciones de los distintos capítulos del libro. Cuando un mismo término se define en más de un capítulo, se presentan todas sus definiciones por separado, cada una con el capítulo de origen entre paréntesis.
+
+---
+
+## A
+
+**Adaptación:** comprende el ajuste de los sistemas naturales o humanos a los estímulos climáticos actuales o esperados o a sus efectos, con el fin de moderar perjuicios o explotar oportunidades beneficiosas. En el caso de los eventos hidrometeorológicos la adaptación al cambio climático corresponde a la gestión del riesgo de desastres en la medida en que está encaminada a la reducción de la vulnerabilidad o al mejoramiento de la resiliencia en respuesta a los cambios observados o esperados del clima y su variabilidad. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Adaptación basada en ecosistemas (AbE):** es el uso de la biodiversidad y servicios ecosistémicos como parte de una estrategia para ayudar a las personas a adaptarse a los efectos adversos del cambio climático. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Adaptación frente al cambio climático:** relaciona los cambios en los procesos, prácticas y estructuras para moderar los daños potenciales o para beneficiarse de las oportunidades asociadas con el cambio climático en los sistemas ecológicos, sociales o económicos. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Afrontamiento:** capacidad de enfrentar una situación estresante mediante patrones conductuales, emocionales y cognitivos. ([Capítulo 15](capitulo15-preparacion-de-respondedores.qmd))
+
+**Altura máxima de inundación:** máxima elevación alcanzada por el agua del mar medida en relación con un datum dado como el nivel medio del agua o el nivel del agua en el momento de la llegada del tsunami en una distancia de inundación específica. Es la suma de la profundidad o altura máxima de la columna del agua y la altitud topográfica local en ese sitio en específico. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**Altura máxima de tsunami:** máxima elevación alcanzada por el agua del mar medida en relación con un datum dado como el nivel medio del agua o el nivel del agua en el momento de la llegada del tsunami en la costa. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**Análisis y evaluación de riesgo:** implica la consideración de las causas y fuentes del riesgo, sus consecuencias y la probabilidad de que dichas consecuencias puedan ocurrir. Es el modelo mediante el cual se relaciona la amenaza y la vulnerabilidad de los elementos expuestos, con el fin de determinar los posibles efectos sociales, económicos y ambientales y sus probabilidades. Se estima el valor de los daños y las pérdidas potenciales, y se compara con criterios de seguridad establecidos, con el propósito de definir tipos de intervención y alcance de la reducción del riesgo y preparación para la respuesta y recuperación. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Área de inundación:** zona inundada por el tsunami. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**Avenida torrencial:** flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo. ([Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd))
+
+## B
+
+**Biodiversidad y servicios ecosistémicos:** definida como la variabilidad de organismos vivos de cualquier fuente (terrestres, acuáticos y marinos) y los complejos ecológicos de los que forman parte (composición, estructura y función). Comprenden la diversidad de cada especie, entre las especies y de los ecosistemas. En cuanto a los servicios ecosistémicos se refieren a los beneficios directos e indirectos que la humanidad recibe de la biodiversidad y que son el resultado de la interacción entre los diferentes componentes, estructuras y funciones que constituyen la biodiversidad. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Bomberos voluntarios de Colombia:** Asociación de voluntarios de emergencias y desastres articulada mediante la Ley 1575 de 2012. ([Capítulo 15](capitulo15-preparacion-de-respondedores.qmd))
+
+## C
+
+**Cambio climático:** cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Conflictos socioecológicos:** también se conocen como conflictos socioambientales, y se refieren a las interacciones negativas que resultan de la apropiación social sobre la biodiversidad y sus servicios ecosistémicos generando su deterioro. Parte de estos conflictos socioecológicos son los escenarios de riesgo de desastre, que en algunos casos se exacerban por el cambio climático. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Construcción social del riesgo:** se refiere a los procesos a través de los cuales la sociedad y los distintos agentes sociales contribuyen a la creación de contextos y entornos de riesgo. Esto ocurre o por la transformación de eventos naturales en amenazas debido a la inadecuada ubicación de edificaciones e infraestructuras, producción y satisfactores de la vida etc.; por la transformación de recursos naturales en amenazas a través de procesos de degradación ambiental; o por la creación y consolidación de condiciones diversas de vulnerabilidad, las cuales potencian la acción negativa de las amenazas y eventos peligrosos. Algunos autores también ven en el proceso de percepción y subjetivización del riesgo, un proceso de "construcción social" del riesgo. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Convolución:** formalmente, es un operador matemático que se define como la integral del producto de dos funciones. En otros términos, se puede entender como un procedimiento que permite hallar la distribución de probabilidad de la operación entre dos funciones. Para el caso particular de la evaluación del riesgo, las dos funciones corresponden a las variables aleatorias que describen la amenaza y la vulnerabilidad de un elemento expuesto. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Creciente súbita:** flujo torrencial de dos fases generadas por eventos de lluvia cortos e intensos en cuencas montañosas. Estos eventos se reconocen por períodos de retorno cortos, caudales máximos altos, más no extremos, y baja concentración de sedimentos, principalmente finos y arenas. ([Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd))
+
+**Curva de excedencia de pérdidas (CEP):** curva que especifica las frecuencias, usualmente anuales, con que ocurrirán eventos en el futuro que excedan un valor determinado de pérdidas para un portafolio de elementos expuestos analizado. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+## D
+
+**Distancia de inundación:** la distancia horizontal en tierra a la que penetra la ola de un tsunami, normalmente medida de forma perpendicular a la costa. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+## E
+
+**Elemento expuesto:** se refiere a personas, medios de subsistencia, servicios ambientales, recursos económicos, sociales, bienes culturales, infraestructura que por su localización pueden ser afectados por la manifestación de una amenaza. La correcta definición del elemento expuesto ya sea la infraestructura, la comunidad o el servicio, es clave para establecer las características que aportan a su vulnerabilidad. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+**Evaluación probabilista de riesgo (EPR):** valoración de las consecuencias negativas (usualmente pérdida de vidas, daños económicos, daños de infraestructura, entre otros) que pueden ocurrir producto de la ocurrencia de eventos de amenazas (de origen natural, tecnológico, antrópico, entre otros) sobre un conjunto de elementos expuestos (p. ej. población, infraestructura vial, medios de sustento, etc.). La metodología de EPR evalúa las condiciones existentes de vulnerabilidad de los elementos expuestos ante los eventos de amenaza, involucrando la incertidumbre en el proceso de análisis. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Evento:** formalmente se conoce como un subconjunto del espacio muestral. Específicamente, corresponde a cualquier subconjunto que contenga varios puntos de muestreo, los cuales hacen referencia a cada posible resultado presente en el espacio muestral. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+## F
+
+**FIRMS (Sistema de Información sobre Incendios para Gestión de Recursos):** sistema de la NASA que proporciona datos de incendios activos (incluida una ubicación aproximada de un punto de acceso detectado) de los instrumentos MODIS y VIIRS las 24 horas del día, los 7 días de la semana a cualquier persona, en cualquier parte del mundo. Las detecciones de incendios activos globales se pueden ver de forma interactiva haciendo uso de la aplicación FIRMS Fire Map. ([Capítulo 5](capitulo5-incendios-orinoquia.qmd))
+
+**Flujo de escombros canalizado:** flujo torrencial con altas concentraciones de sedimentos que se comporta como un fluido no newtoniano de una sola fase. Se generan con eventos de precipitación particularmente intensos que detonan enjambres de deslizamientos en las laderas, los cuales aumentan considerablemente la concentración de sedimentos y el poder erosivo y destructivo del flujo. ([Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd))
+
+**Fluvial o por desbordamiento:** se produce cuando el nivel de agua de un río, lago o arroyo sube y se desborda sobre las orillas, costas o terreno aledaño (llanura de inundación). ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Focos de calor:** anomalías térmicas localizadas a partir de imágenes satelitales las cuales son asociadas a incendios. En la espacialización de los datos de temperatura de la zona de estudio, se plasman como un valor de temperatura elevado en comparación con los pixeles o valores colindantes, activando los umbrales establecidos en el algoritmo. El evento que ocasiona que se active el segmento, puede ser un incendio, una quema agrícola, fuegos industriales, volcanes activos u otros. ([Capítulo 5](capitulo5-incendios-orinoquia.qmd))
+
+**Fragilidad y/o susceptibilidad:** es el grado de afectación de un elemento frente a un fenómeno amenazante de origen natural, antrópico no intencional, se puede definir también como la mayor o menor predisposición de un elemento a sufrir daños ocasionados por un evento que suceda u ocurra sobre un determinado espacio geográfico. En el caso de la infraestructura, permite diferenciar entre una afectación temporal que no compromete su funcionalidad y una afectación que obliga a la reposición de la obra. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+**Fuente de tsunami:** punto o área de origen del tsunami. Normalmente, es el lugar en el que un terremoto, erupción volcánica o movimientos en masa han causado un rápido desplazamiento de agua a gran escala dando origen a las ondas del tsunami. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**Función de Distribución de Probabilidad (FDP):** función y expresión matemática que determina la probabilidad para cada uno de los valores que una determinada variable aleatoria puede tomar. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Función de vulnerabilidad:** relaciona cada intensidad del tirante hídrico con el valor esperado del daño y su correspondiente desviación estándar. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+## G
+
+**Gobernanza del riesgo de desastres:** sistema de instituciones, mecanismos, políticas y marcos legales y otros mecanismos diseñados para guiar, coordinar y supervisar la gestión del riesgo de desastres y áreas relacionadas con políticas públicas y privadas. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Google Earth Engine (GEE):** es una plataforma en la nube para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño. Actualmente posibilita el acceso a petabytes de datos de imágenes satelitales en la nube para su análisis a escala planetaria. El panel central facilita a los usuarios escribir su código en JavaScript. GEE procesa los códigos escritos e ilustra los resultados como imágenes en el panel Mapa o como mensajes en la pestaña Consola. ([Capítulo 5](capitulo5-incendios-orinoquia.qmd))
+
+## I
+
+**Inundación:** el glosario de términos del reporte SREX del Panel Intergubernamental de Cambio Climático (IPCC) define las inundaciones como el desbordamiento de los confines normales de un arroyo u otro cuerpo de agua, o la acumulación de agua sobre zonas que normalmente no están sumergidas. Las inundaciones incluyen las inundaciones fluviales, las inundaciones repentinas, las inundaciones urbanas, las inundaciones pluviales, las inundaciones de alcantarillado, las inundaciones costeras y las inundaciones por desbordamiento de lagos glaciares. Particularmente, el caso de inundaciones lentas hace referencia a eventos que se producen sobre terrenos planos que desaguan muy lentamente (en un rango de semanas o meses), cercanos a las riberas de los ríos o en zonas de planicie donde hay alta pluviosidad. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Inundación de escombros:** flujo torrencial de dos fases generado por un evento de lluvia intenso que aumenta el caudal de la cuenca súbitamente y poder de erosión. Esto genera que el flujo remueva los sedimentos del lecho del canal, además de crear pequeños colapsos de sus orillas capaz de movilizar bloques de roca. ([Capítulo 4](capitulo4-avenidas-torrenciales-antioquia.qmd))
+
+**Inundaciones en ciudades:** las poblaciones que no cuentan con efectivos sistemas de alcantarillado o canales de desagües y aquellas cuya superficie es plana o algo cóncava (como un valle) pueden sufrir inundaciones como efecto directo de las lluvias, independientemente de las inundaciones producidas por desbordamiento de ríos y quebradas. Condición cada vez más común como consecuencia del cambio climático y del crecimiento de las áreas urbanas, como ocurre en la ciudad de Bogotá. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+**Inundaciones lentas o en la llanura:** se producen sobre terrenos planos que desaguan muy lentamente, cercanos a las riberas de los ríos o donde las lluvias son frecuentes o torrenciales. Muchas de ellas son producto del comportamiento normal de los ríos, es decir, de su régimen de aguas, ya que es habitual que en invierno aumente la cantidad de agua inundando los terrenos cercanos como playones o llanuras, como lo ocurrido en la vía Bogotá-Chía en 2011. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+**Inundaciones repentinas:** se producen por la presencia de grandes cantidades de agua en muy corto tiempo. Son frecuentes en ríos de zonas montañosas con bastante pendiente, y muchas veces se producen a causa de fuertes aguaceros sobre los terrenos débiles o sin vegetación, y el represamiento de las aguas por rocas, vegetación, y demás materiales que han caído sobre el río. Ejemplo de ello el evento del 6 de mayo de 2021 en Medellín. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+## M
+
+**Mitigación del cambio climático:** se refiere a las acciones que buscan reducir las emisiones de gases efecto invernadero en la atmósfera. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Modelo de tsunami:** descripciones matemáticas que intentan detallar el tsunami observado y sus efectos. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**MODIS (Espectro radiómetro de imágenes de resolución moderada):** es un sensor a bordo de los satélites AQUA y TERRA diseñado para observaciones de la tierra, atmósfera, océano y criósfera. Contiene 36 bandas espectrales y adquiere datos en tres resoluciones espaciales: 250 m, 500 m y 1 km. Este sensor detecta las radiaciones infrarrojas emitidas por los incendios, permitiendo su ubicación, así como la dirección de propagación del incendio a una resolución espacial de 1 km. ([Capítulo 5](capitulo5-incendios-orinoquia.qmd))
+
+## P
+
+**Pérdida:** cantidad asociada a una gran incertidumbre, proveniente de diversas fuentes y de los componentes de análisis de amenaza y vulnerabilidad. Por tanto, es una cantidad de la cual no se puede conocer su valor con exactitud o certeza y, por ende, es tratada como una variable aleatoria descrita por una distribución de probabilidad, condicionada a la ocurrencia de un evento. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Pérdida Anual Esperada (PAE):** corresponde al valor de pérdida esperado en un lapso anual para un portafolio de elementos expuestos específico. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Pérdida Máxima Probable (PML):** hace referencia a un valor de pérdida que ocurre con muy baja frecuencia, es decir, que se encuentra asociada a un período de retorno muy largo, o alternativamente, a una tasa de excedencia muy baja. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Período de retorno:** también conocido como el período o intervalo de recurrencia. Puede ser definido como la probabilidad temporal que se mide en años. Específicamente mide el tiempo medio que transcurre entre eventos independientes. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Pluvial o por encharcamiento:** ocurre cuando un evento de lluvia extrema crea una inundación independiente de una masa de agua desbordada. Las inundaciones pluviales pueden producirse en cualquier lugar, ya sea urbano o rural, incluso en zonas sin cuerpos de agua en las proximidades. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Prima Pura de Riesgo (PPR):** indicador típico en el sector asegurador para caracterizar el riesgo de un portafolio de elementos expuestos. Es obtenido a partir de la relación entre la PAE y el valor físico expuesto total para un elemento, o grupo de elementos analizados. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Profundidad de inundación:** es la profundidad o altura de la columna de agua medida desde la altitud de la topografía local en un sitio. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**Propagación de los tsunamis:** los tsunamis viajan desde su área de generación en todas direcciones. La dirección principal de la propagación de la energía es generalmente perpendicular a la dirección de la zona de fractura del terremoto. Su velocidad depende de la profundidad del agua. Las ondas sufren aceleraciones y desaceleraciones cuando pasan sobre el fondo del océano que tiene una profundidad variable. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+## R
+
+**Realización:** una realización de un experimento aleatorio es el resultado de una repetición de esa experiencia, condicionada por unos parámetros y funciones determinadas con anterioridad. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Reducción del riesgo de desastres basada en ecosistemas (Eco-DRR):** se refiere a la gestión sostenible, conservación y restauración de ecosistemas para reducir el riesgo de desastres, con el objetivo de lograr un desarrollo resiliente. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Relación Media de Daño (RMD):** porcentaje de afectación expresado en términos de valor de reposición o reparación del daño causado a un elemento expuesto, normalizado con respecto al valor expuesto total del elemento. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Resiliencia:** la capacidad de un sistema, comunidad o sociedad expuestos a una amenaza para resistir, absorber, adaptarse y recuperarse de sus efectos de manera oportuna y eficaz, lo que incluye la preservación y la restauración de sus estructuras y funciones básicas. Introduce un conjunto de cualidades que fomentan un proceso de adaptación exitosa y de transformación, a pesar de los riesgos y la propia adversidad, otorgando un carácter dinámico a la gestión del riesgo de desastres. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+**Resiliencia:** la capacidad de un sistema, comunidad o sociedad expuestos a una amenaza para resistir, absorber, adaptarse y recuperarse de sus efectos de manera oportuna y eficaz, lo que incluye la preservación y la restauración de sus estructuras y funciones básicas. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Resiliencia:** capacidad de retorno al estado previo a una situación de estrés. ([Capítulo 15](capitulo15-preparacion-de-respondedores.qmd))
+
+**Reto:** metas ambiciosas, motivadoras, alcanzables y casi siempre multidisciplinares que conllevan avances en la práctica pública y profesional. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Riesgo de desastres:** corresponde a los daños o pérdidas potenciales que pueden presentarse debido a los eventos físicos peligrosos de origen natural, socio-natural tecnológico, biosanitario o humano no intencional, en un período de tiempo específico y que son determinados por la vulnerabilidad de los elementos expuestos; por consiguiente, el riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Rubro:** conjuga las posibles categorías constituyentes de un elemento expuesto particular. Para estos lineamientos, hace referencia a los componentes de dicho elemento, específicamente los contenidos y la edificación. Para la EPR por inundación se propone el análisis separado de los rubros de contenidos y edificación, generando una función de vulnerabilidad única para cada uno de ellos, para cada tipología estructural. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+## S
+
+**Servicios culturales:** se relacionan con procesos de recreación, de contemplación e inspiración, así como religiosos. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Servicios de aprovisionamiento:** como el agua, la comida, la madera, aquellos que se pueden tomar directamente de los ecosistemas. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Servicios de regulación:** donde el sistema natural aporta en la regulación de condiciones climáticas, de inundaciones, de calidad del agua, de la dispersión y movilidad de enfermedades. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Servicios de soporte:** como la generación y mantenimiento de suelos, proceso de fotosíntesis, ciclaje de nutrientes. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Servicios ecosistémicos:** constituyen los beneficios que las personas obtienen a partir de los ecosistemas, basado en la interacción y proceso entre los elementos naturales, y que contribuyen a la percepción de bienestar. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+**Simulación de tsunami:** modelo numérico de generación, propagación e inundación de un tsunami. ([Capítulo 2](capitulo2-evaluacion-amenaza-tsunami.qmd))
+
+**Socioecosistema:** integración de la biodiversidad y sus servicios ecosistémicos como soporte del desarrollo social, cultural y económico. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Soluciones basadas en la naturaleza:** enfoque sombrilla que agrupa acciones estratégicas para proteger, gestionar y restaurar los ecosistemas naturales o modificados, con el fin de abordar los desafíos de la sociedad como (i) mitigación y adaptación al cambio climático, (ii) reducción del riesgo de desastres, (iii) desarrollo económico y social, (iv) salud humana, (v) seguridad alimentaria, (vi) seguridad hídrica, y (vii) degradación ambiental y pérdida de la biodiversidad de manera eficiente y adaptativa en pro del bienestar humano y los beneficios para la biodiversidad. ([Capítulo 11](capitulo11-gestion-integral-biodiversidad.qmd))
+
+**Soluciones basadas en la naturaleza:** acciones para proteger, gestionar de forma sostenible, y restaurar los ecosistemas naturales o modificados, que abordan los desafíos sociales de manera efectiva y adaptativa, proporcionando simultáneamente beneficios para el bienestar humano y la biodiversidad. ([Capítulo 12](capitulo12-retos-eco-drr-y-sbn.qmd))
+
+## T
+
+**Teledetección:** la Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material. ([Capítulo 5](capitulo5-incendios-orinoquia.qmd))
+
+**Teledetección óptica:** también conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores. Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura. ([Capítulo 5](capitulo5-incendios-orinoquia.qmd))
+
+**Tenencia:** posesión de un enser o contenido individual (se define como tiene o no tiene); esta información se obtiene en las encuestas de campo para cada contenido en cada edificación. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Tipología estructural:** combinación de un conjunto de propiedades estructurales que describen a un edificio. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Tirante hídrico:** magnitud también conocida como calado o altura o profundidad de inundación en una zona particular. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+## V
+
+**Velocidad media de flujo:** magnitud que representa la velocidad promedio (usualmente al 40% de la profundidad del cauce) en un punto de análisis. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Vulnerabilidad:** susceptibilidad o fragilidad física, social, ambiental, económica o institucional que tiene una comunidad de ser afectada o sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición de sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que puedan afectarse. De esta manera la sociedad y los elementos expuestos dejan de concebirse como un factor pasivo en la formación del riesgo, logrando incluso anticiparse, resistir y recuperarse a los impactos de un evento amenazante. ([Capítulo 3](capitulo3-multiamenaza-corredores-viales.qmd))
+
+**Vulnerabilidad:** susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de ser afectada o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que pueden ser afectados por eventos físicos peligrosos. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))
+
+**Vulnerabilidad social:** es una función de la capacidad de prever, enfrentar, y recuperarse de eventos críticos que implica la pérdida de activos materiales o inmateriales. Una persona puede ser más o menos vulnerable ante la ocurrencia de eventos críticos externos dependiendo de cómo el individuo administre sus activos tangibles e intangibles, y cómo estos pueden verse afectados ante la ocurrencia de un desastre. La vulnerabilidad social entonces, va más allá de la afectación de estructuras físicas, e incluye las diferentes características y capacidades de los individuos. ([Capítulo 6](capitulo6-riesgo-inundacion-mojana.qmd))

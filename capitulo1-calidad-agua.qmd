@@ -195,7 +195,12 @@ De esta manera una amenaza muy alta (Extrema = 5) con una vulnerabilidad muy alt
 Este indicador de riesgo puede utilizarse para priorizar los eventos y los componentes que generan el mayor impacto en el sistema teniendo en cuenta simultáneamente su frecuencia esperada de ocurrencia. Esto sirve para definir las prioridades para desarrollar estudios más detallado de evaluación de impacto y a partir de estos implementar opciones de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua. Es importante aclarar que el objetivo de este estudio no es realizar la caracterización detallada de cada posible modo de falla, sino poder entender la matriz de riesgos que afecta el sistema y a partir de esto lograr priorizar los más riesgos más críticos y lograr mitigarlos.
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Resumen de los casos que pueden ocurrir: \* Evento natural con impacto en la infraestructura y luego en la calidad \* Evento natural con impacto en la calidad directamente sin afectar la infraestructura \* Evento antrópico con afectación a infraestructura y en la calidad \* Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura
+**Caja 1. Resumen de los casos que pueden ocurrir**
+
+-   Evento natural con impacto en la infraestructura y luego en la calidad
+-   Evento natural con impacto en la calidad directamente sin afectar la infraestructura
+-   Evento antrópico con afectación a infraestructura y en la calidad
+-   Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura
 :::
 
 ## 1.3 CASO DE ESTUDIO: BOGOTÁ

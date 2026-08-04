@@ -59,7 +59,9 @@ Este análisis corresponde al resultado del primer estudio a nivel departamental
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1. Glosario\*** **Avenida torrencial:** flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo. 
+**Caja 1. Glosario\***
+
+**Avenida torrencial:** flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo.
 
 **Creciente súbita:** flujo torrencial de dos fases generadas por eventos de lluvia cortos e intensos en cuencas montañosas. Estos eventos se reconocen por períodos de retorno cortos, caudales máximos altos, más no extremos, y baja concentración de sedimentos, principalmente finos y arenas. 
 
@@ -95,7 +97,7 @@ El análisis se realiza en tres pasos principales: el primero es el análisis de
 ------------------------------------------------------------------------
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Susceptibilidad a avenida torrencial
+**Caja 2. Susceptibilidad a avenida torrencial**
 
 La susceptibilidad a avenida torrencial pretende contestar dos preguntas:
 
@@ -125,7 +127,7 @@ Cuencas con regímenes torrenciales y presencia de regolitos grueso granulares s
 ------------------------------------------------------------------------
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 3.** Amenaza por avenida torrencial 
+**Caja 3. Amenaza por avenida torrencial**
 
 La amenaza por avenida torrencial en una cuenca está dada por la magnitud de un posible evento, y por la probabilidad temporal de un evento de lluvia que lo desencadene. 
 

@@ -59,7 +59,13 @@ Las instituciones voluntarias reúnen a personas cuya motivación es un factor d
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Glosario.  Bomberos voluntarios de Colombia: Asociación de voluntarios de emergencias y desastres articulada mediante la Ley 1575 de 2012.  Resiliencia: capacidad de retorno al estado previo a una situación de estrés.  Afrontamiento: capacidad de enfrentar una situación estresante mediante patrones conductuales, emocionales y cognitivos.
+**Caja 1. Glosario**
+
+**Bomberos voluntarios de Colombia:** Asociación de voluntarios de emergencias y desastres articulada mediante la Ley 1575 de 2012.
+
+**Resiliencia:** capacidad de retorno al estado previo a una situación de estrés.
+
+**Afrontamiento:** capacidad de enfrentar una situación estresante mediante patrones conductuales, emocionales y cognitivos.
 :::
 
 Desde los modelos de indagación empírica se ha establecido que la motivación que lleva a la persona a convertirse en un voluntario implica cuatro necesidades que se desprenden de la establecidas en la teoría de la autodeterminación: realización como persona, altruismo (gregarismo), aceptación social y adaptación económica [[6]](#ref-6)-[[8]](#ref-8). No sólo el ser voluntario responde a necesidades psicológicas, sino que también responde a cuestiones sociales de fondo como intereses económicos y políticos [[9]](#ref-9). 
@@ -68,7 +74,17 @@ Sin embargo, son Latané y Darley [[10]](#ref-10) quienes proponen que la estruc
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Normativa en Colombia sobre voluntarios y respondedores de emergencias.  Ley 1523 de 2021: marco general para la gestión de riesgo de desastres.  Resolución 927 de 2017: Por la cual se reglamenta el desarrollo y operación del Sistema de Emergencias Médicas. Ley 1575 de 2012: Bomberos Colombia. Ley 852 de 2003: Cruz roja de Colombia. Decreto 2068 de 1984: defensa civil.
+**Caja 2. Normativa en Colombia sobre voluntarios y respondedores de emergencias**
+
+**Ley 1523 de 2021:** marco general para la gestión de riesgo de desastres.
+
+**Resolución 927 de 2017:** Por la cual se reglamenta el desarrollo y operación del Sistema de Emergencias Médicas.
+
+**Ley 1575 de 2012:** Bomberos Colombia.
+
+**Ley 852 de 2003:** Cruz roja de Colombia.
+
+**Decreto 2068 de 1984:** defensa civil.
 :::
 
 La importancia de los bomberos es imperativa en Colombia. Para el año 2019, según estadísticas de la Unidad Administrativa Especial de Bomberos [[14]](#ref-14) se atendieron 37,976 emergencias, siendo la más recurrente la atención prehospitalaria (7,677 casos), los accidentes de tránsito (5,504 casos), y la categoría “otros” (4,955 casos). Los departamentos en donde más solicitaron los bomberos voluntarios fueron Valle del Cauca (10,177 casos) y Antioquia (9,845 casos), específicamente el departamento del Quindío reportó 322 emergencias que requirieron a los bomberos. Una de las problemáticas más atendidas en Colombia desde la prevención, mitigación y atención fueron los incendios forestales. El departamento del Meta fue el que mayor requirió la asistencia de los bomberos con 241 casos. 
@@ -305,12 +321,19 @@ Como conclusión del estudio, a partir del análisis jerárquico de la relación
 ::: {#puntos-clave .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
 
-Los Bomberos en Colombia se distribuyen en tres grupos: voluntarios, oficiales y aeronáuticos  La formación para la práctica bomberil en cualquiera de las labores bomberiles no incluye la preparación psicológica.  La psicología orientada al riesgo de desastres incluye la formación de los voluntarios de emergencias.  La resiliencia y el afrontamiento son dos variables implicadas en la atención de emergencias sin alterar la salud mental del voluntario.  El apoyo social es la estrategia en la que mayoritariamente influyen factores personales del sujeto, además el factor de resiliencia que mayormente es predicha por las estrategias de afrontamiento es sentirse bien.  La formación psicológica para los bomberos debería incluir la dimensión psicológica.
+- Los Bomberos en Colombia se distribuyen en tres grupos: voluntarios, oficiales y aeronáuticos.
+- La formación para la práctica bomberil en cualquiera de las labores bomberiles no incluye la preparación psicológica.
+- La psicología orientada al riesgo de desastres incluye la formación de los voluntarios de emergencias.
+- La resiliencia y el afrontamiento son dos variables implicadas en la atención de emergencias sin alterar la salud mental del voluntario.
+- El apoyo social es la estrategia en la que mayoritariamente influyen factores personales del sujeto, además el factor de resiliencia que mayormente es predicha por las estrategias de afrontamiento es sentirse bien.
+- La formación psicológica para los bomberos debería incluir la dimensión psicológica.
 :::
 ::: {#recomendaciones .callout-important style="background-color: #f8dedcff; border-left: 4px solid #fad4d1ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Recomendaciones para tomar decisiones</h2>
 
-El desarrollo de la labor bomberil implica una exposición a situaciones de impacto emocional que pueden derivar en factores de riesgo de orden psicológico como desregulación del estado emocional individual, patrones de comportamiento desadaptativo y valoraciones cognitivas.  La normativa actual es muy débil en la atención de la dimensión psicológica de los bomberos.  La estrategia de atención psicológica puede derivar en la formulación de una tarea entre la academia y las instituciones de respondedores.
+- El desarrollo de la labor bomberil implica una exposición a situaciones de impacto emocional que pueden derivar en factores de riesgo de orden psicológico como desregulación del estado emocional individual, patrones de comportamiento desadaptativo y valoraciones cognitivas.
+- La normativa actual es muy débil en la atención de la dimensión psicológica de los bomberos.
+- La estrategia de atención psicológica puede derivar en la formulación de una tarea entre la academia y las instituciones de respondedores.
 :::
 ## 15.8 CONFLICTO DE INTERÉS
 

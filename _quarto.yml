@@ -44,6 +44,7 @@ book:
       href: capitulo14-gestion-del-riesgo-en-salud.qmd
     - text: "15: Preparación de respondedores en el Quindío"
       href: capitulo15-preparacion-de-respondedores.qmd
+    - glosarios.qmd
     - 99-01-7-lista-pares-revisores-lgrd-2022.qmd
     - 99-02-al-final-indice-tematico.qmd
 
