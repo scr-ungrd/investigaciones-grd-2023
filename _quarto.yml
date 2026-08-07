@@ -9,6 +9,12 @@ book:
   repo-actions: [source, issue]
   sidebar:
     logo: media/UNGRD-Horizontal.png
+    tools:
+      - icon: diagram-3-fill
+        href: "https://scr-ungrd.github.io/hub/"
+        aria-label: "HUB SCR — portal de proyectos"
+        target: _blank
+        rel: noopener noreferrer
   chapters:
     - index.qmd
     - 00-01-presentacion.qmd
